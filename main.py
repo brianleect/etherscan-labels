@@ -2,6 +2,7 @@ from selenium import webdriver
 import pandas as pd
 import json
 import time
+import os.path
 
 driver = webdriver.Chrome()
 with open('config.json', 'r') as f:
@@ -37,7 +38,7 @@ def getLabel(label,type='single'):
     df.fillna('', inplace=True)  # Replace NaN as empty string
 
     # Prints length and save as a csv
-    print('Df length:', len(df.index))
+    print(label,'Df length:', len(df.index))
     df.to_csv('data/{}.csv'.format(label))
 
     # Save as json object with mapping address:nameTag
@@ -71,6 +72,9 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
+        if (os.path.exists('data/{}.csv'.format(label))):
+            print(label,'already exists skipping.')
+            continue
         getLabel(label,'all')
         time.sleep(5) # Give 5s interval to prevent RL
 
