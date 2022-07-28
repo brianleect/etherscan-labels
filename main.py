@@ -28,7 +28,11 @@ def getLabel(label,type='single'):
         print('Index:', index)
         driver.get(baseUrl.format(label, index))
         driver.implicitly_wait(5)
-        newTable = pd.read_html(driver.page_source)[0]
+        try:
+            newTable = pd.read_html(driver.page_source)[0]
+        except ImportError:
+            print(label,"Skipping label due to error")
+            return
         table_list.append(newTable[:-1])  # Remove last item which is just sum
         index += 100
         if (len(newTable.index) != 101):
