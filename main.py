@@ -1,6 +1,7 @@
 from selenium import webdriver
 import pandas as pd
 import json
+import time
 
 driver = webdriver.Chrome()
 with open('config.json', 'r') as f:
@@ -17,9 +18,8 @@ def login():
 
     input("Press enter once logged in")
 
-
-# Retrieve label information and saves to 
-def getLabel(label):
+# Retrieve label information and saves as JSON/CSV
+def getLabel(label,type='single'):
     baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid=0&size=100&start={}'
     index = 0  # Initialize start index at 0
     table_list = []
@@ -46,14 +46,38 @@ def getLabel(label):
     with open('data/{}.json'.format(label), 'w', encoding='utf-8') as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
-    endOrContinue = input(
-        'Type "exit" end to end or "label" of interest to continue')
-    if (endOrContinue == 'exit'):
-        driver.close()
-    else:
-        getLabel(endOrContinue)
+    if (type=='single'):
+        endOrContinue = input(
+            'Type "exit" end to end or "label" of interest to continue')
+        if (endOrContinue == 'exit'):
+            driver.close()
+        else:
+            getLabel(endOrContinue)
 
+# Retrieves all labels from labelcloud and saves as JSON/CSV
+def getAllLabels():
+    driver.get('https://etherscan.io/labelcloud')
+    driver.implicitly_wait(5)
+
+    elems = driver.find_elements_by_xpath("//a[@href]")
+    labels = []
+    labelIndex = len('https://etherscan.io/accounts/label/')
+    for elem in elems:
+        href = elem.get_attribute("href")
+        if (href.startswith('https://etherscan.io/accounts/label/')):
+            labels.append(href[labelIndex:])
+
+    print(labels)
+    print('L:', len(labels))
+
+    for label in labels:
+        getLabel(label,'all')
+        time.sleep(5) # Give 5s interval to prevent RL
 
 login()
-startInput = input('Enter label of interest: ')
-getLabel(startInput)
+retrievalType = input('Enter retrieval type (single/all): ')
+if (retrievalType=='all'):
+    getAllLabels()
+else:
+    singleLabel = input('Enter label of interest: ')
+    getLabel(singleLabel)
