@@ -2,7 +2,8 @@
 
 Scrapes labels from etherscan website and stores into JSON/CSV.
 
-[Label Data dump](https://github.com/brianleect/etherscan-labels/tree/main/data)
+[Individual Labels (CSV+JSON)](https://github.com/brianleect/etherscan-labels/tree/main/data)
+
 [Combined Labels JSON](https://github.com/brianleect/etherscan-labels/blob/main/data/combinedLabels.json)
 
 ## Setup
