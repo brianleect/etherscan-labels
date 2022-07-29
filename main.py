@@ -4,10 +4,6 @@ import json
 import time
 import os.path
 
-driver = webdriver.Chrome()
-with open('config.json', 'r') as f:
-    config = json.load(f)
-
 # Login to etherscan and auto fill login information if available
 def login():
     driver.get('https://etherscan.io/login')
@@ -19,8 +15,9 @@ def login():
 
     input("Press enter once logged in")
 
+
 # Retrieve label information and saves as JSON/CSV
-def getLabel(label,type='single'):
+def getLabel(label, type='single'):
     baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid=0&size=100&start={}'
     index = 0  # Initialize start index at 0
     table_list = []
@@ -31,7 +28,7 @@ def getLabel(label,type='single'):
         try:
             newTable = pd.read_html(driver.page_source)[0]
         except ImportError:
-            print(label,"Skipping label due to error")
+            print(label, "Skipping label due to error")
             return
         table_list.append(newTable[:-1])  # Remove last item which is just sum
         index += 100
@@ -42,7 +39,7 @@ def getLabel(label,type='single'):
     df.fillna('', inplace=True)  # Replace NaN as empty string
 
     # Prints length and save as a csv
-    print(label,'Df length:', len(df.index))
+    print(label, 'Df length:', len(df.index))
     df.to_csv('data/{}.csv'.format(label))
 
     # Save as json object with mapping address:nameTag
@@ -51,13 +48,14 @@ def getLabel(label,type='single'):
     with open('data/{}.json'.format(label), 'w', encoding='utf-8') as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
-    if (type=='single'):
+    if (type == 'single'):
         endOrContinue = input(
             'Type "exit" end to end or "label" of interest to continue')
         if (endOrContinue == 'exit'):
             driver.close()
         else:
             getLabel(endOrContinue)
+
 
 # Retrieves all labels from labelcloud and saves as JSON/CSV
 def getAllLabels():
@@ -77,14 +75,23 @@ def getAllLabels():
 
     for label in labels:
         if (os.path.exists('data/{}.csv'.format(label))):
-            print(label,'already exists skipping.')
+            print(label, 'already exists skipping.')
             continue
-        getLabel(label,'all')
-        time.sleep(5) # Give 5s interval to prevent RL
+        elif label in ignore_list:
+            print(label,'ignored due to large size and irrelevance')
+            continue
+        getLabel(label, 'all')
+        time.sleep(5)  # Give 5s interval to prevent RL
+
+
+ignore_list = ['eth2-depositor', 'gnosis-safe-multisig']
+with open('config.json', 'r') as f:
+    config = json.load(f)
+driver = webdriver.Chrome()
 
 login()
 retrievalType = input('Enter retrieval type (single/all): ')
-if (retrievalType=='all'):
+if (retrievalType == 'all'):
     getAllLabels()
 else:
     singleLabel = input('Enter label of interest: ')
