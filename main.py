@@ -68,9 +68,8 @@ def combineAllJson():
                 dictData = json.load(f)
                 for address, nameTag in dictData.items():
                     if address not in combinedJSON:
-                        combinedJSON[address] = []
-                    combinedJSON[address].append(
-                        nameTag+' ({})'.format(files[:-5]))
+                        combinedJSON[address] = {'name':nameTag,'labels':[]}
+                    combinedJSON[address]['labels'].append(files[:-5])
         else:
             continue
 
