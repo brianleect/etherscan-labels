@@ -18,7 +18,7 @@ def login():
 
 # Retrieve label information and saves as JSON/CSV
 def getLabel(label, type='single'):
-    baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid=0&size=100&start={}'
+    baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid=undefined&size=100&start={}'
     index = 0  # Initialize start index at 0
     table_list = []
     while (True):
@@ -74,11 +74,11 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
-        if (os.path.exists('data/{}.csv'.format(label))):
+        if (os.path.exists('data/{}.json'.format(label))):
             print(label, 'already exists skipping.')
             continue
         elif label in ignore_list:
-            print(label,'ignored due to large size and irrelevance')
+            print(label, 'ignored due to large size and irrelevance')
             continue
         getLabel(label, 'all')
         time.sleep(5)  # Give 5s interval to prevent RL
