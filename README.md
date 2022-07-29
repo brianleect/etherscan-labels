@@ -6,6 +6,7 @@ Scrapes labels from etherscan website and stores into JSON/CSV.
 
 ## Setup
 1. On the command-line, run the command `pip install -r requirements.txt` while located at folder with code.
+1. (Required) Setup selenium by [downloading relevant drivers and adding to path](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
 1. (Optional) Add ETHERSCAN_USER and ETHERSCAN_PASS to `sample.config.json` and rename to `config.json`
 1. Run the script with the command `python main.py`.
 1. Login to your etherscan account (Prevents popup/missing data)
