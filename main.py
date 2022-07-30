@@ -73,7 +73,7 @@ def combineAllJson():
         else:
             continue
 
-    with open('data/combinedLabels.json', 'w', encoding='utf-8') as f:
+    with open('combined/combinedLabels.json', 'w', encoding='utf-8') as f:
         json.dump(combinedJSON, f, ensure_ascii=True)
 
 # Retrieves all labels from labelcloud and saves as JSON/CSV
@@ -105,8 +105,8 @@ def getAllLabels():
     # Proceed to combine all addresses into single JSON after retrieving all.
     combineAllJson()
 
-
-ignore_list = ['eth2-depositor', 'gnosis-safe-multisig']
+# Large size: Eth2/gnsos , Bugged: Liqui , NoData: Remaining labels
+ignore_list = ['eth2-depositor', 'gnosis-safe-multisig','liqui.io','education','electronics','flashbots','media','music','network','prediction-market','real-estate','vpn']
 with open('config.json', 'r') as f:
     config = json.load(f)
 driver = webdriver.Chrome()
