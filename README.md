@@ -4,7 +4,7 @@ Scrapes labels from etherscan website and stores into JSON/CSV.
 
 [Individual Labels (CSV+JSON)](https://github.com/brianleect/etherscan-labels/tree/main/data)
 
-[Combined Labels JSON](https://github.com/brianleect/etherscan-labels/blob/main/data/combinedLabels.json)
+[Combined Labels JSON](https://github.com/brianleect/etherscan-labels/blob/main/combined/combinedLabels.json)
 
 ## Setup
 1. On the command-line, run the command `pip install -r requirements.txt` while located at folder with code.
