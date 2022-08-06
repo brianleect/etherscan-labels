@@ -13,7 +13,8 @@ Scrapes labels from etherscan website and stores into JSON/CSV.
 1. Run the script with the command `python main.py`.
 1. Login to your etherscan account (Prevents popup/missing data)
 1. Press enter in CLI once logged in
-1. Proceed to enter either "single" or "all" depending on whether you wish to retrieve a specific label or ALL
-1. If 'single': Follow up with the specific label e.g. 'exchange' , 'bridge' ....
-1. If 'all': Simply let it run (Take about ~1h+ to retrieve all)
-1. JSON and CSV data is dumped into data folder.
+1. Proceed to enter either `single` (Retrieve specific label) or `all` (Retrieve ALL labels)
+1. If `single`: Follow up with the specific label e.g. `exchange` , `bridge` ....
+1. If `all`: Simply let it run (Take about ~1h+ to retrieve all, note that it occassionally crashes as well)
+1. Individual JSON and CSV data is dumped into `data` subfolder. 
+1. Consolidated JSON label info is dumped into `combined` subfolder.
