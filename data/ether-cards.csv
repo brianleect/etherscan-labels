@@ -1,7 +1,7 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x329542c7df6a5a59f278c68bd6318bbc82d93192,Ether Cards: Deployer,3.55260385 Ether,759
-1,0xd25f03bdc4727b43bf09ace9cf25c5dea21d1532,Ether Cards: Deployer 2,0.88244862 Ether,131
-2,0xcf01e438e6bc82653a65273f215ae5e5d19b1b33,Ether Cards: DUST Allocator,0 Ether,1210
-3,0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0,Ether Cards: DUST Token,0 Ether,1892
-4,0x97ca7fe0b0288f5eb85f386fed876618fb9b8ab8,Ether Cards: ECF Token,0 Ether,6697
-5,0xcc45a0765e4fcfe174ae6ba7c4f20e1fa3bedb4d,Ether Cards: Extra DUST Allocator,0 Ether,829
+0,0x329542c7df6a5a59f278c68bd6318bbc82d93192,Ether Cards: Deployer,1.88590162 ETH,854
+1,0xd25f03bdc4727b43bf09ace9cf25c5dea21d1532,Ether Cards: Deployer 2,0.99160625 ETH,174
+2,0xcf01e438e6bc82653a65273f215ae5e5d19b1b33,Ether Cards: DUST Allocator,0 ETH,1300
+3,0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0,Ether Cards: DUST Token,0 ETH,2583
+4,0x97ca7fe0b0288f5eb85f386fed876618fb9b8ab8,Ether Cards: ECF Token,0 ETH,7222
+5,0xcc45a0765e4fcfe174ae6ba7c4f20e1fa3bedb4d,Ether Cards: Extra DUST Allocator,0 ETH,904

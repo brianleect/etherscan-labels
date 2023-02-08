@@ -1,16 +1,16 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x042065416c5c665dc196076745326af3cd840d15,Optimism: Fraud Verifier,0 Ether,1
-1,0x99c9fc46f92e8a1c0dec1b1747d010903e884be1,Optimism: Gateway,"116,446.69163234 Ether",209617
-2,0xde1fcfb0851916ca5101820a69b13a4e276bd81f,Optimism: Lib Address Manager,0 Ether,21
-3,0xcd76de5c57004d47d0216ec7dabd3c72d8c49057,Optimism: Mock OVM Bond Manager,0 Ether,1
-4,0x4bf681894abec828b212c906082b444ceb2f6cf6,Optimism: OVM Canonical Transaction Chain,0 Ether,23404
-5,0x3ea1a3839d8ca9a7ff3c567a9f36f4c4dbecc3ee,Optimism: OVM Chain Storage Container CTC Batches,0 Ether,1
-6,0xa0b912b3ea71a04065ff82d3936d518ed6e38039,Optimism: OVM Chain Storage Container CTC Queue,0 Ether,1
-7,0x77ebfdfcc906ddcda0c42b866f26a8d5a2bb0572,Optimism: OVM Chain Storage Container SCC Batches,0 Ether,1
-8,0x2745c24822f542bbffb41c6cb20edf766b5619f5,Optimism: OVM Execution Manager,0 Ether,1
-9,0xf26391fbb1f77481f80a7d646ac08ba3817ea891,Optimism: OVM L1 Multi Message Relayer,0 Ether,6
-10,0xfe1f9cf28ecdb12110aa8086e6fd343ea06035cc,Optimism: OVM Safety Checker,0 Ether,1
-11,0xe969c2724d2448f1d1a6189d3e2aa1f37d5998c1,Optimism: OVM State Commitment Chain,0 Ether,4521
-12,0xd0e3e318154716bd9d007e1e6b021eab246ff98d,Optimism: OVM State Manager Factory,0 Ether,1
-13,0x38a6ed6fd76035684cadef38cf49a2fffa782b67,Optimism: OVM State Transitioner Factory,0 Ether,1
-14,0x25ace71c97b33cc4729cf772ae268934f7ab5fa1,Optimism: Proxy OVM L1 Cross Domain Messenger,0 Ether,12008
+0,0x042065416c5c665dc196076745326af3cd840d15,Optimism: Fraud Verifier,0 ETH,1
+1,0x99c9fc46f92e8a1c0dec1b1747d010903e884be1,Optimism: Gateway,"257,034.90317675 ETH",306395
+2,0xde1fcfb0851916ca5101820a69b13a4e276bd81f,Optimism: Lib Address Manager,0 ETH,21
+3,0xcd76de5c57004d47d0216ec7dabd3c72d8c49057,Optimism: Mock OVM Bond Manager,0 ETH,1
+4,0x4bf681894abec828b212c906082b444ceb2f6cf6,Optimism: OVM Canonical Transaction Chain,0 ETH,23404
+5,0x3ea1a3839d8ca9a7ff3c567a9f36f4c4dbecc3ee,Optimism: OVM Chain Storage Container CTC Batches,0 ETH,1
+6,0xa0b912b3ea71a04065ff82d3936d518ed6e38039,Optimism: OVM Chain Storage Container CTC Queue,0 ETH,1
+7,0x77ebfdfcc906ddcda0c42b866f26a8d5a2bb0572,Optimism: OVM Chain Storage Container SCC Batches,0 ETH,1
+8,0x2745c24822f542bbffb41c6cb20edf766b5619f5,Optimism: OVM Execution Manager,0 ETH,1
+9,0xf26391fbb1f77481f80a7d646ac08ba3817ea891,Optimism: OVM L1 Multi Message Relayer,0 ETH,6
+10,0xfe1f9cf28ecdb12110aa8086e6fd343ea06035cc,Optimism: OVM Safety Checker,0 ETH,1
+11,0xe969c2724d2448f1d1a6189d3e2aa1f37d5998c1,Optimism: OVM State Commitment Chain,0 ETH,4521
+12,0xd0e3e318154716bd9d007e1e6b021eab246ff98d,Optimism: OVM State Manager Factory,0 ETH,1
+13,0x38a6ed6fd76035684cadef38cf49a2fffa782b67,Optimism: OVM State Transitioner Factory,0 ETH,1
+14,0x25ace71c97b33cc4729cf772ae268934f7ab5fa1,Optimism: Proxy OVM L1 Cross Domain Messenger,0 ETH,18696

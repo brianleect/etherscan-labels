@@ -1,26 +1,26 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x2c6c5809a257ea74a2df6d20aee6119196d4bea0,Bankless DAO: Oracle DAO Node,8.75606732 Ether,377
-1,0xed7820defdffd1ec5ac922a0db721308fdaf509c,Bankless DAO: Oracle DAO Rewards,7.08103115 Ether,58
-2,0xd7f94c53691afb5a616c6af96e7075c1ffa1d8ee,beaconcha.in: Oracle DAO Node,6.88808775 Ether,449
-3,0xb13fa6eff52e6db8e9f0f1b60b744a9a9a01425a,Blockchain Capital: Oracle DAO Node,0.68875501 Ether,395
-4,0x9e3421274fb4053a83917d62bd368332e9e71fe0,Blockchain Capital: Oracle DAO Rewards,0.17801238 Ether,103
-5,0xdf590a63b91e8278a9102bee9aafd444f8a4b780,Consensys: Oracle DAO Node,0.87931767 Ether,438
-6,0x5bc5ec5130f66f13d5c21ac6811a7e624ed3c7c6,Consensys: Oracle DAO Rewards,0.5001 Ether,47
-7,0x1df9a4f9421ae6306bc7b171dff8470640f96e72,CryptoManufaktur: Oracle DAO Node,2.76875171 Ether,451
-8,0xaf820bb236fde6f084641c74a4c62fa61d10b293,Etherscan: Oracle DAO Node,0.89990644 Ether,280
-9,0x0807e8c52b7a5c339d3ec7385a11b29f0559a56e,Etherscan: Oracle DAO Rewards,0.08071666 Ether,3
-10,0x751683968fd078341c48b90bc657d6babc2339f7,EthStaker: Oracle DAO Node,0.84950721 Ether,570
-11,0x9c69e7fce961fd837f99c808ad75ed39a2c549cb,Fire Eyes DAO: Oracle DAO Node,3.64232439 Ether,454
-12,0xd3da82834a619bc2e5d2c7f9ace101a43a44cd8d,Fire Eyes DAO: Oracle DAO Rewards,1.5576466 Ether,24
-13,0xc5d291607600044348e5014404cc18394bd1d57d,Lighthouse: Oracle DAO Node,3.26037451 Ether,238
-14,0x273e82c4b0661b3d656e9353f7c8643723f93ca2,Lighthouse: Oracle DAO Rewards,0.50967844 Ether,22
-15,0xb3a533098485bede3cb7fa8711af84fe0bb1e0ad,Nimbus: Oracle DAO Node,2.92168083 Ether,358
-16,0x95ffccd818e469844ccd94b96ed0d325aaeb87a2,Nimbus: Oracle DAO Rewards,0.07269976 Ether,4
-17,0xfe1f75e8e3c4516c8526911f9cec0f0570588aea,Rocket Pool: Oracle DAO Node 1,0.00841849 Ether,256
-18,0xccbff44e0f0329527feb0167bc8744d7d5aed3e9,Rocket Pool: Oracle DAO Node 2,4.51804586 Ether,362
-19,0x8b371a3bbe75ee4746a191aee69400f8ebb99eeb,Rocket Pool: Oracle DAO Node 3,0.0179154 Ether,367
-20,0x8d074ad69b55dd57da2708306f1c200ae1803359,Rocket Pool: Oracle DAO Node 4,2.69030376 Ether,406
-21,0xd2a4848a6644749e652c1d9398b5aa317f57395b,Rocket Pool: Oracle DAO Rewards 1,3.25385544 Ether,49
-22,0x2a1af071ef61a7003fa57df47d93ad82b66344b7,Rocket Pool: Oracle DAO Rewards 4,0 Ether,28
-23,0xb8e783882b11ff4f6cef3c501ea0f4b960152cc9,Rocket Pool: Trusted Node,0 Ether,24
-24,0x5b9b2494060138470a2b834f6003c0343a585349,Rocket Pool: Trusted Node Actions,0 Ether,19
+0,0x2c6c5809a257ea74a2df6d20aee6119196d4bea0,Bankless DAO: Oracle DAO Node,7.81424765 ETH,729
+1,0xed7820defdffd1ec5ac922a0db721308fdaf509c,Bankless DAO: Oracle DAO Rewards,6.97322817 ETH,83
+2,0xd7f94c53691afb5a616c6af96e7075c1ffa1d8ee,beaconcha.in: Oracle DAO Node,6.10944639 ETH,753
+3,0xb13fa6eff52e6db8e9f0f1b60b744a9a9a01425a,Blockchain Capital: Oracle DAO Node,3.84382927 ETH,702
+4,0x9e3421274fb4053a83917d62bd368332e9e71fe0,Blockchain Capital: Oracle DAO Rewards,0.8765441 ETH,142
+5,0xdf590a63b91e8278a9102bee9aafd444f8a4b780,Consensys: Oracle DAO Node,0.89230406 ETH,799
+6,0x5bc5ec5130f66f13d5c21ac6811a7e624ed3c7c6,Consensys: Oracle DAO Rewards,0.5001 ETH,63
+7,0x1df9a4f9421ae6306bc7b171dff8470640f96e72,CryptoManufaktur: Oracle DAO Node,2.10241392 ETH,692
+8,0xaf820bb236fde6f084641c74a4c62fa61d10b293,Etherscan: Oracle DAO Node,0.39346779 ETH,447
+9,0x0807e8c52b7a5c339d3ec7385a11b29f0559a56e,Etherscan: Oracle DAO Rewards,0.0776202 ETH,9
+10,0x751683968fd078341c48b90bc657d6babc2339f7,EthStaker: Oracle DAO Node,7.80603858 ETH,964
+11,0x9c69e7fce961fd837f99c808ad75ed39a2c549cb,Fire Eyes DAO: Oracle DAO Node,2.81991371 ETH,765
+12,0xd3da82834a619bc2e5d2c7f9ace101a43a44cd8d,Fire Eyes DAO: Oracle DAO Rewards,1.35507058 ETH,28
+13,0xc5d291607600044348e5014404cc18394bd1d57d,Lighthouse: Oracle DAO Node,2.51604411 ETH,585
+14,0x273e82c4b0661b3d656e9353f7c8643723f93ca2,Lighthouse: Oracle DAO Rewards,0.05968198 ETH,34
+15,0xb3a533098485bede3cb7fa8711af84fe0bb1e0ad,Nimbus: Oracle DAO Node,2.44511413 ETH,539
+16,0x95ffccd818e469844ccd94b96ed0d325aaeb87a2,Nimbus: Oracle DAO Rewards,0.07269976 ETH,4
+17,0xfe1f75e8e3c4516c8526911f9cec0f0570588aea,Rocket Pool: Oracle DAO Node 1,0.00841849 ETH,256
+18,0xccbff44e0f0329527feb0167bc8744d7d5aed3e9,Rocket Pool: Oracle DAO Node 2,3.45703475 ETH,732
+19,0x8b371a3bbe75ee4746a191aee69400f8ebb99eeb,Rocket Pool: Oracle DAO Node 3,0.0179154 ETH,367
+20,0x8d074ad69b55dd57da2708306f1c200ae1803359,Rocket Pool: Oracle DAO Node 4,1.78220319 ETH,749
+21,0xd2a4848a6644749e652c1d9398b5aa317f57395b,Rocket Pool: Oracle DAO Rewards 1,22.80385544 ETH,76
+22,0x2a1af071ef61a7003fa57df47d93ad82b66344b7,Rocket Pool: Oracle DAO Rewards 4,0 ETH,48
+23,0xb8e783882b11ff4f6cef3c501ea0f4b960152cc9,Rocket Pool: Trusted Node,0 ETH,24
+24,0x5b9b2494060138470a2b834f6003c0343a585349,Rocket Pool: Trusted Node Actions,0 ETH,19
