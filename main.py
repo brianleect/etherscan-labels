@@ -1,18 +1,19 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import json
 import time
 import os.path
-from webdriver_manager.chrome import ChromeDriverManager
 
 # Login to etherscan and auto fill login information if available
 def login():
     driver.get('https://etherscan.io/login')
     driver.implicitly_wait(5)
-    driver.find_element_by_id(
+    driver.find_element("id",
         "ContentPlaceHolder1_txtUserName").send_keys(config['ETHERSCAN_USER'])
-    driver.find_element_by_id(
-        "ContentPlaceHolder1_txtPassword").send_keys(config['ETHERSCAN_PASS'])
+    driver.find_element(
+        "id","ContentPlaceHolder1_txtPassword").send_keys(config['ETHERSCAN_PASS'])
 
     input("Press enter once logged in")
 
@@ -28,7 +29,8 @@ def getLabel(label, type='single'):
         driver.implicitly_wait(5)
         try:
             newTable = pd.read_html(driver.page_source)[0]
-        except ImportError:
+        except Exception as e: 
+            print(e)
             print(label, "Skipping label due to error")
             return
         table_list.append(newTable[:-1])  # Remove last item which is just sum
@@ -82,7 +84,7 @@ def getAllLabels():
     driver.get('https://etherscan.io/labelcloud')
     driver.implicitly_wait(5)
 
-    elems = driver.find_elements_by_xpath("//a[@href]")
+    elems = driver.find_elements("xpath","//a[@href]")
     labels = []
     labelIndex = len('https://etherscan.io/accounts/label/')
     for elem in elems:
@@ -112,7 +114,7 @@ ignore_list = ['eth2-depositor', 'gnosis-safe-multisig', 'liqui.io', 'education'
 with open('config.json', 'r') as f:
     config = json.load(f)
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
 login()
 retrievalType = input('Enter retrieval type (single/all): ')
