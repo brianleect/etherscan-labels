@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import time
 import os.path
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Login to etherscan and auto fill login information if available
 def login():
@@ -68,7 +69,7 @@ def combineAllJson():
                 dictData = json.load(f)
                 for address, nameTag in dictData.items():
                     if address not in combinedJSON:
-                        combinedJSON[address] = {'name':nameTag,'labels':[]}
+                        combinedJSON[address] = {'name': nameTag, 'labels': []}
                     combinedJSON[address]['labels'].append(files[:-5])
         else:
             continue
@@ -106,10 +107,12 @@ def getAllLabels():
     combineAllJson()
 
 # Large size: Eth2/gnsos , Bugged: Liqui , NoData: Remaining labels
-ignore_list = ['eth2-depositor', 'gnosis-safe-multisig','liqui.io','education','electronics','flashbots','media','music','network','prediction-market','real-estate','vpn']
+ignore_list = ['eth2-depositor', 'gnosis-safe-multisig', 'liqui.io', 'education', 'electronics',
+               'flashbots', 'media', 'music', 'network', 'prediction-market', 'real-estate', 'vpn']
 with open('config.json', 'r') as f:
     config = json.load(f)
-driver = webdriver.Chrome()
+
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 login()
 retrievalType = input('Enter retrieval type (single/all): ')
