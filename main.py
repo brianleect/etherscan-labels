@@ -29,10 +29,21 @@ def getLabel(label, type='single'):
         driver.implicitly_wait(5)
         try:
             newTable = pd.read_html(driver.page_source)[0]
+            elems = driver.find_elements("xpath","//a[@href]")
+            addressList = []
+            addrIndex = len('https://etherscan.io/address/')
+            for elem in elems:
+                href = elem.get_attribute("href")
+                if (href.startswith('https://etherscan.io/address/')):
+                    addressList.append(href[addrIndex:])
+        
+            # Replace address column in newTable dataframe with addressList
+            newTable['Address'] = addressList
         except Exception as e: 
             print(e)
             print(label, "Skipping label due to error")
             return
+
         table_list.append(newTable[:-1])  # Remove last item which is just sum
         index += 100
         if (len(newTable.index) != 101):
