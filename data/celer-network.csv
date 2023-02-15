@@ -1,6 +1,7 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0x841ce48f9446c8e281d3f1444cb859b4a6d0738c,Celer Network: cBridge,0 ETH,21116
-1,0x4f9254c83eb525f9fcf346490bbb3ed28a81c667,Celer Network: CELR Token,0 ETH,172126
+1,0x4f9254c83eb525f9fcf346490bbb3ed28a81c667,Celer Network: CELR Token,0 ETH,173215
 2,0xb22dc759f194f5d00f1981bf47ab5c3572562c96,Celer Network: Deployer,0.29872592 ETH,202
 3,0xc75a0ff40db54203d66bff76315ed25d66037ce1,Celer Network: Relay Node 1,0.03313377 ETH,6568
 4,0xc16251b5401087902e0956a2968cb3e0e4a52760,Celer Network: Relay Node 2,0.03211007 ETH,4225
+5,0xc578cbaf5a411dfa9f0d227f97dadaa4074ad062,Celer Network: cBridge 2.0,0 ETH,5793

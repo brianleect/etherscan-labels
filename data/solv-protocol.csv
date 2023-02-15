@@ -5,7 +5,7 @@
 3,0xf97c35c542e0ad32e9b03967b41999a43acbdbe3,Solv Protocol: CLS Vesting Voucher,0 ETH,814
 4,0x83208b368c34dac1a0f8b616f278ed42f1ffb8cd,Solv Protocol: Convertible Voucher IVO Market,0 ETH,47
 5,0x962e18f89d27cfc84c8ffa2ec7c90b3d933ad685,Solv Protocol: Convertible Voucher Marketplace,0 ETH,22
-6,0x21bc9179d5c529b52e3ee8f6ecf0e63fa231d16c,Solv Protocol: Deployer,0.19323453 ETH,500
+6,0x21bc9179d5c529b52e3ee8f6ecf0e63fa231d16c,Solv Protocol: Deployer,0.19256205 ETH,501
 7,0xe98ec63665488f7910adacf357683df9ae1be6c2,Solv Protocol: DEVT Vesting Voucher,0 ETH,190
 8,0xadb9ab302ecd551264a718d43ae6b3c255a8afa5,Solv Protocol: DODO Vesting Voucher,0 ETH,125
 9,0xee3a5800392614f18ce3ca82a3ace815c01f2ab4,Solv Protocol: DOP Vesting Voucher,0 ETH,22
@@ -30,5 +30,5 @@
 28,0xceff847de8289a5d0d28d91c3ceb7fa2e17eb27a,Solv Protocol: vHIGH Vesting Voucher,0 ETH,2974
 29,0x30fda944075c1b7e92498ce6358bcef1284febfa,Solv Protocol: WBTC Vesting Voucher,0 ETH,141
 30,0xf6ee76141e5964f5ff2831c3cb39a90f1541794a,Solv Protocol: WETH Vesting Voucher,0 ETH,82
-31,0x4c5033ba078c79dc1d2775fb481dea53e145f61a,Solv Protocol: XY Vesting Voucher,0 ETH,470
-32,0x0d5a6fefa731cb5842df77f24a186e7eed20b801,Solv Protocol: YIN Vesting Voucher,0 ETH,177
+31,0x4c5033ba078c79dc1d2775fb481dea53e145f61a,Solv Protocol: XY Vesting Voucher,0 ETH,499
+32,0x0d5a6fefa731cb5842df77f24a186e7eed20b801,Solv Protocol: YIN Vesting Voucher,0 ETH,178

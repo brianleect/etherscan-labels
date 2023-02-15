@@ -7,12 +7,12 @@
 5,0x1676fc274b65966ed0c6438a26d34c6c92a5981c,Cream.Finance: CREAM/USDC Pool,0 ETH,4379
 6,0x43a8ece49718e22d21077000768aff91849bceff,Cream.Finance: CREAM/WETH Pool,0 ETH,4553
 7,0x69fb7c45726cfe2badee8317005d3f94be838840,Curve.fi: bUSD Liquidity Gauge,0 ETH,4197
-8,0x7ca5b0a2910b33e9759dc7ddb0413949071d7575,Curve.fi: cCRV Liquidity Gauge,0 ETH,8857
-9,0x64e3c23bfc40722d3b649844055f1d51c1ac041d,Curve.fi: pPAX Liquidity Gauge,0 ETH,1676
-10,0xb1f2cdec61db658f091671f5f199635aef202cac,Curve.fi: renBTC Liquidity Gauge,0 ETH,6667
+8,0x7ca5b0a2910b33e9759dc7ddb0413949071d7575,Curve.fi: cCRV Liquidity Gauge,0 ETH,8858
+9,0x64e3c23bfc40722d3b649844055f1d51c1ac041d,Curve.fi: pPAX Liquidity Gauge,0 ETH,1677
+10,0xb1f2cdec61db658f091671f5f199635aef202cac,Curve.fi: renBTC Liquidity Gauge,0 ETH,6668
 11,0x705350c4bcd35c9441419ddd5d2f097d7a55410f,Curve.fi: sBTC Liquidity Gauge,0 ETH,8119
-12,0xa90996896660decc6e997655e065b23788857849,Curve.fi: sUSDv2 Liquidity Gauge,0 ETH,22003
-13,0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1,Curve.fi: yCRV Liquidity Gauge,0 ETH,19634
+12,0xa90996896660decc6e997655e065b23788857849,Curve.fi: sUSDv2 Liquidity Gauge,0 ETH,22012
+13,0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1,Curve.fi: yCRV Liquidity Gauge,0 ETH,19636
 14,0xb942ca22e0eb0f2524f53f999ae33fd3b2d58e3e,DeFireX: DAI to dDAI Wrapper,0.22999999 ETH,1065
 15,0xee776e691ea8f0a1ab93f541c6d1e1d78a7e584b,Grap.Finance: CRV Pool,0 ETH,650
 16,0x3e80d57929e177ebc0bbf6a08f98ea20d9b5c3e0,Grap.Finance: WETH Pool,0 ETH,1131
@@ -63,7 +63,7 @@
 61,0x4547a86ca6a84b9d60dc57af908472074de7af5f,Spaghetti.money: WETH Pool,0 ETH,1825
 62,0xf774584b6d12a3f93bd7b5fc20a44549cc5e2f07,Spaghetti.money: yaLINK Pool,0 ETH,948
 63,0x093430541975e7aa0b2d9de2085bf99f33a5e91c,Spaghetti.money: YFI Pool,0 ETH,1292
-64,0xc2edad668740f1aa35e4d8f227fb8e17dca888cd,SushiSwap: MasterChef LP Staking Pool,0 ETH,455597
+64,0xc2edad668740f1aa35e4d8f227fb8e17dca888cd,SushiSwap: MasterChef LP Staking Pool,0 ETH,455912
 65,0x9ebb67687fee2d265d7b824714df13622d90e663,Yam.Finance: AMPL Pool,0 ETH,9299
 66,0x8538e5910c6f80419cd3170c26073ff238048c9e,Yam.Finance: COMP Pool,0 ETH,12490
 67,0x6009a344c7f993b16eba2c673fefd2e07f9be5fd,Yam.Finance: LEND Pool,0 ETH,10910
