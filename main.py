@@ -20,37 +20,65 @@ def login():
 
 # Retrieve label information and saves as JSON/CSV
 def getLabel(label, type='single'):
-    baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid=undefined&size=100&start={}'
+    baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid={}&size=100&start={}'
     index = 0  # Initialize start index at 0
     table_list = []
-    while (True):
-        print('Index:', index)
-        driver.get(baseUrl.format(label, index))
-        driver.implicitly_wait(5)
-        try:
-            newTable = pd.read_html(driver.page_source)[0]
-            elems = driver.find_elements("xpath","//a[@href]")
-            addressList = []
-            addrIndex = len('https://etherscan.io/address/')
-            for elem in elems:
-                href = elem.get_attribute("href")
-                if (href.startswith('https://etherscan.io/address/')):
-                    addressList.append(href[addrIndex:])
-        
-            # Replace address column in newTable dataframe with addressList
-            newTable['Address'] = addressList
-        except Exception as e: 
-            print(e)
-            print(label, "Skipping label due to error")
-            return
 
-        table_list.append(newTable[:-1])  # Remove last item which is just sum
-        index += 100
-        if (len(newTable.index) != 101):
-            break
+    driver.get(baseUrl.format(label, 'undefined',index))
+    driver.implicitly_wait(5)
+  
+    # Find all elements using driver.find_elements where class matches "nav-link"
+    # This is used to find all subcategories
+    elems = driver.find_elements("class name","nav-link")
+    subcat_id_list = []
+
+    # Loop through elems and append all values to subcat_id_list
+    for elem in elems:
+        elemVal = elem.get_attribute("val")
+        #print(elem.text,elemVal,elem.get_attribute("class")) # Used for debugging elements returned
+        if (elemVal is not None): subcat_id_list.append(elemVal)
+
+    print('subcat_values:',subcat_id_list)
+
+    for table_index,subcat_id in enumerate(subcat_id_list):
+        index = 0  # Initialize start index at 0
+
+        while (True):
+            print('Index:', index,'Subcat:',subcat_id)
+            driver.get(baseUrl.format(label, subcat_id,index))
+            driver.implicitly_wait(5)
+
+            try:
+                # Select relevant table from multiple tables in the page, based on current table index
+                curTable = pd.read_html(driver.page_source)[table_index]
+                print(curTable)
+
+                # Retrieve all addresses from table
+                elems = driver.find_elements("xpath","//a[@href]")
+                addressList = []
+                addrIndex = len('https://etherscan.io/address/')
+                for elem in elems:
+                    href = elem.get_attribute("href")
+                    if (href.startswith('https://etherscan.io/address/')):
+                        addressList.append(href[addrIndex:])
+            
+                # Replace address column in newTable dataframe with addressList
+                curTable['Address'] = addressList
+            except Exception as e: 
+                print(e)
+                print(label, "Skipping label due to error")
+                return
+
+            table_list.append(curTable[:-1])  # Remove last item which is just sum
+            index += 100
+
+            # If table is less than 100, then we have reached the end
+            if (len(curTable.index) != 101):
+                break
 
     df = pd.concat(table_list)  # Combine all dataframes
     df.fillna('', inplace=True)  # Replace NaN as empty string
+    df.index = range(len(df.index)) # Fix index for df
 
     # Prints length and save as a csv
     print(label, 'Df length:', len(df.index))
