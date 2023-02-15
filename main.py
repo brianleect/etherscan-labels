@@ -152,7 +152,7 @@ def getAllLabels():
 
 # Large size: Eth2/gnsos , Bugged: Liqui , NoData: Remaining labels
 ignore_list = ['eth2-depositor', 'gnosis-safe-multisig', 'liqui.io', 'education', 'electronics',
-               'flashbots', 'media', 'music', 'network', 'prediction-market', 'real-estate', 'vpn', 'beacon-depositor']
+               'flashbots', 'media', 'music', 'network', 'prediction-market', 'real-estate', 'vpn', 'beacon-depositor','uniswap']
 with open('config.json', 'r') as f:
     config = json.load(f)
 
