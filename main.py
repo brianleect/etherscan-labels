@@ -38,7 +38,10 @@ def getLabel(label, type='single'):
         #print(elem.text,elemVal,elem.get_attribute("class")) # Used for debugging elements returned
         if (elemVal is not None): subcat_id_list.append(elemVal)
 
-    print('subcat_values:',subcat_id_list)
+    print(label,'subcat_values:',subcat_id_list)
+
+    # Bug fix: When there's 0 subcat id found aka ONLY MAIN, we manually add 'undefined' to subcat_id_list
+    if (len(subcat_id_list) == 0): subcat_id_list.append('undefined')
 
     for table_index,subcat_id in enumerate(subcat_id_list):
         index = 0  # Initialize start index at 0
