@@ -19,12 +19,12 @@ def login():
 
 
 # Retrieve label information and saves as JSON/CSV
-def getLabel(label, type='single'):
-    baseUrl = 'https://etherscan.io/accounts/label/{}?subcatid={}&size=100&start={}'
+def getLabel(label, label_type="account", input_type='single'):
+    baseUrl = 'https://etherscan.io/{}s/label/{}?subcatid={}&size=100&start={}' # https://etherscan.io/tokens/label/gaming?subcatid=undefined&size=100&start=0
     index = 0  # Initialize start index at 0
     table_list = []
 
-    driver.get(baseUrl.format(label, 'undefined',index))
+    driver.get(baseUrl.format(label_type, label, 'undefined',index))
     driver.implicitly_wait(5)
   
     # Find all elements using driver.find_elements where class matches "nav-link"
@@ -45,11 +45,12 @@ def getLabel(label, type='single'):
 
     for table_index,subcat_id in enumerate(subcat_id_list):
         index = 0  # Initialize start index at 0
+        driver.implicitly_wait(5)
+        driver.get(baseUrl.format(label_type, label, subcat_id,index))
+        time.sleep(5) #TODO: allow customization by args
 
         while (True):
             print('Index:', index,'Subcat:',subcat_id)
-            driver.get(baseUrl.format(label, subcat_id,index))
-            driver.implicitly_wait(5)
 
             try:
                 # Select relevant table from multiple tables in the page, based on current table index
@@ -57,14 +58,14 @@ def getLabel(label, type='single'):
                 print(curTable)
 
                 # Retrieve all addresses from table
-                elems = driver.find_elements("xpath","//a[@href]")
+                elems = driver.find_elements("xpath","//tbody//a[@href]")
                 addressList = []
                 addrIndex = len('https://etherscan.io/address/')
                 for elem in elems:
                     href = elem.get_attribute("href")
                     if (href.startswith('https://etherscan.io/address/')):
                         addressList.append(href[addrIndex:])
-            
+
                 # Replace address column in newTable dataframe with addressList
                 curTable['Address'] = addressList
             except Exception as e: 
@@ -72,11 +73,20 @@ def getLabel(label, type='single'):
                 print(label, "Skipping label due to error")
                 return
 
-            table_list.append(curTable[:-1])  # Remove last item which is just sum
-            index += 100
+            if label_type == "account":
+                curTable = curTable[:-1] # Remove last item which is just sum
+            table_list.append(curTable)
 
             # If table is less than 100, then we have reached the end
-            if (len(curTable.index) != 101):
+            if (len(curTable.index) == 100):
+                if label_type == "account":
+                    index += 100
+                    driver.get(baseUrl.format(label_type, label, subcat_id,index))
+                if label_type == "token":
+                    next_icon_elems = driver.find_elements("class name", "fa-chevron-right")
+                    next_icon_elems[0].click()
+                time.sleep(5) #TODO: allow customization by args
+            else:
                 break
 
     df = pd.concat(table_list)  # Combine all dataframes
@@ -85,31 +95,35 @@ def getLabel(label, type='single'):
 
     # Prints length and save as a csv
     print(label, 'Df length:', len(df.index))
-    df.to_csv('data/{}.csv'.format(label))
+    df.to_csv('{}s/{}.csv'.format(label_type, label))
 
     # Save as json object with mapping address:nameTag
-    addressNameDict = dict([(address, nameTag)
+    if label_type == "account":
+        addressNameDict = dict([(address, nameTag)
                            for address, nameTag in zip(df.Address, df['Name Tag'])])
-    with open('data/{}.json'.format(label), 'w', encoding='utf-8') as f:
+    if label_type == "token":
+        addressNameDict = dict([(address, nameTag)
+                           for address, nameTag in zip(df.Address, df['Token Name'])])  
+    with open('{}s/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
-    if (type == 'single'):
+    if (input_type == 'single'):
         endOrContinue = input(
             'Type "exit" end to end or "label" of interest to continue')
         if (endOrContinue == 'exit'):
             driver.close()
         else:
-            getLabel(endOrContinue)
+            getLabel(endOrContinue, label_type=label_type)
 
 # Combines all JSON into a single file combinedLabels.json
 def combineAllJson():
     combinedJSON = {}
 
     # iterating over all files
-    for files in os.listdir('./data'):
+    for files in os.listdir('./accounts'):
         if files.endswith('json'):
             print(files)  # printing file name of desired extension
-            with open('./data/{}'.format(files)) as f:
+            with open('./accounts/{}'.format(files)) as f:
                 dictData = json.load(f)
                 for address, nameTag in dictData.items():
                     if address not in combinedJSON:
@@ -138,7 +152,7 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
-        if (os.path.exists('data/{}.json'.format(label))):
+        if (os.path.exists('accounts/{}.json'.format(label))):
             print(label, 'already exists skipping.')
             continue
         elif label in ignore_list:
@@ -164,4 +178,5 @@ if (retrievalType == 'all'):
     getAllLabels()
 else:
     singleLabel = input('Enter label of interest: ')
-    getLabel(singleLabel)
+    label_type = input('Enter label type [account/token]: ')
+    getLabel(singleLabel, label_type)
