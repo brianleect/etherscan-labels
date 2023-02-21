@@ -153,12 +153,22 @@ def getAllLabels():
 
     for label in labels:
         if (os.path.exists('accounts/{}.json'.format(label))):
-            print(label, 'already exists skipping.')
+            print(label, "'s account labels already exist, skipping.")
             continue
         elif label in ignore_list:
             print(label, 'ignored due to large size and irrelevance')
             continue
-        getLabel(label, 'all')
+        getLabel(label, 'account', 'all')
+        time.sleep(5)  # Give 5s interval to prevent RL
+
+    for label in labels:
+        if (os.path.exists('tokens/{}.json'.format(label))):
+            print(label, "'s token labels already exist, skipping.")
+            continue
+        elif label in ignore_list:
+            print(label, 'ignored due to large size and irrelevance')
+            continue
+        getLabel(label, 'token', 'all')
         time.sleep(5)  # Give 5s interval to prevent RL
 
     # Proceed to combine all addresses into single JSON after retrieving all.
