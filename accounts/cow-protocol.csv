@@ -1,0 +1,10 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab,CoW Protocol: COW Token,0 ETH,8301
+1,0x5d06f06a61271aa38af23d1d2422212c9be83940,CoW Protocol: Deployer,4.39252899 ETH,5
+2,0x68ffaac7a431f276fe73604c127bd78e49070c92,CoW Protocol: GnosisDAO Vesting,0 ETH,63
+3,0x9e7ae8bdba9aa346739792d219a808884996db67,CoW Protocol: GPv2AllowListAuthentication,0 ETH,1
+4,0x2c4c28ddbdac9c5e7055b4c863b72ea0149d8afe,CoW Protocol: GPv2AllowListAuthentication_Proxy,0 ETH,8
+5,0x9008d19f58aabd9ed0d60971565aa8510560ab41,CoW Protocol: GPv2Settlement,0.02722719 ETH,389999
+6,0xc92e8bdf79f0507f65a392b0ab4667716bfe0110,CoW Protocol: GPv2VaultRelayer,0 ETH,9
+7,0xa1cb7762f40318ee0260f53e15de835ff001cb7e,CoW Protocol: Treasury,0 ETH,0
+8,0xd057b63f5e69cf1b929b356b579cba08d7688048,CoW Protocol: vCOW Token,0 ETH,2283

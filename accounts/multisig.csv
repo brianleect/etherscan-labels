@@ -1,0 +1,40 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xcafe1a77e84698c83ca8931f54a755176ef75f2c,Aragon: Multisig,"29,078.31913573 ETH",826
+1,0x5894110995b8c8401bd38262ba0c8ee41d4e4658,Bancor: Multisig 1,1 wei,130
+2,0xcc1aac4513f751effc94e259daf8a37b76f9db75,Bancor: Multisig 3,0 ETH,17
+3,0x4f8af8e8734d02a21d73e2a4fb29941f35cbbeac,Bancor: Multisig 4,0 ETH,27
+4,0xc39e562defc6ddd1f44ee698cf9303092b86051d,Bancor: Multisig 5,0 ETH,18
+5,0x2323763d78bf7104b54a462a79c2ce858d118f2f,Civic: Multisig,727 wei,310
+6,0x9a60ad6de185c4ea95058601beaf16f63742782a,Ethos: Multisig,0.01747936 ETH,52
+7,0x851b7f3ab81bd8df354f0d7640efcd7288553419,Gnosis: Multisig 2,0.31790433 ETH,357
+8,0x7e6614722614e434c4df9901bab31e466ba12fa4,Mysterium: Multisig,0 ETH,122
+9,0xa33516e6f64c6c2869dff6744953a472cd60c8f6,Storj: Multisig 2,0.12938885 ETH,51
+10,0x185f19b43d818e10a31be68f445ef8edcb8afb83,TenX: Multisig,0 ETH,235
+11,0x9e2b6378ee8ad2a4a95fe481d63caba8fb0ebbf9,Alchemix Finance: Dev Multisig,46.04816475 ETH,1163
+12,0x8392f6669292fa56123f71949b52d883ae57e225,Alchemix Finance: Treasury,0.00001 ETH,4493
+13,0x8d9d0bd75319a3780d3cab012759efbae334291b,Arcade City: Multisig,0.76599698 ETH,285
+14,0xab4e5b618fb8f1f3503689dfbdf801478ff6c252,Axie Infinity: Multisig,0 ETH,56
+15,0xf26d1bb347a59f6c283c53156519cc1b1abaca51,Bankless DAO: Treasury,29.84410478 ETH,162
+16,0x4763cfa50311729b65815e5ae9ebbefdb94ec112,BLVKHVND: Multisig,0.01 ETH,416
+17,0x8c2251e028043e38f58ac64c00e1f940d305aa62,ElasticDAO: Multisig,0 ETH,178
+18,0x911143d946ba5d467bfc476491fdb235fef4d667,ENS: Multisig,0 ETH,125
+19,0xb35cd25e91b376eafba79abe71d78814dec3401a,Ethereum Magicians: Multisig,1.91604305 ETH,60
+20,0x6e95c8e8557abc08b46f3c347ba06f8dc012763f,Gnosis: MultiSig,0 ETH,3854
+21,0xce52a8dd7c8ad08e94b44620622e3630f7c1fc90,Gnosis: MultiSig 3,0 ETH,379
+22,0xff1a8eda5eacdb6aaf729905492bdc6376dbe2dd,Gnosis: xDai Bridge Management Multisig,0 ETH,68
+23,0x7da82c7ab4771ff031b66538d2fb9b0b047f6cf9,Golem: Multisig,"165,034.34311324 ETH",497
+24,0x83307d16c4dcebc69162ad7444a38cbf569e3603,Hundred Finance: Governance Multisig,0 ETH,42
+25,0xaf5800324e355c9eaa2075cad6717ff1ddf067db,Hundred Finance: Treasury Multisig,0.00000005 ETH,62
+26,0x51c2cef9efa48e08557a361b52db34061c025a1b,JPEGd: Multisig,68.46035106 ETH,690
+27,0x557068a9b7d66f97a61b97c80541eb17672e1e6f,LobsterDAO: Multisig,115.50417535 ETH,91
+28,0x245cc372c84b3645bf0ffe6538620b04a217988b,OlympusDAO: DAO Funds,77.8704331 ETH,987
+29,0x09443d96cd5e208e11049ba17f4f197cd93543a0,Paribus: Ecosystem,0 ETH,36
+30,0x55390894452ae920f532e63dee9328258447e40d,Paribus: Foundation,0 ETH,7
+31,0xa52fd396891e7a74b641a2cb1a6999fcf56b077e,Redacted Cartel: Multisig,13.46752171 ETH,599
+32,0xdaeada3d210d2f45874724beea03c7d4bbd41674,Ribbon Finance: Multisig,668.22862867 ETH,152
+33,0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3,SushiSwap: Treasury Multisig,168.72874731 ETH,82
+34,0x90b6c61b102ea260131ab48377e143d6eb3a9d4b,Tokemak: Coordinator Address,2 ETH,562
+35,0x8b4334d4812c530574bd4f2763fcd22de94a969b,Tokemak: Treasury Address,100 ETH,616
+36,0xb04e030140b30c27bcdfaafffa98c57d80eda7b4,Tornado.Cash: Community Fund,0 ETH,65
+37,0xc0f783edfebb995eb5e590af08e36e43d4c36cbd,VESQ: DAO Multisig,0 ETH,96
+38,0xc2cce1f4190d4451c63cf591678c807679c3d728,WeTrust: Multisig,0 ETH,1395

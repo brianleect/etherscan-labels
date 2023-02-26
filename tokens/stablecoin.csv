@@ -1,0 +1,216 @@
+,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
+0,1,0xdAC17F...3D831ec7,Tether USD  (USDT),"$70,861,302,237.00",4081139,https://tether.to/,0xdac17f958d2ee523a2206206994597c13d831ec7
+1,2,0xA0b869...3606eB48,USD Coin  (USDC),"$42,572,003,718.00",1625281,https://www.centre.io/,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+2,3,0x4Fabb1...623C7C53,Binance USD  (BUSD),"$11,130,880,479.00",176806,http://www.paxos.com/busd,0x4fabb145d64652a948d72533023f6e7a623c7c53
+3,4,0x6B1754...95271d0F,Dai Stableco...  (DAI),"$5,027,921,109.00",499877,https://makerdao.com/,0x6b175474e89094c44da98b954eedeac495271d0f
+4,5,0x853d95...F175b99e,Frax  (FRAX),"$1,041,774,821.00",7555,https://frax.finance,0x853d955acef822db058eb8505911ed77f175b99e
+5,6,0x000000...cd22b376,TrueUSD  (TUSD),"$969,537,356.00",51017,https://trueusd.com/,0x0000000000085d4780B73119b644AE5ecd22b376
+6,7,0x3432B6...D9C964D0,Frax Share  (FXS),"$767,148,590.00",12760,https://frax.finance,0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0
+7,8,0x8E870D...388289E1,Pax Dollar  (USDP),"$740,668,566.00",109565,https://www.paxos.com/usdp/,0x8e870d67f660d95d5be530380d0ec0bd388289e1
+8,9,0x0C10bF...9160b5c6,Decentralize...  (USDD),"$723,647,918.00",835,https://usdd.io/,0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
+9,10,0x056Fd4...87b6d5Cd,Gemini dolla...  (GUSD),"$564,310,403.00",9956,https://gemini.com/dollar/,0x056fd409e1d7a124bd7017459dfea2f387b6d5cd
+10,11,0x687496...22782F38,Tether Gold  (XAUt),"$447,192,235.00",748,https://tether.to/,0x68749665ff8d2d112fa859aa293f07a622782f38
+11,12,0x5f9880...C6568bA0,LUSD Stablec...  (LUSD),"$230,383,560.00",6016,https://liquity.org/,0x5f98805A4E8be255a32880FDeC7F6728C6568bA0
+12,13,0x320623...E78B5d70,Reserve Righ...  (RSR),"$222,948,015.00",13421,https://reserve.org/,0x320623b8e4ff03373931769a31fc52a4e78b5d70
+13,14,0xC581b7...42EDE491,Euro Tether  (EURT),"$217,530,209.00",662,https://tether.to/,0xC581b735A1688071A1746c968e0798D642EDE491
+14,15,0xBC6DA0...653660E9,Alchemix USD  (alUSD),"$172,850,705.00",1655,https://alchemix.fi/,0xbc6da0fe9ad5f3b0d58160288917aa56653660e9
+15,16,0xdB25f2...8a807ad8,STASIS EURS ...  (EURS),"$131,125,613.00",4934,https://stasis.net/,0xdb25f211ab05b1c97d595516f45794528a807ad8
+16,17,0x2A8e1E...fEAa5e86,Origin Dolla...  (OUSD),"$54,433,600.00",3056,https://www.ousd.com/,0x2a8e1e676ec238d8a992307b495b45b3feaa5e86
+17,18,0x57Ab1e...D46d5f51,Synth sUSD  (sUSD),"$50,969,603.00",14817,https://www.synthetix.io/,0x57ab1ec28d129707052df4df418d58a2d46d5f51
+18,19,0xC22956...c47f6632,Celo Dollar ...  (cUSD),"$43,421,156.00",8,https://www.mento.org/,0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632
+19,20,0x70e8dE...9a8ecA96,XSGD  (XSGD),"$42,366,072.00",2361,https://straitsx.com,0x70e8de73ce538da2beed35d14187f6959a8eca96
+20,21,0x956F47...3E7f87CA,Fei USD  (FEI),"$39,673,344.00",3880,https://fei.money/,0x956F47F50A910163D8BF957Cf5846D573E7f87CA
+21,22,0xDD2955...a182eF3e,QUICKCASH  (QC),"$37,328,631.00",460,https://quickcash.com/,0xdd2955b7b00cfcde3c49dc212709a97da182ef3e
+22,23,0x1a7e4e...8afCBce8,agEUR  (agEUR),"$34,087,718.00",1214,https://angle.money/,0x1a7e4e63778b4f12a199c062f3efdd288afcbce8
+23,24,0xBEA000...B9d1Efab,Bean  (BEAN),"$33,028,125.00",131,https://bean.money/,0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab
+24,25,0x1aBaEA...4b1bC33c,Euro Coin  (EUROC),"$30,577,918.00",1051,https://www.circle.com/en/,0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c
+25,26,0xdF574c...111d87e1,HUSD  (HUSD),"$25,214,103.00",9449,https://www.stcoins.com/,0xdf574c24545e5ffecb9a659c229253d4111d87e1
+26,27,0x89d24A...23260359,Sai Stableco...  (SAI),"$24,458,827.00",179103,https://makerdao.com/,0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
+27,28,0x1c48f8...D8D470bb,USDK  (USDK),"$22,493,243.00",3872,https://www.oklink.com/,0x1c48f86ae57291f7686349f12601910bd8d470bb
+28,29,0xEE586e...942C992f,Celo Euro (W...  (cEUR),"$20,289,309.00",24,https://www.mento.org/,0xee586e7eaad39207f0549bc65f19e336942c992f
+29,30,0xC08512...c6EcD911,GMO JPY  (GYEN),"$20,162,395.00",9683,https://stablecoin.z.com/,0xC08512927D12348F6620a698105e1BAac6EcD911
+30,31,0x96E614...6a4aae27,Iron Bank EU...  (ibEUR),"$18,417,681.00",425,https://yearn.fi/lend,0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27
+31,32,0xe2f2a5...0f5935a5,mStable USD  (mUSD),"$6,888,812.00",5590,https://mstable.org/,0xe2f2a5c287993345a840db3b0845fbc70f5935a5
+32,33,0xebF209...5A72aa52,XIDR  (XIDR),"$5,073,643.00",136,https://straitsx.com/id,0xebf2096e01455108badcbaf86ce30b6e5a72aa52
+33,34,0xC285B7...15898246,Coin98 Dolla...  (CUSD),"$3,345,984.00",20,https://coin98.com/dollar,0xC285B7E09A4584D027E5BC36571785B515898246
+34,35,0xB42720...0664fc08,CryptoFranc  (XCHF),"$3,165,220.00",482,https://swisscryptotokens.ch/,0xb4272071ecadd69d933adcd19ca99fe80664fc08
+35,36,0x6E109E...3cc07AEF,Tether CNH  (CNHT),"$2,941,915.00",39,https://tether.to/,0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef
+36,37,0x680377...106C4703,PAR Stableco...  (PAR),"$2,364,690.00",1611,https://mimo.capital/,0x68037790a0229e9ce6eaa8a99ea92964106c4703
+37,38,0xc56c2b...a8F604fA,Z.com USD  (ZUSD),"$1,402,242.00",71,https://stablecoin.z.com/,0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA
+38,39,0x4f3AfE...0eE057bF,Digix Gold T...  (DGX),"$1,351,697.00",2137,https://digix.global/,0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf
+39,40,0x9040e2...0f2b999d,Standard  (STND),"$974,143.00",1323,http://standard.tech,0x9040e237c3bf18347bb00957dc22167d0f2b999d
+40,41,0xb05097...F4b97cb9,Float Protoc...  (FLOAT),"$897,186.00",197,https://floatprotocol.com,0xb05097849bca421a3f51b249ba6cca4af4b97cb9
+41,42,0x9a1997...7d5134c2,Bond Appetit...  (USDap),"$619,604.00",77,https://bondappetit.io/,0x9a1997c130f4b2997166975d9aff92797d5134c2
+42,43,0x910Dfc...1060fa4c,X8XToken  (X8X),"$479,951.00",1251,https://x8ag.io/,0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c
+43,44,0x02B545...4Cf8860B,USD Balance  (USDB),"$246,376.00",17,https://www.usdbalance.com/,0x02b5453d92b730f29a86a0d5ef6e930c4cf8860b
+44,45,0x4954Db...3596aEC9,USDQ Stablec...  (USDQ),$0.00,1424,https://usdq.platinum.fund/,0x4954db6391f4feb5468b6b943d4935353596aec9
+45,46,0xD7e0F8...8feb964C,Australian D...  (AUDT),$0.00,19,https://audt.to/,0xd7e0f80fb28233bdde0006c50568606a8feb964c
+46,47,0x61fd1c...D0094498,IDKToken  (IDK),$0.00,698,http://idkfoundation.org,0x61fd1c62551850d0c04c76fce614cbced0094498
+47,48,0xb3B209...1015f1FE,sanFRAX_EUR  (sanFRA...),$0.00,9,https://angle.money,0xb3b209bb213a5da5b947c56f2c770b3e1015f1fe
+48,49,0x20c36f...20AA333A,DefiDollar D...  (DFD),$0.00,1261,https://dusd.finance/,0x20c36f062a31865bED8a5B1e512D9a1A20AA333A
+49,50,0xf9FB20...2dcd0F16,Stable Coin  (SBC),$0.00,1,https://brale.xyz/,0xf9FB20B8E097904f0aB7d12e9DbeE88f2dcd0F16
+50,51,0xdf1E9E...2E4175Ce,eToro Austra...  (AUDX),$0.00,63,https://www.etorox.com/exchange/australian-dollar/,0xdf1e9e1a218cff9888faef311d6fbb472e4175ce
+51,52,0x3c6cFB...124FE8D0,KRWQ Stablec...  (KRWQ),$0.00,1388,https://usdq.platinum.fund,0x3c6cfbdaf0a04fc257b185bf98934a12124fe8d0
+52,53,0x92830e...bAd7db22,SGD Tracker  (bluSGD),$0.00,144,https://bluejay.finance/,0x92830ef7c8d651ed3a708053c602e807bad7db22
+53,54,0x2Df380...959095Ee,Wrapped Jax  (WJAX),$0.00,1,https://jax.jax.money/,0x2Df380cD3eeB7F1Ee5deB087Fe9FbCF8959095Ee
+54,55,0xF9A2D7...C4C6C8F6,Realio Netwo...  (rUSD),$0.00,33,https://realio.fund/,0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6
+55,56,0xb692A9...aa7Dea72,GNEISS Silve...  (GAG),$0.00,1,https://gneiss.io/,0xb692A99a298ef9f4e8103B06fB3A93Cdaa7Dea72
+56,57,0x48f073...224f1054,South Africa...  (XZAR),$0.00,205,http://www.xzar.co.za/,0x48f07301e9e29c3c38a80ae8d9ae771f224f1054
+57,58,0x440860...7CE37c57,unified Stab...  (uSD),$0.00,183,https://www.unifihub.com/,0x44086035439E676c02D411880FcCb9837CE37c57
+58,59,0xA4Bdb1...01112eBe,StableUSD  (USDS),$0.00,734,https://www.stably.io/,0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe
+59,60,0xF3DA4C...B9eEAb21,GNEISS Gold ...  (GAU),$0.00,1,https://gneiss.io/,0xF3DA4C6cB0E9e800428B9cA0F8342ac3B9eEAb21
+60,61,0x3d61e6...3A8E2823,USDf  (USDf),$0.00,42,https://www.dollarprotocol.com/#/home,0x3d61e677944204Cd1002202912a2B7a43A8E2823
+61,62,0x431D5d...6eF37BDB,JPY Coin  (JPYC),$0.00,153,https://jpyc.jp/,0x431d5dff03120afa4bdf332c61a6e1766ef37bdb
+62,63,0x0f17BC...ADb4F20B,Jarvis Synth...  (jEUR),$0.00,118,https://jarvis.network/,0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b
+63,64,0xc8c97d...55B39fc1,HK Monetary ...  (HKMT),$0.00,85,https://www.monetarytoken.foundation/,0xc8c97d9b0af219c2329a0179f6ab8c7a55b39fc1
+64,65,0x9baf51...b3082eFe,Exedum  (EXED),$0.00,114,https://exedum.io/,0x9baf5147505b980b2674aab556a51e03b3082efe
+65,66,0xeb2697...32a83549,dForce  (USDx),$0.00,2742,https://usdx.dforce.network/,0xeb269732ab75a6fd61ea60b06fe994cd32a83549
+66,67,0xdBA8e8...908cB2bB,SilverDollar  (SLVD),$0.00,106,https://silvertoken.com/,0xdba8e8021fe321af91fc3a08e223ef15908cb2bb
+67,68,0x147E3d...8aEB7f94,ElenaUSD  (USE),$0.00,223,https://app.elena.finance/,0x147e3d644d53adadd18a28201b91e2b98aeb7f94
+68,69,0x0b6683...1ebB4C7f,EURO  (EUR),$0.00,1,https://www.theswedishtrust.com/,0x0b66833a52e9ef8b006af25fbb3fc3231ebb4c7f
+69,70,0x2f085e...662C6165,ZARP (Rand R...  (ZARP),$0.00,4,https://www.zarp.cash/,0x2f085edec7113e54a1747bd9572b213e662c6165
+70,71,0x9fcf41...40971671,Neutrino EUR  (EURN),$0.00,32,https://neutrino.at/,0x9fcf418b971134625cdf38448b949c8640971671
+71,72,0x7806A1...733E2B66,SIMBA Stable...  (SIMBA),$0.00,284,https://simba.storage/,0x7806a1b2b6056cda57d3e889a9513615733e2b66
+72,73,0xCD8e8e...57355c9A,DSS TOKEN  (DSS),$0.00,2,https://www.dsss.io/,0xcd8e8ec834c9127a18d8cd5c749a7f2a57355c9a
+73,74,0x24d61A...6374DfFB,GBPM  (GBPM),$0.00,6,https://moneta.holdings/,0x24d61a6988b710bdf4bf5220573c60576374dffb
+74,75,0x1F3F67...8546b5DE,VNDC  (VNDC),$0.00,224789,https://vndc.io/,0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de
+75,76,0xB7a84C...bf9672A2,CNYM  (CNYM),$0.00,6,https://moneta.holdings/,0xb7a84c8e97bc7c5d71147447cff0d598bf9672a2
+76,77,0x0f7f65...c0D63A23,e-Money Swed...  (ESEK),$0.00,1,https://www.e-money.com/,0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23
+77,78,0x2C537E...76C8D0EB,BiLira  (TRYb),$0.00,863,https://www.bilira.co/,0x2c537e5624e4af88a7ae4060c022609376c8d0eb
+78,79,0x090207...7CD9085b,ERC-20 TOKEN*,$0.00,182,https://usddex.io,0x0902077c90a7ab86d729d74124873b527cd9085b
+79,80,0x1B5f24...7E8eC32c,Ringgit Mala...  (dMYR),$0.00,1,https://digitaltoken.money/,0x1b5f242a789a8a7d4660053ad88c225b7e8ec32c
+80,81,0xb9E6BD...9054e554,DIRHAM  (DAH),$0.00,4676,https://www.dirham.app/,0xb9e6bdcba653b5f768dd2e2faf6288df9054e554
+81,82,0x6a4b63...0F38cA14,Hertz  (HZ),$0.00,133,http://www.gotohertz.com/,0x6a4b6316D1d03d2f2B3A0294502F8fAF0F38cA14
+82,83,0x1D4825...9B2775F5,AgroToken Wh...  (WHEA),$0.00,1,https://agrotoken.io/en/,0x1d48257386165d44e303c579386c46089b2775f5
+83,84,0x6420A1...3619410b,RAS  (RAS),$0.00,50,https://ras.cash/,0x6420a10a763db3e0f3b8eb501ba9c6153619410b
+84,85,0x0C4576...3e7C66D9,veOGV  (veOGV),$0.00,1424,https://ousd.com/,0x0C4576Ca1c365868E162554AF8e385dc3e7C66D9
+85,86,0x164cD8...D7E1ec02,VND Token  (VNDT),$0.00,14,https://www.vndtoken.io/,0x164cd8bc19402c7bd49c2a97d5248310d7e1ec02
+86,87,0x652594...85f34a4e,Silvertoken  (SLVT),$0.00,233,https://silvertoken.com/,0x652594082f97392a1703d80985ab575085f34a4e
+87,88,0x3C7b46...EFF3A66A,USDA  (USDA),$0.00,1855,https://usda.cc/en,0x3c7b464376db7c9927930cf50eefdea2eff3a66a
+88,89,0x3C513d...af6A4e97,BitBTC  (BitBTC),$0.00,9,https://bitbtc.money/,0x3c513db8bdc3806e4489d62c3d549a5aaf6a4e97
+89,90,0xD71BBf...9BE304aF,Dacxi Silver...  (DXST),$0.00,1,https://dacxi.com/,0xD71BBf61079d3eA7ea7890356850D4579BE304aF
+90,91,0x010c28...F60A0c9B,VINX COINS S...  (VINX),$0.00,127,https://www.vinxcoin.com/,0x010c282118aA76174CE5952572BA715CF60A0c9B
+91,92,0x54d2c4...27291bF5,Everest Gold...  (EGU),$0.00,1,https://www.everestgold.sg/,0x54d2c48ad859b81d8a9ddc8b65dbe96327291bf5
+92,93,0xF5b574...f88E8231,CRDT USD  (SCRDT),$0.00,3,https://crdt.io/scrdt,0xf5b574aaf22f8bbad4a8f544c6599482f88e8231
+93,94,0xe8dE35...4874fd32,STAR USD  (SUSD),$0.00,9,https://starsc.io/,0xe8dE351d8F949B2FFb8068a84a3bC8034874fd32
+94,95,0x1655f5...4C8C02fE,FUMBI STABLE  (FMBS),$0.00,1,https://fumbi.network/en,0x1655f5e479341Abe17a9E89A20C3C3594C8C02fE
+95,96,0xf84009...546560a4,Neronumis  (NERO),$0.00,2,https://www.neronumis.com/,0xf840099e75199255905284c38708d594546560a4
+96,97,0xDc7329...4A7F036F,GOSH Realm  (GOSH),$0.00,655,https://www.gosh.fun/#/,0xdc732972811d25de61808b3d6e0d2ac44a7f036f
+97,98,0xB987D4...5e76d723,Stabilize To...  (STBZ),$0.00,1070,https://www.stabilize.finance/,0xB987D48Ed8f2C468D52D6405624EADBa5e76d723
+98,99,0x4AB30B...d73c0e79,NGN Gluwacoi...  (NGN-G),$0.00,2193,https://gluwacoin.com/,0x4AB30B965A8Ef0F512DA064B5e574d9Ad73c0e79
+99,100,0xfB0aaA...ecE18eec,USD Gluwacoi...  (USD-G),$0.00,102,https://gluwacoin.com/,0xfb0aaa0432112779d9ac483d9d5e3961ece18eec
+100,101,0xe577e0...C70476BE,xEuro  (xEUR),$0.00,10,https://xeuro.online/#!/,0xe577e0b200d00ebdecbfc1cd3f7e8e04c70476be
+101,102,0x739ca6...Fa8ABC4B,Dai Stableco...  (anyDAI),$0.00,12,https://multichain.org/,0x739ca6d71365a08f584c8fc4e1029045fa8abc4b
+102,103,0x84e1c8...4d243168,BRL COIN  (BRLC),$0.00,1111,https://www.bitcointoyou.com/brlc.html,0x84e1c8823850d8adc3286f31bc1178f14d243168
+103,104,0xc8279c...a97064Ee,Moneybrain B...  (GBPB),$0.00,3,https://www.moneybrain.global/,0xc8279ccfe642bdf1c066d00dc13c8c59a97064ee
+104,105,0x663cBf...7e65a04B,vZWL  (vZWL),$0.00,8,http://vowcurrency.com/,0x663cBf0F8ac632ff6eEa2A249e2f6e147e65a04B
+105,106,0x2743Bb...D7C3E112,Geminon  (GEX),$0.00,19,https://geminon.fi/,0x2743Bb6962fb1D7d13C056476F3Bc331D7C3E112
+106,107,0x2b6651...340a29C8,VXL Dollar  (VXLD),$0.00,1,https://vxldollar.com/,0x2b66516d49266647e530281a94aa98e0340a29c8
+107,108,0xEc0d77...7A085868,oneETH  (oneETH),$0.00,29,https://www.ichi.org/,0xec0d77a58528a218cbf41fa6e1585c8d7a085868
+108,109,0x7B8E89...8CBdb450,sanDAI_EUR  (sanDAI...),$0.00,10,https://angle.money/,0x7b8e89b0ce7bac2cfec92a371da899ea8cbdb450
+109,110,0xf365b2...cAa342E8,HK Dollar Co...  (HKDC),$0.00,12,http://www.hkdollarcoin.com/,0xf365b2821312c18a34a08bdda2fc2af2caa342e8
+110,111,0x88d7FE...7dD75460,Jax Rupee  (JAX RU...),$0.00,-,https://jaxre.jax.money/,0x88d7FE32284f1dBD398D58222DE8DFd87dD75460
+111,112,0x082cA5...fCdE4B6f,CENTUS  (CENTUS),$0.00,13,https://centus.one/,0x082cA54e4Fc3d8aF022cDAb257122bfcfCdE4B6f
+112,113,0x9EC749...CEF47Ea5,e-Money Norw...  (ENOK),$0.00,1,https://www.e-money.com/,0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5
+113,114,0x1Fc314...168471bD,UAX  (UAX),$0.00,498,https://xreserve.fund/,0x1fc31488f28ac846588ffa201cde0669168471bd
+114,115,0x02814F...881a780D,Meme Dollar  (PINA),$0.00,162,https://www.dontdiememe.com/,0x02814f435dd04e254be7ae69f61fca19881a780d
+115,116,0xb5BaE5...957a81D7,Bitpara TRY  (BTRY),$0.00,20,https://www.bitpara.com/,0xb5bae50c084a2f99c8f990463c5eff12957a81d7
+116,117,0xaA2636...d707014E,PonteGold  (GOLDP),$0.00,8,http://pontegold.com/,0xaa2636dd8535ef02926d818670c44a07d707014e
+117,118,0x9fC689...664a1F23,Curve.fi cDA...  (cDAI+c...),$0.00,104,https://www.curve.fi/,0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23
+118,119,0xe94D53...Ae97Ea4C,ENGN COIN  (ENGN),$0.00,1,https://e-talk.xyz/,0xe94d535b6d19666bad9b39b1b253edcdae97ea4c
+119,120,0x05BBeD...1D379FFE,Naira Token  (NGNT),$0.00,260,http://ngnt.org/,0x05bbed16620b352a7f889e23e3cf427d1d379ffe
+120,121,0xeAb431...56FA7414,GOLDX  (GOLDX),$0.00,4275,https://www.hellogold.org/,0xeAb43193CF0623073Ca89DB9B712796356FA7414
+121,122,0x438971...48727874,EURM  (EURM),$0.00,8,https://moneta.holdings/,0x4389710ba2d358cc984bb70cdb5c0e9d48727874
+122,123,0x0E7f79...444B5B9A,Xank  (XANK),$0.00,302,https://xank.io/,0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a
+123,124,0x687179...AC77AC5D,eToro New Ze...  (NZDX),$0.00,17,https://www.etorox.com/exchange/new-zealand-dollar...,0x6871799a4866bb9068b36b7a9bb93475ac77ac5d
+124,125,0xdF5e0e...32D806A8,Curve.fi yDA...  (yDAI+y...),$0.00,4203,https://www.curve.fi/,0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8
+125,126,0xd3dd72...7F7426bC,DCS  (DCS),$0.00,34,https://decentralize.cash/,0xd3dd721b74d72f29677a94c4b318f16a7f7426bc
+126,127,0x29917c...fCf3b6A4,ArgenPeso  (ARGP),$0.00,379,https://argenpeso.com/,0x29917c3b1c2b4779a7b61f08d98b3da0fcf3b6a4
+127,128,0xe3DC71...A7E1198e,Unity Coin  (UNITY),$0.00,5,https://www.unity.sg/,0xe3DC713dB6689183C6dFBEB9f47540d0A7E1198e
+128,129,0xD7e0F8...8feb964C,Australian D...  (AUDT),$0.00,19,https://audt.to/,0xd7e0f80fb28233bdde0006c50568606a8feb964c
+129,130,0x739D2f...70Fab2c1,Orocrypt Gol...  (OCG),$0.00,9,https://orocrypt.com/,0x739d2fccf04889965b6f4eb7830f5b7270fab2c1
+130,131,0x53dfEa...99723ea0,Jarvis Synth...  (jCHF),$0.00,38,https://jarvis.network/,0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0
+131,132,0x555774...99355cD7,Pound Sterli...  (dGBP),$0.00,1,https://digitaltoken.money/,0x555774b4ead6accbd5eeafd0a2ab821299355cd7
+132,133,0x5BC25f...06c23831,DefiDollar  (DUSD),$0.00,389,https://app.dusd.finance/,0x5bc25f649fc4e26069ddf4cf4010f9f706c23831
+133,134,0xB1aBd7...22335350,EURO Stable ...  (EURST),$0.00,136,https://eurst.io/,0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350
+134,135,0x6C103D...e610AaBd,Universal Eu...  (UPEUR),$0.00,27,https://universalprotocol.io/,0x6c103d85c15107dce19f5a75fc746227e610aabd
+135,136,0x9baf51...b3082eFe,Exedum  (EXED),$0.00,114,https://exedum.io/,0x9baf5147505b980b2674aab556a51e03b3082efe
+136,137,0x3c6cFB...124FE8D0,KRWQ Stablec...  (KRWQ),$0.00,1388,https://usdq.platinum.fund,0x3c6cfbdaf0a04fc257b185bf98934a12124fe8d0
+137,138,0x000061...C2CF0090,TrueAUD  (TAUD),$0.00,190,https://www.trusttoken.com/trueaud/,0x00006100F7090010005F1bd7aE6122c3C2CF0090
+138,139,0xF0a93d...073Cb86b,PWRD Stablec...  (PWRD),$0.00,620,https://www.gro.xyz/,0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b
+139,140,0x735fa7...B72e6d8f,ARYZE eEUR  (eEUR),$0.00,31,https://aryze.io/,0x735fa792e731a2e8F83F32eb539841b7B72e6d8f
+140,141,0x7806A1...733E2B66,SIMBA Stable...  (SIMBA),$0.00,284,https://simba.storage/,0x7806a1b2b6056cda57d3e889a9513615733e2b66
+141,142,0xA4Bdb1...01112eBe,StableUSD  (USDS),$0.00,734,https://www.stably.io/,0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe
+142,143,0x155Ab2...65b6B609,Dacxi Platin...  (DXPT),$0.00,1,https://dacxi.com/,0x155Ab266B9226525Cfd5b1e7D8a80BAb65b6B609
+143,144,0x3d61e6...3A8E2823,USDf  (USDf),$0.00,42,https://www.dollarprotocol.com/#/home,0x3d61e677944204Cd1002202912a2B7a43A8E2823
+144,145,0x9c3545...8eCC12D0,Origin Dolla...  (OGV),$0.00,2176,https://ousd.com/,0x9c354503c38481a7a7a51629142963f98ecc12d0
+145,146,0xD450f0...47f43281,TEMPO EURT  (EURT),$0.00,5,https://tempo.eu.com/,0xD450f07B2d54032d2C8Df0534255593a47f43281
+146,147,0x147E3d...8aEB7f94,ElenaUSD  (USE),$0.00,223,https://app.elena.finance/,0x147e3d644d53adadd18a28201b91e2b98aeb7f94
+147,148,0x011C5C...CB1d0467,HK Coin  (HKC),$0.00,17,https://onecash.asia/,0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467
+148,149,0xa4335d...6adadc08,ARYZE eUSD  (eUSD),$0.00,2,https://aryze.io/,0xa4335da338ec4C07C391Fc1A9bF75F306adadc08
+149,150,0x5456BC...cF57c3B5,Anchor  (ANCT),$0.00,40,https://theanchor.io/,0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5
+150,151,0xeb2697...32a83549,dForce  (USDx),$0.00,2742,https://usdx.dforce.network/,0xeb269732ab75a6fd61ea60b06fe994cd32a83549
+151,152,0xFdb16A...E0d61b87,Vote Escrowe...  (veOGV),$0.00,-,https://ousd.com/,0xfdb16a6900ce90cb27afec95dc274d27e0d61b87
+152,153,0x6c3F90...BDe6E490,Curve.fi DAI...  (3Crv),$0.00,9341,https://www.curve.fi/,0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490
+153,154,0x2f085e...662C6165,ZARP (Rand R...  (ZARP),$0.00,4,https://www.zarp.cash/,0x2f085edec7113e54a1747bd9572b213e662c6165
+154,155,0xd7C9F0...13c3bEAc,XAI Stableco...  (XAI),$0.00,76,https://www.silo.finance/,0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc
+155,156,0x7EA2be...5E329d29,USDC  (anyUSD...),$0.00,51,https://multichain.org/,0x7ea2be2df7ba6e54b1a9c70676f668455e329d29
+156,157,0x1F3F67...8546b5DE,VNDC  (VNDC),$0.00,224789,https://vndc.io/,0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de
+157,158,0xDa446f...32B6831c,NZD Stableco...  (NZDS),$0.00,82,https://www.techemynt.com/,0xda446fad08277b4d2591536f204e018f32b6831c
+158,159,0x38D389...4FDe69C5,PayUSD  (PUSD),$0.00,129,https://payusd.io/,0x38d389c300357a26beec198f3893fba54fde69c5
+159,160,0x0f7f65...c0D63A23,e-Money Swed...  (ESEK),$0.00,1,https://www.e-money.com/,0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23
+160,161,0xB9C1cE...a4dD4302,TondoCoin  (TDC),$0.00,16,https://tondocoin.io,0xb9c1cef91bccda0588aa7308b68387afa4dd4302
+161,162,0xB0B195...a5791B0B,BOB  (BOB),$0.00,45,https://zkbob.com/,0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B
+162,163,0xF5b574...f88E8231,CRDT USD  (SCRDT),$0.00,3,https://crdt.io/scrdt,0xf5b574aaf22f8bbad4a8f544c6599482f88e8231
+163,164,0x9C2152...52A36Dad,sanUSDC_EUR  (sanUSD...),$0.00,38,https://angle.money/,0x9c215206da4bf108ae5aeef9da7cad3352a36dad
+164,165,0x2C537E...76C8D0EB,BiLira  (TRYb),$0.00,863,https://www.bilira.co/,0x2c537e5624e4af88a7ae4060c022609376c8d0eb
+165,166,0x6a4b63...0F38cA14,Hertz  (HZ),$0.00,133,http://www.gotohertz.com/,0x6a4b6316D1d03d2f2B3A0294502F8fAF0F38cA14
+166,167,0xF3DA4C...B9eEAb21,GNEISS Gold ...  (GAU),$0.00,1,https://gneiss.io/,0xF3DA4C6cB0E9e800428B9cA0F8342ac3B9eEAb21
+167,168,0x935b0b...a5700cD4,Jax Dollar  (JAX DO...),$0.00,-,https://jaxud.jax.money/,0x935b0bF173552cd55E53AD651a783430a5700cD4
+168,169,0x145668...6f08C925,USDP Stablec...  (USDP),$0.00,771,https://unit.xyz/,0x1456688345527bE1f37E9e627DA0837D6f08C925
+169,170,0xb9E6BD...9054e554,DIRHAM  (DAH),$0.00,4676,https://www.dirham.app/,0xb9e6bdcba653b5f768dd2e2faf6288df9054e554
+170,171,0x0a4b2d...81a27722,CuraDAI  (CURA),$0.00,86,https://curadai.curadao.io/,0x0a4b2d4b48a63088e0897a3f147ba37f81a27722
+171,172,0x713b30...e2203342,Global Stabi...  (GSA),$0.00,-,https://www.gsuprotocol.io/,0x713b30c4ea50830b1c3b5198ee3626dee2203342
+172,173,0x3C7b46...EFF3A66A,USDA  (USDA),$0.00,1855,https://usda.cc/en,0x3c7b464376db7c9927930cf50eefdea2eff3a66a
+173,174,0xdBA8e8...908cB2bB,SilverDollar  (SLVD),$0.00,106,https://silvertoken.com/,0xdba8e8021fe321af91fc3a08e223ef15908cb2bb
+174,175,0x5F2718...2118A290,agGOLD  (agGOLD),$0.00,-,https://angle.money,0x5F27184fA83fE0E5aEf2344B6D9eB3Bd2118A290
+175,176,0xe8dE35...4874fd32,STAR USD  (SUSD),$0.00,9,https://starsc.io/,0xe8dE351d8F949B2FFb8068a84a3bC8034874fd32
+176,177,0x24d61A...6374DfFB,GBPM  (GBPM),$0.00,6,https://moneta.holdings/,0x24d61a6988b710bdf4bf5220573c60576374dffb
+177,178,0x61fd1c...D0094498,IDKToken  (IDK),$0.00,698,http://idkfoundation.org,0x61fd1c62551850d0c04c76fce614cbced0094498
+178,179,0xdf1E9E...2E4175Ce,eToro Austra...  (AUDX),$0.00,63,https://www.etorox.com/exchange/australian-dollar/,0xdf1e9e1a218cff9888faef311d6fbb472e4175ce
+179,180,0xB7a84C...bf9672A2,CNYM  (CNYM),$0.00,6,https://moneta.holdings/,0xb7a84c8e97bc7c5d71147447cff0d598bf9672a2
+180,181,0x496266...C24B2532,Parity Block...  (XDL),$0.00,14,https://paritydollar.xyz/index.html,0x496266ff0876262b0177cef026a117abc24b2532
+181,182,0x1B5f24...7E8eC32c,Ringgit Mala...  (dMYR),$0.00,1,https://digitaltoken.money/,0x1b5f242a789a8a7d4660053ad88c225b7e8ec32c
+182,183,0x440860...7CE37c57,unified Stab...  (uSD),$0.00,183,https://www.unifihub.com/,0x44086035439E676c02D411880FcCb9837CE37c57
+183,184,0xfB0aaA...ecE18eec,USD Gluwacoi...  (USD-G),$0.00,102,https://gluwacoin.com/,0xfb0aaa0432112779d9ac483d9d5e3961ece18eec
+184,185,0x4A16BA...735DB2e0,QCAD  (QCAD),$0.00,103,http://www.stablecorp.ca/,0x4A16BAf414b8e637Ed12019faD5Dd705735DB2e0
+185,186,0x0F7271...01292A17,1SG  (1SG),$0.00,125,https://www.1.sg/,0x0f72714b35a366285df85886a2ee174601292a17
+186,187,0x740985...E7005283,Jarvis Synth...  (jGBP),$0.00,15,https://jarvis.network/,0x7409856cae628f5d578b285b45669b36e7005283
+187,188,0x652594...85f34a4e,Silvertoken  (SLVT),$0.00,233,https://silvertoken.com/,0x652594082f97392a1703d80985ab575085f34a4e
+188,189,0xc8c97d...55B39fc1,HK Monetary ...  (HKMT),$0.00,85,https://www.monetarytoken.foundation/,0xc8c97d9b0af219c2329a0179f6ab8c7a55b39fc1
+189,190,0x000000...B1c000a5,TrueGBP  (TGBP),$0.00,1273,https://www.trusttoken.com/truegbp/,0x00000000441378008ea67f4284a57932b1c000a5
+190,191,0x86B4dB...2A3FbA98,poundtoken  (GBPT),$0.00,74,http://www.poundtoken.io/,0x86B4dBE5D203e634a12364C0e428fa242A3FbA98
+191,192,0x265745...981A2Db1,Wrapped Sing...  (WSGD),$0.00,1,https://www.btse.com/en/home,0x2657455b925acc98363073461572f3a1981a2db1
+192,193,0x7a0e91...dFEFDecf,EURO TOKEN  (SREUR),$0.00,9585,https://www.socialremit.com/,0x7a0e91c4204355e0a6bbf746dc0b7e32dfefdecf
+193,194,0x000000...0d524D6E,TRYC  (TRYC),$0.00,77,https://stoken.paribu.com/tryc,0x0000000005c6b7c1fd10915a05f034f90d524d6e
+194,195,0x51be9f...8023218b,Dacxi Gold T...  (DXGT),$0.00,1,https://dacxi.com/,0x51be9f12DD5095C5B1ACF90E7e0aA4Aa8023218b
+195,196,0x687d40...bf327C39,Soteria  (USDS),$0.00,8,https://www.soteriacurrency.com/,0x687d401162e47e7003b2871203fa4b1bbf327c39
+196,197,0x648E5c...Aae150b8,Echo CNY  (CNYE),$0.00,8,https://cny-e.com/,0x648E5c72316bb75a0a7171354c18F341Aae150b8
+197,198,0x0BaDD7...c5E6c17c,e-Money Euro  (EEUR),$0.00,4,https://www.e-money.com/,0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c
+198,199,0xD2af83...6ed6FA62,Wrapped OUSD  (WOUSD),$0.00,20,https://ousd.com/,0xD2af830E8CBdFed6CC11Bab697bB25496ed6FA62
+199,200,0x7C9741...f1049DE8,Wrapped USD  (WUSD),$0.00,137,https://covenants.eth.link/#/,0x7c974104df9dd7fb91205ab3d66d15aff1049de8
+200,201,0x8CB24e...B1919850,ZARP Stablec...  (ZARP),$0.00,32,https://zarp.cash/,0x8CB24ed2e4f7e2065f4eB2bE5f6B0064B1919850
+201,202,0xaA2636...d707014E,PonteGold  (GOLDP),$0.00,8,http://pontegold.com/,0xaa2636dd8535ef02926d818670c44a07d707014e
+202,203,0x171f9c...29baB048,Gold Standar...  (AUS),$0.00,360,https://goldsilverstandard.com/,0x171f9cfc136f2b2aaa148fcc6b660a2029bab048
+203,204,0x9BAdd7...1290acdD,OERO  (OEUR),$0.00,9,https://oero.io/,0x9badd738839434696974f374c1828b071290acdd
+204,205,0x6F0f28...b156365a,Elena Protoc...  (ELENA),$0.00,229,https://app.elena.finance/,0x6f0f28ceee6ae686ee0f939375674c01b156365a
+205,206,0x61fd1c...D0094498,IDKToken  (IDK),$0.00,698,http://idkfoundation.org,0x61fd1c62551850d0c04c76fce614cbced0094498
+206,207,0xdF5e0e...32D806A8,Curve.fi yDA...  (yDAI+y...),$0.00,4203,https://www.curve.fi/,0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8
+207,208,0xb3B209...1015f1FE,sanFRAX_EUR  (sanFRA...),$0.00,9,https://angle.money,0xb3b209bb213a5da5b947c56f2c770b3e1015f1fe
+208,209,0xe3DC71...A7E1198e,Unity Coin  (UNITY),$0.00,5,https://www.unity.sg/,0xe3DC713dB6689183C6dFBEB9f47540d0A7E1198e
+209,210,0x92830e...bAd7db22,SGD Tracker  (bluSGD),$0.00,144,https://bluejay.finance/,0x92830ef7c8d651ed3a708053c602e807bad7db22
+210,211,0x438971...48727874,EURM  (EURM),$0.00,8,https://moneta.holdings/,0x4389710ba2d358cc984bb70cdb5c0e9d48727874
+211,212,0x35de3E...137288fe,Value Set Do...  (VSD),$0.00,42,https://valueset.finance/,0x35de3eccaccb02e627062b5d63aa941b137288fe
+212,213,0xed03Ed...8d9464AA,TetherToken  (MXNt),$0.00,5,https://tether.to/,0xed03Ed872159e199065401b6d0D487d78d9464AA
+213,214,0x30365E...71d01f7C,Dirham  (DHS),$0.00,6702,https://dirhamcrypto.io/#/,0x30365ed4ca8173013ad948b9842f34ac71d01f7c
+214,215,0xdf1E9E...2E4175Ce,eToro Austra...  (AUDX),$0.00,63,https://www.etorox.com/exchange/australian-dollar/,0xdf1e9e1a218cff9888faef311d6fbb472e4175ce

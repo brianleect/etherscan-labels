@@ -1,0 +1,30 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xa59075221b50c598aed0eae0bb9869639513af0d,Arbitrum Nova: Challenge Manager,0 ETH,0
+1,0xc4448b71118c9071bcb9734a0eac55d18a153949,Arbitrum Nova: Delayed Inbox,0 ETH,132332
+2,0x23122da8c581aa7e0d07a36ff1f16f799650232f,Arbitrum Nova: L1 Arb-Custom Gateway,0 ETH,4
+3,0xb2535b988dce19f9d71dfb22db6da744acac21bf,Arbitrum Nova: L1 ERC20 Gateway,0 ETH,2
+4,0xc840838bc438d73c16c2f8b22d2ce3669963cd48,Arbitrum Nova: L1 Gateway Router,0 ETH,1039
+5,0xe4e2121b479017955be0b175305b35f312330bae,Arbitrum Nova: L1 WETH Gateway,0 ETH,2
+6,0x7adca86896c4220f19b2f7f9746e7a99e57b0fc5,Arbitrum Nova: One Step Proof Entry,0 ETH,1
+7,0x8323b58c522690e6afae94044825f0c79a93d236,Arbitrum Nova: One Step Prover 0,0 ETH,1
+8,0x9cbc3f14a57ce6ead0e770f528e2f1e8b8c37613,Arbitrum Nova: One Step Prover Host Io,0 ETH,1
+9,0x1efb116ebc38ce895eb2e5e009234e0e0836f2f5,Arbitrum Nova: One Step Prover Math,0 ETH,1
+10,0x7a6c0503107858f82a790e481024134092e19979,Arbitrum Nova: One Step Prover Memory,0 ETH,1
+11,0xfb209827c58283535b744575e11953dcc4bead88,Arbitrum Nova: Rollup,2 ETH,7
+12,0x211e1c4c7f1bf5351ac850ed10fd68cffcf6c21b,Arbitrum Nova: Sequencer Inbox,0 ETH,9882
+13,0xcee284f754e854890e311e3280b767f80797180d,Arbitrum One: L1 Arb - Custom Gateway,0 ETH,45
+14,0xd3b5b60020504bc3489d6949d545893982ba3011,Arbitrum One: L1 DAI Gateway,0 ETH,5
+15,0xa3a7b6f88361f48403514059f1f16c8e78d60eec,Arbitrum One: L1 ERC20 Gateway,0 ETH,31
+16,0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef,Arbitrum One: L1 Gateway Router,0 ETH,86032
+17,0xd92023e9d9911199a6711321d1277285e6d4e2db,Arbitrum One: Wrapped Ether Gateway,0 ETH,3
+18,0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a,Arbitrum: Bridge,"935,748.29679159 ETH",29
+19,0xe5896783a2f463446e1f624e64aa6836be4c6f58,Arbitrum: Challenge Manager,0 ETH,0
+20,0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f,Arbitrum: Delayed Inbox,0 ETH,884247
+21,0x3e1f62aa8076000c3218493fe3e0ae40bcb9a1df,Arbitrum: OneStepProof Entry,0 ETH,1
+22,0x499a4f574f2e4f8837e242adec86223ef7deefcc,Arbitrum: OneStepProver 0,0 ETH,1
+23,0xb965b08a826d4c7634e0df4c5ef5e1d1f9b5d13a,Arbitrum: OneStepProver Host Io,0 ETH,1
+24,0xd315ac3a82e8edaa84b347f478e0f59801747970,Arbitrum: OneStepProver Math,0 ETH,1
+25,0xb556f3bb0fdcfeaf81a1c393e024a69a3327b676,Arbitrum: OneStepProver Memory,0 ETH,1
+26,0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840,Arbitrum: Outbox 4,0 ETH,25353
+27,0x5ef0d09d1e6204141b4d37530808ed19f60fba35,Arbitrum: Rollup,2 ETH,2
+28,0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6,Arbitrum: Sequencer Inbox,0 ETH,83835
