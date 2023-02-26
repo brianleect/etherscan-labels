@@ -55,6 +55,8 @@ def getLabel(label, label_type="account", input_type='single'):
             try:
                 # Select relevant table from multiple tables in the page, based on current table index
                 curTable = pd.read_html(driver.page_source)[table_index]
+                if label_type == "account":
+                    curTable = curTable[:-1] # Remove last item which is just sum
                 print(curTable)
 
                 # Retrieve all addresses from table
@@ -73,8 +75,6 @@ def getLabel(label, label_type="account", input_type='single'):
                 print(label, "Skipping label due to error")
                 return
 
-            if label_type == "account":
-                curTable = curTable[:-1] # Remove last item which is just sum
             table_list.append(curTable)
 
             # If table is less than 100, then we have reached the end
@@ -188,5 +188,5 @@ if (retrievalType == 'all'):
     getAllLabels()
 else:
     singleLabel = input('Enter label of interest: ')
-    label_type = input('Enter label type [account/token]: ')
+    label_type = input('Enter label type (account/token): ')
     getLabel(singleLabel, label_type)
