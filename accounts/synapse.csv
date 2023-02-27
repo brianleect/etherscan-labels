@@ -1,0 +1,12 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x2796317b0ff8538f253012862c06787adfb8ceb6,Synapse: Bridge,5.60999999 ETH,147195
+1,0xa2569370a9d4841c9a62fc51269110f2eb7e0171,Synapse: Bridge Zap 1,0 ETH,14536
+2,0x518b553fe47208389271745155a6abf4a961ef28,Synapse: Bridge Zap 2,0 ETH,400
+3,0xd10ef2a513cee0db54e959ef16cac711470b62cf,Synapse: MiniChef,0 ETH,7529
+4,0x647489df0673e17db3163c47d5233ebb6f5cac70,Synapse: Timelock,0 ETH,3
+5,0xdf3e63507100dfded269ee113d6c8fb9dc086546,Synapse Network: Vesting,0 ETH,10979
+6,0x3ee02f08b801b1990ac844d8cd2f119ba6fb9bcf,Synapse: Bridge Config,0 ETH,103
+7,0x31fe393815822edacbd81c2262467402199efd0d,Synapse: Bridge Implementation,0 ETH,20
+8,0x6571d6be3d8460cf5f7d6711cd9961860029d85f,Synapse: Bridge Zap 3,0 ETH,125652
+9,0x1b84765de8b7566e4ceaf4d0fd3c5af52d3dde4f,Synapse: nUSD,0 ETH,508
+10,0x1116898dda4015ed8ddefb84b6e8bc24528af2d8,Synapse: Stable Liquidity Pool,0 ETH,1176

@@ -1,0 +1,127 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x2f06e43d850ac75926fa2866e40139475b58cb16,Arbitrum: Bridge 2,0 ETH,1
+1,0x84efa170dc6d521495d7942e372b8e4b2fb918ec,Arbitrum: Bridge Utils,0 ETH,1
+2,0x048cc108763de75e080ad717bd284003aa49ea15,Arbitrum: Inbox 2,0 ETH,2
+3,0x98659bdffa4fef82cd37771cdbff3ddda21ee8e9,Arbitrum: L1 Custom Gateway 2,0 ETH,1
+4,0x0acb04878b3675ef40b2e9392622ce3c1e9cc99e,Arbitrum: L1 ERC20 Gateway 2,0 ETH,1
+5,0x62285266b5ec3d5b8867c84b807b79b2c13892ec,Arbitrum: L1 Gateway Router 2,0 ETH,1
+6,0xb91f4be773f5a1b9b0dc1085663b3535a6ebeee2,Arbitrum: Outbox 2,0 ETH,1
+7,0x171a2624302775ef943f4f62e76fd22a6813d7c4,Arbitrum: Proxy Admin,0 ETH,16
+8,0x9ad46fac0cf7f790e5be05a0f15223935a0c0ada,Arbitrum: Proxy Admin 2,0 ETH,19
+9,0x637e1cd58ad3f0071cecb281395e1823a96a553f,Arbitrum: Rollup 2,0 ETH,1
+10,0xb872ea300edba3872873fa1aa33db897c4d2cb66,Arbitrum: Rollup Event Bridge 2,0 ETH,1
+11,0x9685e7281fb1507b6f141758d80b08752faf0c43,Arbitrum: Sequencer Inbox 2,0 ETH,3
+12,0x2b36f23ce0babd57553b26da4c7a0585bac65dc1,Arbitrum: Validator Utils,0 ETH,1
+13,0xe17d8fa6bc62590f840c5dd35f300f77d55cc178,Arbitrum: Validator Wallet Creator,0 ETH,7
+14,0x2742a152be5032dafbc885ba1801ffbc2345de7b,Deversifi: FRI Statement,0 ETH,3148
+15,0xd4cf925b9d0f4d1ccf82ab97c25130657474ee19,Deversifi: GPS Statement Verifier,0 ETH,490
+16,0xc8e4ee91e7c14d625b829d2c2e87cf7348eca449,Deversifi: Memory Page Fact Registry,0 ETH,490
+17,0x0af10d116a5cf10ca8835a0d775e0b248114fad0,Deversifi: Merkle Statement,0 ETH,1468
+18,0xefbcce4659db72ec6897f46783303708cf9acef8,dYdX: Memory Page Fact Registry,0 ETH,60156
+19,0xbc1bcc29edf605095bf4fe7a953b7c115ecc8cad,nahmii: Balance Tracker,0 ETH,2
+20,0xcc8d82f6ba952966e63001c7b320eef2ae729099,nahmii: Client Fund,1.29788 ETH,1306
+21,0x042065416c5c665dc196076745326af3cd840d15,Optimism: Fraud Verifier,0 ETH,1
+22,0x99c9fc46f92e8a1c0dec1b1747d010903e884be1,Optimism: Gateway,"276,950.42800842 ETH",316997
+23,0x467194771dae2967aef3ecbedd3bf9a310c76c65,Optimism: L1 Escrow,0 ETH,30
+24,0xde1fcfb0851916ca5101820a69b13a4e276bd81f,Optimism: Lib Address Manager,0 ETH,21
+25,0xcd76de5c57004d47d0216ec7dabd3c72d8c49057,Optimism: Mock OVM Bond Manager,0 ETH,1
+26,0x4bf681894abec828b212c906082b444ceb2f6cf6,Optimism: OVM Canonical Transaction Chain,0 ETH,23404
+27,0x3ea1a3839d8ca9a7ff3c567a9f36f4c4dbecc3ee,Optimism: OVM Chain Storage Container CTC Batches,0 ETH,1
+28,0xa0b912b3ea71a04065ff82d3936d518ed6e38039,Optimism: OVM Chain Storage Container CTC Queue,0 ETH,1
+29,0x77ebfdfcc906ddcda0c42b866f26a8d5a2bb0572,Optimism: OVM Chain Storage Container SCC Batches,0 ETH,1
+30,0x2745c24822f542bbffb41c6cb20edf766b5619f5,Optimism: OVM Execution Manager,0 ETH,1
+31,0xf26391fbb1f77481f80a7d646ac08ba3817ea891,Optimism: OVM L1 Multi Message Relayer,0 ETH,6
+32,0xfe1f9cf28ecdb12110aa8086e6fd343ea06035cc,Optimism: OVM Safety Checker,0 ETH,1
+33,0xe969c2724d2448f1d1a6189d3e2aa1f37d5998c1,Optimism: OVM State Commitment Chain,0 ETH,4521
+34,0xd0e3e318154716bd9d007e1e6b021eab246ff98d,Optimism: OVM State Manager Factory,0 ETH,1
+35,0x38a6ed6fd76035684cadef38cf49a2fffa782b67,Optimism: OVM State Transitioner Factory,0 ETH,1
+36,0x25ace71c97b33cc4729cf772ae268934f7ab5fa1,Optimism: Proxy OVM L1 Cross Domain Messenger,0 ETH,19182
+37,0x28780349a33eee56bb92241baab8095449e24306,Rhino.fi: Committee,0 ETH,2018
+38,0x86e527bc3c43e6ba3eff3a8cad54a7ed09cd8e8b,ZKSwap V2: Governance,0 ETH,2
+39,0x0dcce462ddea102d3ecf84a991d3ecfc251e02c7,ZKSwap V2: Upgrade Gatekeeper,0 ETH,0
+40,0x94b9401945a9bc06ce5b69e6db3c6b671aabc829,ZKSwap V2: Verifier,0 ETH,1
+41,0xe26ebb18144cd2d8dcb14ce87fdcfbeb81bacad4,ZKSwap V2: ZkSync Commit Block,0 ETH,1
+42,0xc0221a4dfb792aa71ce84c2687b1d2b1e7d3eea0,ZKSwap V2: ZKSync Exit,0 ETH,1
+43,0x714b2d10210f2a3a7aa614f949259c87613689ab,ZKSwap: Upgrade Gatekeeper,0 ETH,0
+44,0x2f70f6d864f8f597a0ef57addf24323dfab5797f,ZKSwap: ZKSync,0 ETH,2
+45,0x9a97008cccbdec3413f9304602427e66895996a0,zkSync: Governance,0 ETH,1
+46,0x5290e9582b4fb706eadf87bb1c129e897e04d06d,zkSync: Proxy Verifier,0 ETH,0
+47,0x5140cc54bb876abe1ba67d15ac66ad2d42fdf46a,zkSync: Token Governance,0 ETH,122
+48,0x38a43f4330f24fe920f943409709fc9a6084c939,zkSync: Upgrade Gatekeeper,0 ETH,6
+49,0x58772d1a8415cc377ed678ea86aaa2a0c8d05125,,0 ETH,12
+50,0x96e471b5945373de238963b4e032d3574be4d195,0xHabitat: Rollup Bridge,0 ETH,466
+51,0x6ad1dc4ab5475d9f8cd10118c9d28b06f0c8a2d9,Arbitrum One: Challenge,0 ETH,1
+52,0xcee284f754e854890e311e3280b767f80797180d,Arbitrum One: L1 Arb - Custom Gateway,0 ETH,45
+53,0xd3b5b60020504bc3489d6949d545893982ba3011,Arbitrum One: L1 DAI Gateway,0 ETH,5
+54,0xa3a7b6f88361f48403514059f1f16c8e78d60eec,Arbitrum One: L1 ERC20 Gateway,0 ETH,31
+55,0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef,Arbitrum One: L1 Gateway Router,0 ETH,86031
+56,0x4812be53be02b9f38063cf55fef0a19d2ba8bb3a,Arbitrum One: One Step Proof,0 ETH,1
+57,0x2df287a3b2fd0916c0b3d4882201ff360acd6ec3,Arbitrum One: One Step Proof 2,0 ETH,1
+58,0xce81e7d009e53c02242b724819df1869da5e9fd8,Arbitrum One: One Step Proof Hash,0 ETH,1
+59,0xd92023e9d9911199a6711321d1277285e6d4e2db,Arbitrum One: Wrapped Ether Gateway,0 ETH,3
+60,0x1e13bb8cf5f44c4c7fc585797336eaae3935113c,Arbitrum: Challenge Factory,0 ETH,1
+61,0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f,Arbitrum: Delayed Inbox,0 ETH,884173
+62,0x27a6cf5e8350b44273fb10f98d78525c5dad6d8a,Arbitrum: Node Factory,0 ETH,1
+63,0x667e23abd27e623c11d4cc00ca3ec4d0bd63337a,Arbitrum: Outbox,0 ETH,10
+64,0x14797f5432f699cb4d4db04df599b74952d78d7b,Arbitrum: Outbox Entry,0 ETH,0
+65,0xc8c3194ed3be7b2393fefe811a2cc39297442c0b,Arbitrum: Rollup Event Bridge,0 ETH,0
+66,0x41a57f5581adf11b25f3edb7c1db19f18bb76734,Aztec: Fee Distributor,0.47470336 ETH,26
+67,0x737901bea3eeb88459df9ef1be8ff3ae1b42a2ba,Aztec: Private Rollup Bridge,"1,541.3906202 ETH",94698
+68,0x3937f965e824fe4e7885b8662669821966d3f293,Aztec: Turbo Verifier 2,0 ETH,1
+69,0x2c0df87e073755139101b35c0a51e065291cc2d3,dydx: Bridge,0 ETH,1
+70,0xf6b83ccadeee478fc372af6ca7069b14fbc5e1b1,dydx: FRI Statement,0 ETH,119442
+71,0x8129b737912e17212c8693b781928f5d0303390a,dYdX: L2 On-Chain Operator,32.78100687 ETH,247964
+72,0xd54f502e184b6b739d7d27a6410a67dc462d69c8,dYdX: L2 Perpetual Smart Contract,0 ETH,156785
+73,0x0d62bac5c346c78dc1b27107cabc5f4de057a830,dYdX: Merkle Statement,0 ETH,41007
+74,0x6880f6fd960d1581c2730a451a22eed1081cfd72,Fuel: Bridge,0.2512 ETH,24
+75,0x75ace7a086ea0fb1a79e43cc6331ad053d8c67cb,Gluon Network,5.88186685 ETH,2836
+76,0x563052914fd973a2305763269a106a7b0b6d50cc,Gluon Network: Derivatives Data,0 ETH,1
+77,0xdfbfe895e07e5115773cb9631cb2148114589cac,Gluon Network: Derivatives Logic,0 ETH,2303
+78,0xda88efa53c85afa30564bb651a2e76b99a232082,Gluon Network: Legacy Tokens Extension,0 ETH,326
+79,0x0fc25c7931679b838209c484d49df0cb9e633c41,Gluon Network: Registry Data,0 ETH,1
+80,0x385827ac8d1ac7b2960d4abc303c843d9f87bb0c,Gluon Network: Registry Logic,0 ETH,1263
+81,0x0d283d685f0a741c463846176e4c8eff90d3f9ec,Gluon Network: Spot Data,0 ETH,1
+82,0x2d627ff93d32f5febb04d68409a889895b4aef2d,Gluon Network: Spot Logic,0 ETH,1187
+83,0xab3ac436d66cbeedc734ed2c1562c3a213c9bc77,Gluon Network: Stake Data,0 ETH,1
+84,0x84e34fd82fc368f1a072075114adc4b552a7a1f4,Gluon Network: Stake Logic,0 ETH,33
+85,0x5fdcca53617f4d2b9134b29090c87d01058e27e9,Immutable X: Bridge,"8,361.57226213 ETH",397517
+86,0xb8563ad5af1f79dd04937be8b572318c8e6f43ac,ImmutableX: Bridge,0 ETH,3
+87,0x16ba0f221664a5189cf2c1a7af0d3abfc70aa295,ImmutableX: Committee,0 ETH,14141
+88,0xe74999fbc71455462c8143b56797d3bb84c1064b,ImmutableX: FRI Statement,0 ETH,1261
+89,0x45769d52d47e9cbfac9a2df68c2051adb0630f17,ImmutableX: Generic Proving Service Verifier,0 ETH,168
+90,0x076cf2113b6eed19883a92454c473998fc8479e5,ImmutableX: Memory Fact Registry,0 ETH,168
+91,0x26ec188f555f0c491083d280cf8162e9d5e0d386,ImmutableX: Merkle Statement,0 ETH,502
+92,0x50002cdfe7ccb0c41f519c6eb0653158d11cd907,Layer Zero: Aptos Bridge,0.00816033 ETH,28916
+93,0xfe81ab6930a30bdae731fe7b6c6abfbeafc014a8,Layer2Finance: Registry,0 ETH,20
+94,0xf86fd6735f88d5b6aa709b357ad5be22cedf1a05,Layer2Finance: Rollup Chain,0 ETH,7055
+95,0x5d3c0f4ca5ee99f8e8f59ff9a5fab04f6a7e007f,Layer2Finance: Transition Disputor,0 ETH,1
+96,0x39b9bf169a7e225ba037c443a40460c77438ea14,Loopring: Agent Registry,0 ETH,112
+97,0x6150343e0f43a17519c0327c41edd9ebe88d01ef,Loopring: Block Verifier,0 ETH,25
+98,0x0baba1ad5be3a5c0a66e7ac838a129bf948f1ea4,Loopring: Exchange v2,5.48 ETH,109561
+99,0x674bdf20a0f284d710bc40872100128e2d66bd3f,Loopring: Exchange v2 Deposit,"17,268.14332848 ETH",34
+100,0xec3cc6cf0252565b56fc7ac396017df5b9b78a31,Loopring: Exchange v2 Fast Withdrawal,0 ETH,9782
+101,0xe56d6ccab6551932c0356e4e8d5daf0630920c71,Loopring: Loopring V3,0 ETH,3
+102,0x070cb1270a4b2ba53c81cef89d0fd584ed4f430b,OMG Network V1: ERC-20 Vault,0 ETH,396
+103,0x3eed23ea148d356a72ca695dbce2fceb40a32ce0,OMG Network V1: ETH Vault,17.39352331 ETH,361
+104,0x48d7a6bbc428bca019a560cf3e8ea5364395aad3,OMG Network V1: Exit Game,0.238 ETH,212
+105,0x0d4c1222f5e839a911e2053860e45f18921d72ac,OMG Network V1: Plasma Framework,0 ETH,5376
+106,0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00,OMG Network: Boba Gateway,"2,664.24072869 ETH",11676
+107,0x649f37203c365de759c8fc8ca35bebf5448f70be,OMG Network: ETH Deposit Verifier,0 ETH,1
+108,0x5e4e65926ba27467555eb562121fac00d24e9dd2,Optimism: Canonical Transaction Chain,0 ETH,574316
+109,0x10e6593cdda8c58a1d0f14c5164b376352a55f2f,Optimism: DAI Bridge,0 ETH,3741
+110,0x401f6c983ea34274ec46f84d70b31c151321188b,Polygon (Matic): Plasma Bridge,0 ETH,269789
+111,0x9d62cdc389caab35ada830a7c6ae847d5e8512c6,Polygon Hermez: Auction Protocol Implementation,0 ETH,1
+112,0x6d85d79d69b7e190e671c16e8611997152bd3e95,Polygon Hermez: Hermez,0 ETH,1
+113,0x392361427ef5e17b69cfdd1294f31ab555c86124,Polygon Hermez: Withdrawal,0.99986689 ETH,36
+114,0xa68d85df56e733a06443306a095646317b5fa633,Polygon: Hermez,30.10607229 ETH,11579
+115,0x5d22045daceab03b158031ecb7d9d06fad24609b,Rhino.fi: Bridge,"1,371.98740533 ETH",17199
+116,0xf5c9f957705bea56a7e806943f98f7777b995826,Sorare: L2 Bridge,"12,672.12976529 ETH",192573
+117,0x045e507925d2e05d114534d0810a1abd94aca8d6,Synthetix: L2 Bridge,0 ETH,5364
+118,0xcd9d4988c0ae61887b075ba77f08cbfad2b65068,Synthetix: L2 Deposit,0 ETH,6097
+119,0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f,Synthetix: L2 Deposit Escrow,0 ETH,31
+120,0x8eca806aecc86ce90da803b080ca4e3a9b8097ad,ZKSwap,378.55015846 ETH,142863
+121,0x6de5bdc580f55bc9dacafcb67b91674040a247e3,ZKSwap: V2 Bridge,33.65004657 ETH,44197
+122,0xabea9132b05a70803a4e85094fd0e1800777fbef,zkSync,"23,522.89039714 ETH",860288
+123,0x18c208921f7a741510a7fc0cfa51e941735dae54,zkSync: L2 Operator,0.00014306 ETH,15176
+124,0x01c3a1a6890a146ac187a019f9863b3ab2bff91e,zkSync: L2 Operator V1,15.02667184 ETH,22039
+125,0xda7357bbce5e8c616bc7b0c3c86f0c71c5b4eabb,zkSync: Old L2 Operator,0.00004741 ETH,54434

@@ -1,0 +1,41 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xd7a4244f3a17468f7b0568d6a43fde94b11c9c11,Index Protocol: 0x API Adapter,0 ETH,1
+1,0x9d648e5564b794b918d99c84b0fbf4b0bf36ce45,Index Protocol: 0x Flash Mint,0 ETH,46
+2,0x5c0d0a9a0c3a0a5b591496ff894686893b69faa2,Index Protocol: Compound Flash Mint,0 ETH,1
+3,0xa0a98eb7af028be00d04e46e1316808a62a8fd59,Index Protocol: Debt Issuance Module v2,0 ETH,19
+4,0xd2463675a099101e36d85278494268261a66603a,Index Protocol: Index Protocol Controller,0 ETH,8
+5,0xb9083dee5e8273e54b9db4c31ba9d4ab7c6b28d3,Index Protocol: Integration Registry,0 ETH,4
+6,0x9da9992b5d01bd0efb1ee8310e8011dc837bd476,Index Protocol: Notional Flash Mint,0 ETH,13
+7,0x600d9950c6ecaef98cc42fa207e92397a6c43416,Index Protocol: Notional Trade Module,0 ETH,13
+8,0x2758bf6af0ec63f1710d3d7890e1c263a247b75e,Index Protocol: Set Token Creator,0 ETH,16
+9,0x165edf07bb61904f47800e13f5120e64c4b9a186,Index Protocol: Streaming Fee Module,0 ETH,11
+10,0x64177fd4dfad1a6cff95e1ebba403bb73c6a8e41,Index Protocol: Synthetix Exchange Adapter,0 ETH,1
+11,0x0f5c21d4929f6f17119f43b0c51e665f12367a19,Index Protocol: Uniswap v2 Exchange Adapter v2,0 ETH,1
+12,0xe6382d2d44402bad8a03f11170032abcf1df1102,Index Protocol: Uniswap v3 Exchange Adapter v2,0 ETH,1
+13,0x09b9e7c7e2daf40fcb286fe6b863e517d5d5c40f,Index Protocol: Airdrop Module,0 ETH,1
+14,0x0b498ff89709d3838a063f1dfa463091f9801c2b,Index Protocol: BTC 2x Flexible Leverage Index,0.5 ETH,2330
+15,0x26e316f5b3819264df013ccf47989fb8c891b088,Index Protocol: Community Treasury Year 1 Vesting,0 ETH,15
+16,0xd89c642e52bd9c72bcc0778bcf4de307cc48e75a,Index Protocol: Community Treasury Year 2 Vesting,0 ETH,6
+17,0x71f2b246f270c6af49e2e514ca9f362b491fbbe1,Index Protocol: Community Treasury Year 3 Vesting,0 ETH,1
+18,0x79530caa46b1bb1cdd1b19e418af4d7347c5fcdf,Index Protocol: Curve stETH Exchange Adapter,0 ETH,1
+19,0x5c29aa6761803bcfda7f683eaa0ff9bddda3649d,Index Protocol: DeFi Pulse Year 1 Vesting,0 ETH,1
+20,0xce3c6312385fcf233ab0de574b0cb1a588566c3f,Index Protocol: DeFi Pulse Year 2 Vesting,0 ETH,2
+21,0x0f58793e8cf39d6b60919ffaf773a7f95a568146,Index Protocol: DeFi Pulse Year 3 Vesting,0 ETH,1
+22,0xe501d177fe2172e1da8a6d338a44d9f89705ed5c,Index Protocol: Deployer,0.1 ETH,29
+23,0x37e6365d4f6ae378467b0e24c9065ce5f06d70bf,Index Protocol: Deployer 2,0.82357509 ETH,741
+24,0xb93b505ed567982e2b6756177ddd23ab5745f309,Index Protocol: DPI staking rewards v2,0 ETH,5947
+25,0x341c05c0e9b33c0e38d64de76516b2ce970bb3be,Index Protocol: dsETH Token,0 ETH,40
+26,0xdd111f0fc07f4d89ed6ff96dbab19a61450b8435,Index Protocol: Early Community Rewards,0 ETH,615
+27,0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd,Index Protocol: ETH 2x Flexible Leverage Index,0.39636944 ETH,13633
+28,0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84,Index Protocol: icETH Token,0.055 ETH,2747
+29,0x66a7d781828b03ee1ae678cd3fe2d595ba3b6000,Index Protocol: Index Methodologist Vesting,0 ETH,11
+30,0x0954906da0bf32d5479e25f46056d22f08464cab,Index Protocol: INDEX Token,0 ETH,15604
+31,0x8f06fba4684b5e0988f215a47775bb611af0f986,Index Protocol: Initial Liquidity Mining Rewards,0 ETH,7972
+32,0x72e364f2abdc788b7e918bc238b21f109cd634d7,Index Protocol: Metaverse Index,1.16505643 ETH,15422
+33,0x9467cfadc9de245010df95ec6a585a506a8ad5fc,Index Protocol: MultiSig,0.0451373 ETH,378
+34,0xf64d061106054fe63b0aca68916266182e77e9bc,Index Protocol: Set Labs Year 1 Vesting,0 ETH,3
+35,0x4c11dfd35a4fe079b41d5d9729ed34c00d487712,Index Protocol: Set Labs Year 2 Vesting,0 ETH,4
+36,0x0d627ca04a97219f182dab0dc2a23fb4a5b02a9d,Index Protocol: Set Labs Year 3 Vesting,0 ETH,1
+37,0xfaab3f8f3678f68aa0d307b66e71b636f82c28bf,Index Protocol: Trade Module,0 ETH,1
+38,0x462a63d4405a6462b157341a78fd1babfd3f8065,Index Protocol: Treasury,0 ETH,170
+39,0xfafd604d1cc8b6b3b6cc859cf80fd902972371c1,Index Protocol: Treasury Operations,0.8 ETH,655

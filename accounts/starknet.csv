@@ -1,0 +1,10 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xc662c410c0ecf747543f5ba90660f6abebd9c8c4,StarkNet: Core Contract,0 ETH,20969
+1,0x0437465dfb5b79726e35f08559b0cbea55bb585c,StarkNet: L1 Escrow,0 ETH,12
+2,0x96375087b2f6efc59e5e0dd5111b4d090ebfdd8b,StarkNet: Memory Page Fact Registry,0 ETH,19097
+3,0x2c169dfe5fbba12957bdd0ba47d9cedbfe260ca7,StarkNet: Operator,13.45816425 ETH,20973
+4,0x659a00c33263d9254fed382de81349426c795bb6,StarkNet: StarkGate DAI Bridge,0 ETH,6341
+5,0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419,StarkNet: StarkGate ETH Bridge,"3,580.32536697 ETH",199582
+6,0xf6080d9fbeebcd44d89affbfd42f098cbff92816,StarkNet: StarkGate USDC Bridge,0 ETH,3056
+7,0xbb3400f107804dfb482565ff1ec8d8ae66747605,StarkNet: StarkGate USDT Bridge,0 ETH,1304
+8,0x283751a21eafbfcd52297820d27c1f1963d9b5b4,StarkNet: StarkGate WBTC Bridge,0 ETH,145
