@@ -148,16 +148,22 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
         index += 100
         if (len(newTable.index) != 101):
             break
+
     df = pd.concat(table_list)  # Combine all dataframes
     df.fillna('', inplace=True)  # Replace NaN as empty string
+    df.index = range(len(df.index))  # Fix index for df
 
     # Prints length and save as a csv
     print(label, 'Df length:', len(df.index))
     df.to_csv(savePath + '{}s/{}.csv'.format(label_type, label))
 
     # Save as json object with mapping address:nameTag
-    addressNameDict = dict([(address, nameTag)
-                           for address, nameTag in zip(df.Address, df['Name Tag'])])
+    if label_type == "account":
+        addressNameDict = dict([(address, nameTag)
+                                for address, nameTag in zip(df['Address'], df['Name Tag'])])
+    if label_type == "token":
+        addressNameDict = dict([(address, nameTag)
+                                for address, nameTag in zip(df['Contract Address'], df['Token Name'])])
     with open(savePath + '{}s/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
@@ -167,7 +173,7 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
         if (endOrContinue == 'exit'):
             driver.close()
         else:
-            getLabel(endOrContinue, label_type=label_type)
+            getLabelOldFormat(endOrContinue, label_type=label_type)
 
 
 # Combines all JSON into a single file combinedLabels.json
