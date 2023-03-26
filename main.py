@@ -227,11 +227,14 @@ def getAllLabels():
 
     elems = driver.find_elements("xpath", "//a[@href]")
     labels = []
-    labelIndex = len(baseUrl + '/accounts/label/')
+    accountsIndex = len(baseUrl + '/accounts/label/')
+    tokensIndex = len(baseUrl + '/tokens/label/')
     for elem in elems:
         href = elem.get_attribute("href")
         if (href.startswith(baseUrl + '/accounts/label/')):
-            labels.append(href[labelIndex:])
+            labels.append(href[accountsIndex:])
+        elif (href.startswith(baseUrl + '/tokens/label/')):
+            labels.append(href[tokensIndex:])
 
     print(labels)
     print('L:', len(labels))
