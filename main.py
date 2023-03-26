@@ -140,6 +140,14 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
         except Exception as e:
             print(e)
             print(label, "Skipping label due to error")
+
+            # Save empty CSV and JSON
+            empty_df = pd.DataFrame()
+            empty_df.to_csv(savePath + '{}s/{}.csv'.format(label_type, label))
+
+            empty_dict = {}
+            with open(savePath + '{}s/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
+                json.dump(empty_dict, f, ensure_ascii=True)
             return
 
         index += 100
