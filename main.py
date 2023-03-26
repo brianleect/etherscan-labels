@@ -109,10 +109,10 @@ def getLabel(label, label_type="account", input_type='single'):
     # Save as json object with mapping address:nameTag
     if label_type == "account":
         addressNameDict = dict([(address, nameTag)
-                                for address, nameTag in zip(df.Address, df['Name Tag'])])
+                                for address, nameTag in zip(df['Address'], df['Name Tag'])])
     if label_type == "token":
         addressNameDict = dict([(address, nameTag)
-                                for address, nameTag in zip(df.Address, df['Token Name'])])
+                                for address, nameTag in zip(df['Contract Address'], df['Token Name'])])
     with open(savePath + '{}s/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
