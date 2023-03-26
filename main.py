@@ -143,10 +143,11 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
 
             # Save empty CSV and JSON
             empty_df = pd.DataFrame()
-            empty_df.to_csv(savePath + '{}s/{}.csv'.format(label_type, label))
+            empty_df.to_csv(
+                savePath + '{}s/empty/{}.csv'.format(label_type, label))
 
             empty_dict = {}
-            with open(savePath + '{}s/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
+            with open(savePath + '{}s/empty/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
                 json.dump(empty_dict, f, ensure_ascii=True)
             return
 
@@ -253,7 +254,8 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
-        if (os.path.exists(savePath + 'accounts/{}.json'.format(label))):
+        if (os.path.exists(savePath + 'accounts/{}.json'.format(label))
+                or os.path.exists(savePath + 'accounts/empty/{}.json'.format(label))):
             print(label, "'s account labels already exist, skipping.")
             continue
         elif label in ignore_list:
@@ -264,7 +266,8 @@ def getAllLabels():
         time.sleep(1)  # Give 1s interval to prevent RL
 
     for label in labels:
-        if (os.path.exists(savePath + 'tokens/{}.json'.format(label))):
+        if (os.path.exists(savePath + 'tokens/{}.json'.format(label))
+                or os.path.exists(savePath + 'tokens/empty/{}.json'.format(label))):
             print(label, "'s token labels already exist, skipping.")
             continue
         elif label in ignore_list:
