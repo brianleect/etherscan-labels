@@ -247,6 +247,9 @@ def getAllLabels():
             labels.append(href[tokensIndex:])
 
     print(labels)
+
+    # Remove duplicates from array labels
+    labels = list(dict.fromkeys(labels))
     print('L:', len(labels))
 
     for label in labels:
