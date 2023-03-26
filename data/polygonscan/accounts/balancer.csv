@@ -1,0 +1,7 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xba12222222228d8ba445958a75a0704d566bf2c8,Balancer V2,0.91495092 MATIC,1462111
+1,0xa331d84ec860bf466b4cdccfb4ac09a1b43f3ae6,Balancer: Authorizer,0 MATIC,1
+2,0x751a0bc0e3f75b38e01cf25bfce7ff36de1c87de,Balancer: Liquidity Bootstrapping Pool Factory,0 MATIC,72
+3,0xc66ba2b6595d3613ccab350c886ace23866ede24,Balancer: Stable Pool Factory,0 MATIC,20
+4,0xa5bf2ddf098bb0ef6d120c98217dd6b141c74ee0,Balancer: Weighted Pool 2 Tokens Factory,0 MATIC,28
+5,0x8e9aa87e45e92bad84d5f8dd1bff34fb92637de9,Balancer: Weighted Pool Factory,0 MATIC,2216

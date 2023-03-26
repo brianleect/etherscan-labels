@@ -1,0 +1,5 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x11111112542d85b3ef69ae05771c2dccff4faa26,Fake 1inch Contract,0 FTM,157
+1,0x628f094c6ef383271f37516df7abf869046d6aaf,Fake_Phishing1,0 FTM,5
+2,0x3448872bba4b87ca48cae98602795a9ceb9c57c1,Fake_Phishing8,77 FTM,1
+3,,Sum of 3 Accounts,77 FTM,163

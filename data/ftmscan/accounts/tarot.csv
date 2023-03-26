@@ -1,0 +1,25 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x2217aec3440e8fd6d49a118b1502e539f88dba55,Tarot: B Deployer,0 FTM,1
+1,0x46fcde1b89d61f5cbfaab05c2914c367f8301f30,Tarot: C Deployer,0 FTM,2
+2,0x5494b29f78714397e96086ba7542e364842a74df,Tarot: Claim Aggregator,0 FTM,252484
+3,0xe1fe8b5c3f5b592613305fc6ff551c67cbe40e17,Tarot: Early Borrower,0 FTM,26828
+4,0x4c093134657904a7c3f1e47a6d9a38955094ebef,Tarot: Early Lender,0 FTM,24899
+5,0x35c052bbf8338b06351782a565aa9aad173432ea,Tarot: Factory,0 FTM,364
+6,0x04d04f9a200d63d8ff5d2dc1f59bff49410c565a,Tarot: Fee Distributor,0 FTM,17
+7,0x1a8c7d27abb6c2976e35a42299674d62e775dd4d,Tarot: Fee Processor,0 FTM,433
+8,0xcf8660e267d44cc804ddbee6b1ce44f9ed564889,Tarot: Gauge Vault Proxy,0 FTM,109
+9,0x3303a565741d0d41d026c12259ff2d4772d3622e,Tarot: LGE Bonus,0 FTM,16918
+10,0x1f7a54df8b04ca31ac875cef5acaa247c87420ed,Tarot: Liquidity Generator,0 FTM,542
+11,0x283e62cfe14b352db8e30a9575481dcbf589ad98,Tarot: Router,0 FTM,1029330
+12,0xf62fafc9b31b016484dcb779d8c3a0b26e9815a6,Tarot: Safe Wallet,"277,186.48618119 FTM",17
+13,0x63d5554b748598c191ab0cbd0e0e1c638ffebee6,Tarot: Supply Positions 1,"6,015.77699303 FTM",1192
+14,0xd204e3dc1937d3a30fc6f20abc48ac5506c94d1e,Tarot: Supply Positions 2,"1,195.33986715 FTM",1799
+15,0x3e9f34309b2f046f4f43c0376efe2fdc27a10251,Tarot: Supply Vault Router,0 FTM,74091
+16,0x93d01402fc51dd906bbaadb2431ddc2ff535eaac,Tarot: Supply Vault Strategy V1,0 FTM,5
+17,0x075b7f7e2960d49c67c5a44134928e5e2896283a,Tarot: Supply Vault Strategy V2,0 FTM,4
+18,0x7e5f7da8b5d70b40397487780fdf89384cfebb9a,Tarot: Supply Vault Strategy V3,0 FTM,3
+19,0xd4fcd1d1252bf4a3134e0e848479ad90a60979ef,Tarot: Tarot LGE,0 FTM,29219
+20,0x36df0a76a124d8b2205fa11766ec2eff8ce38a35,Tarot: Tarot Price Oracle,0 FTM,1234
+21,0x449eadd544cb6de7e12dbc0b522ee518a7641561,Tarot: Token Splitter,0 FTM,64
+22,0x466ebd9ec2027776fa11a982e9bbe4f67aa6e86b,Tarot: xTAROT Staking Pool Controller,0 FTM,37881
+23,,Sum of 23 Accounts,"284,397.60304139 FTM",1497436
