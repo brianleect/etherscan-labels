@@ -313,5 +313,5 @@ if __name__ == "__main__":
         getAllLabels()
     else:
         singleLabel = input('Enter label of interest: ')
-        label_type = input('Enter label type (account/token): ')
-        getLabel(singleLabel, label_type)
+        getLabel(singleLabel, 'account')
+        getLabel(singleLabel, 'token')
