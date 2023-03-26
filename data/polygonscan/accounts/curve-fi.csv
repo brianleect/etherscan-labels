@@ -1,0 +1,20 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x19793b454d3afc7b454f206ffe95ade26ca6912c,Curve.fi: Aave Gauge,0 MATIC,200588
+1,0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171,Curve.fi: Aave LP Token,0 MATIC,69910
+2,0x445fe580ef8d70ff569ab36e80c647af338db351,Curve.fi: Aave Pool,0 MATIC,442909
+3,0x1de441ef347c3e7fd512b1662b77b5bc4ac28cc8,Curve.fi: Aave Reward Claimer,0 MATIC,3
+4,0xc48f4653dd6a9509de44c92beb0604bea3aee714,Curve.fi: Aave Root Chain Gauge,0 MATIC,58
+5,0xa237034249290de2b07988ac64b96f22c0e76fe0,Curve.fi: ABurner,0 MATIC,93
+6,0x4473243a61b5193670d1324872368d015081822f,Curve.fi: Admin Fee Bridge (Polygon),0 MATIC,3
+7,0xb0a366b987d77b5ed5803cbd95c80bb6deab48c0,Curve.fi: ATriCrypto Gauge,0 MATIC,84302
+8,0x8096ac61db23291252574d49f036f0f9ed8ab390,Curve.fi: ATriCrypto LP Token,0 MATIC,19562
+9,0x751b1e21756bdbc307cbcc5085c042a0e9aaef36,Curve.fi: ATriCrypto Pool,0 MATIC,81
+10,0xe84ae0321f88349b5f1119464eeb242b7de51a69,Curve.fi: ATriCrypto Reward Claimer,0 MATIC,3
+11,0x060e386ecfbacf42aa72171af9efe17b3993fc4f,Curve.fi: ATriCrypto Root Chain Gauge,0 MATIC,51
+12,0x3fcd5de6a9fc8a99995c406c77dda3ed7e406f81,Curve.fi: ATriCrypto Zap,0 MATIC,126428
+13,0xffbacce0cc7c19d46132f1258fc16cf6871d153c,Curve.fi: renBTC Gauge,0 MATIC,29407
+14,0xf8a57c1d3b9629b77b6726a042ca48990a84fb49,Curve.fi: renBTC LP Token,0 MATIC,7700
+15,0xc2d95eef97ec6c17551d45e77b590dc1f9117c67,Curve.fi: renBTC Pool,0 MATIC,30065
+16,0xe89bc681c5cb6a3499e9db97e0ce8558877dd1a4,Curve.fi: renBTC Reward Claimer,0 MATIC,3
+17,0x488e6ef919c2bb9de535c634a80afb0114da8f62,Curve.fi: renBTC Root Chain Gauge,0 MATIC,52
+18,0xbdff0c27dd073c119ebcb1299a68a6a92ae607f0,Curve.fi: WMATIC Distributor,0 MATIC,18
