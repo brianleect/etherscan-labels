@@ -1,6 +1,6 @@
 # Etherscan Labels
 
-Scrapes labels from etherscan, bscscan & polygonscan website and stores into JSON/CSV.
+Scrapes labels from etherscan, bscscan & polygonscan, arbitrium, fantom, avalanche website and stores into JSON/CSV.
 
 [Label data (CSV+JSON)](https://github.com/brianleect/etherscan-labels/tree/main/data)
 - Combined Labels JSON - Located as a subfolder in `__scan/data/combined`
