@@ -292,22 +292,30 @@ with open('config.json', 'r') as f:
 # Scan site mapping from chain to __scan url
 chainMap = {'eth': {'baseUrl': 'https://etherscan.io', 'savePath': './data/etherscan/'},
             'bsc': {'baseUrl': 'https://bscscan.com', 'savePath': './data/bscscan/'},
-            'poly': {'baseUrl': 'https://polygonscan.com', 'savePath': './data/polygonscan/'}
+            'poly': {'baseUrl': 'https://polygonscan.com', 'savePath': './data/polygonscan/'},
+            'opt': {'baseUrl': 'https://optimistic.etherscan.io', 'savePath': './data/optimism/'},
+            'arb': {'baseUrl': 'https://arbiscan.io', 'savePath': './data/arbiscan/'},
+            'ftm': {'baseUrl': 'https://ftmscan.com', 'savePath': './data/ftmscan/'},
+            'avax': {'baseUrl': 'https://snowtrace.io', 'savePath': './data/avalanche/'},
             }
 
+# Combine and split all chainMap keys by '/'
+allChains = '/'.join(chainMap.keys())
+
 if __name__ == "__main__":
-    driver = webdriver.Chrome(service=ChromeService(
-        ChromeDriverManager().install()))
-    targetChain = input('Enter scan site of interest (eth/bsc/poly): ')
+    targetChain = input('Enter scan site of interest ({}): '.format(allChains))
 
     if (targetChain not in chainMap):
-        print('Invalid chain input, exiting, please try again with either eth/bsc/poly')
+        print('Invalid chain input, exiting, please try again with a valid option')
         exit()
     else:
         baseUrl = chainMap[targetChain]['baseUrl']
         savePath = chainMap[targetChain]['savePath']
 
+    driver = webdriver.Chrome(service=ChromeService(
+        ChromeDriverManager().install()))
     login()
+
     retrievalType = input('Enter retrieval type (single/all): ')
     if (retrievalType == 'all'):
         getAllLabels()
