@@ -132,10 +132,10 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
     table_list = []
 
     while (True):
-        print('Index:', index)
-        driver.get(baseUrlLabel.format(label_type, label, index))
-        driver.implicitly_wait(5)
         try:
+            print('Index:', index)
+            driver.get(baseUrlLabel.format(label_type, label, index))
+            driver.implicitly_wait(1)
             newTable = pd.read_html(driver.page_source)[0]
         except Exception as e:
             print(e)
@@ -248,7 +248,7 @@ def getAllLabels():
             continue
 
         getLabel(label, 'account', 'all')
-        time.sleep(5)  # Give 5s interval to prevent RL
+        time.sleep(1)  # Give 1s interval to prevent RL
 
     for label in labels:
         if (os.path.exists(savePath + 'tokens/{}.json'.format(label))):
@@ -259,7 +259,7 @@ def getAllLabels():
             continue
 
         getLabel(label, 'token', 'all')
-        time.sleep(5)  # Give 5s interval to prevent RL
+        time.sleep(1)  # Give 1s interval to prevent RL
 
     # Proceed to combine all addresses into single JSON after retrieving all.
     combineAllJson()
