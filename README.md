@@ -1,9 +1,20 @@
-# Etherscan Labels
+# EVM Labels
 
 Scrapes labels from etherscan, bscscan & polygonscan, arbitrium, fantom, avalanche website and stores into JSON/CSV.
 
-[Label data (CSV+JSON)](https://github.com/brianleect/etherscan-labels/tree/main/data)
-- Combined Labels JSON - Located as a subfolder in `__scan/data/combined`
+| Chain | Site | Label Count |
+|-------|------|-------------|
+| ETH | [https://etherscan.io](https://etherscan.io) | [27352](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json) |
+| BSC | [https://bscscan.com](https://bscscan.com) | [6726](https://github.com/brianleect/etherscan-labels/tree/main/./data/bscscan/combined/combinedAllLabels.json) |
+| POLY | [https://polygonscan.com](https://polygonscan.com) | [4997](https://github.com/brianleect/etherscan-labels/tree/main/./data/polygonscan/combined/combinedAllLabels.json) |
+| OPT | [https://optimistic.etherscan.io](https://optimistic.etherscan.io) | [0](https://github.com/brianleect/etherscan-labels/tree/main/./data/optimism/combined/combinedAllLabels.json) |
+| ARB | [https://arbiscan.io](https://arbiscan.io) | [837](https://github.com/brianleect/etherscan-labels/tree/main/./data/arbiscan/combined/combinedAllLabels.json) |
+| FTM | [https://ftmscan.com](https://ftmscan.com) | [1085](https://github.com/brianleect/etherscan-labels/tree/main/./data/ftmscan/combined/combinedAllLabels.json) |
+| AVAX | [https://snowtrace.io](https://snowtrace.io) | [1062](https://github.com/brianleect/etherscan-labels/tree/main/./data/avalanche/combined/combinedAllLabels.json) |
+
+Total Chains: 7
+
+Total Labels: 42059
 
 ## Setup
 1. On the command-line, run the command `pip install -r requirements.txt` while located at folder with code.
