@@ -136,7 +136,7 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
             print('Index:', index)
             driver.get(baseUrlLabel.format(label_type, label, index))
             driver.implicitly_wait(1)
-            newTable = pd.read_html(driver.page_source)[0]
+            curTable = pd.read_html(driver.page_source)[0]
         except Exception as e:
             print(e)
             print(label, "Skipping label due to error")
@@ -150,8 +150,10 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
                 json.dump(empty_dict, f, ensure_ascii=True)
             return
 
+        table_list.append(curTable)
+
         index += 100
-        if (len(newTable.index) != 100):
+        if (len(curTable.index) != 100):
             break
 
     df = pd.concat(table_list)  # Combine all dataframes
@@ -275,7 +277,8 @@ def getAllLabels():
 
 # Large size: Eth2/gnsos , Bugged: Liqui , NoData: Remaining labels
 ignore_list = ['eth2-depositor', 'gnosis-safe-multisig', 'liqui.io', 'education', 'electronics',
-               'flashbots', 'media', 'music', 'network', 'prediction-market', 'real-estate', 'vpn', 'beacon-depositor', 'uniswap']
+               'flashbots', 'media', 'music', 'network', 'prediction-market', 'real-estate', 'vpn', 'beacon-depositor', 'uniswap',
+               'remittance+']  # Bugged remittance+ bad link, accidental + it seems
 
 with open('config.json', 'r') as f:
     config = json.load(f)
