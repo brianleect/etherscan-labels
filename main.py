@@ -303,8 +303,6 @@ chainMap = {'eth': {'baseUrl': 'https://etherscan.io', 'savePath': './data/ether
 allChains = '/'.join(chainMap.keys())
 
 if __name__ == "__main__":
-    driver = webdriver.Chrome(service=ChromeService(
-        ChromeDriverManager().install()))
     targetChain = input('Enter scan site of interest ({}): '.format(allChains))
 
     if (targetChain not in chainMap):
@@ -314,7 +312,10 @@ if __name__ == "__main__":
         baseUrl = chainMap[targetChain]['baseUrl']
         savePath = chainMap[targetChain]['savePath']
 
+    driver = webdriver.Chrome(service=ChromeService(
+        ChromeDriverManager().install()))
     login()
+
     retrievalType = input('Enter retrieval type (single/all): ')
     if (retrievalType == 'all'):
         getAllLabels()
