@@ -1,0 +1,15 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xe95dc4d81a4707884e7db4a53954763b36cb45ae,Mimo Capital: Access Controller,0 MATIC,11
+1,0xa802ee4bd9f449295adb6d73f65118352420758a,Mimo Capital: Address Provider,0 MATIC,8
+2,0xcae2cae9a4384b196c0f1bae59724e0eb9a347e0,Mimo Capital: Config Provider,0 MATIC,5
+3,0xc7d868954009df558ac5fd54032f2b6fb6ef926c,Mimo Capital: Debt Notifier,0 MATIC,12
+4,0x313d1d48430721370ecc57262a7664e375a347fb,Mimo Capital: Fee Distributor,0 MATIC,7
+5,0x2489df1f40bca6dba1554aafecc237bbc6d0453c,Mimo Capital: Governance Address Provider,0 MATIC,4
+6,0x57896e135f845301c706f643506629493b6660ab,Mimo Capital: Liquidation Manager,0 MATIC,1
+7,0x6fb6a0a35b33e230d0149d49858e1a313a2ad4a7,Mimo Capital: MIMO Buy Back,0 MATIC,610
+8,0xf6298bf14a1feeddefeb756799e89b5291bc0cdd,Mimo Capital: PAR Miner,0 MATIC,4113
+9,0x1f4d9879327e2ecc488ccc49566286c844af6f2c,Mimo Capital: Price Feed,0 MATIC,8
+10,0x74419ec5ed2f745bece0d4e4118db2f33eb88367,Mimo Capital: Rates Manager,0 MATIC,1
+11,0x03175c19cb1d30fa6060331a9ec181e04cac6ab0,Mimo Capital: Vaults Core,0 MATIC,9940
+12,0x2d49e60555d0372be23e2b24aeb3e5ea55dcb417,Mimo Capital: Vaults Core State,0 MATIC,2
+13,0xde1996189ee1857d79f1f2bebe2a4a2b200bcb44,Mimo Capital: Vaultss Data Provider,0 MATIC,1

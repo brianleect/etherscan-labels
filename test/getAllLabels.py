@@ -1,15 +1,33 @@
 from selenium import webdriver
-driver = webdriver.Chrome()
-driver.get('https://etherscan.io/labelcloud')
-driver.implicitly_wait(5)
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+import pandas as pd
+import json
+import time
+import os.path
+import re
 
-elems = driver.find_elements_by_xpath("//a[@href]")
-labels = []
-labelIndex = len('https://etherscan.io/accounts/label/')
-for elem in elems:
-    href = elem.get_attribute("href")
-    if (href.startswith('https://etherscan.io/accounts/label/')):
-        labels.append(href[labelIndex:])
+baseUrl = 'https://bscscan.com'
 
-print(labels)
-print('L:', len(labels))
+
+def getAllLabels():
+    driver.get(baseUrl + '/labelcloud')
+    driver.implicitly_wait(5)
+
+    elems = driver.find_elements("class name", "d-block")
+    labels = []
+    labelIndex = len(baseUrl + '/accounts/label/')
+    for elem in elems:
+        href = elem.get_attribute("href")
+        print(href, '/ Text:', elem.text)
+
+    print(labels)
+    print('L:', len(labels))
+
+
+if __name__ == '__main__':
+    driver = webdriver.Chrome(service=ChromeService(
+        ChromeDriverManager().install()))
+    getAllLabels()
+
+    driver.quit()

@@ -1,0 +1,25 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x5f1fe642060b5b9658c15721ea22e982643c095c,Kyber Swap: Factory,0 MATIC,8
+1,0x063dd8b5a42aae93a014ce5fabb5b70474667961,Kyber Swap: Reward Locker,"23,535.66898573 MATIC",45499
+2,0x546c79662e028b661dfb4767664d0273184e4dd1,Kyber Swap: Router,0 MATIC,237497
+3,0x1fc3607fa67b58deddb0faf7a116f417a20c551c,Kyber: Aggregation Router,0 MATIC,244443
+4,0x91c9d4373b077ef8082f468c7c97f2c499e36f5b,Kyber: DAO Multisig Wallet,0 MATIC,403
+5,0x7018c0bd73255c8966d0b26634e0bc0c7595d255,Kyber: DMM USDC-DAI,0 MATIC,2240
+6,0x3904ac366d348636694cb6720aa1540e76441b1b,Kyber: DMM USDC-USDT,0 MATIC,1221
+7,0x95d708e9ee04b0136b98579141624d19c89b9d68,Kyber: DMM USDC-WETH,0 MATIC,806
+8,0x45963db838a070cf7be8e7046fd63e23d376c665,Kyber: DMM WMATIC-DAI,0 MATIC,1300
+9,0x37e6449b0e99befd2a708ea048d970f4ff4dc65d,Kyber: DMM WMATIC-KNC,0 MATIC,1720
+10,0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c,Kyber: KNC Token,0 MATIC,36400
+11,0x2b1c7b41f6a8f2b2bc45c3233a5d5fb3cd6dc9a8,KyberSwap: Anti Snipping Attack Position Manager,0 MATIC,81982
+12,0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a,KyberSwap: Elastic Factory,0 MATIC,5
+13,0xbdec4a045446f583dc564c0a227ffd475b329bf0,KyberSwap: Elastic Liquidity Mining,0 MATIC,116252
+14,0x5c503d4b7de0633f031229bbaa6a5e4a31cc35d8,KyberSwap: Elastic Liquidity Mining 2,0 MATIC,10292
+15,0x0d125c15d54ca1f8a813c74a81aee34ebb508c1f,KyberSwap: Elastic Quoter V2,0 MATIC,2
+16,0xc1e7dfe73e1598e3910ef4c7845b68a9ab6f4c83,KyberSwap: Elastic Router,0 MATIC,462827
+17,0xd7ab1699280980e756c446769b4c0f04550f88c9,KyberSwap: Elastic Tick Fees Reader,0 MATIC,1
+18,0xda474537ce9b687b78b236452a05631f09b6eb6a,KyberSwap: Elastic Token Position Descriptor,0 MATIC,2
+19,0x8abd8c92f1901cf204590c16b5ef690a35b3741e,KyberSwap: Elastic Token Position Descriptor Proxy,0 MATIC,1
+20,0x0baf410dcfcf168f659f46bf1e28d29f68a25e77,KyberSwap: Fair Launch v2,0 MATIC,116
+21,0xffd22921947d75342bfe1f8efacee4b8b3b5183f,KyberSwap: FairLaunch2,0 MATIC,1027
+22,0x227b0c196ea8db17a665ea6824d972a64202e936,KyberSwap: Limit Order,0 MATIC,365
+23,0xbcb4e8362dbb34e4ce10b4c8b2f600a7fa0a25db,KyberSwap: Reward Locker,0 MATIC,6
