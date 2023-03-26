@@ -63,9 +63,6 @@ def getLabel(label, label_type="account", input_type='single'):
             try:
                 # Select relevant table from multiple tables in the page, based on current table index
                 curTable = pd.read_html(driver.page_source)[table_index]
-                if label_type == "account":
-                    # Remove last item which is just sum
-                    curTable = curTable[:-1]
                 print(curTable)
 
                 # Retrieve all addresses from table
@@ -88,6 +85,7 @@ def getLabel(label, label_type="account", input_type='single'):
 
             # If table is less than 100, then we have reached the end
             if (len(curTable.index) == 100):
+                # TODO: Standardize index incrementation
                 if label_type == "account":
                     index += 100
                     driver.get(baseUrl.format(
@@ -143,10 +141,9 @@ def getLabelOldFormat(label, label_type="account", input_type='single'):
             print(e)
             print(label, "Skipping label due to error")
             return
-        # Remove last item which is just sum
-        table_list.append(newTable[:-1])
+
         index += 100
-        if (len(newTable.index) != 101):
+        if (len(newTable.index) != 100):
             break
 
     df = pd.concat(table_list)  # Combine all dataframes
