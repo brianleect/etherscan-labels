@@ -29,6 +29,9 @@ def main():
 
     for chain, chain_data in chain_map.items():
         base_url = chain_data['baseUrl']
+        chainDataLink = base_repo_url + chain_data['savePath'][1:-
+                                                               len('/combined/combinedAllLabels.json')]
+        print(chainDataLink)
 
         try:
             with open(chain_map[chain]['savePath'], 'r', encoding='utf-8') as f:
@@ -40,7 +43,7 @@ def main():
             print(f"Error reading file {chain_map[chain]['savePath']}: {e}")
             label_count = 0
 
-        row = f"| {chain.upper()} | [{base_url}]({base_url}) | [{label_count}]({base_repo_url}/{chain_data['savePath']}) |"
+        row = f"| [{chain.upper()}]({chainDataLink}) | [{base_url}]({base_url}) | [{label_count}]({base_repo_url}/{chain_data['savePath']}) |"
         table_rows.append(row)
 
     table = "\n".join([table_header, table_separator] + table_rows)
