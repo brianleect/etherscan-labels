@@ -2,15 +2,15 @@
 
 Scrapes labels from etherscan, bscscan & polygonscan, arbitrium, fantom, avalanche website and stores into JSON/CSV.
 
-| Chain | Site | Label Count |
-|-------|------|-------------|
-| [ETH](https://github.com/brianleect/etherscan-labels/tree/main/data/etherscan) | [https://etherscan.io](https://etherscan.io) | [27352](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json) |
-| [BSC](https://github.com/brianleect/etherscan-labels/tree/main/data/bscscan) | [https://bscscan.com](https://bscscan.com) | [6726](https://github.com/brianleect/etherscan-labels/tree/main/./data/bscscan/combined/combinedAllLabels.json) |
-| [POLY](https://github.com/brianleect/etherscan-labels/tree/main/data/polygonscan) | [https://polygonscan.com](https://polygonscan.com) | [4997](https://github.com/brianleect/etherscan-labels/tree/main/./data/polygonscan/combined/combinedAllLabels.json) |
-| [OPT](https://github.com/brianleect/etherscan-labels/tree/main/data/optimism) | [https://optimistic.etherscan.io](https://optimistic.etherscan.io) | [0](https://github.com/brianleect/etherscan-labels/tree/main/./data/optimism/combined/combinedAllLabels.json) |
-| [ARB](https://github.com/brianleect/etherscan-labels/tree/main/data/arbiscan) | [https://arbiscan.io](https://arbiscan.io) | [837](https://github.com/brianleect/etherscan-labels/tree/main/./data/arbiscan/combined/combinedAllLabels.json) |
-| [FTM](https://github.com/brianleect/etherscan-labels/tree/main/data/ftmscan) | [https://ftmscan.com](https://ftmscan.com) | [1085](https://github.com/brianleect/etherscan-labels/tree/main/./data/ftmscan/combined/combinedAllLabels.json) |
-| [AVAX](https://github.com/brianleect/etherscan-labels/tree/main/data/avalanche) | [https://snowtrace.io](https://snowtrace.io) | [1062](https://github.com/brianleect/etherscan-labels/tree/main/./data/avalanche/combined/combinedAllLabels.json) |
+| Chain | Site | Label Count | Status |
+|-------|------|-------------|--------|
+| [ETH](https://github.com/brianleect/etherscan-labels/tree/main/data/etherscan) | [https://etherscan.io](https://etherscan.io) | [27352](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json) | 🔴 Blocked by cloudflare, last scraped 23/2/2023 |
+| [BSC](https://github.com/brianleect/etherscan-labels/tree/main/data/bscscan) | [https://bscscan.com](https://bscscan.com) | [6726](https://github.com/brianleect/etherscan-labels/tree/main/./data/bscscan/combined/combinedAllLabels.json) | ✅ ok, last scraped 26/3/2023|
+| [POLY](https://github.com/brianleect/etherscan-labels/tree/main/data/polygonscan) | [https://polygonscan.com](https://polygonscan.com) | [4997](https://github.com/brianleect/etherscan-labels/tree/main/./data/polygonscan/combined/combinedAllLabels.json) | ✅ ok, last scraped 26/3/2023|
+| [OPT](https://github.com/brianleect/etherscan-labels/tree/main/data/optimism) | [https://optimistic.etherscan.io](https://optimistic.etherscan.io) | [0](https://github.com/brianleect/etherscan-labels/tree/main/./data/optimism/combined/combinedAllLabels.json) | 🔴 Blocked by cloudflare, last scraped N/A|
+| [ARB](https://github.com/brianleect/etherscan-labels/tree/main/data/arbiscan) | [https://arbiscan.io](https://arbiscan.io) | [837](https://github.com/brianleect/etherscan-labels/tree/main/./data/arbiscan/combined/combinedAllLabels.json) | ✅ ok, last scraped 26/3/2023|
+| [FTM](https://github.com/brianleect/etherscan-labels/tree/main/data/ftmscan) | [https://ftmscan.com](https://ftmscan.com) | [1085](https://github.com/brianleect/etherscan-labels/tree/main/./data/ftmscan/combined/combinedAllLabels.json) | ✅ ok, last scraped 26/3/2023|
+| [AVAX](https://github.com/brianleect/etherscan-labels/tree/main/data/avalanche) | [https://snowtrace.io](https://snowtrace.io) | [1062](https://github.com/brianleect/etherscan-labels/tree/main/./data/avalanche/combined/combinedAllLabels.json) | ✅ ok, last scraped 26/3/2023|
 
 Total Chains: 7
 
