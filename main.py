@@ -1,4 +1,5 @@
 from selenium import webdriver
+import undetected_chromedriver as uc
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
@@ -312,8 +313,11 @@ if __name__ == "__main__":
         baseUrl = chainMap[targetChain]['baseUrl']
         savePath = chainMap[targetChain]['savePath']
 
-    driver = webdriver.Chrome(service=ChromeService(
-        ChromeDriverManager().install()))
+#     driver = webdriver.Chrome(service=ChromeService(
+#         ChromeDriverManager().install()))
+
+    driver = uc.Chrome(service=ChromeService(ChromeDriverManager().install()))
+
     login()
 
     retrievalType = input('Enter retrieval type (single/all): ')
