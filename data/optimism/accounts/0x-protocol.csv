@@ -1,0 +1,6 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xdef1abe32c034e558cdd535791643c58a13acc10,0x: Exchange Proxy,0.00183166 Ether,339715
+1,0x6d506b2847df0c6f04d2628da1adaf4d8fb2e81b,0x: Exchange Proxy Governor,0 Ether,23
+2,0xa3128d9b7cca7d5af29780a56abeec12b05a6740,0x: Flash Wallet,0 Ether,0
+3,0x3a539ed6bd42de8fbaf3899fb490c792e153d647,0x: Transformer Deployer,0 Ether,18
+4,,Sum of 4 Accounts,0.00183166 Ether,339756
