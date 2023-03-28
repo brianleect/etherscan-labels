@@ -1,0 +1,43 @@
+,Address,Name Tag,Balance,Txn Count
+0,0xf329e36c7bf6e5e86ce2150875a84ce77f477375,Aave: aAAVE Token V3,0 Ether,728
+1,0xd81eb3728a631871a7ebbad631b5f424909f0c77,Aave: Aave Oracle V3,0 Ether,3
+2,0xa72636cbcaa8f5ff95b2cc47f3cdee83f3294a0b,Aave: ACL Manager V3,0 Ether,11
+3,0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee,Aave: aDAI Token V3,0 Ether,1032
+4,0x191c10aa4af7c30e871e70c95db0e4eb77237530,Aave: aLINK Token V3,0 Ether,75
+5,0x6d80113e533a2c0fe82eabd35f1875dcea89ea97,Aave: aSUSD Token V3,0 Ether,1013
+6,0x625e7708f30ca75bfd92586e17077590c60eb4cd,Aave: aUSDC Token V3,0 Ether,9761
+7,0x6ab707aca953edaefbc4fd23ba73294241490620,Aave: aUSDT Token V3,0 Ether,3383
+8,0x078f358208685046a11c85e8ad32895ded33a249,Aave: aWBTC Token V3,0 Ether,273
+9,0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8,Aave: aWETH Token V3,0 Ether,30073
+10,0x8aa68ca9e25aab6f9f41bf341d12ab407ae099e2,Aave: Fallback Oracle V3,0 Ether,0
+11,0x929ec64c34a17401f460460d4b9390518e5b473e,Aave: Incentives V3,0 Ether,15397
+12,0x9abadecd08572e0ea5af4d47a9c7984a5aa503dc,Aave: L2 Encoder,0 Ether,15
+13,0x770ef9f4fe897e59dacc474ef11238303f9552b6,Aave: Pool Addresses Provider Registry V3,0 Ether,3
+14,0xa97684ead0e402dc232d5a977953df7ecbab3cdb,Aave: Pool Addresses Provider V3,0 Ether,11
+15,0x8145edddf43f50276641b55bd3ad95944510021e,Aave: Pool Configurator V3,0 Ether,39
+16,0x69fa688f1dc47d4b5d8029d5a35fb7a548310654,Aave: Pool Data Provider V3,0 Ether,0
+17,0x794a61358d6845594f94dc1db02a252b5b4814ad,Aave: Pool V3,0 Ether,524696
+18,0x9ae6d130fa8a44c8f1487dd767ab6ba33ca2b498,Aave: Pull Rewards Transfer Strategy V3,0 Ether,0
+19,0xfaef6a702d15428e588d4c0614aefb4348d83d48,Aave: sAAVE Token V3,0 Ether,2
+20,0xd94112b5b62d53c9402e7a60289c6810def1dc9b,Aave: sDAI Token V3,0 Ether,2
+21,0x89d976629b7055ff1ca02b927ba3e020f22a44e4,Aave: sLINK Token V3,0 Ether,2
+22,0xf15f26710c827dde8acba678682f3ce24f2fb56e,Aave: sSUSD Token V3,0 Ether,2
+23,0x307ffe186f84a3bc2613d1ea417a5737d69a7007,Aave: sUSDC Token V3,0 Ether,3
+24,0x70effc565db6eef7b927610155602d31b670e802,Aave: sUSDT Token V3,0 Ether,2
+25,0x633b207dd676331c413d4c013a6294b0fe47cd0e,Aave: sWBTC Token V3,0 Ether,2
+26,0xd8ad37849950903571df17049516a5cd4cbe55f6,Aave: sWETH Token V3,0 Ether,2
+27,0xa77e4a084d7d4f064e326c0f6c0acefd47a5cb21,Aave: Treasury Controller V3,0 Ether,1
+28,0xb2289e329d2f85f1ed31adbb30ea345278f21bcf,Aave: Treasury V3,0 Ether,3
+29,0x6dd4b295b457a26cc2646aaf2519436681afb5d4,Aave: Ui Incentive Data Provider V3,0 Ether,1
+30,0x64f558d4bfc1c03a8c8b2ff84976ff04c762b51f,Aave: Ui Pool Data Provider V3,0 Ether,0
+31,0xe80761ea617f66f96274ea5e8c37f03960ecc679,Aave: vAAVE Token V3,0 Ether,2
+32,0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc,Aave: vDAI Token V3,0 Ether,103
+33,0x953a573793604af8d41f306feb8274190db4ae0e,Aave: vLINK Token V3,0 Ether,3
+34,0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8,Aave: vSUSD Token V3,0 Ether,8
+35,0xfccf3cabbe80101232d343252614b6a3ee81c989,Aave: vUSDC Token V3,0 Ether,111
+36,0xfb00ac187a8eb5afae4eace434f493eb62672df7,Aave: vUSDT Token V3,0 Ether,5
+37,0x92b42c66840c7ad907b4bf74879ff3ef7c529473,Aave: vWBTC Token V3,0 Ether,4
+38,0x0c84331e39d6658cd6e6b9ba04736cc4c4734351,Aave: vWETH Token V3,0 Ether,16175
+39,0xbc790382b3686abffe4be14a030a96ac6154023a,Aave: Wallet Balance Provider V3,0 Ether,0
+40,0x86b4d2636ec473ac4a5dd83fc2beda98845249a7,Aave: WETH Gateway V3,0 Ether,45775
+41,,Sum of 41 Accounts,0 Ether,648721

@@ -75,8 +75,10 @@ def getLabel(label, label_type="account", input_type='single'):
                     if (href.startswith('baseUrl/address/')):
                         addressList.append(href[addrIndex:])
 
-                # Replace address column in newTable dataframe with addressList
-                curTable['Address'] = addressList
+                # Quickfix: Optimism uses etherscan subcat style but differing address format
+                if targetChain == 'eth':
+                    # Replace address column in newTable dataframe with addressList
+                    curTable['Address'] = addressList
             except Exception as e:
                 print(e)
                 print(label, "Skipping label due to error")

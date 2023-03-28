@@ -1,0 +1,22 @@
+,Address,Name Tag,Balance,Txn Count
+0,0x7191061d5d4c60f598214cc6913502184baddf18,Hop Protocol: DAI Bridge,0 Ether,6886
+1,0xf181ed90d6cfac84b8073fdea6d34aa744b41810,Hop Protocol: DAI Liquidity Pool,0 Ether,7518
+2,0xb3c68a491608952cb1257fc9909a537a0173b63b,Hop Protocol: DAI Wrapper,0 Ether,6987
+3,0x83f6244bd87662118d96d9a6d44f09dfff14b30e,Hop Protocol: ETH Bridge,0 Ether,248793
+4,0xaa30d6bba6285d0585722e2440ff89e23ef68864,Hop Protocol: ETH Liquidity Pool,0 Ether,169841
+5,0x86ca30bef97fb651b8d866d45503684b90cb3312,Hop Protocol: ETH Wrapper,0.17415024 Ether,268083
+6,0x56900d66d74cb14e3c86895789901c9135c95b16,Hop Protocol: hDAI Token,0 Ether,1735
+7,0xe38faf9040c7f09958c638bbdb977083722c5156,Hop Protocol: hETH Token,0 Ether,26726
+8,0x22d63a26c730d49e5eab461e4f5de1d8bdf89c92,Hop Protocol: HOP - DAI Token,0 Ether,2688
+9,0x5c2048094baade483d0b1da85c3da6200a88a849,Hop Protocol: HOP - ETH Token,0 Ether,53513
+10,0x2e17b8193566345a2dd467183526dedc42d2d5a8,Hop Protocol: HOP - USDC Token,0 Ether,28846
+11,0xf753a50fc755c6622bbcaa0f59f0522f264f006e,Hop Protocol: HOP - USDT Token,0 Ether,5419
+12,0x03d7f750777ec48d39d080b020d83eb2cb4e3547,Hop Protocol: HOP Bridge,0 Ether,4066
+13,0x25d8039bb044dc227f741a9e381ca4ceae2e6ae8,Hop Protocol: hUSDC Token,0 Ether,11540
+14,0x2057c8ecb70afd7bee667d76b4cd373a325b1a20,Hop Protocol: hUSDT Token,0 Ether,2673
+15,0x2ad09850b0ca4c7c1b33f5acd6cbabcab5d6e796,Hop Protocol: USDC Wrapper,0.00040529 Ether,49445
+16,0x46ae9bab8cea96610807a275ebd36f8e916b5c61,Hop Protocol: USDT Bridge,0 Ether,17499
+17,0xec4b41af04cf917b54aeb6df58c0f8d78895b5ef,Hop Protocol: USDT Liquidity Pool,0 Ether,12829
+18,0x7d269d3e0d61a05a0ba976b7dbf8805bf844af3f,Hop Protocol: USDT Wrapper,0.005 Ether,9343
+19,0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc,Hop: HOP Token,0 Ether,13690
+20,,Sum of 20 Accounts,0.17955553 Ether,948120
