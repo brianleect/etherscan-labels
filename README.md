@@ -5,17 +5,17 @@ Scrapes labels from etherscan, bscscan & polygonscan, arbitrium, fantom, avalanc
 
 | Chain | Site | Label Count | Status | Last scraped |
 |-------|------|-------------|--------|--------------|
-| [ETH](https://github.com/brianleect/etherscan-labels/tree/main/data/etherscan) | [https://etherscan.io](https://etherscan.io) | [27352](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json) | 🔴 Blocked by cloudflare | 23/2/2023 |
+| [ETH](https://github.com/brianleect/etherscan-labels/tree/main/data/etherscan) | [https://etherscan.io](https://etherscan.io) | [27352](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json) | 🔴 Blocked by scraping bug | 23/2/2023 |
 | [BSC](https://github.com/brianleect/etherscan-labels/tree/main/data/bscscan) | [https://bscscan.com](https://bscscan.com) | [6726](https://github.com/brianleect/etherscan-labels/tree/main/./data/bscscan/combined/combinedAllLabels.json) | ✅ ok | 26/3/2023 |
 | [POLY](https://github.com/brianleect/etherscan-labels/tree/main/data/polygonscan) | [https://polygonscan.com](https://polygonscan.com) | [4997](https://github.com/brianleect/etherscan-labels/tree/main/./data/polygonscan/combined/combinedAllLabels.json) | ✅ ok | 26/3/2023 |
-| [OPT](https://github.com/brianleect/etherscan-labels/tree/main/data/optimism) | [https://optimistic.etherscan.io](https://optimistic.etherscan.io) | [0](https://github.com/brianleect/etherscan-labels/tree/main/./data/optimism/combined/combinedAllLabels.json) | 🔴 Blocked by cloudflare | N/A |
+| [OPT](https://github.com/brianleect/etherscan-labels/tree/main/data/optimism) | [https://optimistic.etherscan.io](https://optimistic.etherscan.io) | [546](https://github.com/brianleect/etherscan-labels/tree/main/./data/optimism/combined/combinedAllLabels.json) |✅ ok | 29/3/2023 |
 | [ARB](https://github.com/brianleect/etherscan-labels/tree/main/data/arbiscan) | [https://arbiscan.io](https://arbiscan.io) | [837](https://github.com/brianleect/etherscan-labels/tree/main/./data/arbiscan/combined/combinedAllLabels.json) | ✅ ok | 26/3/2023 |
 | [FTM](https://github.com/brianleect/etherscan-labels/tree/main/data/ftmscan) | [https://ftmscan.com](https://ftmscan.com) | [1085](https://github.com/brianleect/etherscan-labels/tree/main/./data/ftmscan/combined/combinedAllLabels.json) | ✅ ok | 26/3/2023 |
 | [AVAX](https://github.com/brianleect/etherscan-labels/tree/main/data/avalanche) | [https://snowtrace.io](https://snowtrace.io) | [1062](https://github.com/brianleect/etherscan-labels/tree/main/./data/avalanche/combined/combinedAllLabels.json) | ✅ ok | 26/3/2023 |
 
 Total Chains: 7
 
-Total Labels: 42059
+Total Labels: 42605
 
 ## Setup
 1. On the command-line, run the command `pip install -r requirements.txt` while located at folder with code.
