@@ -2,3 +2,4 @@ selenium
 pandas
 webdriver-manager
 lxml
+undetected-chromedriver
