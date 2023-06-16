@@ -73,16 +73,45 @@ def getLabel(label, label_type="account", input_type='single'):
                 # Retrieve all addresses from table
                 elems = driver.find_elements("xpath", "//tbody//a[@href]")
                 addressList = []
+                tokenNameList = []
                 addrIndex = len(baseUrl + '/address/')
                 for elem in elems:
                     href = elem.get_attribute("href")
+                    #print('href:',href)
                     if (href.startswith(baseUrl + '/address/')):
                         addressList.append(href[addrIndex:])
+                    elif href.startswith(baseUrl + '/token/'):
+
+                        if '...' in elem.text:
+                        #try:
+                            # Check if the element has the tooltip attribute
+                            tooltip_element = elem.find_element_by_xpath(".//span[@data-bs-toggle='tooltip']")
+
+                            # Use execute_script to get tooltip text via JavaScript
+                            tooltip_text = driver.execute_script("""
+                                var tooltipElement = arguments[0];
+                                var tooltipInstance = bootstrap.Tooltip.getInstance(tooltipElement);
+                                return tooltipInstance ? tooltipInstance._config.originalTitle : null;
+                            """, tooltip_element)
+
+                            print('Tooltip text found:',tooltip_text)
+                            tokenNameList.append(tooltip_text)
+                        #except:
+                        else:
+                            # Tooltip doesn't exist, just use the element text
+                            formattedText = elem.text.replace('\n',' ')
+                            print('TokenName:',formattedText)
+
+                            # Replace newline with whitespace
+                            tokenNameList.append(formattedText)
+
+                    
 
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
                 if targetChain == 'eth':
                     # Replace address column in newTable dataframe with addressList
                     curTable['Address'] = addressList
+                    curTable['Token Name'] = tokenNameList
             except Exception as e:
                 print(e)
                 print(label, "Skipping label due to error")
