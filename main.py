@@ -81,7 +81,7 @@ def getLabel(label, label_type="account", input_type='single'):
                     if (href.startswith(baseUrl + '/address/')):
                         addressList.append(href[addrIndex:])
                     elif href.startswith(baseUrl + '/token/'):
-
+                        #print('elem.text:',elem.text)
                         if '...' in elem.text:
                         #try:
                             # Check if the element has the tooltip attribute
@@ -109,9 +109,12 @@ def getLabel(label, label_type="account", input_type='single'):
 
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
                 if targetChain == 'eth':
+                    #print('addressList',addressList)
                     # Replace address column in newTable dataframe with addressList
                     curTable['Address'] = addressList
-                    curTable['Token Name'] = tokenNameList
+
+                    # Replace with Token Name only if it exists
+                    if len(tokenNameList): curTable['Token Name'] = tokenNameList
             except Exception as e:
                 print(e)
                 print(label, "Skipping label due to error")
