@@ -1,0 +1,71 @@
+,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
+0,1,0x4A6451...00b66E10,Wrapped ZEC  (WZEC),"$404,445,188.00",56,https://z.cash/,0x4A64515E5E1d1073e83f30cB97BEd20400b66E10
+1,2,0xE452E6...3Ac8d77a,Wrapped Celo  (wCELO),"$200,539,094.00",243,https://www.wrapped.com/,0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a
+2,3,0xfF2081...D11095C2,Amp  (AMP),"$113,077,066.00",91777,https://amptoken.org/,0xff20817765cb7f73d4bde2e66e067e58d11095c2
+3,4,0xad3E3F...b1EcF195,Wrapped Celo...  (wCUSD),"$42,555,433.00",14,https://www.wrapped.com/,0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195
+4,5,0xCE3f08...220827B2,SAITAMA  (SAITAM...),"$35,162,149.00",142789,https://saitamatoken.com/,0xCE3f08e664693ca792caCE4af1364D5e220827B2
+5,6,0x141694...6C932069,Energi  (NRG),"$3,158,313.00",951,https://www.energi.world/,0x1416946162b1c2c871a73b07e932d2fb6c932069
+6,7,0xdC47f2...CEAF8C07,STON  (STON),"$425,383.00",4681,https://www.mainston.com/,0xdc47f2ba852669b178699449e50682d6ceaf8c07
+7,8,0xa150Db...a33Ee606,Digital Rese...  (DRC),"$242,923.00",2800,https://drcglobal.org/,0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606
+8,9,0x859a9C...C9e44b4B,iEthereum  (iETH),"$221,172.00",4478,http://iethereum.trade/,0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b
+9,10,0xA5Ef74...34Ab7C57,LunaChow  (LUCHOW),"$217,374.00",899,https://lunachow.com,0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57
+10,11,0xbdEB4b...411eefe3,savedroid  (SVD),"$132,956.00",22528,https://www.savedroid.com/,0xbdeb4b83251fb146687fa19d1c660f99411eefe3
+11,12,0x41b3F1...e61eAa9F,NOAH DECENTR...  (NOAHP),"$75,189.00",471,https://www.noahcity.org/en,0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F
+12,13,0x095797...B15c445d,GOLCOIN  (GOLC),"$66,692.00",2608,https://golc.io/,0x095797FD4297fb79883cC912a5Ba6313B15c445d
+13,14,0x6e1A19...257494DE,Wrapped File...  (WFIL),"$21,599.00",137,https://www.wrapped.com/,0x6e1A19F235bE7ED8E3369eF73b196C07257494DE
+14,15,0x420c5D...C298E8c7,CryptoBossCo...  (CBC),$0.00,43,https://cbcoin.info/,0x420c5DF39576f8E606cE69edF80AA364C298E8c7
+15,16,0x67C587...1f3e094B,GoodDollar  (G$),$0.00,290,https://www.gooddollar.org/,0x67C5870b4A41D4Ebef24d2456547A03F1f3e094B
+16,17,0x7bA19B...Ee0b555e,Wixlar  (WIX),$0.00,388,https://wixlar.com/,0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e
+17,18,0x0f86b2...94a43C18,Fidelity Tok...  (FDT),$0.00,87,https://www.fidelitytoken.net/,0x0f86b24dA64e16d9B21585a8734B8b0c94a43C18
+18,19,0xFeB56e...074EE87f,millither  (MLE),$0.00,19,https://millither.com/,0xFeB56edE6810174642abAd5e12aC31f2074EE87f
+19,20,0x94eea9...BA56B72F,ENZO  (NZO),$0.00,28,http://www.alfaenzo.org/,0x94eea9a484f0bae03d19623cfe389e2cba56b72f
+20,21,0x115e29...6c1E3357,Capital Coin  (CPTL),$0.00,85751,https://cptlcoin.com/,0x115e29615d1c10c8DDF826E4FaEc64ef6c1E3357
+21,22,0x6361F3...3156F7E7,Probably Not...  (PRBLY),$0.00,436,https://www.probably0.com/,0x6361F338Ab8DEf2AF3f2A1Be7BD8A7dB3156F7E7
+22,23,0xC626e0...D3Fab532,Freedom Rese...  (FR),$0.00,508,https://freedomreserv.eth.link/,0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532
+23,24,0x58a488...E46ae7C2,NOAHCOIN  (NOAH),$0.00,73331,https://noahcoin.org/,0x58a4884182d9e835597f405e5f258290e46ae7c2
+24,25,0xe1c4c0...6e606a80,Concoin  (CONCOI...),$0.00,1,http://www.concoin.com/,0xe1c4c0a4c362c6df8bc2c5ed99d898aa6e606a80
+25,26,0xA3865E...6F36aa74,Wrapped Tezo...  (WXTZ),$0.00,115,https://www.wrapped.com/,0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74
+26,27,0x55a90F...8220decB,handleSGD  (fxSGD),$0.00,-,https://handle.fi/,0x55a90f0eb223f3b2c0c0759f375734c48220decb
+27,28,0x36a28c...64fEEeb4,Cryptonits  (CRT),$0.00,3714,https://cryptonits.com/,0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4
+28,29,0xcbD658...bb3b52a1,BKRW Token  (BKRW),$0.00,-,https://binance.kr/,0xcbd658da220e4ac1fc4367f30c3c107dbb3b52a1
+29,30,0x3a2674...A307387E,Etherbtc  (ETHB),$0.00,17217,http://etherbtc.io/,0x3a26746Ddb79B1B8e4450e3F4FFE3285A307387E
+30,31,0xc1D204...5EC397Ff,PayperEx  (PAX),$0.00,92,https://payperex.com/,0xc1D204d77861dEf49b6E769347a883B15EC397Ff
+31,32,0x9403ca...e5cd1a04,Kuarta  (KTA),$0.00,57,https://www.kuarta.org/,0x9403ca0f802c3cc1a45372e44cdd7ed0e5cd1a04
+32,33,0xE3d208...03b9abBA,Hydra  (HDA),$0.00,2172,https://zolous.com/,0xE3d208D74e4C167245913C942df8C4Ee03b9abBA
+33,34,0x4780fa...e0fBC8eD,Saint George...  (Rupper),$0.00,3,https://saintgeorgestate.org/,0x4780fa65896f4369fe98e2f3ced82653e0fbc8ed
+34,35,0x0D0570...782D184f,Costil Netwo...  (CNT),$0.00,271,https://costil.network/,0x0d05705609c00b4342d05a947420e417782d184f
+35,36,0x8Bb6F9...D8AAfF80,Xian Coin  (XNC),$0.00,4440,https://xncasia.com/,0x8Bb6F9463524af5c248d085D37c91b96D8AAfF80
+36,37,0x106F2D...08F1fE24,Conexao Coin  (COINN),$0.00,23,http://coinn.com.br/,0x106f2d734e12545b4d78fc057934905508f1fe24
+37,38,0x1BBf25...4bE946Fb,Vow  (VOW),$0.00,12303,http://vowcurrency.com/,0x1BBf25e71EC48B84d773809B4bA55B6F4bE946Fb
+38,39,0xFd3305...5a50E7a4,Cloudbit Tok...  (Cloudb...),$0.00,443,https://cloudbitex.com/,0xfd3305e1c7cb5d269fb6ced8eb8240255a50e7a4
+39,40,0x54eFeC...E6e38313,EthereumLigh...  (ETLT),$0.00,34,https://www.ethereumlightning.net/,0x54eFeC15D08428C7Ba31f8F085D4860EE6e38313
+40,41,0x691c25...7bca1C6F,iBBT Utility...  (iBBT),$0.00,5772,https://ibbt.io/,0x691c25C461DaFC47792b6E4d674FBB637bca1C6F
+41,42,0x79d4f0...07CFBF4f,VNX Franc  (VCHF),$0.00,10,https://vnx.li/,0x79d4f0232a66c4c91b89c76362016a1707cfbf4f
+42,43,0x2569d6...286bD5b5,True Human N...  (TRUEHN),$0.00,10,http://www.truehn.org/,0x2569d68d49a2ab408f250b8eebd5f84f286bd5b5
+43,44,0x8616E8...993bcE3F,handleUSD  (fxUSD),$0.00,6,https://handle.fi/,0x8616e8ea83f048ab9a5ec513c9412dd2993bce3f
+44,45,0x53c487...C832a294,Wrapped Lite...  (WLTC),$0.00,5,https://www.wrapped.com/,0x53c4871322Bb47e7A24136fce291a6dcC832a294
+45,46,0x1AE27D...84ed3414,handleGBP  (fxGBP),$0.00,-,https://handle.fi/,0x1ae27d9068dadf10f611367332d162d184ed3414
+46,47,0xE6e3d3...890f137a,SwissToken  (TCHF),$0.00,8,https://token.swissinvestor.ch/,0xE6e3d39d746A6F16A2d666683B56619d890f137a
+47,48,0x5Db8c9...9410Aee4,Gamble  (RISE),$0.00,5,https://risecoin.org/,0x5db8c9c64dce95e26690f24c63c7399e9410aee4
+48,49,0x2A05d2...6E631cc1,BitAsean  (BAS),$0.00,420,https://www.bitasean.org/,0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1
+49,50,0x66bd6b...0cA6a19E,One Million ...  (OMC),$0.00,5,https://onemillioncoin.com/,0x66bd6ba586e00a0189cD06849589b2940cA6a19E
+50,51,0xAef38f...8E1f8BC5,CreditBIT  (CRB),$0.00,1187,https://www.creditbit.org/,0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5
+51,52,0x1E6063...8dB69Ec7,FUTUREXCRYPT...  (FXC),$0.00,36,http://futurexcrypto.com/,0x1e6063b7b3a1c1952ed2c4087fd528998db69ec7
+52,53,0xD26bE7...679eA5F6,JDE AK LUMI ...  (JAKL),$0.00,6,http://www.jdeuroway-bancorp.com/,0xd26be789fcaa5d0d3199d6df9e18c6c2679ea5f6
+53,54,0xaD5Fe5...Da117d8e,TRONCLASSIC  (TRXC),$0.00,9174,https://www.tronclassic.org/,0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e
+54,55,0x62947f...4f1cA872,NHCOIN  (NHC),$0.00,12,http://nhcoin.io/,0x62947ff43626eA26427Be5aE4c7dD03b4f1cA872
+55,56,0x43f11c...43Cd066D,FLOKI  (FLOKI),$0.00,54695,,0x43f11c02439e2736800433b4594994bd43cd066d
+56,57,0xe0b9Bc...911a502c,Zum Token  (ZUM),$0.00,16335,https://zum-token.com/,0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c
+57,58,0x054C64...D89c3b13,ETERNAL TOKE...  (XET),$0.00,9025,https://www.atom-solutions.jp/en/xetchange.php,0x054c64741dbafdc19784505494029823d89c3b13
+58,59,0x8fEEf8...8579Cc29,TIMERS  (IPM),$0.00,388,https://timers.network/,0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29
+59,60,0x39fBBA...e612e1B9,Wrapped XRP  (WXRP),$0.00,3782,https://www.wrapped.com/,0x39fBBABf11738317a448031930706cd3e612e1B9
+60,61,0x95dFDC...01538253,Iron Bank KR...  (ibKRW),$0.00,92,https://fixedforex.fi/,0x95dfdc8161832e4ff7816ac4b6367ce201538253
+61,62,0x6bA75D...7789b5d3,VNX Euro  (VEUR),$0.00,13,https://vnx.li/,0x6ba75d640bebfe5da1197bb5a2aff3327789b5d3
+62,63,0x0be136...7B2067E5,TRUEHN GOLD  (TRUEHN...),$0.00,6,http://www.truehn.org/,0x0be136b4744a00eb47f36e3f88c7809c7b2067e5
+63,64,0x95e0e6...04a85Bc6,handleJPY  (fxJPY),$0.00,-,https://handle.fi/,0x95e0e6230e9e965a4f12ede5ba8238aa04a85bc6
+64,65,0x20557a...275cd063,kaprika  (PASS),$0.00,46,http://kaprika.org/,0x20557aD4DF63385D055D0610FD77ac88275cd063
+65,66,0x1F17D7...Fbd00Ade,Gyoshi  (GYOSHI),$0.00,1127,https://www.gyoshi-shib.com/,0x1F17D72cBe65Df609315dF5c4f5F729eFbd00Ade
+66,67,0x7347CE...93eF664D,Wrapped Mone...  (WXMR),$0.00,1,https://wmonero.org/,0x7347CE1890DebcB0Eb28c10b15E726BB93eF664D
+67,68,0x22c107...8A3d4052,Digital Rupi...  (DRP),$0.00,1293,https://digitalrupiah.id/,0x22c10728343E9d49Ef25080F74a223878A3d4052
+68,69,0xAEa8e1...78EA3524,Sogur  (SGR),$0.00,106,https://www.sogur.com/,0xAEa8e1b6CB5c05D1dAc618551C76bcD578EA3524
+69,70,0x621629...fF29314F,PeerCash  (PEER),$0.00,199,https://peercash.net/,0x621629915d4e7bef4184602fdba6d951ff29314f
