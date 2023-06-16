@@ -66,6 +66,10 @@ def getLabel(label, label_type="account", input_type='single'):
                 curTable = pd.read_html(driver.page_source)[table_index]
                 print(curTable)
 
+                # If last row contains NaN, then we remove it, problem only with etherscan
+                if (curTable.iloc[-1].isnull().values.any()):
+                    curTable = curTable.iloc[:-1]
+
                 # Retrieve all addresses from table
                 elems = driver.find_elements("xpath", "//tbody//a[@href]")
                 addressList = []
