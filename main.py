@@ -235,7 +235,8 @@ def combineAllJson():
 # Retrieves all labels from labelcloud and saves as JSON/CSV
 
 
-def getAllLabels():
+def getAllLabels(overwrite=False):
+    print('Overwrite:', overwrite)
     driver.get(baseUrl + '/labelcloud')
     driver.implicitly_wait(5)
 
@@ -257,7 +258,7 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
-        if (os.path.exists(savePath + 'accounts/{}.json'.format(label))
+        if (not overwrite and os.path.exists(savePath + 'accounts/{}.json'.format(label))
                 or os.path.exists(savePath + 'accounts/empty/{}.json'.format(label))):
             print(label, "'s account labels already exist, skipping.")
             continue
@@ -324,7 +325,8 @@ if __name__ == "__main__":
 
     retrievalType = input('Enter retrieval type (single/all): ')
     if (retrievalType == 'all'):
-        getAllLabels()
+        overwrite = input('Overwrite existing labels? (y/n): ')
+        getAllLabels(overwrite == 'y')
     else:
         singleLabel = input('Enter label of interest: ')
         getLabel(singleLabel, 'account')
