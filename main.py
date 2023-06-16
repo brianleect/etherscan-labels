@@ -72,7 +72,7 @@ def getLabel(label, label_type="account", input_type='single'):
                 addrIndex = len(baseUrl + '/address/')
                 for elem in elems:
                     href = elem.get_attribute("href")
-                    if (href.startswith('baseUrl/address/')):
+                    if (href.startswith(baseUrl + '/address/')):
                         addressList.append(href[addrIndex:])
 
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
