@@ -1,2 +1,5 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0xc1e088fc1323b20bcbee9bd1b9fc9546db5624c5,Beanstalk: Beanstalk Protocol,0 ETH,68121
+0,0xc1e088fc1323b20bcbee9bd1b9fc9546db5624c5,Beanstalk: Beanstalk Protocol,0 ETH,71741
+1,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,Centre: USD Coin,0 ETH,32254427
+2,0xf7790914dc335b20aa19d7c9c9171e14e278a134,SG-FORGE: EUR CoinVertible,0 ETH,5
+3,0xdac17f958d2ee523a2206206994597c13d831ec7,Tether: USDT Stablecoin,1 wei,165470284

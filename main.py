@@ -66,22 +66,72 @@ def getLabel(label, label_type="account", input_type='single'):
                 curTable = pd.read_html(driver.page_source)[table_index]
                 print(curTable)
 
+                # If last row contains NaN, then we remove it, problem only with etherscan
+                if (curTable.iloc[-1].isnull().values.any()):
+                    curTable = curTable.iloc[:-1]
+
                 # Retrieve all addresses from table
                 elems = driver.find_elements("xpath", "//tbody//a[@href]")
                 addressList = []
+                tokenNameList = []
                 addrIndex = len(baseUrl + '/address/')
                 for elem in elems:
                     href = elem.get_attribute("href")
+                    #print('href:',href)
                     if (href.startswith(baseUrl + '/address/')):
                         addressList.append(href[addrIndex:])
+                    elif href.startswith(baseUrl + '/token/'):
+                        #print('elem.text:',elem.text)
+                        if '...' in elem.text:
+                        #try:
+                            # Check if the element has the tooltip attribute
+                            tooltip_element = elem.find_element_by_xpath(".//span[@data-bs-toggle='tooltip']")
+
+                            # Use execute_script to get tooltip text via JavaScript
+                            tooltip_text = driver.execute_script("""
+                                var tooltipElement = arguments[0];
+                                var tooltipInstance = bootstrap.Tooltip.getInstance(tooltipElement);
+                                return tooltipInstance ? tooltipInstance._config.originalTitle : null;
+                            """, tooltip_element)
+
+                            print('Tooltip text found:',tooltip_text)
+                            tokenNameList.append(tooltip_text)
+                        #except:
+                        else:
+                            # Tooltip doesn't exist, just use the element text
+                            formattedText = elem.text.replace('\n',' ')
+                            print('TokenName:',formattedText)
+
+                            # Replace newline with whitespace
+                            tokenNameList.append(formattedText)
+
+                    
 
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
                 if targetChain == 'eth':
+                    #print('addressList',addressList)
+                    
                     # Replace address column in newTable dataframe with addressList
-                    curTable['Address'] = addressList
+                    if label_type == "account":
+                        curTable['Address'] = addressList
+                    elif label_type == "token":
+                        curTable["Contract Address"] = addressList
+
+                    # Replace with Token Name only if it exists
+                    if len(tokenNameList): curTable['Token Name'] = tokenNameList
             except Exception as e:
-                print(e)
+                print(e) 
                 print(label, "Skipping label due to error")
+
+                # Save empty CSV and JSON, assumption is that its "No table found error"
+                # TODO: Better error checking
+                empty_df = pd.DataFrame()
+                empty_df.to_csv(
+                    savePath + '{}s/empty/{}.csv'.format(label_type, label))
+
+                empty_dict = {}
+                with open(savePath + '{}s/empty/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
+                    json.dump(empty_dict, f, ensure_ascii=True)
                 return
 
             table_list.append(curTable)
@@ -235,7 +285,8 @@ def combineAllJson():
 # Retrieves all labels from labelcloud and saves as JSON/CSV
 
 
-def getAllLabels():
+def getAllLabels(overwrite=False):
+    print('Overwrite:', overwrite)
     driver.get(baseUrl + '/labelcloud')
     driver.implicitly_wait(5)
 
@@ -257,7 +308,7 @@ def getAllLabels():
     print('L:', len(labels))
 
     for label in labels:
-        if (os.path.exists(savePath + 'accounts/{}.json'.format(label))
+        if (not overwrite and os.path.exists(savePath + 'accounts/{}.json'.format(label))
                 or os.path.exists(savePath + 'accounts/empty/{}.json'.format(label))):
             print(label, "'s account labels already exist, skipping.")
             continue
@@ -269,7 +320,7 @@ def getAllLabels():
         time.sleep(1)  # Give 1s interval to prevent RL
 
     for label in labels:
-        if (os.path.exists(savePath + 'tokens/{}.json'.format(label))
+        if (not overwrite and os.path.exists(savePath + 'tokens/{}.json'.format(label))
                 or os.path.exists(savePath + 'tokens/empty/{}.json'.format(label))):
             print(label, "'s token labels already exist, skipping.")
             continue
@@ -324,7 +375,8 @@ if __name__ == "__main__":
 
     retrievalType = input('Enter retrieval type (single/all): ')
     if (retrievalType == 'all'):
-        getAllLabels()
+        overwrite = input('Overwrite existing labels? (y/n): ')
+        getAllLabels(overwrite == 'y')
     else:
         singleLabel = input('Enter label of interest: ')
         getLabel(singleLabel, 'account')

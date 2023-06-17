@@ -33,7 +33,7 @@
 31,0x45f1b268cc6412b454dae20f8971fc4a36af0d29,Enzyme Finance: Management Fee,0 ETH,1
 32,0xdee63b253432a443a09bf8461f20256d184319de,Enzyme Finance: Max Concentration,0 ETH,1
 33,0x016a7287f0fdbdce5f903334f574b2238be3fa25,Enzyme Finance: Min Max Investment,0 ETH,1
-34,0xec67005c4e498ec7f55e092bd1d35cbc47c91892,Enzyme Finance: MLN Token,0 ETH,79958
+34,0xec67005c4e498ec7f55e092bd1d35cbc47c91892,Enzyme Finance: MLN Token,0 ETH,82702
 35,0x8ea6ca02274e1b05b70c11058213adc667258c3d,Enzyme Finance: ParaSwap V4 Adapter,0 ETH,1
 36,0x3c3f9143a15042b69eb314cac211688a4e71a087,Enzyme Finance: Performance Fee,0 ETH,1
 37,0x0bd9f0465d21d4c300c7b8d781a013bdc87a31e8,Enzyme Finance: Policy Manager,0 ETH,232
@@ -55,6 +55,6 @@
 53,0xdb0e414f86f94e69b5be00b5df8a85f793f94aca,Melon Fund: Risk Mgmt,0 ETH,1
 54,0x073c4ea5a89d0e5aa0408a1b6dd8bbfcdba985c0,Melon Fund: Version,0 ETH,49
 55,0x4a3943269c581efcbd0875a7c60da1c35a7c85c2,Melon Fund: ZeroEx V1 Adapter,0 ETH,1
-56,0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1,Melon: Old Token,0 ETH,29790
-57,0x3c75d37b579e0e4896f02c0122baa4de05383a6a,Melon: Spender Address,0 ETH,961
+56,0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1,Melon: Old Token,0 ETH,29794
+57,0x3c75d37b579e0e4896f02c0122baa4de05383a6a,Melon: Spender Address,0 ETH,962
 58,0x3bf541f87056d134e0109be1be92978b26cb09e0,Melonport: Token Sale,0 ETH,427

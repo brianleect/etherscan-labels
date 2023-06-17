@@ -1,18 +1,18 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0xb3ed706b564bba9cab64042f4e1b391be7bebce5,Augmented Finance Token: AGF Token,0 ETH,245
+0,0xb3ed706b564bba9cab64042f4e1b391be7bebce5,Augmented Finance Token: AGF Token,0 ETH,248
 1,0x7592c85e1b0c652735264f3b59eda9fc4a8f727b,Augmented Finance: Addresses Provider Registry,0 ETH,4
 2,0x3c6de73585586c919f533717d28f8259d2fc7207,Augmented Finance: agvUSDC Borrow Variable Rate,0 ETH,0
 3,0x8c44f8e4b360a3dbd7fc5ee7136922efc0c155d6,Augmented Finance: agvUSDT Borrow Variable Rate,0 ETH,0
 4,0x14972103a5f5f41c099aa85457f61d7ddf3908b5,Augmented Finance: agvWBTC Borrow Variable Rate,0 ETH,0
 5,0x0b5b915c7e2aa392e59717c0a63d3d42d4a9f112,Augmented Finance: agvWETH Borrow Variable Rate,0 ETH,18
-6,0x9276635ec39c72866f3cf70298efe501eb5dcdf1,Augmented Finance: Lending Pool,0 ETH,591
+6,0x9276635ec39c72866f3cf70298efe501eb5dcdf1,Augmented Finance: Lending Pool,0 ETH,595
 7,0x9f60c2b23ff29610318cbc9386c22def81d773db,Augmented Finance: Lending Pool Configurator,0 ETH,21
 8,0xe6a15b35daf7b07fc1c2340e87ba8bb3907875b7,Augmented Finance: Lending Rate Oracle,0 ETH,2
 9,0xc6f769a0c46cffa57d91e87ed3bc0cd338ce6361,Augmented Finance: Market Access Controller,0 ETH,52
 10,0xfe1fc5b9689a71f6d83b28710bf331b57a5d0590,Augmented Finance: Oracle Router,0 ETH,5
 11,0xd25c4a0b0c088dc8d501e4292cf28da6829023c0,Augmented Finance: Protocol Data Provider,0 ETH,1
 12,0x9c4479864632456298fd80faec4b0ba94d5e42f0,Augmented Finance: Referral Registry,0 ETH,0
-13,0xd5fc057194472d82e515ccacee976625ca9bde90,Augmented Finance: Reward controller,0 ETH,737
+13,0xd5fc057194472d82e515ccacee976625ca9bde90,Augmented Finance: Reward controller,0 ETH,743
 14,0x774961cce0a8053fbf5b745231dab2878887c395,Augmented Finance: Stable Debt DAI,0 ETH,0
 15,0xf7433a50b136ad4a57d6fce5cd949ed4a3d5d033,Augmented Finance: Stable Debt USDC,0 ETH,0
 16,0x01455b220a79d8295455b72f70f910d44f747a1d,Augmented Finance: Stable Debt USDT,0 ETH,0
@@ -37,10 +37,10 @@
 35,0xe56695938b6dbd0fb691156a3c5031bd00216b49,Augmented Finance: Supply cWBTC,0 ETH,1
 36,0x0afc9e01418ed39240679cee1a382f83cf8a6e89,Augmented Finance: Supply cWETH,0 ETH,0
 37,0x277ea9dce3abb2377142036a6ed81070dca4f204,Augmented Finance: Supply DAI,0 ETH,17
-38,0x1dadd1e4c06e50df13c53197f5a193a5a3792a39,Augmented Finance: Supply USDC,0 ETH,58
+38,0x1dadd1e4c06e50df13c53197f5a193a5a3792a39,Augmented Finance: Supply USDC,0 ETH,59
 39,0x79167b30ae9d49194ed9fdcdc011b22ed1bf0ae1,Augmented Finance: Supply USDT,0 ETH,23
 40,0x3621506cd4b70818848392d01837e20e3edd5340,Augmented Finance: Supply WBTC,0 ETH,14
-41,0xe9b34288d5d8ac7d93c392542b418e99cedefa89,Augmented Finance: Supply WETH,0 ETH,120
+41,0xe9b34288d5d8ac7d93c392542b418e99cedefa89,Augmented Finance: Supply WETH,0 ETH,121
 42,0x824eb5a64024f7204c01cd2bcc31561a5182a829,Augmented Finance: Treasury,0 ETH,0
 43,0x3b0b4787a01591daf1bac616465167e9f7dcd18e,Augmented Finance: WETH Gateway,0 ETH,245
 44,0x34a20ccbdaed980ed971e8f6f9dd642fb8b3bf9b,Augmented Finance: xagDAI Stake,0 ETH,12
@@ -48,5 +48,5 @@
 46,0x9b770715efc65030ddb5ed0719bb00654232a88c,Augmented Finance: xagUSDC Stake,0 ETH,25
 47,0x8f13a2f19d0c18b894835101f03ab3abd3f09248,Augmented Finance: xagUSDT Stake,0 ETH,10
 48,0xacf637999e062375561d2134be3e4c15a3c58ad7,Augmented Finance: xagWBTC Stake,0 ETH,12
-49,0x6e282b89b6d4d336852dc5c94689944a73cc6b58,Augmented Finance: xagWETH Stake,0 ETH,37
+49,0x6e282b89b6d4d336852dc5c94689944a73cc6b58,Augmented Finance: xagWETH Stake,0 ETH,39
 50,0xddca3420e4db83746a547216271ef3928aa3f141,Augmented Finance: Stake DAI,0 ETH,32
