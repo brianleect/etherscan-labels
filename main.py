@@ -110,14 +110,28 @@ def getLabel(label, label_type="account", input_type='single'):
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
                 if targetChain == 'eth':
                     #print('addressList',addressList)
+                    
                     # Replace address column in newTable dataframe with addressList
-                    curTable['Address'] = addressList
+                    if label_type == "account":
+                        curTable['Address'] = addressList
+                    elif label_type == "token":
+                        curTable["Contract Address"] = addressList
 
                     # Replace with Token Name only if it exists
                     if len(tokenNameList): curTable['Token Name'] = tokenNameList
             except Exception as e:
-                print(e)
+                print(e) 
                 print(label, "Skipping label due to error")
+
+                # Save empty CSV and JSON, assumption is that its "No table found error"
+                # TODO: Better error checking
+                empty_df = pd.DataFrame()
+                empty_df.to_csv(
+                    savePath + '{}s/empty/{}.csv'.format(label_type, label))
+
+                empty_dict = {}
+                with open(savePath + '{}s/empty/{}.json'.format(label_type, label), 'w', encoding='utf-8') as f:
+                    json.dump(empty_dict, f, ensure_ascii=True)
                 return
 
             table_list.append(curTable)
