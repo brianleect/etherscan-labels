@@ -140,8 +140,10 @@ def get_label(label, label_type="account", input_type="single"):
                 next_icon_elems = driver.find_elements("class name", "fa-chevron-right")
                 try:
                     next_icon_elems[0].click()
-                    time.sleep(5)  # TODO: allow customization by args
-                except:
+                    time.sleep(20) # beacon-depositor require longer # TODO: allow customization by args
+                except Exception as e:
+                    print("failed on clicking next page button", e)
+                    traceback.print_exc()
                     break
             else:
                 break
