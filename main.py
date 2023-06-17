@@ -306,7 +306,7 @@ def getAllLabels(overwrite=False):
         time.sleep(1)  # Give 1s interval to prevent RL
 
     for label in labels:
-        if (os.path.exists(savePath + 'tokens/{}.json'.format(label))
+        if (not overwrite and os.path.exists(savePath + 'tokens/{}.json'.format(label))
                 or os.path.exists(savePath + 'tokens/empty/{}.json'.format(label))):
             print(label, "'s token labels already exist, skipping.")
             continue
