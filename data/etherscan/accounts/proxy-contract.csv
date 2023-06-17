@@ -6,7 +6,7 @@
 4,0x57805e5a227937bac2b0fdacaa30413ddac6b8e1,Furucombo: Proxy v0.4.1,0 ETH,4106
 5,0x87887cf0e37d937f989ab76b99e4f4682da044c4,Opyn: Proxy,0 ETH,307
 6,0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a,Ren: Darknode Registry Proxy,0 ETH,8990
-7,0xb440dd674e1243644791a4adfe3a2abb0a92d309,Synthetix: Proxy Fee Pool,0 ETH,136314
+7,0xb440dd674e1243644791a4adfe3a2abb0a92d309,Synthetix: Proxy Fee Pool,0 ETH,136316
 8,0x8a8079c7149b8a1611e5c5d978dca3be16545f83,Synthetix: Proxy iADA Token,0 ETH,5
 9,0xf6e9b246319ea30e8c2fa2d1540aaebf6f9e1b89,Synthetix: Proxy iBCH Token,0 ETH,5
 10,0xafd870f32ce54efdbf677466b612bf8ad164454b,Synthetix: Proxy iBNB Token,0 ETH,49
@@ -42,9 +42,9 @@
 40,0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6,Synthetix: Proxy sLINK Token,0 ETH,668
 41,0xc14103c2141e842e228fbac594579e798616ce7a,Synthetix: Proxy sLTC Token,0 ETH,26
 42,0x757de3ac6b830a931ef178c6634c5c551773155c,Synthetix: Proxy sNIKKEI Token,0 ETH,8
-43,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,Synthetix: Proxy SNX Token,0 ETH,1151411
+43,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,Synthetix: Proxy SNX Token,0 ETH,1151468
 44,0xf2e08356588ec5cd9e437552da87c0076b4970b0,Synthetix: Proxy sTRX Token,0 ETH,22
-45,0x57ab1ec28d129707052df4df418d58a2d46d5f51,Synthetix: Proxy sUSD Token,0 ETH,108041
+45,0x57ab1ec28d129707052df4df418d58a2d46d5f51,Synthetix: Proxy sUSD Token,0 ETH,108042
 46,0x6a22e5e94388464181578aa7a6b869e00fe27846,Synthetix: Proxy sXAG Token,0 ETH,265
 47,0x261efcdd24cea98652b9700800a13dfbca4103ff,Synthetix: Proxy sXAU Token,0 ETH,1437
 48,0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a,Synthetix: Proxy sXMR Token,0 ETH,31

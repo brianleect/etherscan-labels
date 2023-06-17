@@ -10,7 +10,7 @@
 8,0xfce10cbf5171dc12c215bbcca5dd75cbaea72506,Kyber: KGT Token,0 ETH,552
 9,0x97d7126b6ff7c4d95601912f4cdf790a3cd1edab,Kyber: Liquidity Conversion Rates,0 ETH,10
 10,0xa1c0fa73c39cfbcc11ec9eb1afc665aba9996e2c,Kyber: Matching Engine,0 ETH,4
-11,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,Kyber: Old KNC Token,0 ETH,943165
+11,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,Kyber: Old KNC Token,0 ETH,943168
 12,0x094c875704c14783049ddf8136e298b3a099c446,Kyber: Promotion Token,0 ETH,1984
 13,0x818e6fecd516ecc3849daf6845e3ec868087b755,Kyber: Proxy,0 ETH,696041
 14,0x9aab3f75489902f3a48495025729a0af77d4b11e,Kyber: Proxy 2,0 ETH,121714
@@ -77,7 +77,7 @@
 75,0x29483d288845aa883693cff207cd02b828b6177c,Kyber Network: Deployer,0.19600821 ETH,11
 76,0x9fb131efbac23b735d7764ab12f9e52cc68401ca,Kyber Network: Fee Handler 2,68.66558215 ETH,7
 77,0x7ec8fcc26be7e9e85b57e73083e5fe0550d8a7fe,Kyber Network: Governance,0 ETH,1299
-78,0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202,Kyber Network: KNC Token,0 ETH,169692
+78,0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202,Kyber Network: KNC Token,0 ETH,169716
 79,0x6758a66cd25fef7767a44895041678fc4ae9afd0,Kyber Network: Long Executor,0 ETH,1
 80,0x5ec0dcf4f6f55f28550c70b854082993fdc0d3b2,Kyber Network: Reward Distributor,0 ETH,198
 81,0xd2d0a0557e5b78e29542d440ec968f9253daa2e2,Kyber Network: Reward Pool,0 ETH,1
@@ -124,8 +124,8 @@
 122,0x7d5ba536ab244aaa1ea42ab88428847f25e3e676,KyberSwap: ElasticLMv1,0 ETH,2
 123,0x1c758af0688502e49140230f6b0ebd376d429be5,KyberSwap: KSFactory,0 ETH,4
 124,0x5649b4dd00780e99bab7abb4a3d581ea1aeb23d0,KyberSwap: KSRouter,0 ETH,18
-125,0x227b0c196ea8db17a665ea6824d972a64202e936,KyberSwap: Limit Order,0 ETH,638
+125,0x227b0c196ea8db17a665ea6824d972a64202e936,KyberSwap: Limit Order,0 ETH,639
 126,0x617dee16b86534a5d792a4d7a62fb491b544111e,KyberSwap: Meta Aggregation Router,0 ETH,153733
-127,0x6131b5fae19ea4f9d964eac0408e4408b66337b5,KyberSwap: Meta Aggregation Router v2,0.46807282 ETH,323700
+127,0x6131b5fae19ea4f9d964eac0408e4408b66337b5,KyberSwap: Meta Aggregation Router v2,0.46807282 ETH,324218
 128,0x165c68077ac06c83800d19200e6e2b08d02de75d,yberSwap: Elastic Legacy Ticks Fees Reader,0 ETH,1
 129,0x9ae49c0d7f8f9ef4b864e004fe86ac8294e20950,Kyber: Old Contract,0.45312351 ETH,306

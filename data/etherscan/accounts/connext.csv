@@ -1,7 +1,7 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0xc37e165fcfa2cb5cca7329dd9daa8cd72907b983,Gitcoin Grants: Connext Network,9.61608875 ETH,68
-1,0x8898b472c54c31894e3b9bb83cea802a5d0e63c6,Connext: Bridge,0 ETH,2257
-2,0x7e4490e97c8243d844719f26a0b47fd5a59fdc2e,Connext: ETH Bridge,7 wei,1744
+1,0x8898b472c54c31894e3b9bb83cea802a5d0e63c6,Connext: Bridge,0 ETH,2258
+2,0x7e4490e97c8243d844719f26a0b47fd5a59fdc2e,Connext: ETH Bridge,7 wei,1745
 3,0x29a519e21d6a97cdb82270b69c98bac6426cdcf9,Router: 0x29a...cf9,0.14289681 ETH,1782
 4,0x6201b8ec0cd3c29826bbbf1ca89924e42e0f6db4,Router: 0x620...db4,0.54303168 ETH,242
 5,0x6fd84ba95525c4ccd218f2f16f646a08b4b0a598,Router: 0x6fd...598,0.10074331 ETH,1859

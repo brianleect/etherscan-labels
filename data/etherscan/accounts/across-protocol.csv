@@ -7,14 +7,14 @@
 5,0x30b44c676a05f1264d1de9cc31db5f2a945186b6,Across Protocol: Bridge Admin,0 ETH,8
 6,0x527e872a5c3f0c7c24fe33f2593cfb890a285084,Across Protocol: Ethereum Adapter V2,0 ETH,1
 7,0x4d9079bb4165aeb4084c526a32695dcfd2f77381,Across Protocol: Ethereum Spoke Pool V2,0.23496426 ETH,253571
-8,0xb524735356985d2f267fa010d681f061dff03715,Across Protocol: Hub Pool Owner MultiSig,0.025 ETH,109
-9,0xc186fa914353c44b2e33ebe05f21846f1048beda,Across Protocol: Hub Pool V2,6.9475 ETH,32170
+8,0xb524735356985d2f267fa010d681f061dff03715,Across Protocol: Hub Pool Owner MultiSig,0.025 ETH,110
+9,0xc186fa914353c44b2e33ebe05f21846f1048beda,Across Protocol: Hub Pool V2,6.896 ETH,32175
 10,0x7db69eb9f52ed773e9b03f5068a1ea0275b2fd9d,Across Protocol: LP Token Factory V2,0 ETH,1
 11,0x22ed83a9ee26236486f57ce8385a247e5bfb71ff,Across Protocol: Optimism Adapter V2,0 ETH,1
 12,0x3e94e8d4316a1ebfb2245e45e6f0b8724094ce1a,Across Protocol: Polygon Adapter V2,0 ETH,1
 13,0x48d990abda20afa1fd1da713abc041b60a922c65,Across Protocol: Polygon Token Bridger V2,0 ETH,2
-14,0x428ab2ba90eba0a4be7af34c9ac451ab061ac010,Across Protocol: Relayer,29.47851536 ETH,125240
-15,0x15652636f3898f550b257b89926d5566821c32e1,Across Protocol: Relayer 2,0.45597629 ETH,83261
+14,0x428ab2ba90eba0a4be7af34c9ac451ab061ac010,Across Protocol: Relayer,29.44586632 ETH,125247
+15,0x15652636f3898f550b257b89926d5566821c32e1,Across Protocol: Relayer 2,0.39605034 ETH,83285
 16,0x4060dba72344da74edaeeae51a71a57f7e96b6b4,Across Protocol: Skinny Optimistic Oracle,0 ETH,10
 17,0xdfe0ec39291e3b60aca122908f86809c9ee64e90,Across Protocol: UMA Bridge Pool,0 ETH,96
 18,0x256c8919ce1ab0e33974cf6aa9c71561ef3017b6,Across Protocol: USDC Bridge Pool,0 ETH,4892

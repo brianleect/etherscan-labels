@@ -1,6 +1,6 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0x60c7c2a24b5e86c38639fd1586917a8fef66a56d,ENS: Registrar Migration,0 ETH,1
-1,0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85,ENS: Base Registrar Implementation,0 ETH,689919
+1,0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85,ENS: Base Registrar Implementation,0 ETH,689989
 2,0xff252725f6122a92551a5fa9a6b6bf10eb0be035,ENS: Bulk Renewal,0 ETH,41404
 3,0x690f0581ececcf8389c223170778cd9d029606f2,ENS: Cold Wallet,62.24149784 ETH,199
 4,0xfe89cc7abb2c4183683ab71653c4cdc9b02d44b7,ENS: DAO Wallet,"15,021.72036196 ETH",32
@@ -14,11 +14,11 @@
 12,0xe65d8aaf34cb91087d1598e0a15b582f57f217d9,ENS: Migration Subdomain Registrar,0 ETH,3353
 13,0x911143d946ba5d467bfc476491fdb235fef4d667,ENS: Multisig,0 ETH,125
 14,0xc1735677a60884abbcf72295e88d47764beda282,ENS: Offchain Resolver,0 ETH,1
-15,0x283af0b28c62c092c9727f1ee09c02ca627eb7f5,ENS: Old ETH Registrar Controller,"3,077.41272664 ETH",4915784
+15,0x283af0b28c62c092c9727f1ee09c02ca627eb7f5,ENS: Old ETH Registrar Controller,"3,077.51722939 ETH",4915789
 16,0x084b1c3c81545d370f3634392de611caabff8148,ENS: Old Reverse Registrar 2,0 ETH,599283
 17,0xdaaf96c344f63131acadd0ea35170e7892d3dfba,ENS: Public Resolver 1,0 ETH,1738
-18,0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41,ENS: Public Resolver 2,0 ETH,350219
-19,0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e,ENS: Registry with Fallback,0 ETH,194722
+18,0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41,ENS: Public Resolver 2,0 ETH,350253
+19,0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e,ENS: Registry with Fallback,0 ETH,194732
 20,0x3671ae578e63fdf66ad4f3e12cc0c0d71ac7510c,ENS: Reverse Records,0 ETH,1
 21,0xab528d626ec275e3fad363ff1393a41f581c5897,ENS: Root,0 ETH,6
 22,0xf7c83bd0c50e7a72b55a39fe0dabf5e3a330d749,ENS: Short Name Claims,0 ETH,413

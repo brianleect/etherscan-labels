@@ -1,6 +1,6 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0x042065416c5c665dc196076745326af3cd840d15,Optimism: Fraud Verifier,0 ETH,1
-1,0x99c9fc46f92e8a1c0dec1b1747d010903e884be1,Optimism: Gateway,0 ETH,351423
+1,0x99c9fc46f92e8a1c0dec1b1747d010903e884be1,Optimism: Gateway,0 ETH,351470
 2,0xde1fcfb0851916ca5101820a69b13a4e276bd81f,Optimism: Lib Address Manager,0 ETH,21
 3,0xcd76de5c57004d47d0216ec7dabd3c72d8c49057,Optimism: Mock OVM Bond Manager,0 ETH,1
 4,0x4bf681894abec828b212c906082b444ceb2f6cf6,Optimism: OVM Canonical Transaction Chain,0 ETH,23404
@@ -25,7 +25,7 @@
 23,0x10e6593cdda8c58a1d0f14c5164b376352a55f2f,Optimism: DAI Bridge,0 ETH,3996
 24,0x467194771dae2967aef3ecbedd3bf9a310c76c65,Optimism: L1 Escrow,0 ETH,30
 25,0x9ba6e03d8b90de867373db8cf1a58d2f7f006b3a,Optimism: Multisig,0.125 ETH,86
-26,0x6887246668a3b87f54deb3b94ba47a6f63f32985,Optimism: Sequencer,161.5965158 ETH,885719
+26,0x6887246668a3b87f54deb3b94ba47a6f63f32985,Optimism: Sequencer,156.68427278 ETH,885839
 27,0xbe5dab4a2e9cd0f27300db4ab94bee3a233aeb19,Optimism: State Commitment Chain,0 ETH,111543
-28,0x473300df21d047806a082244b417f96b32f13a33,Optimism: State Root Proposer,166.25607117 ETH,116721
+28,0x473300df21d047806a082244b417f96b32f13a33,Optimism: State Root Proposer,166.24961509 ETH,116725
 29,0x52ec2f3d7c5977a8e558c8d9c6000b615098e8fc,Optimism: Teleportr Deposit,0.38899523 ETH,101012

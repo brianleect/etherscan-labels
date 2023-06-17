@@ -1,8 +1,8 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0xdd4c48c0b24039969fc16d1cdf626eab821d3384,Gitcoin Grants: Tornado.cash,7.44972849 ETH,302
-1,0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc,Tornado.Cash: 0.1 ETH,395.8 ETH,9822
+1,0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc,Tornado.Cash: 0.1 ETH,395.6 ETH,9822
 2,0x178169b423a011fff22b9e3f3abea13414ddd0f1,Tornado.Cash: 0.1 WBTC,0 ETH,0
-3,0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936,Tornado.Cash: 1 ETH,"2,964 ETH",12600
+3,0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936,Tornado.Cash: 1 ETH,"2,960 ETH",12600
 4,0x610b717796ad172b316836ac95a2ffad065ceab4,Tornado.Cash: 1 WBTC,0 ETH,0
 5,0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d,"Tornado.Cash: 1,00 USDC",0 ETH,195
 6,0xfd8610d20aa15b7b2e3be39b396a1bc3516c7144,"Tornado.Cash: 1,000 DAI",0 ETH,419
@@ -15,7 +15,7 @@
 13,0xd691f27f38b395864ea86cfc7253969b409c362d,"Tornado.Cash: 10,000 USDC",0 ETH,1
 14,0xf67721a2d8f736e75a49fdd7fad2e31d8676542a,"Tornado.Cash: 10,000 USDT",0 ETH,11
 15,0xd4b88df4d29f5cedd6857912842cff3b20c8cfa3,Tornado.Cash: 100 DAI,0 ETH,253
-16,0xa160cdab225685da1d56aa342ad8841c3b53f291,Tornado.Cash: 100 ETH,"113,100 ETH",8614
+16,0xa160cdab225685da1d56aa342ad8841c3b53f291,Tornado.Cash: 100 ETH,"112,900 ETH",8614
 17,0x169ad27a470d064dede56a2d3ff727986b15d52b,Tornado.Cash: 100 USDT,0 ETH,335
 18,0x23773e65ed146a459791799d01336db287f25334,"Tornado.Cash: 100,000 DAI",0 ETH,9
 19,0x9ad122c22b14202b4490edaf288fdb3c7cb3ff5e,"Tornado.Cash: 100,000 USDT",0 ETH,1
@@ -38,7 +38,7 @@
 36,0x2f50508a8a3d323b91336fa3ea6ae50e55f32185,Tornado.Cash: Governance Vault,0 ETH,5
 37,0x179f48c78f57a3a78f0608cc9197b8972921d1d2,Tornado.Cash: Governance Vesting,0 ETH,7
 38,0xb20c66c4de72433f3ce747b58b86830c459ca911,Tornado.Cash: Instance Registry,0 ETH,0
-39,0xca0840578f57fe71599d29375e16783424023357,Tornado.Cash: L1 Helper,0.1 ETH,14813
+39,0xca0840578f57fe71599d29375e16783424023357,Tornado.Cash: L1 Helper,0.1 ETH,14814
 40,0x3f615ba21bc6cc5d4a6d798c5950cc5c42937fbd,Tornado.Cash: L1 Unwrapper,1.5 ETH,0
 41,0x746aebc06d2ae31b71ac51429a19d54e797878e9,Tornado.Cash: Mining v2,0 ETH,34385
 42,0x94a1b5cdb22c43faab4abeb5c74999895464ddaf,Tornado.Cash: Mixer 1,0 ETH,910
@@ -49,7 +49,7 @@
 47,0x58e8dcc13be9780fc42e8723d8ead4cf46943df2,Tornado.Cash: Relayer Registry,0 ETH,926
 48,0x5cab7692d4e94096462119ab7bf57319726eed2a,Tornado.Cash: Reward Swap,0 ETH,0
 49,0x88fd245fedec4a936e700f9173454d1931b4c307,Tornado.Cash: Reward Verifier,0 ETH,0
-50,0xd90e2f925da726b50c4ed8d0fb90ad053324f31b,Tornado.Cash: Router,0 ETH,113675
+50,0xd90e2f925da726b50c4ed8d0fb90ad053324f31b,Tornado.Cash: Router,0 ETH,113685
 51,0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2,Tornado.Cash: Team 1 Vesting,0 ETH,4
 52,0x00d5ec4cdf59374b2a47e842b799027356eac02b,Tornado.Cash: Team 2 Vesting,0 ETH,0
 53,0x77c08248c93ab53ff734ac555c932f8b9089d4c9,Tornado.Cash: Team 3 Vesting,0 ETH,3

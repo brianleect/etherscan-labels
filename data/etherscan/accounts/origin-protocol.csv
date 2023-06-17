@@ -1,8 +1,8 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0x8ac16c08105de55a02e2b7462b1eec6085fa4d86,Origin: ID,0 ETH,13118
 1,0x698ff47b84837d3971118a369c570172ee7e54c2,Origin: Marketplace v1,5.24729787 ETH,2236
-2,0x8207c1ffc5b6804f6024322ccf34f29c3541ae26,Origin: OGN Token,0 ETH,308603
-3,0x2a8e1e676ec238d8a992307b495b45b3feaa5e86,Origin Dollar: OUSD Token,0 ETH,8634
+2,0x8207c1ffc5b6804f6024322ccf34f29c3541ae26,Origin: OGN Token,0 ETH,308616
+3,0x2a8e1e676ec238d8a992307b495b45b3feaa5e86,Origin Dollar: OUSD Token,0 ETH,8639
 4,0xc626f08cf88972332cfcb48b227409658be67a1c,Origin Story Staking: Fee Vault,15.96143857 ETH,23
 5,0xcce8e784c777fb9435f89f4e45f8b7fc49f7669f,Origin Story Staking: Series,0 ETH,1952
 6,0xaed9fdc9681d61edb5f8b8e421f5cee8d7f4b04f,Origin: Deployer,0 ETH,288

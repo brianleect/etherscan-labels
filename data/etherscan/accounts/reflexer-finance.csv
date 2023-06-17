@@ -1,5 +1,5 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4,Maker: Proxy Registry,0 ETH,84573
+0,0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4,Maker: Proxy Registry,0 ETH,84577
 1,0xe6f5377de93a361cd5531bdfbdf0f4b522e16b2b,Reflexer Finance: Feed Security Module ETH,0 ETH,1948
 2,0xe24f8b30fd28c90462c9bbc87a9a2a823636f533,Reflexer Finance: FSM Gov Interface,0 ETH,4
 3,0x24acc85528e6dd5b9c297fb8821522d36b1ae09f,Reflexer Finance: GEB Deploy,0 ETH,19
@@ -42,7 +42,7 @@
 40,0x6368a4ba80fc780a9a0fea547239c4635b97fd70,Reflexer: Global Settlement,0 ETH,0
 41,0x27efc6ffe79692e0521e7e27657cf228240a06c2,Reflexer: Liquidation Engine,0 ETH,32
 42,0x12a5e1c81b10b264a575930aeae80681ddf595fe,Reflexer: Medianizer,0 ETH,499
-43,0x4ed9c0dca0479bc64d8f4eb3007126d5791f7851,Reflexer: Oracle Relayer,0 ETH,12469
+43,0x4ed9c0dca0479bc64d8f4eb3007126d5791f7851,Reflexer: Oracle Relayer,0 ETH,12471
 44,0x2cde6a1147b0ee61726b86d83fd548401b1162c7,Reflexer: Pause,0 ETH,202
 45,0x03ab458634910aad20ef5f1c8ee96f1d6ac54919,Reflexer: RAI Token,0 ETH,19558
 46,0xefe0b4ca532769a3ae758fd82e1426a03a94f185,Reflexer: SAFE Manager,0 ETH,6

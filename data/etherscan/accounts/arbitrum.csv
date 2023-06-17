@@ -1,8 +1,8 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0xb50721bcf8d664c30412cfbc6cf7a15145234ad1,Arbitrum Foundation: ARB Token,0 ETH,8281
+0,0xb50721bcf8d664c30412cfbc6cf7a15145234ad1,Arbitrum Foundation: ARB Token,0 ETH,8343
 1,0x1c8db745abe3c8162119b9ef2c13864cd1fdd72f,Arbitrum Foundation: Deployer,4.39172467 ETH,19
 2,0xa59075221b50c598aed0eae0bb9869639513af0d,Arbitrum Nova: Challenge Manager,0 ETH,0
-3,0xc4448b71118c9071bcb9734a0eac55d18a153949,Arbitrum Nova: Delayed Inbox,0 ETH,207392
+3,0xc4448b71118c9071bcb9734a0eac55d18a153949,Arbitrum Nova: Delayed Inbox,0 ETH,207430
 4,0x23122da8c581aa7e0d07a36ff1f16f799650232f,Arbitrum Nova: L1 Arb-Custom Gateway,0 ETH,4
 5,0xb2535b988dce19f9d71dfb22db6da744acac21bf,Arbitrum Nova: L1 ERC20 Gateway,0 ETH,2
 6,0xc840838bc438d73c16c2f8b22d2ce3669963cd48,Arbitrum Nova: L1 Gateway Router,0 ETH,1438
@@ -13,13 +13,13 @@
 11,0x1efb116ebc38ce895eb2e5e009234e0e0836f2f5,Arbitrum Nova: One Step Prover Math,0 ETH,1
 12,0x7a6c0503107858f82a790e481024134092e19979,Arbitrum Nova: One Step Prover Memory,0 ETH,1
 13,0xfb209827c58283535b744575e11953dcc4bead88,Arbitrum Nova: Rollup,2 ETH,7
-14,0x211e1c4c7f1bf5351ac850ed10fd68cffcf6c21b,Arbitrum Nova: Sequencer Inbox,0 ETH,15717
+14,0x211e1c4c7f1bf5351ac850ed10fd68cffcf6c21b,Arbitrum Nova: Sequencer Inbox,0 ETH,15725
 15,0x6ad1dc4ab5475d9f8cd10118c9d28b06f0c8a2d9,Arbitrum One: Challenge,0 ETH,1
 16,0x4812be53be02b9f38063cf55fef0a19d2ba8bb3a,Arbitrum One: One Step Proof,0 ETH,1
 17,0x2df287a3b2fd0916c0b3d4882201ff360acd6ec3,Arbitrum One: One Step Proof 2,0 ETH,1
 18,0xce81e7d009e53c02242b724819df1869da5e9fd8,Arbitrum One: One Step Proof Hash,0 ETH,1
-19,0xc1b634853cb333d3ad8663715b08f41a3aec47cc,Arbitrum: Batch Submitter,5.0017769 ETH,190693
-20,0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a,Arbitrum: Bridge,"1,124,750.66195791 ETH",30
+19,0xc1b634853cb333d3ad8663715b08f41a3aec47cc,Arbitrum: Batch Submitter,5.00093361 ETH,190940
+20,0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a,Arbitrum: Bridge,"1,126,168.05545687 ETH",30
 21,0x2f06e43d850ac75926fa2866e40139475b58cb16,Arbitrum: Bridge 2,0 ETH,2
 22,0x9a28e783c47bbeb813f32b861a431d0776681e95,Arbitrum: Bridge 3,0 ETH,0
 23,0x84efa170dc6d521495d7942e372b8e4b2fb918ec,Arbitrum: Bridge Utils,0 ETH,1
@@ -44,7 +44,7 @@
 42,0x667e23abd27e623c11d4cc00ca3ec4d0bd63337a,Arbitrum: Outbox,0 ETH,10
 43,0xb91f4be773f5a1b9b0dc1085663b3535a6ebeee2,Arbitrum: Outbox 2,0 ETH,1
 44,0x760723cd2e632826c38fef8cd438a4cc7e7e1a40,Arbitrum: Outbox 3,0 ETH,49793
-45,0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840,Arbitrum: Outbox 4,0 ETH,40466
+45,0x0b9857ae2d4a3dbe74ffe1d7df045bb7f96e4840,Arbitrum: Outbox 4,0 ETH,40481
 46,0x14797f5432f699cb4d4db04df599b74952d78d7b,Arbitrum: Outbox Entry,0 ETH,0
 47,0x171a2624302775ef943f4f62e76fd22a6813d7c4,Arbitrum: Proxy Admin,0 ETH,16
 48,0x9ad46fac0cf7f790e5be05a0f15223935a0c0ada,Arbitrum: Proxy Admin 2,0 ETH,19
@@ -53,7 +53,7 @@
 51,0xc8c3194ed3be7b2393fefe811a2cc39297442c0b,Arbitrum: Rollup Event Bridge,0 ETH,0
 52,0xb872ea300edba3872873fa1aa33db897c4d2cb66,Arbitrum: Rollup Event Bridge 2,0 ETH,1
 53,0xa4b1e63cb4901e327597bc35d36fe8a23e4c253f,Arbitrum: Sequencer 3,0.00022084 ETH,51298
-54,0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6,Arbitrum: Sequencer Inbox,0 ETH,241971
+54,0x1c479675ad559dc151f6ec7ed3fbf8cee79582b6,Arbitrum: Sequencer Inbox,0 ETH,242218
 55,0x9685e7281fb1507b6f141758d80b08752faf0c43,Arbitrum: Sequencer Inbox 2,0 ETH,3
 56,0x2b36f23ce0babd57553b26da4c7a0585bac65dc1,Arbitrum: Validator Utils,0 ETH,1
 57,0xe17d8fa6bc62590f840c5dd35f300f77d55cc178,Arbitrum: Validator Wallet Creator,0 ETH,7
