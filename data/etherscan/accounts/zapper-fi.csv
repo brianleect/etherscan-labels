@@ -1,9 +1,9 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0xacbeb5fc062cc66ae51ee63eaae088cfddc9586a,,0 ETH,2
-1,0x61edfa7f7bb97b0baad7c6ade3eec15ecebd7dcb,,0 ETH,3
-2,0xb4cbf6e1f7489e773e28edcc7cde19f0175e16d9,,0 ETH,2
-3,0x05d4ed0f8c3265134d94aaa5c508b6c1cb7095fd,,0 ETH,2
-4,0x8a0a04f0bed364ccba553b79b01072dcf4ee153b,,0 ETH,1
+0,0x05d4ed0f8c3265134d94aaa5c508b6c1cb7095fd,,0 ETH,2
+1,0x8a0a04f0bed364ccba553b79b01072dcf4ee153b,,0 ETH,1
+2,0xacbeb5fc062cc66ae51ee63eaae088cfddc9586a,,0 ETH,2
+3,0x61edfa7f7bb97b0baad7c6ade3eec15ecebd7dcb,,0 ETH,3
+4,0xb4cbf6e1f7489e773e28edcc7cde19f0175e16d9,,0 ETH,2
 5,0x4422610f73f4143a3936f8fa300329bba8833b54,Zapper.Fi Uniswap V2 Zap Out,0 ETH,6302
 6,0x647965b19280988a75c3a1369938c8927e6c8715,Zapper.Fi: Balancer Zap In,0 ETH,160
 7,0x03e86d24c462fa6ad88568053361186e4a5af68e,Zapper.Fi: Balancer Zap in ETH or ERC20,0 ETH,1578
@@ -55,8 +55,8 @@
 53,0xd6b88257e91e4e4d4e990b3a858c849ef2dfde8c,Zapper.Fi: Yearn yVault Zap Out,0 ETH,9163
 54,0x9c57618bfcdfae4ce8e49226ca22a7837de64a2d,Zapper.Fi: yVault V1 Zap In/Out,0 ETH,6068
 55,0x2fba0b21a553f0f268293be7abb07a54fffd2b02,Zapper.Fi: Zap Out V2,0 ETH,506
-56,0xfaff15c6cdaca61a4f87d329689293e07c98f578,Zapper.Fi: Zapper NFT,0 ETH,172400
-57,0xbbbfc46566e5f0302cef913af8c8f423070ce6a1,Gitcoin Grants: DeFiZap,0.00088225 ETH,2572
+56,0xfaff15c6cdaca61a4f87d329689293e07c98f578,Zapper.Fi: Zapper NFT,0 ETH,172696
+57,0xbbbfc46566e5f0302cef913af8c8f423070ce6a1,Gitcoin Grants: DeFiZap,0.00220993 ETH,2578
 58,0x5531b2eaa05d8b6fb855e15f1d21e6a3a3794b4d,Zapper.Fi: 1Inch Zap In,1 wei,381
 59,0x7f249dbd212158e1ac449f0a37ca956c8186ac80,Zapper.Fi: Balancer Add,0 ETH,1292
 60,0x00d0f137b51692d0ac708bde7b367a373865cffe,Zapper.Fi: Balancer Zap Out,0.77269621 ETH,4191
@@ -68,7 +68,7 @@
 66,0x1f0d1927498fbd4f9e8558704ce5b658929527ec,Zapper.Fi: Deprecated Polygon Bridge,0 ETH,1308
 67,0xab297faf67d486c8d03fbcd8f026fed0d71254b9,Zapper.Fi: Harvest Add,0 ETH,3
 68,0x12c085210a498369720f68c3020a60edf1542e4a,Zapper.Fi: Olympus Zap,0 ETH,6536
-69,0xc695f73c1862e050059367b2e64489e66c525983,Zapper.Fi: Pickle Zap In,0 ETH,2160
+69,0xc695f73c1862e050059367b2e64489e66c525983,Zapper.Fi: Pickle Zap In,0 ETH,2161
 70,0x2e61170a7dcab6438e403aa7a8a7143d39ed0a65,Zapper.Fi: PoolTogether Add,0 ETH,103
 71,0xcff6ef0b9916682b37d80c19cff8949bc1886bc2,Zapper.FI: Sushiswap Add,0 ETH,6853
 72,0x3351be9654188571a3e32388da582947928111ce,Zapper.FI: Sushiswap Remove,0 ETH,2772
@@ -81,7 +81,7 @@
 79,0x462991d18666c578f787e9ec0a74cd18d2971e5f,Zapper.Fi: Yearn yVault Add,0 ETH,1176
 80,0xb0880df8420974ef1b040111e5e0e95f05f8fee1,Zapper.Fi: Yearn yVault Add or Remove,0 ETH,2735
 81,0xacdf47c844eff0ecb218d8945e28a9a484af8d07,Zapper.Fi: Zapper Swap V1,0 ETH,2816
-82,0xf1f3ca6268f330fda08418db12171c3173ee39c9,Zapper: ZPR NFT Token,0 ETH,348434
+82,0xf1f3ca6268f330fda08418db12171c3173ee39c9,Zapper: ZPR NFT Token,0 ETH,349087
 83,0x727412db12fed07386235d1474257dc15302cce5,Zapper.Fi: Old Balancer Zap in ETH or ERC20,0 ETH,70
 84,0x85560d8ee2e714e60645f887dd4133ee0479b362,Zapper.Fi: Old Balancer Zap in ETH or ERC20 2,30.02 ETH,211
 85,0x924cc11fd506fce3dab461aa71a6bb823669ece3,Zapper.Fi: Old Curve Zap in,6 wei,130
