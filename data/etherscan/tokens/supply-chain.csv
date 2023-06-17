@@ -1,19 +1,19 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x0763fd...Bc6DE4d7,SUKU  (SUKU),"$5,943,932.00",12266,https://www.suku.world/,0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7
-1,2,0xF0c583...2f007f28,AXIS Token  (AXIS),"$3,640,227.00",3414,https://axistoken.io/,0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28
-2,3,0xf8aD7d...d9290D5d,Blocery Toke...  (BLY),"$2,182,748.00",3565,https://www.blocery.io/,0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d
-3,4,0x58c69e...7843c69b,HalalChain  (HLC),"$889,120.00",1911,https://www.qitmeer.io/,0x58c69ed6cd6887c0225d1fccecc055127843c69b
-4,5,0x6710c6...6a6c0312,Smart MFG  (MFG),"$356,009.00",10021,https://smartmfg.io,0x6710c63432a2de02954fc0f851db07146a6c0312
-5,6,0x47E820...7b77FF1f,PIGX  (PIGX),"$164,313.00",597,pigxtoken@163.com,0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f
-6,7,0x5dCEd3...6f696110,Tea Token  (TEA),$0.00,312,https://www.teachain.com/,0x5dced3c2fab61e21b25177c6050d3f166f696110
-7,8,0x7B0C06...d44056c8,Morpheus.Net...  (MRPH),$0.00,5247,https://morpheus.network,0x7b0c06043468469967dba22d1af33d77d44056c8
-8,9,0xB76a24...9C0f0e12,Hibiscus Des...  (FWBS5),$0.00,-,https://hibiscus.tech/,0xb76a2498d94f0dc85f8c746c7943b9639c0f0e12
-9,10,0xe25b0B...61A13f55,ShipChain SH...  (SHIP),$0.00,18327,https://shipchain.io/,0xe25b0bba01dc5630312b6a21927e578061a13f55
-10,11,0x8c39af...E69C35aA,Fr8 Network  (FR8),$0.00,192,https://fr8.network/,0x8c39afdf7b17f12c553208555e51ab86e69c35aa
-11,12,0xC05d14...0CE32b50,LINA  (LINA),$0.00,10150,https://lina.review/,0xc05d14442a510de4d3d71a3d316585aa0ce32b50
-12,13,0x2e91E3...1De1bcc1,Hercules  (HERC),$0.00,14798,https://herc.one/,0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1
-13,14,0x5B7093...822F884C,Authoreon  (AUN),$0.00,1706,https://www.authoreon.io/,0x5b7093fe2491dfb058c94bcd62a1cd4d822f884c
-14,15,0x79C5a1...E8C84A1e,Freight Trus...  (EDI),$0.00,1196,https://freighttrust.com/,0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e
-15,16,0x957c30...08c6aC8e,Modum Token  (MOD),$0.00,12296,https://modum.io/,0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e
-16,17,0xd50c8a...2d687B8D,Wagon  (WAG),$0.00,1,https://wagon.network/,0xd50c8a17d5c4b8e2d984933c7e37e5b92d687b8d
-17,18,0xf18432...cf9fF831,BioCrypt  (BIO),$0.00,29941,https://biocrypt.tech/,0xf18432ef894ef4b2a5726f933718f5a8cf9ff831
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7,SUKU (SUKU),"$6,021,796.00",12267,https://www.suku.world/
+1,2,0xf0c5831ec3da15f3696b4dad8b21c7ce2f007f28,AXIS Token (AXIS),"$3,301,750.00",3414,https://axistoken.io/
+2,3,0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d,Blocery Token,"$2,460,050.00",3572,https://www.blocery.io/
+3,4,0x58c69ed6cd6887c0225d1fccecc055127843c69b,HalalChain (HLC),"$889,120.00",1911,https://www.qitmeer.io/
+4,5,0x6710c63432a2de02954fc0f851db07146a6c0312,Smart MFG (MFG),"$362,807.00",10021,https://smartmfg.io
+5,6,0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f,PIGX (PIGX),"$164,313.00",597,pigxtoken@163.com
+6,7,0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e,Modum Token (MOD),$0.00,12296,https://modum.io/
+7,8,0xd50c8a17d5c4b8e2d984933c7e37e5b92d687b8d,Wagon (WAG),$0.00,1,https://wagon.network/
+8,9,0xf18432ef894ef4b2a5726f933718f5a8cf9ff831,BioCrypt (BIO),$0.00,29941,https://biocrypt.tech/
+9,10,0x5dced3c2fab61e21b25177c6050d3f166f696110,Tea Token (TEA),$0.00,312,https://www.teachain.com/
+10,11,0x7b0c06043468469967dba22d1af33d77d44056c8,Morpheus.Network,$0.00,5247,https://morpheus.network
+11,12,0xb76a2498d94f0dc85f8c746c7943b9639c0f0e12,Hibiscus Designer Split Research Contract V0,$0.00,-,https://hibiscus.tech/
+12,13,0xe25b0bba01dc5630312b6a21927e578061a13f55,ShipChain SHIP,$0.00,18327,https://shipchain.io/
+13,14,0x8c39afdf7b17f12c553208555e51ab86e69c35aa,Fr8 Network (FR8),$0.00,192,https://fr8.network/
+14,15,0xc05d14442a510de4d3d71a3d316585aa0ce32b50,LINA (LINA),$0.00,10150,https://lina.review/
+15,16,0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1,Hercules (HERC),$0.00,14798,https://herc.one/
+16,17,0x5b7093fe2491dfb058c94bcd62a1cd4d822f884c,Authoreon (AUN),$0.00,1706,https://www.authoreon.io/
+17,18,0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e,Freight Trust Network,$0.00,1196,https://freighttrust.com/

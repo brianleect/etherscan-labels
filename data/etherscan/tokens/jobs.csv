@@ -1,7 +1,7 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0xC8807f...89249014,Ispolink Tok...  (ISP),"$1,652,257.00",4154,https://ispolink.com/,0xc8807f0f5ba3fa45ffbdc66928d71c5289249014
-1,2,0x23c333...d54E94a8,SNOW  (SNOW),$0.00,17,https://www.snowtoken.io/,0x23c3339049aaD926FDd3070e228Ac46ad54E94a8
-2,3,0x42566c...2a72715d,Krios Token  (KRI),$0.00,4723,http://www.krios.io/,0x42566cFEFC853c232117EbA4413e45782a72715d
-3,4,0xdfbc90...BaCD517A,Jobchain  (JOB),$0.00,9679,https://www.jobchain.com/,0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A
-4,5,0x50987e...efc3B2ea,Mycro Token  (MYO),$0.00,402,https://www.mycrojobs.io/,0x50987e6be405ebac691f8988304562e5efc3b2ea
-5,6,0xE54Bed...EfD9e99a,MeetToken  (MTT),$0.00,991,https://meettoken.io/,0xe54bed429c033bae5cb0747efa0f41beefd9e99a
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0xc8807f0f5ba3fa45ffbdc66928d71c5289249014,Ispolink Token,"$1,683,295.00",4153,https://ispolink.com/
+1,2,0x50987e6be405ebac691f8988304562e5efc3b2ea,Mycro Token (MYO),$0.00,402,https://www.mycrojobs.io/
+2,3,0xe54bed429c033bae5cb0747efa0f41beefd9e99a,MeetToken (MTT),$0.00,991,https://meettoken.io/
+3,4,0x23c3339049aaD926FDd3070e228Ac46ad54E94a8,SNOW (SNOW),$0.00,17,https://www.snowtoken.io/
+4,5,0x42566cFEFC853c232117EbA4413e45782a72715d,Krios Token (KRI),$0.00,4723,http://www.krios.io/
+5,6,0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A,Jobchain (JOB),$0.00,9680,https://www.jobchain.com/

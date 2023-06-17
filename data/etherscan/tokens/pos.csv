@@ -1,5 +1,5 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x0FD10b...dEe00C38,Pundi X Toke...  (PUNDIX),"$84,989,337.00",17732,https://pundix.com/,0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38
-1,2,0x07eF9E...01654DB4,Chimpion  (BNANA),$0.00,228,https://www.chimpion.io/,0x07ef9e82721ac16809d24dafbe1792ce01654db4
-2,3,0x7714f3...29c5FE6A,Tenup  (TUP),$0.00,8052,https://tenup.io/,0x7714f320adca62b149df2579361afec729c5fe6a
-3,4,0x08Aa0e...68248d19,Cryptobuyer ...  (XPT),$0.00,419,https://cryptobuyer.io/en/,0x08aa0ed0040736dd28d4c8b16ab453b368248d19
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38,Pundi X Token,"$85,942,307.00",17695,https://pundix.com/
+1,2,0x07ef9e82721ac16809d24dafbe1792ce01654db4,Chimpion (BNANA),$0.00,228,https://www.chimpion.io/
+2,3,0x7714f320adca62b149df2579361afec729c5fe6a,Tenup (TUP),$0.00,8054,https://tenup.io/
+3,4,0x08aa0ed0040736dd28d4c8b16ab453b368248d19,Cryptobuyer Token,$0.00,419,https://cryptobuyer.io/en/

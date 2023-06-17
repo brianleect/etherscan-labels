@@ -1,20 +1,20 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x485d17...3011A260,ChronoTech T...  (TIME),"$13,664,411.00",2096,https://chrono.tech/,0x485d17A6f1B8780392d53D64751824253011A260
-1,2,0xf8e386...06E73705,Indorse  (IND),"$105,544.00",62656,https://indorse.io/,0xf8e386eda857484f5a12e4b5daa9984e06e73705
-2,3,0x06677D...4D4095bF,Work Quest T...  (WQT),"$58,625.00",1133,https://workquest.co/,0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf
-3,4,0x4AaC46...E4E1aeEa,ZINC  (ZINC),"$9,077.00",8421,https://zinc.work/,0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea
-4,5,0xd2946b...da799071,Vikky Token  (VIKKY),"$2,078.00",675,https://ico.vikky.io/,0xd2946be786f35c3cc402c29b323647abda799071
-5,6,0x66d544...556BadFd,Time Money  (TMONEY),$0.00,8,https://tmoney.io/,0x66d544b100966f99a72734c7eb471fb9556badfd
-6,7,0x8E8082...CEc8ed37,Bigturn  (TURN),$0.00,18,http://www.bigturn.com.au/,0x8e8082672cd0e0993f053df79533bc2ccec8ed37
-7,8,0xbe30F6...c0d98f23,Global Human...  (GHT),$0.00,35,https://ght.dtsgroup.co.nz/,0xbe30F684d62C9F7883a75A29c162c332c0d98f23
-8,9,0xe83E09...c4eE3230,Boon Tech  (BOON),$0.00,1631,https://boontech.ai/,0xe83e098eedb43b33d340d4757529e5a2c4ee3230
-9,10,0x417d6f...49431978,SKILLCOIN  (SKILL),$0.00,1832,https://skillcoin.foundation/en/,0x417d6feeae8b2fcb73d14d64be7f192e49431978
-10,11,0x567300...11a86723,Helper Searc...  (HSN),$0.00,1243,https://helpersearch.network/,0x567300e14f8d67e1f6720a95291dce2511a86723
-11,12,0x7C95e7...1fA2699a,Gracy Token  (GRACY),$0.00,206,https://gracy.io/,0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a
-12,13,0x8f66A1...A06c1312,Peoplewave T...  (PWV),$0.00,439,https://peoplewaveico.io/,0x8f66a173696502a0ad280781c3e55928a06c1312
-13,14,0xd1ba9B...1A0d2867,Human Token  (HMT),$0.00,2211,https://www.humanprotocol.org/,0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867
-14,15,0x2aE965...C667cAcC,GJC  (GJC),$0.00,569,https://www.globaljobcoin.com/,0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc
-15,16,0x6531f1...330B4e53,TIME  (TIME),$0.00,4024,https://chrono.tech/,0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53
-16,17,0x887280...3CF0f530,AGENZ Utilit...  (AGNZ),$0.00,3,https://agenz.uk/,0x887280c0Ad86143f398b945A8fec6D9C3CF0f530
-17,18,0xa76143...4a323c24,Jobs301  (Jobs),$0.00,31,https://www.jobs301.com/,0xa76143f39a1f741cb6031e39e5c1cf534a323c24
-18,19,0x3fF426...CF06f0Eb,EmploymentCo...  (EC2),$0.00,14,https://www.ec2token.com/,0x3fF426Ca07A9F589a80f18CCCC759E84CF06f0Eb
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x485d17A6f1B8780392d53D64751824253011A260,ChronoTech Token,"$13,229,350.00",2094,https://chrono.tech/
+1,2,0xf8e386eda857484f5a12e4b5daa9984e06e73705,Indorse (IND),"$105,391.00",62656,https://indorse.io/
+2,3,0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf,Work Quest Token,"$58,625.00",1133,https://workquest.co/
+3,4,0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea,ZINC (ZINC),"$9,259.00",8421,https://zinc.work/
+4,5,0xd2946be786f35c3cc402c29b323647abda799071,Vikky Token (VIKKY),"$2,078.00",675,https://ico.vikky.io/
+5,6,0x2ae965cd3d2b6d186e87d9586fc3bdbfc667cacc,GJC (GJC),$0.00,569,https://www.globaljobcoin.com/
+6,7,0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53,TIME (TIME),$0.00,4024,https://chrono.tech/
+7,8,0x887280c0Ad86143f398b945A8fec6D9C3CF0f530,AGENZ Utility Token,$0.00,3,https://agenz.uk/
+8,9,0xa76143f39a1f741cb6031e39e5c1cf534a323c24,Jobs301 (Jobs),$0.00,31,https://www.jobs301.com/
+9,10,0x3fF426Ca07A9F589a80f18CCCC759E84CF06f0Eb,EmploymentCoin,$0.00,14,https://www.ec2token.com/
+10,11,0x66d544b100966f99a72734c7eb471fb9556badfd,Time Money (TMONEY),$0.00,8,https://tmoney.io/
+11,12,0x8e8082672cd0e0993f053df79533bc2ccec8ed37,Bigturn (TURN),$0.00,18,http://www.bigturn.com.au/
+12,13,0xbe30F684d62C9F7883a75A29c162c332c0d98f23,Global Human Trust,$0.00,35,https://ght.dtsgroup.co.nz/
+13,14,0xe83e098eedb43b33d340d4757529e5a2c4ee3230,Boon Tech (BOON),$0.00,1631,https://boontech.ai/
+14,15,0x417d6feeae8b2fcb73d14d64be7f192e49431978,SKILLCOIN (SKILL),$0.00,1832,https://skillcoin.foundation/en/
+15,16,0x567300e14f8d67e1f6720a95291dce2511a86723,Helper Search Token,$0.00,1243,https://helpersearch.network/
+16,17,0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a,Gracy Token (GRACY),$0.00,206,https://gracy.io/
+17,18,0x8f66a173696502a0ad280781c3e55928a06c1312,Peoplewave Token,$0.00,439,https://peoplewaveico.io/
+18,19,0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867,Human Token (HMT),$0.00,2211,https://www.humanprotocol.org/

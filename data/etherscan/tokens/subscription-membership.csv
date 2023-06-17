@@ -1,3 +1,3 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x6b9f9D...Abb65cE9,BoxKey  (BX),$0.00,-,https://boxswap.io/,0x6b9f9d8ef588470932b693864a62021cabb65ce9
-1,2,0xab0148...C25F91b6,DXCASH  (DXCASH),$0.00,12333,https://dx.exchange/,0xab014858716f1010de51401c5e149bfac25f91b6
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x6b9f9d8ef588470932b693864a62021cabb65ce9,BoxKey (BX),$0.00,-,https://boxswap.io/
+1,2,0xab014858716f1010de51401c5e149bfac25f91b6,DXCASH (DXCASH),$0.00,12333,https://dx.exchange/

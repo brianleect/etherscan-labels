@@ -1,14 +1,14 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0xb31eF9...654A6515,DOSE  (DOSE),"$3,293,478.00",2074,http://www.dosetoken.com/,0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515
-1,2,0x84cffa...2030845e,DIGITAL FITN...  (DEFIT),"$1,569,801.00",1480,https://defit.com/,0x84cffa78b2fbbeec8c37391d2b12a04d2030845e
-2,3,0x56BE94...72c1b3B3,HUSTLE  (HUSL),$0.00,1174,https://www.hustletoken.org/,0x56be94d29e1125d2d61d06629c1b251d72c1b3b3
-3,4,0x673F82...63d9d54B,True Gym Coi...  (TGC),$0.00,447,https://truegym.io/,0x673f8248b2da1c368a174cc191f7368163d9d54b
-4,5,0xB4b9DC...98883A35,SWEAT  (SWEAT),$0.00,3793,https://sweateconomy.com/,0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35
-5,6,0x3c72fc...376E0241,300FIT Netwo...  (FIT),$0.00,434,https://www.300fit.io,0x3c72fca8523686fd9e5740b0826fa4bb376e0241
-6,7,0x578ADc...0Ae62b82,WellBe Coin  (WELB),$0.00,1,https://www.wellbe-coin.com/,0x578adce0eb5a6e5df371e5089214e0880ae62b82
-7,8,0x77D1b3...6CD2A0ae,NAMASTE  (🙏),$0.00,133,https://www.namastecoin.net/,0x77d1b367221a5864af03d7a9e4e6ae2e6cd2a0ae
-8,9,0xA420dD...761Dc83E,DIGIFIT  (DGI),$0.00,1310,https://www.digifittoken.com/,0xa420dd089a33d3751e8750f0b3554c72761dc83e
-9,10,0xdF96bD...8c986E6F,YetiCoin  (YETIC),$0.00,2361,https://www.yeticoineth.com/,0xdF96bDE075d59e9143b325C75aF38e208c986E6F
-10,11,0x46D886...26D653c6,GreenCoin  (GRC),$0.00,5644,https://www.greencoin.ai/,0x46d886887b6908183032c75dee1b731b26d653c6
-11,12,0x5d554E...D8A7DeF1,SHIFT  (SHIFT),$0.00,363,www.shift-token.com,0x5d554e71744aada1738261f64e3a2c6dd8a7def1
-12,13,0x80CD73...Fa7E12d9,Sleep Future  (SLEEPE...),$0.00,329,https://sleepfuture.com/,0x80CD73baDb406eA36B9a7CDeb8df06AeFa7E12d9
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515,DOSE (DOSE),"$3,535,722.00",2074,http://www.dosetoken.com/
+1,2,0x84cffa78b2fbbeec8c37391d2b12a04d2030845e,DIGITAL FITNESS,"$1,564,421.00",1479,https://defit.com/
+2,3,0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35,SWEAT (SWEAT),$0.00,3803,https://sweateconomy.com/
+3,4,0x3c72fca8523686fd9e5740b0826fa4bb376e0241,300FIT Network,$0.00,434,https://www.300fit.io
+4,5,0x578adce0eb5a6e5df371e5089214e0880ae62b82,WellBe Coin (WELB),$0.00,1,https://www.wellbe-coin.com/
+5,6,0x77d1b367221a5864af03d7a9e4e6ae2e6cd2a0ae,NAMASTE (🙏),$0.00,133,https://www.namastecoin.net/
+6,7,0xa420dd089a33d3751e8750f0b3554c72761dc83e,DIGIFIT (DGI),$0.00,1310,https://www.digifittoken.com/
+7,8,0xdF96bDE075d59e9143b325C75aF38e208c986E6F,YetiCoin (YETIC),$0.00,2362,https://www.yeticoineth.com/
+8,9,0x46d886887b6908183032c75dee1b731b26d653c6,GreenCoin (GRC),$0.00,5644,https://www.greencoin.ai/
+9,10,0x5d554e71744aada1738261f64e3a2c6dd8a7def1,SHIFT (SHIFT),$0.00,363,www.shift-token.com
+10,11,0x80CD73baDb406eA36B9a7CDeb8df06AeFa7E12d9,SLEEPEE,$0.00,329,https://sleepfuture.com/
+11,12,0x56be94d29e1125d2d61d06629c1b251d72c1b3b3,HUSTLE (HUSL),$0.00,1174,https://www.hustletoken.org/
+12,13,0x673f8248b2da1c368a174cc191f7368163d9d54b,True Gym Coin,$0.00,447,https://truegym.io/

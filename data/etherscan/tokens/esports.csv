@@ -1,21 +1,21 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x580c85...29629aFa,Dawn  (DAWN),"$36,685,699.00",847,https://dawn.org/,0x580c8520deda0a441522aeae0f9f7a5f29629afa
-1,2,0x8FfE40...6d9AcaeA,IG Gold  (IGG),"$572,254.00",2070,http://www.iggalaxy.com/,0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea
-2,3,0xe516D7...b1111126,BitSpawn Tok...  (SPWN),"$59,160.00",2123,https://bitspawn.io/,0xe516d78d784c77d479977be58905b3f2b1111126
-3,4,0x095cF7...883eA296,PocketArena  (POC),$0.00,249,https://pocketarena.com/,0x095cf7f3e82a1dcadbf0fbc59023f419883ea296
-4,5,0x2E7483...464c6DC2,Kohima Token  (KHM),$0.00,20,https://kohima.finance/,0x2e7483e8c9905f40c638987748e7e152464c6dc2
-5,6,0x885e12...7697c9bE,AceD  (AceD),$0.00,675,https://www.acedcoin.com/,0x885e127aba09bf8fae058a2895c221b37697c9be
-6,7,0x9BADA0...e972dD21,$TEAM Token  (TEAM),$0.00,10,https://teamdao.com/,0x9bada086bae4962037f14b0e79baea62e972dd21
-7,8,0xE29c5B...5B18841f,ESports Toke...  (ERT),$0.00,1085,https://www.esports.com/,0xe29c5b523590165795bbd7d52369c2895b18841f
-8,9,0x0794ce...BC790517,RankingBall ...  (RBG),$0.00,1909,http://www.rankingball.io/,0x0794ce7d4459105926da230f318c1e34bc790517
-9,10,0x23F0A8...97d64aaa,Luci Token  (LUCI),$0.00,24,https://luciferesports.com/luci-token/,0x23f0a8744098f09b781526d9440f98c197d64aaa
-10,11,0x438691...0cf0BBD8,Be.fan  (BFAN),$0.00,588,https://be.fan/,0x438691e8d9098dCe98286cbc1c307e660cf0BBD8
-11,12,0x63f88A...4a4b2437,GAME Credits  (GAME),$0.00,3040,https://gamecredits.org/,0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437
-12,13,0xa7b12e...02E62734,IG Orb  (ORB),$0.00,19,http://www.iggalaxy.com/,0xa7b12e22f318762F76a9a179C86bABcb02E62734
-13,14,0xF8dd0D...Da8D6AdB,Galactican F...  (GFT),$0.00,3,http://www.iggalaxy.com/,0xF8dd0D8e2b646589E2273803c4fEF8a7Da8D6AdB
-14,15,0x07cC35...821A8cd3,RUPT Token  (RUPT),$0.00,19,https://rupt.network/,0x07cC353876aE94A361BbeFBFDe6a6AE4821A8cd3
-15,16,0x272012...c723A2f3,MESEFA  (SEFA),$0.00,2352,https://mesefa.com/,0x27201232579491Ce9b116Ac6F37D354Cc723A2f3
-16,17,0x56322c...5d893A5e,Azarus Token  (AZA),$0.00,44,https://azarus.io/,0x56322c14cb5f53531c231b8f9ab178bf5d893a5e
-17,18,0x7ACe84...Fa770Ce7,Diagon  (DGN),$0.00,35,https://www.diagon.io/,0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7
-18,19,0x95b4e4...a81445bC,InfinityGami...  (PLAY),$0.00,588,https://www.infinitygaming.io/,0x95b4e47025372Ded4B73F9b5F0671B94a81445bC
-19,20,0xdF3A0a...416EFB89,ATTN  (ATTN),$0.00,336,https://www.attn.one/,0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x580c8520deda0a441522aeae0f9f7a5f29629afa,Dawn (DAWN),"$37,475,945.00",848,https://dawn.org/
+1,2,0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea,IG Gold (IGG),"$591,969.00",2070,http://www.iggalaxy.com/
+2,3,0xe516d78d784c77d479977be58905b3f2b1111126,BitSpawn Token,"$60,616.00",2123,https://bitspawn.io/
+3,4,0x885e127aba09bf8fae058a2895c221b37697c9be,AceD (AceD),$0.00,675,https://www.acedcoin.com/
+4,5,0x9bada086bae4962037f14b0e79baea62e972dd21,$TEAM Token (TEAM),$0.00,10,https://teamdao.com/
+5,6,0xe29c5b523590165795bbd7d52369c2895b18841f,ESports Token,$0.00,1085,https://www.esports.com/
+6,7,0x0794ce7d4459105926da230f318c1e34bc790517,RankingBall Gold,$0.00,1909,http://www.rankingball.io/
+7,8,0x23f0a8744098f09b781526d9440f98c197d64aaa,Luci Token (LUCI),$0.00,24,https://luciferesports.com/luci-token/
+8,9,0x438691e8d9098dCe98286cbc1c307e660cf0BBD8,Be.fan (BFAN),$0.00,588,https://be.fan/
+9,10,0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437,GAME Credits (GAME),$0.00,3041,https://gamecredits.org/
+10,11,0xa7b12e22f318762F76a9a179C86bABcb02E62734,IG Orb (ORB),$0.00,19,http://www.iggalaxy.com/
+11,12,0x07cC353876aE94A361BbeFBFDe6a6AE4821A8cd3,RUPT Token (RUPT),$0.00,19,https://rupt.network/
+12,13,0xF8dd0D8e2b646589E2273803c4fEF8a7Da8D6AdB,Galactican Founders Token,$0.00,3,http://www.iggalaxy.com/
+13,14,0x27201232579491Ce9b116Ac6F37D354Cc723A2f3,MESEFA (SEFA),$0.00,2352,https://mesefa.com/
+14,15,0x56322c14cb5f53531c231b8f9ab178bf5d893a5e,Azarus Token (AZA),$0.00,44,https://azarus.io/
+15,16,0x7ace84ac394e41f1c01711ed134d9bbcfa770ce7,Diagon (DGN),$0.00,35,https://www.diagon.io/
+16,17,0x95b4e47025372Ded4B73F9b5F0671B94a81445bC,InfinityGaming,$0.00,588,https://www.infinitygaming.io/
+17,18,0xdF3A0a958F5a599Aa8f3071AA6488C22416EFB89,ATTN (ATTN),$0.00,336,https://www.attn.one/
+18,19,0x095cf7f3e82a1dcadbf0fbc59023f419883ea296,PocketArena (POC),$0.00,249,https://pocketarena.com/
+19,20,0x2e7483e8c9905f40c638987748e7e152464c6dc2,Kohima Token (KHM),$0.00,20,https://kohima.finance/

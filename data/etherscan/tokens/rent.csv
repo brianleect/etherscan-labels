@@ -1,8 +1,8 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x78B7FA...67fA8a05,ATLANT  (ATL),"$695,945.00",6765,https://atlant.io/,0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05
-1,2,0x1fB6bc...2Ae16517,Global Renta...  (GRT),$0.00,200,https://globalrentaltoken.com/,0x1fB6bccc7Da51aa32e96118B8A33226d2Ae16517
-2,3,0xb92f51...3035267B,Rentledger  (RTL),$0.00,127,https://rentledger.io/,0xb92f51ce4045212eef8008c2f665da713035267b
-3,4,0x676761...15eeD244,CribnbERC20  (CRB),$0.00,267,https://cribnb.org/,0x6767615a97a8204298bbac44c57ef1a615eed244
-4,5,0x85bC2c...6bff8ADa,AvailCom Tok...  (AVL),$0.00,2632,https://availcom.io/,0x85bc2cbc49a0c6c7cb3775bda1845d606bff8ada
-5,6,0x719D8B...1e61B7D1,MKY Token  (MKY),$0.00,31,https://masterkey.live/,0x719D8B63601bBd50CB0394F39c1079641e61B7D1
-6,7,0x945192...B74078BC,Bitsrent  (BTR),$0.00,16390,https://www.bitsrent.com/,0x945192524c6605d20be6c529dd318666b74078bc
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05,ATLANT (ATL),"$709,618.00",6765,https://atlant.io/
+1,2,0x1fB6bccc7Da51aa32e96118B8A33226d2Ae16517,Global Rental Token,$0.00,200,https://globalrentaltoken.com/
+2,3,0xb92f51ce4045212eef8008c2f665da713035267b,Rentledger (RTL),$0.00,127,https://rentledger.io/
+3,4,0x6767615a97a8204298bbac44c57ef1a615eed244,CribnbERC20 (CRB),$0.00,267,https://cribnb.org/
+4,5,0x85bc2cbc49a0c6c7cb3775bda1845d606bff8ada,AvailCom Token,$0.00,2632,https://availcom.io/
+5,6,0x719D8B63601bBd50CB0394F39c1079641e61B7D1,MKY Token (MKY),$0.00,31,https://masterkey.live/
+6,7,0x945192524c6605d20be6c529dd318666b74078bc,Bitsrent (BTR),$0.00,16390,https://www.bitsrent.com/

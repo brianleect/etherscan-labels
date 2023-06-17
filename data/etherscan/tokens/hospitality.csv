@@ -1,7 +1,7 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x5cbC4b...A5c8Bd67,Figment Coun...  (FIGMEN...),$0.00,-,https://country.figment.live/,0x5cbC4b44226E3E3fEDEdcebe87B84E0eA5c8Bd67
-1,2,0xA6D5C7...B5D4A58D,EZYSTAYZ TOK...  (EZY),$0.00,12,https://io.ezystayz.com/,0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D
-2,3,0x676761...15eeD244,CribnbERC20  (CRB),$0.00,267,https://cribnb.org/,0x6767615a97a8204298bbac44c57ef1a615eed244
-3,4,0xC4e8A9...8215e467,STARX  (STARX),$0.00,587,https://starworksglobal.com/,0xC4e8A9D47000Ab8E59c7031e311762c68215e467
-4,5,0x833850...E055d888,DecentraBNB  (DBNB),$0.00,2203,https://decentrabnb.com/,0x833850BE8858722Cfc5E5e75f2Fe6275E055d888
-5,6,0xF15eaD...e991614C,HospoWise  (HOSPO),$0.00,110,https://www.hospowise.com/,0xf15ead6acb8ab52a1e335671a48f3a99e991614c
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x5cbC4b44226E3E3fEDEdcebe87B84E0eA5c8Bd67,Figment Country Club,$0.00,-,https://country.figment.live/
+1,2,0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D,EZYSTAYZ TOKEN,$0.00,12,https://io.ezystayz.com/
+2,3,0x6767615a97a8204298bbac44c57ef1a615eed244,CribnbERC20 (CRB),$0.00,267,https://cribnb.org/
+3,4,0xC4e8A9D47000Ab8E59c7031e311762c68215e467,STARX (STARX),$0.00,587,https://starworksglobal.com/
+4,5,0x833850BE8858722Cfc5E5e75f2Fe6275E055d888,DecentraBNB (DBNB),$0.00,2204,https://decentrabnb.com/
+5,6,0xf15ead6acb8ab52a1e335671a48f3a99e991614c,HospoWise (HOSPO),$0.00,110,https://www.hospowise.com/

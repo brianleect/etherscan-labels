@@ -1,44 +1,44 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x0AaCfb...7C0d8521,YAM  (YAM),"$1,608,033.00",8355,http://yam.finance/,0x0AaCfbeC6a24756c20D41914F2caba817C0d8521
-1,2,0xf911a7...95851c27,Antiample  (XAMP),"$564,067.00",2047,,0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27
-2,3,0x397953...2070C66D,Seigniorage ...  (SHARE),"$86,434.00",1135,https://dollarprotocol.com/,0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D
-3,4,0x10Bae5...44c1137A,Soft Link  (SLINK),"$25,065.00",1689,https://slink.finance/,0x10Bae51262490B4f4AF41e12eD52A0E744c1137A
-4,5,0xb15AE1...68C73ad5,Linkbased  (LBD),$0.00,562,https://linkbased.org,0xb15ae165000c8d7b69d2a82e425e110668c73ad5
-5,6,0xd233D1...5dc729dc,Dollars  (USD),$0.00,130,https://dollarprotocol.com/,0xd233D1f6FD11640081aBB8db125f722b5dc729dc
-6,7,0x3C144f...14E60113,Algoeuro  (AEUR),$0.00,66,https://hybridverse.com/index.html#algoeuro,0x3C144fC1B34fC1be809FbB2b194f460014E60113
-7,8,0x9F378B...A13F0C81,Euros  (EUR),$0.00,4,https://dollarprotocol.com/,0x9F378BD16932CE3388CC237133fd7a3eA13F0C81
-8,9,0x95DA1E...45C67FD4,Elastic  (ESC),$0.00,617,https://www.elasticcoin.org/,0x95da1e3eecae3771acb05c145a131dca45c67fd4
-9,10,0xc7686B...3d310738,ReSupply  (RSP),$0.00,27,https://resupply.finance/,0xc7686B849E414c9E1A77a641F003Fb7B3d310738
-10,11,0x07150e...96f25fDC,Base Protoco...  (BASE),$0.00,5577,https://www.baseprotocol.org/,0x07150e919b4de5fd6a63de1f9384828396f25fdc
-11,12,0xae00E0...7fBbfd26,GATOR  (GATR),$0.00,204,https://www.dontrug.me/gator,0xae00E02D29a35F5a100d64D6133dA7F57fBbfd26
-12,13,0x68A118...e48a68a5,$BASED  ($BASED),$0.00,2247,https://based.money/,0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5
-13,14,0xb0dFd2...9242f858,Lotto  (LOTTO),$0.00,4191,https://lotto.finance,0xb0dfd28d3cf7a5897c694904ace292539242f858
-14,15,0xCa6892...c97Fb6f6,XBASE.Financ...  (XBASE),$0.00,360,https://www.xbase.finance/,0xca6892d6bd9ab4f640b9e91ffbded23ec97fb6f6
-15,16,0x309013...711A5802,Soft Bitcoin  (SBTC),$0.00,857,https://sbtc.fi/,0x309013d55fB0E8C17363bcC79F25d92f711A5802
-16,17,0x07Ac55...cC287c27,rebasing TBT  (TBT),$0.00,64,https://www.tprotocol.io/,0x07Ac55797D4F43f57cA92a49E65ca582cC287c27
-17,18,0x168E39...2936E5Ff,2based.finan...  (2BASED),$0.00,576,https://2based.finance,0x168e39f96a653ce0a456560687241b0b2936e5ff
-18,19,0x4208D8...BcA311c5,REBASE  (REBASE),$0.00,365,https://www.rebase.capital/,0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5
-19,20,0x67c597...18284253,Benchmark  (MARK),$0.00,4193,https://benchmarkprotocol.finance/,0x67c597624B17b16fb77959217360B7cD18284253
-20,21,0x322124...FB2e2E1F,Soft Yearn F...  (SYFI),$0.00,1269,https://syfi.finance/,0x322124122DF407b0d0D902cB713B3714FB2e2E1F
-21,22,0x2F6081...A8EF23E3,Dollars  (USD),$0.00,851,https://dollarprotocol.com/,0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3
-22,23,0x504FA0...9d25FEe3,TEA  (TEA),$0.00,226,https://teafinance.io/,0x504fa07ad26bf82455bc67653e8aadb19d25fee3
-23,24,0x0c3345...57BF9e6F,Public Goods  (PUBG),$0.00,1048,https://200fu2sbg82u2eknd7e4p4ln9mpbm7ondl3lpdqdke...,0x0c334506E0bcb7C17b583CB7c0ec2F5857BF9e6F
-24,25,0x64fB96...C5bf4Ce8,Elastic Bitc...  (XBT),$0.00,951,https://elasticbitcoin.org/,0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8
-25,26,0xE8b251...b2048739,rbase.financ...  (RBASE),$0.00,4769,https://www.rbase.finance/,0xe8b251822d003a2b2466ee0e38391c2db2048739
-26,27,0x3fa807...4658b38C,Rise Protoco...  (RISE),$0.00,1730,https://riseprotocol.io/,0x3fa807B6F8d4c407e6E605368F4372d14658b38C
-27,28,0x07A1f4...2bE2F291,Bas3r.financ...  (Bas3r),$0.00,567,https://bas3r.finance/,0x07a1f40a76a5e7e42def56c23deb6b422be2f291
-28,29,0x784561...B5F14bCE,MOST  (MOST),$0.00,108,https://mostprotocol.org,0x784561B89A160990F46DE6dB19571Ca1B5F14bCE
-29,30,0xE6279E...bb4420D6,Rebased  (REB),$0.00,220,https://rebased.fi/,0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6
-30,31,0xd5c021...CE1D9Da5,MirrorBase P...  (MiBASE),$0.00,76,https://mirrorbase.finance/,0xd5c0216b0627134ed57a53a9ea430766ce1d9da5
-31,32,0x8003C4...d1B638a1,Ample Gold  (AMPLG),$0.00,250,http://www.amplegold.io/,0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1
-32,33,0x5166d4...045Aa889,xDEF Finance  (xDEF2),$0.00,395,https://xdef.finance/,0x5166d4ce79b9bf7df477da110c560ce3045aa889
-33,34,0xD78aFd...784B1527,dmpl  (DMPL),$0.00,48,https://dmpl.io/,0xd78afdd162b11b2334877df6869f865b784b1527
-34,35,0xB009F4...8Ba34F5C,Seigniorage ...  (EUROSH...),$0.00,3,https://dollarprotocol.com/,0xB009F46793526fFf707BB994b8685fF08Ba34F5C
-35,36,0xc5727f...54b84920,vMANA Token  (vMANA),$0.00,154,https://vampire.finance/,0xc5727f3640ecdbd136e6b546cf7548f754b84920
-36,37,0x561695...F673834f,FRT - TLT.Fi...  (FRT),$0.00,24,https://toilet.finance/,0x561695f9556AF49C2B22F71e55b7b0B6F673834f
-37,38,0x4bAE38...443ae9ec,XVIX  (XVIX),$0.00,577,https://xvix.finance/,0x4bAE380B5D762D543d426331b8437926443ae9ec
-38,39,0x3936Ad...62fd3d48,Coil  (COIL),$0.00,380,https://coilcrypto.com/,0x3936Ad01cf109a36489d93cabdA11cF062fd3d48
-39,40,0xD46bA6...5039A161,Ampleforth  (AMPL),$0.00,35299,https://www.ampleforth.org/,0xd46ba6d942050d489dbd938a2c909a5d5039a161
-40,41,0xbC6819...03e270A2,DEFLA  (DEFLA),$0.00,103,https://defla.org/index.html,0xbc6819294c554f46bee6f5eb5260089a03e270a2
-41,42,0xb40b66...3cd79f1c,UZD Zunami S...  (UZD),$0.00,45,https://www.zunami.io/,0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c
-42,43,0x3863EA...4aFcf787,xETH-G  (xETH-G),$0.00,1032,https://xeth.tech/,0x3863ea7577fc91bfbaeae6a6a3e403524afcf787
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x0AaCfbeC6a24756c20D41914F2caba817C0d8521,YAM (YAM),"$1,662,913.00",8355,http://yam.finance/
+1,2,0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27,Antiample (XAMP),"$564,067.00",2047,
+2,3,0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D,Seigniorage Shares,"$84,690.00",1135,https://dollarprotocol.com/
+3,4,0x10Bae51262490B4f4AF41e12eD52A0E744c1137A,Soft Link (SLINK),"$25,065.00",1689,https://slink.finance/
+4,5,0x561695f9556AF49C2B22F71e55b7b0B6F673834f,FRT - TLT.Finance,$0.00,24,https://toilet.finance/
+5,6,0xc5727f3640ecdbd136e6b546cf7548f754b84920,vMANA Token (vMANA),$0.00,154,https://vampire.finance/
+6,7,0x4bAE380B5D762D543d426331b8437926443ae9ec,XVIX (XVIX),$0.00,577,https://xvix.finance/
+7,8,0x3936Ad01cf109a36489d93cabdA11cF062fd3d48,Coil (COIL),$0.00,379,https://coilcrypto.com/
+8,9,0x3863ea7577fc91bfbaeae6a6a3e403524afcf787,xETH-G (xETH-G),$0.00,1032,https://xeth.tech/
+9,10,0xb15ae165000c8d7b69d2a82e425e110668c73ad5,Linkbased (LBD),$0.00,562,https://linkbased.org
+10,11,0x3C144fC1B34fC1be809FbB2b194f460014E60113,Algoeuro (AEUR),$0.00,66,https://hybridverse.com/index.html#algoeuro
+11,12,0xd46ba6d942050d489dbd938a2c909a5d5039a161,Ampleforth (AMPL),$0.00,35296,https://www.ampleforth.org/
+12,13,0xb0dfd28d3cf7a5897c694904ace292539242f858,Lotto (LOTTO),$0.00,4191,https://lotto.finance
+13,14,0xd233D1f6FD11640081aBB8db125f722b5dc729dc,Dollars (USD),$0.00,130,https://dollarprotocol.com/
+14,15,0x07Ac55797D4F43f57cA92a49E65ca582cC287c27,rebasing TBT (TBT),$0.00,64,https://www.tprotocol.io/
+15,16,0x9F378BD16932CE3388CC237133fd7a3eA13F0C81,Euros (EUR),$0.00,4,https://dollarprotocol.com/
+16,17,0xc7686B849E414c9E1A77a641F003Fb7B3d310738,ReSupply (RSP),$0.00,27,https://resupply.finance/
+17,18,0x07150e919b4de5fd6a63de1f9384828396f25fdc,Base Protocol,$0.00,5577,https://www.baseprotocol.org/
+18,19,0x95da1e3eecae3771acb05c145a131dca45c67fd4,Elastic (ESC),$0.00,617,https://www.elasticcoin.org/
+19,20,0xae00E02D29a35F5a100d64D6133dA7F57fBbfd26,GATOR (GATR),$0.00,204,https://www.dontrug.me/gator
+20,21,0xca6892d6bd9ab4f640b9e91ffbded23ec97fb6f6,XBASE.Finance,$0.00,360,https://www.xbase.finance/
+21,22,0x168e39f96a653ce0a456560687241b0b2936e5ff,2based.finance,$0.00,576,https://2based.finance
+22,23,0x67c597624B17b16fb77959217360B7cD18284253,Benchmark (MARK),$0.00,4193,https://benchmarkprotocol.finance/
+23,24,0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5,$BASED ($BASED),$0.00,2247,https://based.money/
+24,25,0x309013d55fB0E8C17363bcC79F25d92f711A5802,Soft Bitcoin (SBTC),$0.00,857,https://sbtc.fi/
+25,26,0x3fa807B6F8d4c407e6E605368F4372d14658b38C,Rise Protocol,$0.00,1730,https://riseprotocol.io/
+26,27,0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5,REBASE (REBASE),$0.00,365,https://www.rebase.capital/
+27,28,0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6,Rebased (REB),$0.00,220,https://rebased.fi/
+28,29,0x322124122DF407b0d0D902cB713B3714FB2e2E1F,Soft Yearn Finance,$0.00,1269,https://syfi.finance/
+29,30,0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3,Dollars (USD),$0.00,851,https://dollarprotocol.com/
+30,31,0x504fa07ad26bf82455bc67653e8aadb19d25fee3,TEA (TEA),$0.00,226,https://teafinance.io/
+31,32,0x0c334506E0bcb7C17b583CB7c0ec2F5857BF9e6F,Public Goods (PUBG),$0.00,1048,https://200fu2sbg82u2eknd7e4p4ln9mpbm7ondl3lpdqdke...
+32,33,0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8,Elastic Bitcoin,$0.00,951,https://elasticbitcoin.org/
+33,34,0xe8b251822d003a2b2466ee0e38391c2db2048739,rbase.finance,$0.00,4769,https://www.rbase.finance/
+34,35,0x07a1f40a76a5e7e42def56c23deb6b422be2f291,Bas3r.finance,$0.00,567,https://bas3r.finance/
+35,36,0xd5c0216b0627134ed57a53a9ea430766ce1d9da5,MirrorBase Protocol,$0.00,76,https://mirrorbase.finance/
+36,37,0x5166d4ce79b9bf7df477da110c560ce3045aa889,xDEF Finance (xDEF2),$0.00,395,https://xdef.finance/
+37,38,0x784561B89A160990F46DE6dB19571Ca1B5F14bCE,MOST (MOST),$0.00,108,https://mostprotocol.org
+38,39,0xbc6819294c554f46bee6f5eb5260089a03e270a2,DEFLA (DEFLA),$0.00,103,https://defla.org/index.html
+39,40,0x8003C49f6ebACDdC493EA47CAB45e892d1B638a1,Ample Gold (AMPLG),$0.00,250,http://www.amplegold.io/
+40,41,0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c,UZD Zunami Stable,$0.00,44,https://www.zunami.io/
+41,42,0xd78afdd162b11b2334877df6869f865b784b1527,dmpl (DMPL),$0.00,48,https://dmpl.io/
+42,43,0xB009F46793526fFf707BB994b8685fF08Ba34F5C,Seigniorage Euro-Shares,$0.00,3,https://dollarprotocol.com/

@@ -1,20 +1,20 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x6fB3e0...60a14d69,IoTeX Networ...  (IOTX),"$165,072,919.00",21054,https://iotex.io/,0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
-1,2,0xb7cB1C...BD488F74,Walton  (WTC),"$4,349,415.00",25445,http://www.waltonchain.org/,0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74
-2,3,0x6B9f03...3BB81b78,Geeq  (GEEQ),"$2,511,480.00",2245,https://geeq.io/,0x6B9f031D718dDed0d681c20cB754F97b3BB81b78
-3,4,0x765f0C...62d33F75,DaTa eXchang...  (DTX),"$1,759,244.00",1409,https://databrokerdao.com/,0x765f0c16d1ddc279295c1a7c24b0883f62d33f75
-4,5,0x3c4bEa...62977518,UCOT  (UCT),"$1,351,171.00",15086,https://www.ucot.world/,0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518
-5,6,0xbe038A...5035edcC,Internet Nod...  (INT),"$1,325,994.00",295,https://intchain.io/,0xbe038a2fdfec62cf1bed852f141a43005035edcc
-6,7,0xbC647a...0cf2C5aF,IONChain Tok...  (IONC),"$179,383.00",123505,https://ionchain.org/,0xbc647aad10114b89564c0a7aabe542bd0cf2c5af
-7,8,0x5d60d8...f135e0BC,MyBit  (MYB),"$38,301.00",1811,https://mybit.io/,0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc
-8,9,0x574F84...5DC861a5,Robotina tok...  (ROX),"$26,594.00",5653,https://robotinarox.io/,0x574f84108a98c575794f75483d801d1d5dc861a5
-9,10,0x72430A...fd3101D1,Thingschain  (TIC),"$9,396.00",4936,https://thingschain.network/,0x72430a612adc007c50e3b6946dbb1bb0fd3101d1
-10,11,0x24EbfC...c154f4Cb,COOS  (COOS),$0.00,4255,http://www.coos.ai/,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb
-11,12,0x4Fe327...93E61305,IOTW  (IOTW),$0.00,2682,https://iotw.io/,0x4fe327c5a809fa721d47b80c5038a0b393e61305
-12,13,0xA5b46F...c5FEF1Cd,SuperSkyNet  (SSN),$0.00,28362,http://www.superskynet.io/,0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd
-13,14,0xdfdc0D...ECEc2088,MTC Mesh Net...  (MTC),$0.00,15690,https://www.mtc.io/,0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088
-14,15,0x016396...6917E4e8,KingXChain  (KXC),$0.00,1068,https://kingxchain.com/,0x016396044709eb3edc69c44f4d5fa6996917e4e8
-15,16,0x32C4AD...b4F364F1,Flowchain  (FLC),$0.00,129,https://flowchaincoin.org/,0x32C4ADB9cF57f972bc375129de91C897b4F364F1
-16,17,0x7d9564...D4494De5,Conventment  (CNVT),$0.00,527,https://www.conventment.com/,0x7d9564dab2c58f163d0125892d25cf58d4494de5
-17,18,0x24C09e...25800532,Wrapped Nodl...  (wNODL),$0.00,-,http://www.nodle.com/,0x24c09effa90405ee1be349e6a4febcae25800532
-18,19,0x95C9bD...3292c1E0,LinfinityCoi...  (LFC),$0.00,9942,https://www.linfinity.io/,0x95c9bd1f81cee7391da3eac81693e60f3292c1e0
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x6fb3e0a217407efff7ca062d46c26e5d60a14d69,IoTeX Network,"$170,559,556.00",21057,https://iotex.io/
+1,2,0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74,Walton (WTC),"$4,324,521.00",25445,http://www.waltonchain.org/
+2,3,0x6B9f031D718dDed0d681c20cB754F97b3BB81b78,Geeq (GEEQ),"$2,562,248.00",2244,https://geeq.io/
+3,4,0x765f0c16d1ddc279295c1a7c24b0883f62d33f75,DaTa eXchange Token,"$1,759,244.00",1409,https://databrokerdao.com/
+4,5,0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518,UCOT (UCT),"$1,351,171.00",15086,https://www.ucot.world/
+5,6,0xbe038a2fdfec62cf1bed852f141a43005035edcc,Internet Node Token,"$1,275,863.00",295,https://intchain.io/
+6,7,0xbc647aad10114b89564c0a7aabe542bd0cf2c5af,IONChain Token,"$179,383.00",123505,https://ionchain.org/
+7,8,0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc,MyBit (MYB),"$39,747.00",1811,https://mybit.io/
+8,9,0x574f84108a98c575794f75483d801d1d5dc861a5,Robotina token,"$26,594.00",5653,https://robotinarox.io/
+9,10,0x72430a612adc007c50e3b6946dbb1bb0fd3101d1,Thingschain (TIC),"$9,396.00",4936,https://thingschain.network/
+10,11,0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd,SuperSkyNet (SSN),$0.00,28362,http://www.superskynet.io/
+11,12,0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088,MTC Mesh Network,$0.00,15690,https://www.mtc.io/
+12,13,0x016396044709eb3edc69c44f4d5fa6996917e4e8,KingXChain (KXC),$0.00,1068,https://kingxchain.com/
+13,14,0x32C4ADB9cF57f972bc375129de91C897b4F364F1,Flowchain (FLC),$0.00,129,https://flowchaincoin.org/
+14,15,0x7d9564dab2c58f163d0125892d25cf58d4494de5,Conventment (CNVT),$0.00,527,https://www.conventment.com/
+15,16,0x24c09effa90405ee1be349e6a4febcae25800532,Wrapped Nodle,$0.00,-,http://www.nodle.com/
+16,17,0x95c9bd1f81cee7391da3eac81693e60f3292c1e0,LinfinityCoin,$0.00,9942,https://www.linfinity.io/
+17,18,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb,COOS (COOS),$0.00,4255,http://www.coos.ai/
+18,19,0x4fe327c5a809fa721d47b80c5038a0b393e61305,IOTW (IOTW),$0.00,2682,https://iotw.io/

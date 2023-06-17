@@ -1,13 +1,13 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0xc4c7Ea...26E6407c,CocosTokenV2  (COCOS),"$64,485,759.00",1615,https://www.cocosbcx.io,0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c
-1,2,0x2162f5...e45CeDE1,LABEL  (LBL),"$4,005,636.00",475,https://label.foundation/,0x2162f572b25f7358db9376ab58a947a4e45cede1
-2,3,0x9A03C4...12B22deE,Bithemoth  (BHM),$0.00,428,https://bithemoth.com/,0x9a03c4d95a8e31e1e11a4319066475cd12b22dee
-3,4,0xf9209d...6dEA53B6,LIFT.Kitchen  (LIFT),$0.00,55,https://lift.kitchen/,0xf9209d900f7ad1dc45376a2caa61c78f6dea53b6
-4,5,0x1C7ede...31b34a01,Shine  (SHN),$0.00,140,https://shinedao.finance/,0x1c7ede23b1361acc098a1e357c9085d131b34a01
-5,6,0x48E773...Bb66bBD3,Nomavo  (Noma),$0.00,11,https://nomavotoken.com/,0x48e77357db13bc80ed175bd20a6302b1bb66bbd3
-6,7,0xA31fDb...f5460672,Lift.Kitchen...  (CTRL),$0.00,185,https://lift.kitchen/,0xa31fdbaa772745d11843efeda9922dcbf5460672
-7,8,0xddd2Ec...D9F6CE89,Valhalla  (VAL),$0.00,165,https://valdao.org/,0xddd2Ec6bD01506A8510aBa02393fB058D9F6CE89
-8,9,0x1EddEe...Ee636b9D,WeToken  (WON),$0.00,122,https://www.weblock.vip/,0x1EddEe3Fa21591a9637f88DaB9615C33Ee636b9D
-9,10,0x660e71...32b06e61,Adelphoi  (ADL),$0.00,243,https://www.adelphoi.io/,0x660e71483785f66133548B10f6926dC332b06e61
-10,11,0xafcE9B...BF02F257,Lift.Kitchen...  (LFBTC),$0.00,38,https://lift.kitchen/,0xafce9b78d409bf74980cacf610afb851bf02f257
-11,12,0xEf51c9...0B67eA18,Bionic  (BNC),$0.00,2285,https://bionic-coin.io/,0xef51c9377feb29856e61625caf9390bd0b67ea18
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c,CocosTokenV2 (COCOS),"$66,744,353.00",1614,https://www.cocosbcx.io
+1,2,0x2162f572b25f7358db9376ab58a947a4e45cede1,LABEL (LBL),"$4,308,098.00",478,https://label.foundation/
+2,3,0x9a03c4d95a8e31e1e11a4319066475cd12b22dee,Bithemoth (BHM),$0.00,428,https://bithemoth.com/
+3,4,0xf9209d900f7ad1dc45376a2caa61c78f6dea53b6,LIFT.Kitchen (LIFT),$0.00,55,https://lift.kitchen/
+4,5,0x1c7ede23b1361acc098a1e357c9085d131b34a01,Shine (SHN),$0.00,140,https://shinedao.finance/
+5,6,0x48e77357db13bc80ed175bd20a6302b1bb66bbd3,Nomavo (Noma),$0.00,11,https://nomavotoken.com/
+6,7,0xa31fdbaa772745d11843efeda9922dcbf5460672,Lift.Kitchen Control DAO,$0.00,185,https://lift.kitchen/
+7,8,0xddd2Ec6bD01506A8510aBa02393fB058D9F6CE89,Valhalla (VAL),$0.00,165,https://valdao.org/
+8,9,0x1EddEe3Fa21591a9637f88DaB9615C33Ee636b9D,WeToken (WON),$0.00,122,https://www.weblock.vip/
+9,10,0x660e71483785f66133548B10f6926dC332b06e61,Adelphoi (ADL),$0.00,243,https://www.adelphoi.io/
+10,11,0xafce9b78d409bf74980cacf610afb851bf02f257,Lift.Kitchen BTC,$0.00,38,https://lift.kitchen/
+11,12,0xef51c9377feb29856e61625caf9390bd0b67ea18,Bionic (BNC),$0.00,2285,https://bionic-coin.io/

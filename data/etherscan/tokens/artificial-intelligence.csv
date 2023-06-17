@@ -1,147 +1,147 @@
-,#,Contract Address,Token Name,Market Cap,Holders,Website,Address
-0,1,0x5B7533...2681b542,SingularityN...  (AGIX),"$252,650,188.00",61730,https://singularitynet.io/,0x5b7533812759b45c2b44c19e320ba2cd2681b542
-1,2,0xaea46A...EF41Ad85,Fetch  (FET),"$196,103,702.00",42010,https://fetch.ai/,0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85
-2,3,0x1776e1...3Cb46671,Numeraire  (NMR),"$73,648,888.00",36556,https://erasure.world/,0x1776e1f26f98b1a5df9cd347953a26dd3cb46671
-3,4,0x6B0b3a...cE324181,Artificial L...  (ALI),"$69,981,973.00",11086,https://alethea.ai/,0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
-4,5,0xfc82bb...2b91b27d,Token Promet...  (PROM),"$68,281,492.00",2251,https://prometeus.io,0xfc82bb4ba86045af6f327323a46e80412b91b27d
-5,6,0x7d5121...0e6E8cdD,Victoria VR  (VR),"$41,818,496.00",9932,https://victoriavr.com/,0x7d5121505149065b562c789a0145ed750e6e8cdd
-6,7,0xEa1175...2Bc1C00d,Cortex Coin  (CTXC),"$31,559,162.00",22575,http://www.cortexlabs.ai/,0xea11755ae41d889ceec39a63e6ff75a02bc1c00d
-7,8,0xF11C97...B040Ce88,LAT  (LAT),"$31,413,075.00",1,https://www.platon.network/,0xf11c9761db573e10d7ad735a313ec8c8b040ce88
-8,9,0x5a3e6A...c0811AD5,0x0.ai: AI S...  (0x0),"$30,604,321.00",6098,https://0x0.ai/,0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5
-9,10,0xD13cfD...E36b395c,VAIOT Token  (VAI),"$27,158,350.00",7539,https://vaiot.ai/en,0xd13cfd3133239a3c73a9e535a5c4dadee36b395c
-10,11,0x21BfBD...A9B23697,OVR  (OVR),"$17,384,405.00",17716,https://www.ovr.ai/,0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697
-11,12,0x7dA264...c70C3046,AGI Token  (AGI),"$14,168,479.00",863,https://www.delysium.com/,0x7da2641000cbb407c329310c461b2cb9c70c3046
-12,13,0x7D29A6...9dAcbFCe,VectorspaceA...  (VXV),"$13,074,202.00",14939,https://vectorspace.ai/,0x7d29a64504629172a429e64183d6673b9dacbfce
-13,14,0x562E36...312d215d,Optimus  (OPTIMU...),"$8,097,058.00",10781,https://www.optimusbot.io/,0x562E362876c8Aee4744FC2c6aaC8394C312d215d
-14,15,0xc7C03B...8eba44a3,EligmaToken  (ELI),"$6,600,671.00",1370,https://gocrypto.com/,0xc7c03b8a3fc5719066e185ea616e87b88eba44a3
-15,16,0x738865...ec42bdDa,Agoras Token  (AGRS),"$5,975,908.00",565,https://www.tau.net/,0x738865301a9b7dd80dc3666dd48cf034ec42bdda
-16,17,0x8eEcaa...4CaD7969,Not Financia...  (NFAi),"$5,719,974.00",1824,https://nfa.ai/,0x8eecaad83a1ea77bd88a818d4628fafc4cad7969
-17,18,0x7dE91B...f7061cb7,Robonomics  (XRT),"$4,194,942.00",6379,https://robonomics.network/en/,0x7de91b204c1c737bcee6f000aaa6569cf7061cb7
-18,19,0x02c329...4bFfadaB,Rejuve Token  (RJV),"$4,099,440.00",1414,https://rejuve.ai/,0x02c3296c6eb50249f290ae596f2be9454bffadab
-19,20,0x9DFAD1...f5845BBA,Botto  (BOTTO),"$4,061,851.00",3490,https://botto.com/,0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba
-20,21,0xC9C4fd...bb386DB1,Bridge  (BRG),"$3,494,368.00",25,https://bridge.link/,0xc9c4fd7579133701fa2769b6955e7e56bb386db1
-21,22,0xD04E77...3CB647F8,CryptoGPT To...  (GPT),"$2,984,988.00",4096,https://layerai.org/,0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8
-22,23,0x6f222E...66A8FF98,ROKO  (ROKO),"$2,672,177.00",1171,https://roko.network/,0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98
-23,24,0x6BF765...025B7E12,McPepes  (PEPES),"$2,393,334.00",1750,https://mcpepes.com/,0x6bf765c43030387a983f429c1438e9d2025b7e12
-24,25,0xC8807f...89249014,Ispolink Tok...  (ISP),"$1,646,961.00",4154,https://ispolink.com/,0xc8807f0f5ba3fa45ffbdc66928d71c5289249014
-25,26,0x6FF224...14B34429,AQTIS Token  (AQTIS),"$1,358,218.00",358,https://aqtis.io/,0x6ff2241756549b5816a177659e766eaf14b34429
-26,27,0x461733...FCf22546,ATN  (ATN),"$1,285,810.00",17196,https://atn.io/,0x461733c17b0755ca5649b6db08b3e213fcf22546
-27,28,0x3A810f...615d0385,AI Network  (AIN),"$1,242,480.00",602,https://ainetwork.ai/,0x3a810ff7211b40c4fa76205a14efe161615d0385
-28,29,0x58f910...616eEc41,Triall  (TRL),"$1,176,851.00",1031,https://www.triall.io/,0x58f9102bf53cf186682bd9a281d3cd3c616eec41
-29,30,0xa41161...34796A21,Artify  (AFY),"$977,118.00",1317,https://artifylabs.io/,0xa41161af8d4ee421ba5fed4328f2b12034796a21
-30,31,0x0d8ca4...de3e78BF,GeneraitivAI  (GAI),"$862,213.00",680,https://generaitiv.xyz/,0x0d8ca4b20b115d4da5c13dc45dd582a5de3e78bf
-31,32,0x63b4f3...7cCD1eF4,CyberFi Toke...  (CFi),"$688,355.00",7993,https://cyberfi.tech/,0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4
-32,33,0xF4b547...9E0Df267,BlockBank  (BBANK),"$630,122.00",4099,https://blockbank.ai/,0xf4b5470523ccd314c6b9da041076e7d79e0df267
-33,34,0xf23a2B...06CcA562,noiseGPT  (noiseG...),"$582,337.00",478,https://noisegpt.com/,0xf23a2bf7619ad93300499c3fc7d7145a06cca562
-34,35,0x5d48F2...38bD4725,NeuroChain C...  (NCC),"$230,363.00",3717,https://www.neurochaintech.io/,0x5d48f293baed247a2d0189058ba37aa238bd4725
-35,36,0x36905F...46742Fb5,BTOCoin  (BTO),"$195,611.00",15362,https://www.bottos.org/,0x36905fc93280f52362a1cbab151f25dc46742fb5
-36,37,0xef8CF7...8a639a41,SRCOIN  (SRCOIN),"$158,202.00",1141,https://www.srcoin.info/,0xef8cf79c21637fc6f951bcac348915508a639a41
-37,38,0x25B632...1ca022E3,LML  (LML),"$154,501.00",609,https://www.gny.io/lisk,0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3
-38,39,0x6704B6...0e2190E1,UBEX Token  (UBEX),"$4,351.00",15365,https://www.ubex.com/,0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1
-39,40,0x9913DB...7d3bB7e1,SLOUGI  (SLOUGI),$0.00,75,https://slougitoken.com/,0x9913db584ed23e53b419eb8bc3b6e4707d3bb7e1
-40,41,0x38d58B...9FD8093b,TealToken  (TEAT),$0.00,43,https://www.teal.digital/,0x38d58B82cB24A3e0410a7991f255174c9FD8093b
-41,42,0x75387e...E027f609,MindsyncAI  (MAI),$0.00,1304,https://mindsync.ai/,0x75387e1287Dd85482aB66102DA9f6577E027f609
-42,43,0xaC0741...D7FDD5A4,Ejoy Coin  (EJOY),$0.00,52806,http://www.ejoy.world/,0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4
-43,44,0x5AEf5b...7b87c62c,DeepFakeAI  (FakeAI),$0.00,667,https://fakeai.io/,0x5aef5bba19e6a1644805bd4f5c93c8557b87c62c
-44,45,0x536726...f53C5E50,Zetaco  (ZTC),$0.00,21,https://zetaco.org/,0x5367265f454a7af87c6949750e2c83baf53c5e50
-45,46,0x53a0c2...BEFAD1Cf,Cyphai Token  (CYPH),$0.00,1,https://cyph.ai/,0x53a0c2a56d7e21afb8e967b380dfeab7befad1cf
-46,47,0x208bbb...94EbAa51,AI  (1AI),$0.00,645,https://www.1ai.io/,0x208bbb6bCEA22ef2011789331405347394EbAa51
-47,48,0x8Fb6c8...B4cdc865,BitOnyx Toke...  (BTNYX),$0.00,101,https://bitonyx.io/,0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865
-48,49,0x95382A...69bCfeD8,SURETY Token  (SURE),$0.00,13564,https://hearti.io/suretyai/,0x95382ac82e886a367bac9e1e23beabe569bcfed8
-49,50,0x70c621...76b98359,Skychain Glo...  (SKCH),$0.00,3844,http://skychain.global/,0x70c621f949b6556c4545707a2d5d73a776b98359
-50,51,0x94d916...37B9b3b2,AlgoVest  (AVS),$0.00,374,https://algovest.fi/,0x94d916873b22c9c1b53695f1c002f78537b9b3b2
-51,52,0x87DE30...b09CB4e5,Verox  (VRX),$0.00,1717,https://www.veroxai.com/,0x87DE305311D5788e8da38D19bb427645b09CB4e5
-52,53,0x36195E...cbdbeFB2,AI Tools  (AITOOL...),$0.00,209,https://ai-tools.studio/,0x36195e54fb07e8f27442acfcc1311a81cbdbefb2
-53,54,0x30A37B...D6c7f4Ba,Checks AI  (Checks...),$0.00,116,https://checksai.xyz/,0x30a37bc0981482361490ef14cb413631d6c7f4ba
-54,55,0x267eB2...d0852c5F,Trace AI  (TAI),$0.00,478,https://traceai.net/,0x267eb2a9a13dc304a9deff4277abe850d0852c5f
-55,56,0x58E53E...6c7d2187,AITNetwork  (AITN),$0.00,73,https://www.aitnetwork.org/,0x58e53ebaec97eac9f5dd8affb54598c86c7d2187
-56,57,0x359334...934Bf855,AITECH  (AITECH),$0.00,1,https://ai-tech.io/,0x359334f6d14b29636c7a56d59e16b452934bf855
-57,58,0x0a96aB...4e46bBCF,GiniAI  (GINI),$0.00,417,https://gini.gg/,0x0a96ab4ef283e98db7072df26c7d62854e46bbcf
-58,59,0xdee1be...b62316F7,Sybal  (SYB),$0.00,3,https://sybal.io/,0xdee1bed25b055358185511fe20df6342b62316f7
-59,60,0x315e16...aeAf8f3a,KEK AI  (KEKAI),$0.00,110,https://kekai.io/,0x315e16cbb544d0dc2ab9bc164e61fbe7aeaf8f3a
-60,61,0x5c8190...E01Ab5E9,Archive AI  (ARCAI),$0.00,685,https://aiarchive.io/,0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9
-61,62,0xB68514...F59Ff486,The Razors E...  (FreqAI),$0.00,735,https://razorsedge.ai/,0xb685145d7f127b9093d7f9278bae902ef59ff486
-62,63,0x0F8fFD...92113f80,SARA AI  (SRA),$0.00,1,https://www.cryptosara.io/,0x0f8ffd962ca70e74e68bf0f5e51dda6192113f80
-63,64,0x016870...e83f7aE0,MIRO  (MIRO),$0.00,267,https://mirocana.com/,0x0168703872fa06741ecaa9dff7803168e83f7ae0
-64,65,0xE55d97...095d8AAf,AIPAD.tech  (AIPAD),$0.00,770,https://www.aipad.tech/,0xE55d97A97ae6A17706ee281486E98A84095d8AAf
-65,66,0xD6cD05...Ca0f55d5,xRealm  (XRM),$0.00,71,https://xrealm.ai/,0xD6cD05E1e389AB8D78A1d72495c681aaCa0f55d5
-66,67,0xF6f059...B836ab45,Botify AI  (BOTIFY...),$0.00,64,https://www.botify-ai.com/,0xF6f059f3Db96b74837875A9CF0a2A780B836ab45
-67,68,0x56B253...9D3babea,SPOKES  (SPOKES),$0.00,1,https://wheelinvent.com/,0x56b25338a9a638183d4ca5c5a35be0659d3babea
-68,69,0xa053c1...B7414C41,Kambria Yiel...  (KYTE),$0.00,226,https://kambria.io/,0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41
-69,70,0x24EbfC...c154f4Cb,COOS  (COOS),$0.00,4255,http://www.coos.ai/,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb
-70,71,0xD4078b...05911102,VIOLET  (VAI),$0.00,8527,https://www.viola.ai/,0xd4078bdb652610ad5383a747d130cbe905911102
-71,72,0x235C8E...55705726,tehBag  (BAG),$0.00,4031,https://tehbag.com/,0x235c8ee913d93c68d2902a8e0b5a643755705726
-72,73,0xBb3A8F...D12B1873,ORBOFI  (OBI),$0.00,17,https://www.orbofi.com/,0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873
-73,74,0x9BF647...38796810,MONKAI  (MKAI),$0.00,61,https://monkai.ai/,0x9BF647468D5ab7b1D36d336B542a572538796810
-74,75,0xFE633A...56242B77,Chart 4 You  (C4Y),$0.00,2184,https://chart4you.net/,0xFE633A37c77241B825f1CF39AfFF44CB56242B77
-75,76,0x69d478...Cd98c45B,AlphaRushAI  (rushAI),$0.00,444,https://alpharush.ai/,0x69d47846bb7B884062FaBc08A4A7dEADCd98c45B
-76,77,0x4dA091...c7A90472,HYDROSTANDAR...  (HRS),$0.00,177,https://www.hydrostandart.io/,0x4da091be57c8bb022cd9ea83dfb1b09ec7a90472
-77,78,0xE0e9ED...73ADc3a0,SardineChain...  (SDE),$0.00,196,https://www.sardinechain.org/,0xe0e9ede8a01aa6f7f0e23945738a6c6173adc3a0
-78,79,0x9631be...21Da6C27,Intelligent ...  (IMON),$0.00,6,https://imon.ai/,0x9631be8566fC71d91970b10AcfdEe29F21Da6C27
-79,80,0x7e4C30...0270C23c,LinkFi  (LFI),$0.00,64,https://linkfi.ai/,0x7e4C30bdF4198918886C12Bc15D962620270C23c
-80,81,0x6386db...ed1C280c,Angel Token  (ANGEL),$0.00,402,https://angeltoken.tech/,0x6386db8bbb746b03ca96bb394b1dc3f7ed1c280c
-81,82,0x0CCa9e...EeC3ea74,Melior  (MEL),$0.00,1,https://melior.ai/,0x0cca9e89e98fac947678b12c3923ac36eec3ea74
-82,83,0x874CB2...BcbaF614,GainDAO Toke...  (GAIN),$0.00,66,https://gaindao.io/,0x874CB28A655e0Ef827d810E211aE4b9cBcbaF614
-83,84,0x7050dC...B7a707f6,AIE Token  (AIE),$0.00,243,https://aievolution.io/,0x7050dc49ec7a7eebc60b9358e0ab5893b7a707f6
-84,85,0xEEaa34...765b1fA5,OLCF  (OLCF),$0.00,1882,https://olportal.ai/,0xEEaa34aF95b034BaDa4baF565063132C765b1fA5
-85,86,0xf0a163...1c620d24,Tickr  (TICKR),$0.00,690,https://tickr.tech/,0xf0a163a26601d9dc8aef26b388eadb7b1c620d24
-86,87,0x161344...C643b646,SLP Coin  (SLP),$0.00,7,https://syntheticlearning.online/,0x16134400A009E31E4D2002e6017c9aE7C643b646
-87,88,0x1563D5...9E8d4F21,VisionX  (VNX),$0.00,4161,https://www.visionx.org/,0x1563D521ba309e2Ad9f4aFfD6f4dE9759E8d4F21
-88,89,0x0f1e49...AD75061a,VINLINK  (VINLIN...),$0.00,745,http://www.vinlink.org/,0x0f1e49d6dcfc9eefcce9d5ae3c660f8ead75061a
-89,90,0x986303...FcF80C08,bitgrit toke...  (BGR),$0.00,139,https://bitgrit.net/,0x986303c398dbf3295fa4ad98274ad20cfcf80c08
-90,91,0xB7Df0f...2b5eB9d9,Ai Smart Cha...  (AISC),$0.00,593,https://aismartchain.io/,0xb7df0f42fae30acf30c9a5ba147d6b792b5eb9d9
-91,92,0x2F4404...0bf23B7f,AITravis  (tAI),$0.00,477,https://aitravis.com/,0x2f4404c4012476929b6503e1397707480bf23b7f
-92,93,0x428dca...7238Fe9d,OxAI  (OXAI),$0.00,1093,https://oxai.com/,0x428dca9537116148616a5A3E44035Af17238Fe9d
-93,94,0xC55953...9E8508d1,BlockOS AI  (BOSAI),$0.00,2,https://blockosai.com/,0xc55953ca9be22aed1f9bd97c7985d96e9e8508d1
-94,95,0x999A74...8375f131,Rizz-AI  (WRIZZ),$0.00,129,https://rizz-ai.com/,0x999a748f067d20d69f6995876fd9ec258375f131
-95,96,0x2d5Bed...9eB25461,Teslafan  (TESLF),$0.00,822,https://teslafan.io/,0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461
-96,97,0x9f8263...45D74F39,milkAI  (milkAI),$0.00,437,https://milkai.com/,0x9f826324bb9bdcf7e7eb274bedc417bd45d74f39
-97,98,0xe616AD...a308D397,THEPEPE.AI  (PPAI),$0.00,294,https://thepepe.ai/,0xe616ADb3f729f6f3df19C876Eda66472a308D397
-98,99,0xd0b9ed...52847569,NEO AI  (NEOAI),$0.00,102,https://neocorp.ai/,0xd0b9ed2c21849e830d6f6a9a7ba6c1e952847569
-99,100,0x0A13A5...fCE40280,XAI Corp  (XAI),$0.00,1793,https://xai-eth.net/,0x0a13a5929e5f0ff0eaba4bd9e9512c91fce40280
-100,101,0xa7417d...FEf75cdf,Siri Natural...  (SNLG),$0.00,547,https://www.sirinlg.com/,0xa7417d66bdeb4525a939bfed645f3013fef75cdf
-101,102,0xc528c2...15760A0F,Endor Protoc...  (EDR),$0.00,11364,https://www.endor.com/,0xc528c28fec0a90c083328bc45f587ee215760a0f
-102,103,0xd3E791...Bb7d2d04,Arkia  (ARKIA),$0.00,1,https://arkialabs.com/,0xd3e7919cf80ea0a4b5ea98e743ac3ac5bb7d2d04
-103,104,0x7f4E71...5ad1cc9d,LeadRex Toke...  (LDXX),$0.00,2,https://leadrex.io/,0x7f4e71b344d09eaa5fd8defbceb818415ad1cc9d
-104,105,0x7050dC...B7a707f6,AIE Token  (AIE),$0.00,243,https://aievolution.io/,0x7050dc49ec7a7eebc60b9358e0ab5893b7a707f6
-105,106,0x6a26ee...8902FD7C,MAGIKAL.ai  (MGKL),$0.00,46,https://www.magikal.ai/,0x6a26ee7755d939b96cdCd8A0370630D48902FD7C
-106,107,0xA1804A...55F2Cb4a,SOLIDBLOCK  (SOLID),$0.00,441,https://www.solidblock.io/,0xA1804AfE1665A22c07E2e8EC0ea7Eb0355F2Cb4a
-107,108,0x033524...66b9b3F6,Genius Token...  (GNUS),$0.00,148,https://www.geniusventures.io/,0x033524b1ba83ceabd8452c08dcafe71966b9b3f6
-108,109,0x673F82...63d9d54B,True Gym Coi...  (TGC),$0.00,447,https://truegym.io/,0x673f8248b2da1c368a174cc191f7368163d9d54b
-109,110,0xb9aE5C...3aa32144,Starry AI  (STARRY...),$0.00,81,https://starry-ai.dev/,0xb9aE5C778832d56bb70A2DA592c9362a3aa32144
-110,111,0xFb444c...76b24668,ELA Coin  (ELAMA),$0.00,4491,http://elamachain.io/,0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668
-111,112,0xf0a163...1c620d24,Tickr  (TICKR),$0.00,690,https://tickr.tech/,0xf0a163a26601d9dc8aef26b388eadb7b1c620d24
-112,113,0xB7Df0f...2b5eB9d9,Ai Smart Cha...  (AISC),$0.00,593,https://aismartchain.io/,0xb7df0f42fae30acf30c9a5ba147d6b792b5eb9d9
-113,114,0x4457DC...Cbdcc10F,VAIP COIN  (VAIP),$0.00,84,http://www.vaip.foundation/,0x4457dc5a9e71b975a8e0f855bbe795f5cbdcc10f
-114,115,0x474Dde...bC80d5e2,QCLX Token  (QCLX),$0.00,5968,https://bqt.io/,0x474Dde66cE65a9279F070fd27b01ce1AbC80d5e2
-115,116,0x58959E...74CeF438,Tesra AI Sup...  (TSR),$0.00,49545,http://www.tesra.link/,0x58959e0c71080434f237bd42d07cd84b74cef438
-116,117,0xcD8544...b1B21fCc,GAPS  (GAP),$0.00,8785,http://gapschain.io/main/,0xcd8544defedec7c6b60b5a4232320365b1b21fcc
-117,118,0x2F4404...0bf23B7f,AITravis  (tAI),$0.00,477,https://aitravis.com/,0x2f4404c4012476929b6503e1397707480bf23b7f
-118,119,0x0B4454...517c5a54,DATACHAIN  (DC),$0.00,222,https://datachain.one/,0x0b44547be0a0df5dcd5327de8ea73680517c5a54
-119,120,0x2AEC18...4dF4C0Dc,FarmaTrust T...  (FTT),$0.00,6324,https://farmatrust.io/,0x2aec18c5500f21359ce1bea5dc1777344df4c0dc
-120,121,0x428dca...7238Fe9d,OxAI  (OXAI),$0.00,1093,https://oxai.com/,0x428dca9537116148616a5A3E44035Af17238Fe9d
-121,122,0x9f8263...45D74F39,milkAI  (milkAI),$0.00,437,https://milkai.com/,0x9f826324bb9bdcf7e7eb274bedc417bd45d74f39
-122,123,0x2B89D3...F9097655,Harem Token  (HAREM),$0.00,95,https://harem-token.com/,0x2B89D32CfB9b28DFCc7FAcC22453c812F9097655
-123,124,0x17f8aF...6A98257D,Nebula AI To...  (NBAI),$0.00,2913,https://nebula-ai.com/,0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d
-124,125,0x1c4b7d...4E712006,IOGToken  (IOG),$0.00,2139,http://www.playgroundz.io/,0x1c4b7d0e1885bd7667af3378e0c538f74e712006
-125,126,0xd0b9ed...52847569,NEO AI  (NEOAI),$0.00,102,https://neocorp.ai/,0xd0b9ed2c21849e830d6f6a9a7ba6c1e952847569
-126,127,0xCBad1D...f0f0A6d5,DegenAI  (DegenA...),$0.00,299,https://www.degenai.app/,0xcbad1de3cd18c93fe45fe63e1b4dfa28f0f0a6d5
-127,128,0x5c8190...E01Ab5E9,Archive AI  (ARCAI),$0.00,685,https://aiarchive.io/,0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9
-128,129,0xb36165...C9A95200,Telex  (TLX),$0.00,358,http://telexai.com/,0xb3616550abc8af79c7a5902def9efa3bc9a95200
-129,130,0xD6cD05...Ca0f55d5,xRealm  (XRM),$0.00,71,https://xrealm.ai/,0xD6cD05E1e389AB8D78A1d72495c681aaCa0f55d5
-130,131,0x5b5cf4...582c9448,XANA: Genesi...  (XGS),$0.00,-,https://genesis.xana.net/,0x5b5cf41d9EC08D101ffEEeeBdA411677582c9448
-131,132,0x996652...DD40ddFa,Golfro chain  (GOLF),$0.00,30,https://www.golfro.io/,0x996652b6c5c4b1154b25515db21b7bbadd40ddfa
-132,133,0xBb3A8F...D12B1873,ORBOFI  (OBI),$0.00,17,https://www.orbofi.com/,0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873
-133,134,0xA735A3...9d36CBe0,Image Genera...  (imgnAI),$0.00,4483,https://imgnai.com/,0xa735a3af76cc30791c61c10d585833829d36cbe0
-134,135,0xf8A657...35A2a697,DSYNC.AI  (DSYNC....),$0.00,745,https://dsync.ai/,0xf8A6572B2A0457dc8112522904eDf34a35A2a697
-135,136,0x91a389...570A8aDB,Insider Toke...  (NSD),$0.00,1,https://insidertoken.org/,0x91a38993040264787e8b99fff8108046570a8adb
-136,137,0xd1ba9B...1A0d2867,Human Token  (HMT),$0.00,2211,https://www.humanprotocol.org/,0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867
-137,138,0xc6AbF3...bdFD460C,OSAToken  (OSA),$0.00,3798,https://osadc.io/en/,0xc6abf3c09341741ac6041b0b08195701bdfd460c
-138,139,0xFE633A...56242B77,Chart 4 You  (C4Y),$0.00,2184,https://chart4you.net/,0xFE633A37c77241B825f1CF39AfFF44CB56242B77
-139,140,0x77ddb6...DFdC8E00,MovAI  (mvAI),$0.00,61,https://www.mov-ai.com/,0x77ddb68d41b6eadbc9f3b172a9a6b75bdfdc8e00
-140,141,0x6ef460...eE71F867,ZEUS  (ZEUS),$0.00,2130,https://zeusaibot.com/,0x6ef460EB3563CfCc73F8147B0A77DAFFeE71F867
-141,142,0x454B9f...30F1A5e9,Alphacon Tok...  (ALP),$0.00,3717,https://alphacon.io/,0x454b9f249bc1492ee995793bbc3e57b830f1a5e9
-142,143,0x5AEf5b...7b87c62c,DeepFakeAI  (FakeAI),$0.00,667,https://fakeai.io/,0x5aef5bba19e6a1644805bd4f5c93c8557b87c62c
-143,144,0x92B914...32fc44d1,EnkronosToke...  (ENK),$0.00,7559,https://apps.enkronos.com/,0x92b914f1ddcbb1d117a718e83c9ed7eb32fc44d1
-144,145,0x922e27...27ECf332,Neuroni.AI  (NEURON...),$0.00,1265,https://neuroni.ai/,0x922e2708462c7a3d014d8344f7c4d92b27ecf332
-145,146,0x0371f7...23FfFccA,Bitcurate  (BTCR),$0.00,70,https://www.bitcurate.com/,0x0371f7b219fff864b437bcfb564810F323FfFccA
+,#,Contract Address,Token Name,Market Cap,Holders,Website
+0,1,0x5b7533812759b45c2b44c19e320ba2cd2681b542,SingularityNET Token,"$269,199,361.00",61887,https://singularitynet.io/
+1,2,0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85,Fetch (FET),"$205,143,168.00",42085,https://fetch.ai/
+2,3,0x1776e1f26f98b1a5df9cd347953a26dd3cb46671,Numeraire (NMR),"$75,457,741.00",36563,https://erasure.world/
+3,4,0x6b0b3a982b4634ac68dd83a4dbf02311ce324181,Artificial Liquid Intelligence Token,"$72,193,372.00",11102,https://alethea.ai/
+4,5,0xfc82bb4ba86045af6f327323a46e80412b91b27d,Token Prometeus Network,"$71,557,431.00",2249,https://prometeus.io
+5,6,0x7d5121505149065b562c789a0145ed750e6e8cdd,Victoria VR (VR),"$42,868,382.00",9945,https://victoriavr.com/
+6,7,0xf11c9761db573e10d7ad735a313ec8c8b040ce88,LAT (LAT),"$32,369,997.00",1,https://www.platon.network/
+7,8,0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5,0x0.ai: AI Smart Contract Auditor,"$31,939,949.00",6094,https://0x0.ai/
+8,9,0xea11755ae41d889ceec39a63e6ff75a02bc1c00d,Cortex Coin (CTXC),"$31,528,282.00",22575,http://www.cortexlabs.ai/
+9,10,0xd13cfd3133239a3c73a9e535a5c4dadee36b395c,VAIOT Token (VAI),"$25,232,376.00",7549,https://vaiot.ai/en
+10,11,0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697,OVR (OVR),"$17,756,759.00",17718,https://www.ovr.ai/
+11,12,0x7da2641000cbb407c329310c461b2cb9c70c3046,AGI Token (AGI),"$14,321,422.00",861,https://www.delysium.com/
+12,13,0x7d29a64504629172a429e64183d6673b9dacbfce,VectorspaceAI,"$13,344,893.00",14938,https://vectorspace.ai/
+13,14,0x562E362876c8Aee4744FC2c6aaC8394C312d215d,OPTIMUS,"$8,317,461.00",10776,https://www.optimusbot.io/
+14,15,0xc7c03b8a3fc5719066e185ea616e87b88eba44a3,EligmaToken (ELI),"$6,727,747.00",1370,https://gocrypto.com/
+15,16,0x8eecaad83a1ea77bd88a818d4628fafc4cad7969,Not Financial Advice,"$6,194,105.00",1824,https://nfa.ai/
+16,17,0x738865301a9b7dd80dc3666dd48cf034ec42bdda,Agoras Token (AGRS),"$5,577,714.00",567,https://www.tau.net/
+17,18,0x7de91b204c1c737bcee6f000aaa6569cf7061cb7,Robonomics (XRT),"$4,485,924.00",6377,https://robonomics.network/en/
+18,19,0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba,Botto (BOTTO),"$4,355,259.00",3492,https://botto.com/
+19,20,0x02c3296c6eb50249f290ae596f2be9454bffadab,Rejuve Token (RJV),"$3,967,896.00",1517,https://rejuve.ai/
+20,21,0xc9c4fd7579133701fa2769b6955e7e56bb386db1,Bridge (BRG),"$3,543,223.00",25,https://bridge.link/
+21,22,0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8,CryptoGPT Token,"$3,175,516.00",4095,https://layerai.org/
+22,23,0x6bf765c43030387a983f429c1438e9d2025b7e12,McPepes (PEPES),"$2,601,632.00",1751,https://mcpepes.com/
+23,24,0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98,ROKO (ROKO),"$2,439,079.00",1174,https://roko.network/
+24,25,0xc8807f0f5ba3fa45ffbdc66928d71c5289249014,Ispolink Token,"$1,685,490.00",4153,https://ispolink.com/
+25,26,0x6ff2241756549b5816a177659e766eaf14b34429,AQTIS Token (AQTIS),"$1,409,580.00",358,https://aqtis.io/
+26,27,0x3a810ff7211b40c4fa76205a14efe161615d0385,AI Network (AIN),"$1,335,623.00",603,https://ainetwork.ai/
+27,28,0x461733c17b0755ca5649b6db08b3e213fcf22546,ATN (ATN),"$1,285,810.00",17196,https://atn.io/
+28,29,0x58f9102bf53cf186682bd9a281d3cd3c616eec41,Triall (TRL),"$1,184,538.00",1030,https://www.triall.io/
+29,30,0xf23a2bf7619ad93300499c3fc7d7145a06cca562,noiseGPT,"$1,024,624.00",484,https://noisegpt.com/
+30,31,0x0d8ca4b20b115d4da5c13dc45dd582a5de3e78bf,GeneraitivAI (GAI),"$1,008,719.00",683,https://generaitiv.xyz/
+31,32,0xa41161af8d4ee421ba5fed4328f2b12034796a21,Artify (AFY),"$982,223.00",1313,https://artifylabs.io/
+32,33,0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4,CyberFi Token,"$710,185.00",7992,https://cyberfi.tech/
+33,34,0xf4b5470523ccd314c6b9da041076e7d79e0df267,BlockBank (BBANK),"$651,949.00",4097,https://blockbank.ai/
+34,35,0x5d48f293baed247a2d0189058ba37aa238bd4725,NeuroChain Clausius,"$230,363.00",3717,https://www.neurochaintech.io/
+35,36,0x25b6325f5bb1c1e03cfbc3e53f470e1f1ca022e3,LML (LML),"$205,180.00",608,https://www.gny.io/lisk
+36,37,0x36905fc93280f52362a1cbab151f25dc46742fb5,BTOCoin (BTO),"$196,327.00",15362,https://www.bottos.org/
+37,38,0xef8cf79c21637fc6f951bcac348915508a639a41,SRCOIN (SRCOIN),"$158,202.00",1141,https://www.srcoin.info/
+38,39,0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1,UBEX Token (UBEX),"$4,351.00",15365,https://www.ubex.com/
+39,40,0x8793Fb615Eb92822F482f88B3137B00aad4C00D2,revoAI (revoAI),$0.00,441,https://revoai.net
+40,41,0x922e2708462c7a3d014d8344f7c4d92b27ecf332,NEURONI,$0.00,1265,https://neuroni.ai/
+41,42,0x454b9f249bc1492ee995793bbc3e57b830f1a5e9,Alphacon Token,$0.00,3717,https://alphacon.io/
+42,43,0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865,BitOnyx Token,$0.00,101,https://bitonyx.io/
+43,44,0x05984006707585f66465e8a6505341f46b64fa7a,Nam Coin (NAM),$0.00,49750,http://namcoin.net/
+44,45,0x0f1e49d6dcfc9eefcce9d5ae3c660f8ead75061a,VINLINK,$0.00,744,http://www.vinlink.org/
+45,46,0x87DE305311D5788e8da38D19bb427645b09CB4e5,Verox (VRX),$0.00,1716,https://www.veroxai.com/
+46,47,0xbae94d28610c8cfd2168f7b97bc7cb0589803c6b,UHIVE (HVE),$0.00,1477,https://www.uhive.life/
+47,48,0x999a748f067d20d69f6995876fd9ec258375f131,Rizz-AI (WRIZZ),$0.00,129,https://rizz-ai.com/
+48,49,0xa813ac8e0db2c9ec28d2b2725461a5765f366eeb,Nostra AI (NOSTRA),$0.00,206,https://nostra-ai.tech/
+49,50,0x75387e1287Dd85482aB66102DA9f6577E027f609,MindsyncAI (MAI),$0.00,1304,https://mindsync.ai/
+50,51,0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4,Ejoy Coin (EJOY),$0.00,52806,http://www.ejoy.world/
+51,52,0xa7417d66bdeb4525a939bfed645f3013fef75cdf,Siri Natural Language Generation,$0.00,547,https://www.sirinlg.com/
+52,53,0x94d916873b22c9c1b53695f1c002f78537b9b3b2,AlgoVest (AVS),$0.00,374,https://algovest.fi/
+53,54,0x208bbb6bCEA22ef2011789331405347394EbAa51,AI (1AI),$0.00,645,https://www.1ai.io/
+54,55,0x95382ac82e886a367bac9e1e23beabe569bcfed8,SURETY Token (SURE),$0.00,13564,https://hearti.io/suretyai/
+55,56,0x6a26ee7755d939b96cdCd8A0370630D48902FD7C,MAGIKAL.ai (MGKL),$0.00,46,https://www.magikal.ai/
+56,57,0x58e53ebaec97eac9f5dd8affb54598c86c7d2187,AITNetwork (AITN),$0.00,73,https://www.aitnetwork.org/
+57,58,0x70c621f949b6556c4545707a2d5d73a776b98359,Skychain Global Token,$0.00,3844,http://skychain.global/
+58,59,0xA1804AfE1665A22c07E2e8EC0ea7Eb0355F2Cb4a,SOLIDBLOCK (SOLID),$0.00,441,https://www.solidblock.io/
+59,60,0xdee1bed25b055358185511fe20df6342b62316f7,Sybal (SYB),$0.00,3,https://sybal.io/
+60,61,0xa80505c408c4defd9522981cd77e026f5a49fe63,NEUY (NEUY),$0.00,55,https://neuy.io/
+61,62,0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9,Archive AI (ARCAI),$0.00,685,https://aiarchive.io/
+62,63,0x0f8ffd962ca70e74e68bf0f5e51dda6192113f80,SARA AI (SRA),$0.00,1,https://www.cryptosara.io/
+63,64,0xD6cD05E1e389AB8D78A1d72495c681aaCa0f55d5,xRealm (XRM),$0.00,71,https://xrealm.ai/
+64,65,0x56b25338a9a638183d4ca5c5a35be0659d3babea,SPOKES (SPOKES),$0.00,1,https://wheelinvent.com/
+65,66,0x4da091be57c8bb022cd9ea83dfb1b09ec7a90472,HYDROSTANDART,$0.00,177,https://www.hydrostandart.io/
+66,67,0xa053c1b7013e77fe0a873ce0ca2bd5d0b7414c41,Kambria Yield Tuning Engine,$0.00,226,https://kambria.io/
+67,68,0x9913db584ed23e53b419eb8bc3b6e4707d3bb7e1,SLOUGI (SLOUGI),$0.00,75,https://slougitoken.com/
+68,69,0x0168703872fa06741ecaa9dff7803168e83f7ae0,MIRO (MIRO),$0.00,267,https://mirocana.com/
+69,70,0xBb3A8FD6Ec4bF0FDc6Cd2739b1e41192D12B1873,ORBOFI (OBI),$0.00,17,https://www.orbofi.com/
+70,71,0xFE633A37c77241B825f1CF39AfFF44CB56242B77,Chart 4 You (C4Y),$0.00,2183,https://chart4you.net/
+71,72,0x7e4C30bdF4198918886C12Bc15D962620270C23c,LinkFi (LFI),$0.00,64,https://linkfi.ai/
+72,73,0x36195e54fb07e8f27442acfcc1311a81cbdbefb2,AITOOLS,$0.00,209,https://ai-tools.studio/
+73,74,0x5367265f454a7af87c6949750e2c83baf53c5e50,Zetaco (ZTC),$0.00,21,https://zetaco.org/
+74,75,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb,COOS (COOS),$0.00,4255,http://www.coos.ai/
+75,76,0xEEaa34aF95b034BaDa4baF565063132C765b1fA5,OLCF (OLCF),$0.00,1882,https://olportal.ai/
+76,77,0xd4078bdb652610ad5383a747d130cbe905911102,VIOLET (VAI),$0.00,8527,https://www.viola.ai/
+77,78,0x30a37bc0981482361490ef14cb413631d6c7f4ba,ChecksAI,$0.00,116,https://checksai.xyz/
+78,79,0x359334f6d14b29636c7a56d59e16b452934bf855,AITECH (AITECH),$0.00,1,https://ai-tech.io/
+79,80,0x16134400A009E31E4D2002e6017c9aE7C643b646,SLP Coin (SLP),$0.00,7,https://syntheticlearning.online/
+80,81,0xcbad1de3cd18c93fe45fe63e1b4dfa28f0f0a6d5,DegenAI,$0.00,299,https://www.degenai.app/
+81,82,0x315e16cbb544d0dc2ab9bc164e61fbe7aeaf8f3a,KEK AI (KEKAI),$0.00,110,https://kekai.io/
+82,83,0xe0e9ede8a01aa6f7f0e23945738a6c6173adc3a0,SardineChain Token,$0.00,196,https://www.sardinechain.org/
+83,84,0xE55d97A97ae6A17706ee281486E98A84095d8AAf,AIPAD.tech (AIPAD),$0.00,772,https://www.aipad.tech/
+84,85,0x6386db8bbb746b03ca96bb394b1dc3f7ed1c280c,Angel Token (ANGEL),$0.00,402,https://angeltoken.tech/
+85,86,0x0cca9e89e98fac947678b12c3923ac36eec3ea74,Melior (MEL),$0.00,1,https://melior.ai/
+86,87,0xf8A6572B2A0457dc8112522904eDf34a35A2a697,DSYNC.AI,$0.00,745,https://dsync.ai/
+87,88,0x5aef5bba19e6a1644805bd4f5c93c8557b87c62c,DeepFakeAI (FakeAI),$0.00,663,https://fakeai.io/
+88,89,0x986303c398dbf3295fa4ad98274ad20cfcf80c08,bitgrit token,$0.00,139,https://bitgrit.net/
+89,90,0x235c8ee913d93c68d2902a8e0b5a643755705726,tehBag (BAG),$0.00,4031,https://tehbag.com/
+90,91,0x1563D521ba309e2Ad9f4aFfD6f4dE9759E8d4F21,VisionX (VNX),$0.00,4161,https://www.visionx.org/
+91,92,0xc55953ca9be22aed1f9bd97c7985d96e9e8508d1,BlockOS AI (BOSAI),$0.00,2,https://blockosai.com/
+92,93,0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461,Teslafan (TESLF),$0.00,822,https://teslafan.io/
+93,94,0x6ef460EB3563CfCc73F8147B0A77DAFFeE71F867,ZEUS (ZEUS),$0.00,2130,https://zeusaibot.com/
+94,95,0xe616ADb3f729f6f3df19C876Eda66472a308D397,THEPEPE.AI (PPAI),$0.00,294,https://thepepe.ai/
+95,96,0x0a13a5929e5f0ff0eaba4bd9e9512c91fce40280,XAI Corp (XAI),$0.00,1788,https://xai-eth.net/
+96,97,0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668,ELA Coin (ELAMA),$0.00,4491,http://elamachain.io/
+97,98,0xd3e7919cf80ea0a4b5ea98e743ac3ac5bb7d2d04,Arkia (ARKIA),$0.00,1,https://arkialabs.com/
+98,99,0x4457dc5a9e71b975a8e0f855bbe795f5cbdcc10f,VAIP COIN (VAIP),$0.00,84,http://www.vaip.foundation/
+99,100,0x9631be8566fC71d91970b10AcfdEe29F21Da6C27,Intelligent Monsters,$0.00,6,https://imon.ai/
+100,101,0x2aec18c5500f21359ce1bea5dc1777344df4c0dc,FarmaTrust Token,$0.00,6324,https://farmatrust.io/
+101,102,0x673f8248b2da1c368a174cc191f7368163d9d54b,True Gym Coin,$0.00,447,https://truegym.io/
+102,103,0x0a96ab4ef283e98db7072df26c7d62854e46bbcf,GiniAI (GINI),$0.00,417,https://gini.gg/
+103,104,0x68300309047f8bC213f10e238eA6Badb700cb193,SOLIDBLOCK (SOLID),$0.00,549,https://www.solidblock.io/
+104,105,0x0b44547be0a0df5dcd5327de8ea73680517c5a54,DATACHAIN (DC),$0.00,222,https://datachain.one/
+105,106,0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d,Nebula AI Token,$0.00,2913,https://nebula-ai.com/
+106,107,0xb685145d7f127b9093d7f9278bae902ef59ff486,The Razors Edge,$0.00,735,https://razorsedge.ai/
+107,108,0xeA7B7DC089c9a4A916B5a7a37617f59fD54e37E4,HyperCycle Token,$0.00,1342,https://www.hypercycle.ai/
+108,109,0x1c4b7d0e1885bd7667af3378e0c538f74e712006,IOGToken (IOG),$0.00,2139,http://www.playgroundz.io/
+109,110,0x58959e0c71080434f237bd42d07cd84b74cef438,Tesra AI Supernet,$0.00,49545,http://www.tesra.link/
+110,111,0xF6f059f3Db96b74837875A9CF0a2A780B836ab45,BOTIFY AI,$0.00,64,https://www.botify-ai.com/
+111,112,0x36195e54fb07e8f27442acfcc1311a81cbdbefb2,AITOOLS,$0.00,209,https://ai-tools.studio/
+112,113,0x30a37bc0981482361490ef14cb413631d6c7f4ba,ChecksAI,$0.00,116,https://checksai.xyz/
+113,114,0xb3616550abc8af79c7a5902def9efa3bc9a95200,Telex (TLX),$0.00,358,http://telexai.com/
+114,115,0x986303c398dbf3295fa4ad98274ad20cfcf80c08,bitgrit token,$0.00,139,https://bitgrit.net/
+115,116,0xcd8544defedec7c6b60b5a4232320365b1b21fcc,GAPS (GAP),$0.00,8785,http://gapschain.io/main/
+116,117,0x9BF647468D5ab7b1D36d336B542a572538796810,MONKAI (MKAI),$0.00,61,https://monkai.ai/
+117,118,0x359334f6d14b29636c7a56d59e16b452934bf855,AITECH (AITECH),$0.00,1,https://ai-tech.io/
+118,119,0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461,Teslafan (TESLF),$0.00,822,https://teslafan.io/
+119,120,0x69d47846bb7B884062FaBc08A4A7dEADCd98c45B,AlphaRushAI (rushAI),$0.00,442,https://alpharush.ai/
+120,121,0x315e16cbb544d0dc2ab9bc164e61fbe7aeaf8f3a,KEK AI (KEKAI),$0.00,110,https://kekai.io/
+121,122,0xE55d97A97ae6A17706ee281486E98A84095d8AAf,AIPAD.tech (AIPAD),$0.00,772,https://www.aipad.tech/
+122,123,0xd3e7919cf80ea0a4b5ea98e743ac3ac5bb7d2d04,Arkia (ARKIA),$0.00,1,https://arkialabs.com/
+123,124,0x92b914f1ddcbb1d117a718e83c9ed7eb32fc44d1,EnkronosToken,$0.00,7559,https://apps.enkronos.com/
+124,125,0x235c8ee913d93c68d2902a8e0b5a643755705726,tehBag (BAG),$0.00,4031,https://tehbag.com/
+125,126,0x9631be8566fC71d91970b10AcfdEe29F21Da6C27,Intelligent Monsters,$0.00,6,https://imon.ai/
+126,127,0x05fe069626543842439ef90d9fa1633640c50cf1,EVE AI (EVEAI),$0.00,1033,https://eveai.xyz/
+127,128,0x033524b1ba83ceabd8452c08dcafe71966b9b3f6,Genius Tokens,$0.00,148,https://www.geniusventures.io/
+128,129,0x0371f7b219fff864b437bcfb564810F323FfFccA,Bitcurate (BTCR),$0.00,70,https://www.bitcurate.com/
+129,130,0x7050dc49ec7a7eebc60b9358e0ab5893b7a707f6,AIE Token (AIE),$0.00,243,https://aievolution.io/
+130,131,0x987441856ba4f463544fc68ccbf6a80f434a7956,NOWAI ($NOWAI),$0.00,556,https://nowai.ai/
+131,132,0x38d58B82cB24A3e0410a7991f255174c9FD8093b,TealToken (TEAT),$0.00,43,https://www.teal.digital/
+132,133,0x05984006707585f66465e8a6505341f46b64fa7a,Nam Coin (NAM),$0.00,49750,http://namcoin.net/
+133,134,0x0f1e49d6dcfc9eefcce9d5ae3c660f8ead75061a,VINLINK,$0.00,744,http://www.vinlink.org/
+134,135,0xbae94d28610c8cfd2168f7b97bc7cb0589803c6b,UHIVE (HVE),$0.00,1477,https://www.uhive.life/
+135,136,0xc6abf3c09341741ac6041b0b08195701bdfd460c,OSAToken (OSA),$0.00,3798,https://osadc.io/en/
+136,137,0x999a748f067d20d69f6995876fd9ec258375f131,Rizz-AI (WRIZZ),$0.00,129,https://rizz-ai.com/
+137,138,0xf0a163a26601d9dc8aef26b388eadb7b1c620d24,Tickr (TICKR),$0.00,692,https://tickr.tech/
+138,139,0x53a0c2a56d7e21afb8e967b380dfeab7befad1cf,Cyphai Token (CYPH),$0.00,1,https://cyph.ai/
+139,140,0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4,Ejoy Coin (EJOY),$0.00,52806,http://www.ejoy.world/
+140,141,0x454b9f249bc1492ee995793bbc3e57b830f1a5e9,Alphacon Token,$0.00,3717,https://alphacon.io/
+141,142,0xb7df0f42fae30acf30c9a5ba147d6b792b5eb9d9,Ai Smart Chain,$0.00,593,https://aismartchain.io/
+142,143,0x8fb6c8a44a4e23fd1f5a936818b39083b4cdc865,BitOnyx Token,$0.00,101,https://bitonyx.io/
+143,144,0x87DE305311D5788e8da38D19bb427645b09CB4e5,Verox (VRX),$0.00,1716,https://www.veroxai.com/
+144,145,0xa7417d66bdeb4525a939bfed645f3013fef75cdf,Siri Natural Language Generation,$0.00,547,https://www.sirinlg.com/
+145,146,0xb9aE5C778832d56bb70A2DA592c9362a3aa32144,STARRY AI,$0.00,81,https://starry-ai.dev/
