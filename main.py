@@ -137,7 +137,8 @@ def get_label(label, label_type="account", input_type="single"):
 
             # If table is less than 100, then we have reached the end
             if len(cur_table.index) == 100:
-                while True:                
+                while True:
+                    next_icon_elems = driver.find_elements("class name", "fa-chevron-right")
                     try:
                         next_icon_elems[0].click()
                         time.sleep(20) # beacon-depositor require longer # TODO: allow customization by args
