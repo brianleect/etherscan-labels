@@ -176,15 +176,6 @@ def get_label(label, label_type="account", input_type="single"):
     ) as f:
         json.dump(addressNameDict, f, ensure_ascii=True)
 
-    if input_type == "single":
-        endOrContinue = input(
-            'Type "exit" end to end or "label" of interest to continue'
-        )
-        if endOrContinue == "exit":
-            driver.close()
-        else:
-            get_label(endOrContinue, label_type=label_type)
-
 
 def get_label_old_format(label, label_type="account", input_type="single"):
     print("Getting label old format", label)
@@ -395,13 +386,16 @@ if __name__ == "__main__":
 
     login(config)
 
-    retrievalType = input("Enter retrieval type (single/all): ")
-    if retrievalType == "all":
-        all_type = input("Enter get all address type (account/token/all): ")
-        get_all_labels(all_type)
-        # Proceed to combine all addresses into single JSON after retrieving all.
-        combine_all_json()
-    else:
-        singleLabel = input("Enter label of interest: ")
-        get_label(singleLabel, "account")
-        get_label(singleLabel, "token")
+    while True:
+        retrieval_type = input("Enter retrieval type (single/all): ")
+        if retrieval_type == "all":
+            all_type = input("Enter get all address type (account/token/all): ")
+            get_all_labels(all_type)
+            # Proceed to combine all addresses into single JSON after retrieving all.
+            combine_all_json()
+        elif retrieval_type == "single":
+            singleLabel = input("Enter label of interest: ")
+            get_label(singleLabel, "account")
+            get_label(singleLabel, "token")
+        elif retrieval_type == "exit":
+            driver.close()
