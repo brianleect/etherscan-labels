@@ -1,23 +1,23 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x56d811088235F11C8920698a204A5010a788f4b3,Kyber Networ...  (KNC),"$86,023,250.00",14850,https://kyber.network
-1,2,0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18,Bancor  (BNT),"$53,651,396.00",39245,https://bancor.network/
-2,3,0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202,Onyxcoin  (XCN),"$24,238,790.00",11227,https://onyx.org/
-3,4,0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c,bZx Protocol...  (BZRX),"$13,935,591.00",5192,https://bzx.network/
-4,5,0xf938424f7210f31df2aee3011291b658f872e91e,VISOR  (VISR),"$13,638,247.00",5956,https://www.visor.finance/
-5,6,0x4fa000df40c06fc8c7d9179661535846b7cd4f87,Ooki Token  (OOKI),"$10,151,272.00",2393,https://hello.ooki.com/
-6,7,0x84ba4aecfde39d69686a841bab434c32d179a169,KyberNetwork  (KNC),"$10,144,180.00",84770,https://kyber.network
-7,8,0xee9801669c6138e84bd50deb500827b776777d28,O3 Swap Toke...  (O3),"$1,488,977.00",5760,https://o3swap.com/
-8,9,0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,XRUNE Token  (XRUNE),"$494,543.00",8667,https://www.thorstarter.org/
-9,10,0xb24754be79281553dc1adc160ddf5cd9b74361a4,Method  (MTHD),"$62,578.00",1357,https://www.methodfi.co/
-10,11,0x99a3a5333b4eb80192149f9edd42d1d57ac591ee,PontoonToken  (TOON),"$28,143.00",312,https://pontoon.fi/
-11,12,0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4,BonFi  (BNF),"$13,899.00",2117,https://bon.finance/
-12,13,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,Team  (TEAM),$0.00,921,https://team.finance/
-13,14,0xd0345d30fd918d7682398acbcdf139c808998709,Liquidity.Ne...  (LQD),$0.00,2230,https://liquidity.network/
-14,15,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,ACoconut BTC  (acBTC),$0.00,9,https://acoconut.fi/
-15,16,0x1DE5e000C41C8d35b9f1f4985C23988f05831057,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
-16,17,0x0de05f6447ab4d22c8827449ee4ba2d5c288379b,Zenswap Netw...  (ZNT),$0.00,3168,http://www.zenswapnetwork.info/
-17,18,0xfce10cbf5171dc12c215bbcca5dd75cbaea72506,Rialto  (XRL),$0.00,2120,https://www.rialto.ai/
-18,19,0xef6e45af9a422c5469928f927ca04ed332322e2e,DSR Coin  (DSR),$0.00,19,https://project.quantaex.com/dsr/
-19,20,0x51bb7917efcad03ec8b1d37251a06cd56b0c4a72,Lixir Token  (LIX),$0.00,978,https://lixir.finance/
-20,21,0xb05AF453011d7ad68a92b0065FFD9d1277eD2741,Kyber Genesi...  (KGT),$0.00,39464,https://kyber.network
-21,22,0xaee433adebe0fbb88daa47ef0c1a513caa52ef02,COSS Exchang...  (CELT),$0.00,97,https://celtdao.com/
+0,1,0x56d811088235F11C8920698a204A5010a788f4b3,Kyber Networ...  (KNC),"$95,211,580.00",14885,https://kyber.network
+1,2,0x1DE5e000C41C8d35b9f1f4985C23988f05831057,Bancor  (BNT),"$58,882,254.00",39246,https://bancor.network/
+2,3,0x84ba4aecfde39d69686a841bab434c32d179a169,Onyxcoin  (XCN),"$32,501,401.00",11288,https://onyx.org/
+3,4,0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4,bZx Protocol...  (BZRX),"$15,683,397.00",5192,https://bzx.network/
+4,5,0xd0345d30fd918d7682398acbcdf139c808998709,VISOR  (VISR),"$13,638,247.00",5957,https://www.visor.finance/
+5,6,0xaee433adebe0fbb88daa47ef0c1a513caa52ef02,KyberNetwork  (KNC),"$11,225,981.00",84768,https://kyber.network
+6,7,0xb24754be79281553dc1adc160ddf5cd9b74361a4,Ooki Token  (OOKI),"$10,917,990.00",2406,https://hello.ooki.com/
+7,8,0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c,O3 Swap Toke...  (O3),"$1,660,445.00",5748,https://o3swap.com/
+8,9,0x4fa000df40c06fc8c7d9179661535846b7cd4f87,XRUNE Token  (XRUNE),"$544,612.00",8659,https://www.thorstarter.org/
+9,10,0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,Method  (MTHD),"$62,578.00",1357,https://www.methodfi.co/
+10,11,0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202,PontoonToken  (TOON),"$26,128.00",313,https://pontoon.fi/
+11,12,0x99a3a5333b4eb80192149f9edd42d1d57ac591ee,BonFi  (BNF),"$13,893.00",2106,https://bon.finance/
+12,13,0xb05AF453011d7ad68a92b0065FFD9d1277eD2741,Rialto  (XRL),$0.00,2120,https://www.rialto.ai/
+13,14,0xf938424f7210f31df2aee3011291b658f872e91e,DSR Coin  (DSR),$0.00,19,https://project.quantaex.com/dsr/
+14,15,0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18,Lixir Token  (LIX),$0.00,978,https://lixir.finance/
+15,16,0x0de05f6447ab4d22c8827449ee4ba2d5c288379b,Kyber Genesi...  (KGT),$0.00,39464,https://kyber.network
+16,17,0xef6e45af9a422c5469928f927ca04ed332322e2e,COSS Exchang...  (CELT),$0.00,97,https://celtdao.com/
+17,18,0xee9801669c6138e84bd50deb500827b776777d28,Team  (TEAM),$0.00,921,https://team.finance/
+18,19,0xfce10cbf5171dc12c215bbcca5dd75cbaea72506,Liquidity.Ne...  (LQD),$0.00,2231,https://liquidity.network/
+19,20,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,ACoconut BTC  (acBTC),$0.00,9,https://acoconut.fi/
+20,21,0xdd974d5c2e2928dea5f71b9825b8b646686bd200,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
+21,22,0x51bb7917efcad03ec8b1d37251a06cd56b0c4a72,Zenswap Netw...  (ZNT),$0.00,3168,http://www.zenswapnetwork.info/

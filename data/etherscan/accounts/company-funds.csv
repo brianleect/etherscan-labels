@@ -1,14 +1,14 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x534ea640f829f542ee439e76833b5002db4eda80,Geeq: Founders,0 ETH,0
-1,0xdfb0353d79cd338e294dec709e76dc4894c51572,Geeq: Marketing,0.3 ETH,32
+0,0x1a34e5b97d684b124e32bd3b7dc82736c216976b,Geeq: Founders,0 ETH,0
+1,0xbc0722eb6e8ba0217aeea5694fe4f214d2e53017,Geeq: Marketing,0.3 ETH,32
 2,0x4cc427be94c8df62b1f3a2a3cbff904fa80284e8,Geeq: Team,0.2 ETH,13
 3,0xd884aca1897ac45515cee6d5fd48f341b4023ace,Hegic: Development Fund,"22,003.10642076 ETH",151
-4,0x38ca50c6e3391a5bf73c2504bd9cd9c0b9d89053,MCDEX: Foundation,0 ETH,192
-5,0x1a34e5b97d684b124e32bd3b7dc82736c216976b,Origin: Distribution Staging,0 ETH,221
-6,0x2d00c3c132a0567bbbb45ffcfd8c6543e08ff626,Origin: Ecosystem Growth,0 ETH,9216
+4,0xa90c682f511b384706e592a8cad9121f1c17de86,MCDEX: Foundation,0 ETH,192
+5,0xdfb0353d79cd338e294dec709e76dc4894c51572,Origin: Distribution Staging,0 ETH,221
+6,0xcaa5ef7abc36d5e5a3e4d7930dcff3226617a167,Origin: Ecosystem Growth,0 ETH,9216
 7,0xe011fa2a6df98c69383457d87a056ed0103aa352,Origin: Multisig,0.00001 ETH,877
-8,0xbc0722eb6e8ba0217aeea5694fe4f214d2e53017,Origin: Partnerships,0.00720778 ETH,6
-9,0xcaa5ef7abc36d5e5a3e4d7930dcff3226617a167,Origin: Team Distribution,0.00005954 ETH,685
-10,0xbea52413e26c38b51cbcb0d3661a25f2097f8574,Sparkle Loyalty: Development Treasury,0.00820795 ETH,422
-11,0xa90c682f511b384706e592a8cad9121f1c17de86,Sparkle Loyalty: Treasury,0 ETH,7
-12,0x842f8f6fb524996d0b660621da895166e1cea691,XIO Labs: Foundation Fund,0.04791509 ETH,157
+8,0xbea52413e26c38b51cbcb0d3661a25f2097f8574,Origin: Partnerships,0.00720778 ETH,6
+9,0x534ea640f829f542ee439e76833b5002db4eda80,Origin: Team Distribution,0.00005954 ETH,685
+10,0x2d00c3c132a0567bbbb45ffcfd8c6543e08ff626,Sparkle Loyalty: Development Treasury,0.00820795 ETH,422
+11,0x842f8f6fb524996d0b660621da895166e1cea691,Sparkle Loyalty: Treasury,0 ETH,7
+12,0x38ca50c6e3391a5bf73c2504bd9cd9c0b9d89053,XIO Labs: Foundation Fund,0.04791509 ETH,157

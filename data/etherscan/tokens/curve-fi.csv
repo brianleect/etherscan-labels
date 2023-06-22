@@ -1,10 +1,10 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8,Curve.fi cDA...  (cDAI+c...),$0.00,236,https://www.curve.fi/
+0,1,0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3,Curve.fi cDA...  (cDAI+c...),$0.00,234,https://www.curve.fi/
 1,2,0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23,Curve.fi DAI...  (ypaxCr...),$0.00,52,https://www.curve.fi/
-2,3,0x3b3ac5386837dc563660fb6a0937dfaa5924333b,Curve DAO To...  (CRV),$0.00,78544,https://www.curve.fi/
-3,4,0x845838df265dcd2c412a1dc9e959c7d08537f8a2,Curve.fi cDA...  (cDAI+c...),$0.00,102,https://www.curve.fi/
-4,5,0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3,Curve.fi yDA...  (yDAI+y...),$0.00,236,https://www.curve.fi/
-5,6,0xD533a949740bb3306d119CC777fa900bA034cd52,Curve.fi ren...  (crvRen...),$0.00,226,https://www.curve.fi/
-6,7,0xC25a3A3b969415c80451098fa907EC722572917F,Curve.fi yDA...  (yDAI+y...),$0.00,4211,https://www.curve.fi/
-7,8,0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8,Curve.fi DAI...  (crvPla...),$0.00,1376,https://www.curve.fi/
-8,9,0x49849C98ae39Fff122806C06791Fa73784FB3675,Curve.fi ren...  (crvRen...),$0.00,407,https://www.curve.fi/
+2,3,0xD533a949740bb3306d119CC777fa900bA034cd52,Curve DAO To...  (CRV),$0.00,78794,https://www.curve.fi/
+3,4,0x49849C98ae39Fff122806C06791Fa73784FB3675,Curve.fi cDA...  (cDAI+c...),$0.00,102,https://www.curve.fi/
+4,5,0x845838df265dcd2c412a1dc9e959c7d08537f8a2,Curve.fi yDA...  (yDAI+y...),$0.00,236,https://www.curve.fi/
+5,6,0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8,Curve.fi ren...  (crvRen...),$0.00,225,https://www.curve.fi/
+6,7,0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8,Curve.fi yDA...  (yDAI+y...),$0.00,4212,https://www.curve.fi/
+7,8,0xC25a3A3b969415c80451098fa907EC722572917F,Curve.fi DAI...  (crvPla...),$0.00,1375,https://www.curve.fi/
+8,9,0x3b3ac5386837dc563660fb6a0937dfaa5924333b,Curve.fi ren...  (crvRen...),$0.00,406,https://www.curve.fi/

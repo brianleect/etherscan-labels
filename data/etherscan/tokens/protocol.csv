@@ -1,135 +1,135 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18,Rocket Pool ...  (rETH),"$797,031,956.00",14273,https://www.rocketpool.net/
-1,2,0x593114f03a0a575aece9ed675e52ed68d2172b8c,LoopringCoin...  (LRC),"$262,718,422.00",167008,https://loopring.org/
-2,3,0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c,BandToken  (BAND),"$134,406,366.00",34091,https://bandprotocol.com/
-3,4,0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8,Bifrost  (BFC),"$57,140,192.00",3560,https://thebifrost.io/
-4,5,0xaeeb517e65501bcd72399d639a5d993661efeb68,Marlin POND  (POND),"$56,734,986.00",9402,https://www.marlin.pro/
-5,6,0x47b28f365bf4cb38db4b6356864bde7bc4b35129,Mai Stableco...  (MAI),"$41,699,286.00",173,http://mai.finance/
-6,7,0x9b99cca871be05119b2012fd4474731dd653febe,ELA on Ether...  (ELA),"$28,604,946.00",811,https://www.elastos.org/
-7,8,0xb1bbdedd6671fcadf6229e336445a4123056ebeb,Onyxcoin  (XCN),"$23,949,600.00",11226,https://onyx.org/
-8,9,0x3dbb00c9be5a327e25caf4f650844c5dba81e34b,Ultiledger  (ULT),"$16,894,394.00",10227,https://www.ultiledger.io/
-9,10,0xa5a2Af22EAc6f050227d844B108c2B2A011FD329,XEN Crypto  (XEN),"$15,715,294.00",88575,https://xen.network
-10,11,0xd81b1a8b1ad00baa2d6609e0bae28a38713872f7,NUM Token  (NUM),"$14,051,436.00",965,https://www.numbersprotocol.io/
-11,12,0x0bf6261297198D91D4FA460242C69232146A5703,Dock  (DOCK),"$12,196,809.00",28168,https://dock.io/
-12,13,0x3496b523e5c00a4b4150d6721320cddb234c3079,UTN-P: Unive...  (UTNP),"$11,749,146.00",12242,https://universablockchain.com/
-13,14,0xb736bA66aAd83ADb2322D1f199Bfa32B3962f13C,Sperax  (SPA),"$9,880,343.00",10269,https://sperax.io/
-14,15,0x7b69d465c0f9fb22affae56aa86149973e9b0966,DSLA  (DSLA),"$7,126,760.00",9417,https://stacktical.com/
-15,16,0xb1f136a74e18E4E2921feBbf25820d1Bb65B5647,QuadrantProt...  (eQUAD),"$6,705,587.00",3828,https://www.quadrantprotocol.com/
-16,17,0xf5cb350b40726b5bcf170d12e162b6193b291b41,ANGLE  (ANGLE),"$6,385,266.00",3022,https://app.angle.money/#/
-17,18,0xf90250932472961dc80a0a0654a074d3e37188bb,Gearbox  (GEAR),"$4,738,680.00",5222,https://gearbox.fi/
-18,19,0x469E66e06fEc34839E5eB1273ba85A119B8D702F,Xi Token  (XI),"$4,220,335.00",3651,https://www.xiprotocol.io/
-19,20,0xe6fd75ff38Adca4B97FBCD938c86b98772431867,Cardstack  (CARD),"$4,164,555.00",6449,https://cardstack.com/overview
-20,21,0xd528cf2e081f72908e086f8800977df826b5a483,Paribus  (PBX),"$4,159,692.00",3763,https://paribus.io/
-21,22,0xba3335588d9403515223f109edc4eb7269a9ab5d,FOAM Token  (FOAM),"$3,693,492.00",3479,https://foam.space/
-22,23,0x2602278ee1882889b946eb11dc0e810075650983,NONbeta  (NON),"$2,098,238.00",1652,https://nonnation.xyz
-23,24,0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008,BlackPool To...  (BPT),"$1,856,543.00",3568,https://blackpool.finance/
-24,25,0x8Dbd43048e60e3c9a602de7F5f1F1c8A9C6Ffee1,PoolTogether  (POOL),"$1,848,008.00",8599,https://pooltogether.com/
-25,26,0x5bba9fc8cad4c6ccc0e9807a50247d86ff3bbdce,StackOS  (STACK),"$1,610,570.00",1725,https://www.stackos.io/
-26,27,0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6,BTC 2x Flexi...  (BTC2x-...),"$1,479,105.00",779,https://www.tokensets.com/portfolio/btcfli
-27,28,0x295b42684f90c77da7ea46336001010f2791ec8c,Antimatter.F...  (MATTER),"$1,174,235.00",5340,https://antimatter.finance/
-28,29,0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db,Enigma  (ENG),"$785,191.00",10930,https://enigma.co/
-29,30,0xCcDb064a41AFcD432BCEa6F6d0D1E7c371d0B002,Build Token  (BUILD),"$595,297.00",42,radioshack.org
-30,31,0xd6236b5f79253bc7d409746d52bba01d288c252b,Wrapped BIS  (wBIS),"$562,280.00",58,https://bismuth.finance/
-31,32,0x57b59f981730c6257dF57cF6F0D98283749A9Eeb,VegaWallet  (VGW),"$552,984.00",395,https://vegawallet.com/
-32,33,0x6f0f28ceee6ae686ee0f939375674c01b156365a,XRUNE Token  (XRUNE),"$492,786.00",8667,https://www.thorstarter.org/
-33,34,0x91bf381b418774f67b9af42c93b0d2a3aed74bd8,Decentr  (DEC),"$454,387.00",7298,https://decentr.net/
-34,35,0x3700adfd26d5bc062cb8b8a77e68fbd43f58ecab,YEL Token  (YEL),"$452,558.00",1453,https://yel.finance/
-35,36,0x332e824e46fceeb9e59ba9491b80d3e6d42b0b59,Reserve  (RSV),"$425,198.00",462,https://reserve.org/
-36,37,0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda,Hundred Fina...  (HND),"$399,207.00",759,https://hundred.finance
-37,38,0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4,Hydro Protoc...  (HOT),"$290,467.00",26364,https://hydroprotocol.io/
-38,39,0x8861cff2366c1128fd699b68304ad99a0764ef9a,Qrolli  (QR),"$249,921.00",616,https://qrolli.com/
-39,40,0x0b498ff89709d3838a063f1dfa463091f9801c2b,AGA Token  (AGA),"$169,199.00",818,https://agatoken.com/
-40,41,0x5e51f6841d2f188c42c7c33a6a5e77fb05cfbabe,AppCoins  (APPC),"$165,142.00",11115,https://appcoins.io/
-41,42,0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20,iDeFiYieldPr...  (iDYP),"$157,836.00",186,https://dypius.com/
-42,43,0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3,Vader  (VADER),"$133,782.00",5905,https://www.vaderprotocol.org/
-43,44,0x3e1d5a855ad9d948373ae68e4fe1f094612b1322,LunaFi  (LFI),"$110,373.00",3,https://lunafi.io/
-44,45,0x10010078a54396F62c96dF8532dc2B4847d47ED3,FLUX  (FLUX),"$106,973.00",818,https://datamine.network/
-45,46,0xe5dada80aa6477e85d09747f2842f7993d0df71c,Shack Token  (SHACK),"$102,249.00",21,https://radioshack.org/
-46,47,0x536381a8628dbcc8c70ac9a30a7258442eab4c92,FNB Token  (FNB),"$69,537.00",1995,https://fnbprotocol.io/fnb/index_eng.php
-47,48,0x83984d6142934bb535793a82adb0a46ef0f66b6d,REMME  (REM),"$65,828.00",5117,https://www.remme.io/
-48,49,0x06D5cA7C9accd15a87d4993A421B7e702BDBaB20,Zerogoki Tok...  (REI),"$58,505.00",438,https://zerogoki.org
-49,50,0xbddab785b306bcd9fb056da189615cc8ece1d823,Ebakus  (EBK),"$52,438.00",400762,https://www.ebakus.com/
-50,51,0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4,Sharder  (SS),"$36,323.00",4753,https://sharder.org/
-51,52,0x954b890704693af242613edef1b603825afcd708,Bridge Proto...  (BRDG),"$34,200.00",569,http://www.bridgeprotocol.io/
-52,53,0xbbeca80a4c99c3b1bd3c10e64595d0fc7dc26ee0,Covalent Tok...  (COVA),"$30,500.00",32109,https://covalent.ai/
-53,54,0xbbbbca6a901c926f240b89eacb641d8aec7aeafd,CompliFi  (COMFI),"$14,929.00",842,https://compli.fi/
-54,55,0x00A7EC2F2b451cb0233E8aDbf4C9a951027C2B02,HyperQuant T...  (HQT),"$5,529.00",7039,https://hyperquant.net/en
-55,56,0x57b946008913b82e4df85f501cbaed910e58d26c,Sins  (SIN),"$2,182.00",913,https://sins.finance/
-56,57,0xe884cc2795b9c45beeac0607da9539fd571ccf85,TOPP  (TOPP),$0.00,1,https://toprotocol.com/
-57,58,0x3774e825d567125988fb293e926064b6faa71dab,hiMAYC  (hiMAYC),$0.00,23,https://www.fracton.cool/
-58,59,0xbd100d061e120b2c67a24453cf6368e63f1be056,Elena Protoc...  (ELENA),$0.00,230,https://app.elena.finance/
-59,60,0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe,Degov  (DEGOV),$0.00,238,https://debaseonomics.io/
-60,61,0x752Efadc0a7E05ad1BCCcDA22c141D01a75EF1e4,CyberCrowd P...  (CCP),$0.00,2138,https://www.cybercrowd.org/
-61,62,0xea3Fb6f331735252E7Bfb0b24b3B761301293DBe,Gopher Token  (GOP),$0.00,187,https://gopherfoundation.io/
-62,63,0x0cec1a9154ff802e7934fc916ed7ca50bde6844e,X7 Protocol  (X7),$0.00,106,https://linktr.ee/x7_protocol
-63,64,0x19c9872640ec38c2cf36c0f04d1365ef067869b3,hiPUNKS  (hiPUNK...),$0.00,61,https://www.fracton.cool/
-64,65,0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c,BidiPass  (BDP),$0.00,680,https://bidipass.org/
-65,66,0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9,ETH RSI 60/4...  (ETHRSI...),$0.00,369,https://www.tokensets.com/set/ethrsi6040
-66,67,0xee1edd77f16b7867e026a4d32ef45dac852da61f,swETH  (swETH),$0.00,5711,https://www.swellnetwork.io/
-67,68,0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2,GoldMint Sha...  (SGLDM),$0.00,142,https://goldmint.finance/
-68,69,0x70861e862e1ac0c96f853c8231826e469ead37b1,MoonRabbit  (AAA),$0.00,7100,https://moonrabbit.com/
-69,70,0x9af839687f6c94542ac5ece2e317daae355493a1,Vader USD  (USDV),$0.00,52,https://www.vaderprotocol.org/
-70,71,0xb70f8a3029cf10fd9e4a072a280484691ac4296a,Libera  (LIB),$0.00,454,https://libera.finance/
-71,72,0x93e01899c10532d76c0e864537a1d26433dbbddb,British Poun...  (GBP),$0.00,2,https://narfex.com/
-72,73,0xa88842ae47dbe87116cf7001dddd1b246fcd8262,Indonesian R...  (IDR),$0.00,4,https://narfex.com/
-73,74,0xe7d324B2677440608fb871981B220ECa062c3FbF,CheeseFry  (CHEESE),$0.00,423,https://chfry.finance/
-74,75,0xf951E335afb289353dc249e82926178EaC7DEd78,BMJ Master N...  (BMJ),$0.00,8111,http://www.bmjcoin.com/
-75,76,0x7645ddfeeceda57e41f92679c4acd83c56a81d14,bXIOT Token  (bXIOT),$0.00,421,https://xiotri.io/
-76,77,0x5b9348e7d9d6c1c8044108955e60cf732a3fbbeb,INTDESTCOIN  (INTD),$0.00,1,https://intdestcoin.com/
-77,78,0x011864d37035439e078d64630777ec518138af05,BullSwapToke...  (BVL),$0.00,194,https://bullswap.org/
-78,79,0x5913D0F34615923552ee913DBe809F9F348e706E,StaFi rMATIC  (rMATIC),$0.00,10,https://stafi.io/
-79,80,0xE61776305003d700FBC8318da97806032a3b08ED,BlackHole.BL...  (BLACK),$0.00,509,https://blackhole.black
-80,81,0x8c6bf16c273636523c29db7db04396143770f6a0,Luck Ball Co...  (LBC),$0.00,210,https://humbleluckball.com/
-81,82,0xbbff862d906e348e9946bfb2132ecb157da3d4b4,PoolTogether...  (PcUSDC),$0.00,1278,https://pooltogether.com/
-82,83,0xba11d00c5f74255f56a5e366f4f77f5a186d7f55,SaveTheMoon....  (MOONs),$0.00,61,https://savethemoon.io/
-83,84,0xb37a769b37224449d92aac57de379e1267cd3b00,Pantos Token  (PAN),$0.00,988,https://pantos.io/
-84,85,0x31429d1856ad1377a8a0079410b297e1a9e214c2,Cyclone Prot...  (CYC),$0.00,171,https://cyclone.xyz/
-85,86,0x94236591125e935f5ac128bb3d5062944c24958c,hiENS4  (hiENS4),$0.00,34,https://www.fracton.cool/
-86,87,0x196f4727526eA7FB1e17b2071B3d8eAA38486988,hiMEEBITS  (hiMEEB...),$0.00,29,https://www.fracton.cool/
-87,88,0x5624e3a00ddfc29765b4e164cd0dc38bff0fc3a6,Tunnel  (TNI),$0.00,195,https://tunnelprotocol.io/
-88,89,0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355,Flux Protoco...  (FLUX),$0.00,90,https://flux.01.finance
-89,90,0x7815bda662050d84718b988735218cffd32f75ea,Strike USDC  (sUSDC),$0.00,30,https://strike.org/
-90,91,0x6100dd79fcaa88420750dcee3f735d168abcb771,X7m105  (X7m105),$0.00,175,https://x7.finance/
-91,92,0x4946fcea7c692606e8908002e55a582af44ac121,DOS Network ...  (DOS),$0.00,3381,https://dos.network/
-92,93,0xae78736cd615f374d3085123a210448e74fc6393,NXTSCORE  (NXTX),$0.00,71,https://nxtscore.com/
-93,94,0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da,hiENS3  (hiENS3),$0.00,26,https://www.fracton.cool/
-94,95,0x5f018e73C185aB23647c82bD039e762813877f0e,hiDOODLES  (hiDOOD...),$0.00,76,https://www.fracton.cool/
-95,96,0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7,Oath Protoco...  (OATH),$0.00,671,https://www.oathprotocol.com/
-96,97,0xB33440566865F4433e28f90f61f0A8ec334B761E,CREDITCOIN  (CCOIN),$0.00,10215,https://cointoken.io/
-97,98,0x33DaD834eca1290A330C4C4634bC3b64a0197120,Asymetrix Go...  (ASX),$0.00,94,https://asymetrix.io/
-98,99,0x67d85a291fcdc862a78812a3c26d55e28ffb2701,Protocol Fin...  (PFI),$0.00,699,https://www.protocolfinance.com/
-99,100,0xc28e931814725bbeb9e670676fabbcb694fe7df2,GoldMint  (GLDM),$0.00,83,https://goldmint.finance/
-100,101,0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9,Doge Protoco...  (dogep),$0.00,1004,https://dogeprotocol.org/
-101,102,0x179b734d0291fa9e3a4728c7c27866ee25ccc3e0,Ukrainian Hr...  (UAH),$0.00,2,https://narfex.com/
-102,103,0x8861cff2366c1128fd699b68304ad99a0764ef9a,Standard  (xMARK),$0.00,228,https://benchmarkprotocol.finance/
-103,104,0x83031984B45553070a088273f341BfF7fB4f2F46,Euro on Narf...  (EUR),$0.00,1,https://narfex.com/
-104,105,0x603778e5e07e180e300bd10df7fa626313a206b2,Paladin stkA...  (palStk...),$0.00,73,http://paladin.vote
-105,106,0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593,Canadian Dol...  (CAD),$0.00,1,https://narfex.com/
-106,107,0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52,StaFi  (rETH),$0.00,456,https://stafi.io/
-107,108,0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb,TENA  (TENA),$0.00,59,https://tenaprotocol.io/
-108,109,0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355,BMJ Master N...  (BMJ),$0.00,8111,http://www.bmjcoin.com/
-109,110,0xd81b1a8b1ad00baa2d6609e0bae28a38713872f7,Ink Protocol  (XNK),$0.00,11928,https://paywithink.com/
-110,111,0x26f80c0107070a8522ecdfae3a201719b1afd4f8,bXIOT Token  (bXIOT),$0.00,421,https://xiotri.io/
-111,112,0x1f832091faf289ed4f50fe7418cfbd2611225d46,hiBAYC  (hiBAYC),$0.00,161,https://www.fracton.cool/
-112,113,0xe7eaec9bca79d537539c00c58ae93117fb7280b9,BullSwapToke...  (BVL),$0.00,194,https://bullswap.org/
-113,114,0x5e11e947e69e8e6267e28c3db9425acd3aa4b489,Wrapped 4-Di...  (ENS4),$0.00,-,https://www.fracton.cool/
-114,115,0xb1f136a74e18E4E2921feBbf25820d1Bb65B5647,Mask  (MASK),$0.00,288,https://nftx.org/#/
-115,116,0xcd1cb16a67937ff8af5d726e2681010ce1e9891a,PoolTogether...  (PcUSDC),$0.00,1278,https://pooltogether.com/
-116,117,0x9cea2ed9e47059260c97d697f82b8a14efa61ea5,X7DAO  (X7DAO),$0.00,72,https://linktr.ee/x7_protocol
-117,118,0x7105AA393b9cF9b2497b460837313EA3dBA67Da0,USDM  (USDM),$0.00,164,https://mochi.fi/
-118,119,0xe68fb107710c59154ea15d5e0221d37bcda5c1fc,WeFi  (WEFI),$0.00,1,https://wefi.xyz/
-119,120,0xf50550d04B608004a0dc7AF6DC614dE4944a285B,WIZ  (WIZ),$0.00,475,https://wiz-protocol.com/
-120,121,0x086b00cf35e8873636384cd2b424c39ae875a8a9,Cyclone Prot...  (CYC),$0.00,171,https://cyclone.xyz/
-121,122,0xe7d324B2677440608fb871981B220ECa062c3FbF,Generation  (GEN),$0.00,397,https://gen.foundation/
-122,123,0xffa188493c15dfaf2c206c97d8633377847b6a52,Gopher Token  (GOP),$0.00,187,https://gopherfoundation.io/
-123,124,0xbc86727e770de68b1060c91f6bb6945c73e10388,ThemisToken  (MIS),$0.00,3330,https://themisoracle.com/
-124,125,0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f,Shinarium  (SHINAR...),$0.00,237,https://shinarium.org
-125,126,0x4f272815fb641082b0291025016aebebbc6cf0d7,GoldMint Sha...  (SGLDM),$0.00,142,https://goldmint.finance/
-126,127,0x3095c04ca3c9c78cd0f9ea2a3fa0511998585df9,Russian Rubl...  (RUB),$0.00,28,https://narfex.com/
-127,128,0xd6236b5f79253bc7d409746d52bba01d288c252b,United State...  (USD),$0.00,3,https://narfex.com/
-128,129,0xB7bB4B08995b96Bb5E577c5B02A237a6c625c172,Punk  (PUNK),$0.00,193,https://nftx.org/
-129,130,0x24e79e946dea5482212c38aab2d0782f04cdb0e0,hiMAYC  (hiMAYC),$0.00,23,https://www.fracton.cool/
-130,131,0x7099f572f039e44acc2d8e4e024fb5507bcfe252,Duet Governa...  (DUET),$0.00,22,https://www.duet.finance/
-131,132,0x5913D0F34615923552ee913DBe809F9F348e706E,hiPUNKS  (hiPUNK...),$0.00,61,https://www.fracton.cool/
-132,133,0xE61776305003d700FBC8318da97806032a3b08ED,LockToken  (LOCK),$0.00,155,https://www.keykey.fi/
-133,134,0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda,NToken0001  (N0001),$0.00,193,https://www.nestprotocol.org
+0,1,0xb1f136a74e18E4E2921feBbf25820d1Bb65B5647,Rocket Pool ...  (rETH),"$917,503,842.00",14567,https://www.rocketpool.net/
+1,2,0xe884cc2795b9c45beeac0607da9539fd571ccf85,LoopringCoin...  (LRC),"$286,868,396.00",167217,https://loopring.org/
+2,3,0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9,BandToken  (BAND),"$154,233,666.00",34138,https://bandprotocol.com/
+3,4,0x3095c04ca3c9c78cd0f9ea2a3fa0511998585df9,Marlin POND  (POND),"$61,824,194.00",9511,https://www.marlin.pro/
+4,5,0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4,Bifrost  (BFC),"$61,445,941.00",3557,https://thebifrost.io/
+5,6,0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6,Mai Stableco...  (MAI),"$42,155,141.00",175,http://mai.finance/
+6,7,0x9cea2ed9e47059260c97d697f82b8a14efa61ea5,Onyxcoin  (XCN),"$32,809,601.00",11285,https://onyx.org/
+7,8,0xae78736cd615f374d3085123a210448e74fc6393,ELA on Ether...  (ELA),"$31,405,141.00",818,https://www.elastos.org/
+8,9,0x0cec1a9154ff802e7934fc916ed7ca50bde6844e,XEN Crypto  (XEN),"$19,176,229.00",89135,https://xen.network
+9,10,0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355,Ultiledger  (ULT),"$16,894,394.00",10227,https://www.ultiledger.io/
+10,11,0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8,NUM Token  (NUM),"$14,468,496.00",979,https://www.numbersprotocol.io/
+11,12,0xea3Fb6f331735252E7Bfb0b24b3B761301293DBe,Dock  (DOCK),"$13,557,960.00",28166,https://dock.io/
+12,13,0x83031984B45553070a088273f341BfF7fB4f2F46,UTN-P: Unive...  (UTNP),"$11,749,146.00",12242,https://universablockchain.com/
+13,14,0x19c9872640ec38c2cf36c0f04d1365ef067869b3,Sperax  (SPA),"$10,017,200.00",10266,https://sperax.io/
+14,15,0xba11d00c5f74255f56a5e366f4f77f5a186d7f55,DSLA  (DSLA),"$8,437,329.00",9420,https://stacktical.com/
+15,16,0x011864d37035439e078d64630777ec518138af05,QuadrantProt...  (eQUAD),"$7,249,389.00",3830,https://www.quadrantprotocol.com/
+16,17,0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18,ANGLE  (ANGLE),"$6,522,630.00",3044,https://app.angle.money/#/
+17,18,0x5e51f6841d2f188c42c7c33a6a5e77fb05cfbabe,Gearbox  (GEAR),"$5,030,361.00",5226,https://gearbox.fi/
+18,19,0xbd100d061e120b2c67a24453cf6368e63f1be056,Paribus  (PBX),"$4,788,953.00",3761,https://paribus.io/
+19,20,0xffa188493c15dfaf2c206c97d8633377847b6a52,Cardstack  (CARD),"$4,629,888.00",6451,https://cardstack.com/overview
+20,21,0x3e1d5a855ad9d948373ae68e4fe1f094612b1322,Xi Token  (XI),"$4,082,005.00",3648,https://www.xiprotocol.io/
+21,22,0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f,FOAM Token  (FOAM),"$3,408,434.00",3484,https://foam.space/
+22,23,0x6f0f28ceee6ae686ee0f939375674c01b156365a,NONbeta  (NON),"$2,370,405.00",1651,https://nonnation.xyz
+23,24,0x94236591125e935f5ac128bb3d5062944c24958c,BlackPool To...  (BPT),"$2,214,301.00",3570,https://blackpool.finance/
+24,25,0x26f80c0107070a8522ecdfae3a201719b1afd4f8,PoolTogether  (POOL),"$2,161,456.00",8590,https://pooltogether.com/
+25,26,0x295b42684f90c77da7ea46336001010f2791ec8c,BTC 2x Flexi...  (BTC2x-...),"$2,040,331.00",787,https://www.tokensets.com/portfolio/btcfli
+26,27,0x2602278ee1882889b946eb11dc0e810075650983,Build Token  (BUILD),"$1,868,669.00",42,radioshack.org
+27,28,0x179b734d0291fa9e3a4728c7c27866ee25ccc3e0,StackOS  (STACK),"$1,801,652.00",1726,https://www.stackos.io/
+28,29,0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4,Antimatter.F...  (MATTER),"$1,286,376.00",5362,https://antimatter.finance/
+29,30,0xc28e931814725bbeb9e670676fabbcb694fe7df2,Enigma  (ENG),"$880,179.00",10933,https://enigma.co/
+30,31,0x536381a8628dbcc8c70ac9a30a7258442eab4c92,VegaWallet  (VGW),"$552,984.00",395,https://vegawallet.com/
+31,32,0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c,XRUNE Token  (XRUNE),"$549,366.00",8659,https://www.thorstarter.org/
+32,33,0x593114f03a0a575aece9ed675e52ed68d2172b8c,YEL Token  (YEL),"$498,419.00",1452,https://yel.finance/
+33,34,0x954b890704693af242613edef1b603825afcd708,Decentr  (DEC),"$469,297.00",7297,https://decentr.net/
+34,35,0x10010078a54396F62c96dF8532dc2B4847d47ED3,Wrapped BIS  (wBIS),"$460,046.00",57,https://bismuth.finance/
+35,36,0x4946fcea7c692606e8908002e55a582af44ac121,Hundred Fina...  (HND),"$459,695.00",759,https://hundred.finance
+36,37,0x4f272815fb641082b0291025016aebebbc6cf0d7,Reserve  (RSV),"$428,943.00",462,https://reserve.org/
+37,38,0xe6fd75ff38Adca4B97FBCD938c86b98772431867,Hydro Protoc...  (HOT),"$290,467.00",26366,https://hydroprotocol.io/
+38,39,0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da,Qrolli  (QR),"$255,932.00",612,https://qrolli.com/
+39,40,0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008,AppCoins  (APPC),"$192,528.00",11128,https://appcoins.io/
+40,41,0xB33440566865F4433e28f90f61f0A8ec334B761E,AGA Token  (AGA),"$191,728.00",818,https://agatoken.com/
+41,42,0x469E66e06fEc34839E5eB1273ba85A119B8D702F,iDeFiYieldPr...  (iDYP),"$169,680.00",187,https://dypius.com/
+42,43,0x9b99cca871be05119b2012fd4474731dd653febe,Vader  (VADER),"$141,564.00",5915,https://www.vaderprotocol.org/
+43,44,0x7099f572f039e44acc2d8e4e024fb5507bcfe252,LunaFi  (LFI),"$121,731.00",3,https://lunafi.io/
+44,45,0x5f018e73C185aB23647c82bD039e762813877f0e,FLUX  (FLUX),"$114,797.00",818,https://datamine.network/
+45,46,0xCcDb064a41AFcD432BCEa6F6d0D1E7c371d0B002,Shack Token  (SHACK),"$114,126.00",21,https://radioshack.org/
+46,47,0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c,REMME  (REM),"$73,392.00",5118,https://www.remme.io/
+47,48,0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3,FNB Token  (FNB),"$67,498.00",1995,https://fnbprotocol.io/fnb/index_eng.php
+48,49,0x0b498ff89709d3838a063f1dfa463091f9801c2b,Zerogoki Tok...  (REI),"$58,505.00",438,https://zerogoki.org
+49,50,0x3700adfd26d5bc062cb8b8a77e68fbd43f58ecab,Ebakus  (EBK),"$52,438.00",400762,https://www.ebakus.com/
+50,51,0xb37a769b37224449d92aac57de379e1267cd3b00,Sharder  (SS),"$36,323.00",4754,https://sharder.org/
+51,52,0x603778e5e07e180e300bd10df7fa626313a206b2,Bridge Proto...  (BRDG),"$34,200.00",569,http://www.bridgeprotocol.io/
+52,53,0x57b59f981730c6257dF57cF6F0D98283749A9Eeb,Covalent Tok...  (COVA),"$30,500.00",32086,https://covalent.ai/
+53,54,0x57b946008913b82e4df85f501cbaed910e58d26c,CompliFi  (COMFI),"$14,929.00",842,https://compli.fi/
+54,55,0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593,HyperQuant T...  (HQT),"$5,529.00",7039,https://hyperquant.net/en
+55,56,0x31429d1856ad1377a8a0079410b297e1a9e214c2,Sins  (SIN),"$2,182.00",913,https://sins.finance/
+56,57,0xd528cf2e081f72908e086f8800977df826b5a483,TYR Protocol  (TYR),$0.00,94,https://tyrdegen.com/
+57,58,0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20,Ukrainian Hr...  (UAH),$0.00,2,https://narfex.com/
+58,59,0x8Dbd43048e60e3c9a602de7F5f1F1c8A9C6Ffee1,Mask  (MASK),$0.00,288,https://nftx.org/#/
+59,60,0x8861cff2366c1128fd699b68304ad99a0764ef9a,Asymetrix Go...  (ASX),$0.00,96,https://asymetrix.io/
+60,61,0x83984d6142934bb535793a82adb0a46ef0f66b6d,hiPUNKS  (hiPUNK...),$0.00,60,https://www.fracton.cool/
+61,62,0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db,BidiPass  (BDP),$0.00,680,https://bidipass.org/
+62,63,0xf50550d04B608004a0dc7AF6DC614dE4944a285B,PoolTogether...  (PcDAI),$0.00,3578,https://pooltogether.com/
+63,64,0x853A2f58C888cea0c57204645D21D3a2271e8f79,Euro on Narf...  (EUR),$0.00,1,https://narfex.com/
+64,65,0x334cbb5858417aee161b53ee0d5349ccf54514cf,Vader USD  (USDV),$0.00,52,https://www.vaderprotocol.org/
+65,66,0x752Efadc0a7E05ad1BCCcDA22c141D01a75EF1e4,Luck Ball Co...  (LBC),$0.00,210,https://humbleluckball.com/
+66,67,0x70861e862e1ac0c96f853c8231826e469ead37b1,Canadian Dol...  (CAD),$0.00,4,https://narfex.com/
+67,68,0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7,StaFi  (rETH),$0.00,459,https://stafi.io/
+68,69,0x67d85a291fcdc862a78812a3c26d55e28ffb2701,Libera  (LIB),$0.00,454,https://libera.finance/
+69,70,0x8c6bf16c273636523c29db7db04396143770f6a0,Elena Protoc...  (ELENA),$0.00,230,https://app.elena.finance/
+70,71,0xe68fb107710c59154ea15d5e0221d37bcda5c1fc,Flux Protoco...  (FLUX),$0.00,90,https://flux.01.finance
+71,72,0x9af839687f6c94542ac5ece2e317daae355493a1,hiBAYC  (hiBAYC),$0.00,162,https://www.fracton.cool/
+72,73,0xb736bA66aAd83ADb2322D1f199Bfa32B3962f13C,NXTSCORE  (NXTX),$0.00,71,https://nxtscore.com/
+73,74,0xcd1cb16a67937ff8af5d726e2681010ce1e9891a,Punk  (PUNK),$0.00,193,https://nftx.org/
+74,75,0xbbeca80a4c99c3b1bd3c10e64595d0fc7dc26ee0,Wrapped 4-Di...  (ENS4),$0.00,-,https://www.fracton.cool/
+75,76,0xbbbbca6a901c926f240b89eacb641d8aec7aeafd,GoldMint  (GLDM),$0.00,83,https://goldmint.finance/
+76,77,0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe,BMJ Master N...  (BMJ),$0.00,8111,http://www.bmjcoin.com/
+77,78,0x7815bda662050d84718b988735218cffd32f75ea,USDM  (USDM),$0.00,164,https://mochi.fi/
+78,79,0xf5cb350b40726b5bcf170d12e162b6193b291b41,X7DAO  (X7DAO),$0.00,72,https://linktr.ee/x7_protocol
+79,80,0xbbff862d906e348e9946bfb2132ecb157da3d4b4,Pantos Token  (PAN),$0.00,990,https://pantos.io/
+80,81,0xe7d324B2677440608fb871981B220ECa062c3FbF,bXIOT Token  (bXIOT),$0.00,421,https://xiotri.io/
+81,82,0x5b9348e7d9d6c1c8044108955e60cf732a3fbbeb,WIZ  (WIZ),$0.00,473,https://wiz-protocol.com/
+82,83,0x196f4727526eA7FB1e17b2071B3d8eAA38486988,Generation  (GEN),$0.00,397,https://gen.foundation/
+83,84,0xba3335588d9403515223f109edc4eb7269a9ab5d,hiMEEBITS  (hiMEEB...),$0.00,29,https://www.fracton.cool/
+84,85,0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5,BullSwapToke...  (BVL),$0.00,194,https://bullswap.org/
+85,86,0x7645ddfeeceda57e41f92679c4acd83c56a81d14,Shinarium  (SHINAR...),$0.00,236,https://shinarium.org
+86,87,0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9,WeFi  (WEFI),$0.00,1,https://wefi.xyz/
+87,88,0x5e11e947e69e8e6267e28c3db9425acd3aa4b489,DOS Network ...  (DOS),$0.00,3381,https://dos.network/
+88,89,0x91bf381b418774f67b9af42c93b0d2a3aed74bd8,Russian Rubl...  (RUB),$0.00,28,https://narfex.com/
+89,90,0x47b28f365bf4cb38db4b6356864bde7bc4b35129,Degov  (DEGOV),$0.00,238,https://debaseonomics.io/
+90,91,0xe8521b61f64fc45a0bc3db36d2a524fe61a69b52,ThemisToken  (MIS),$0.00,3330,https://themisoracle.com/
+91,92,0xee1edd77f16b7867e026a4d32ef45dac852da61f,hiDOODLES  (hiDOOD...),$0.00,78,https://www.fracton.cool/
+92,93,0xd81b1a8b1ad00baa2d6609e0bae28a38713872f7,Oath Protoco...  (OATH),$0.00,671,https://www.oathprotocol.com/
+93,94,0x7105AA393b9cF9b2497b460837313EA3dBA67Da0,PoolTogether...  (PcUSDC),$0.00,1273,https://pooltogether.com/
+94,95,0x6100dd79fcaa88420750dcee3f735d168abcb771,United State...  (USD),$0.00,3,https://narfex.com/
+95,96,0x5913D0F34615923552ee913DBe809F9F348e706E,Duet Governa...  (DUET),$0.00,22,https://www.duet.finance/
+96,97,0x3496b523e5c00a4b4150d6721320cddb234c3079,Decentralize...  (DBTC),$0.00,4986,https://dbtc.plus
+97,98,0x0bf6261297198D91D4FA460242C69232146A5703,CREDITCOIN  (CCOIN),$0.00,10215,https://cointoken.io/
+98,99,0xe5dada80aa6477e85d09747f2842f7993d0df71c,Cyclone Prot...  (CYC),$0.00,171,https://cyclone.xyz/
+99,100,0xbddab785b306bcd9fb056da189615cc8ece1d823,MoonRabbit  (AAA),$0.00,7099,https://moonrabbit.com/
+100,101,0x27b85f596feb14e4b5faa9671720a556a7608c69,Strike USDC  (sUSDC),$0.00,32,https://strike.org/
+101,102,0x603778e5e07e180e300bd10df7fa626313a206b2,swETH  (swETH),$0.00,5796,https://www.swellnetwork.io/
+102,103,0x3095c04ca3c9c78cd0f9ea2a3fa0511998585df9,LockToken  (LOCK),$0.00,155,https://www.keykey.fi/
+103,104,0x5b9348e7d9d6c1c8044108955e60cf732a3fbbeb,Standard  (xMARK),$0.00,228,https://benchmarkprotocol.finance/
+104,105,0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593,BlackHole.BL...  (BLACK),$0.00,510,https://blackhole.black
+105,106,0xB7bB4B08995b96Bb5E577c5B02A237a6c625c172,Protocol Fin...  (PFI),$0.00,699,https://www.protocolfinance.com/
+106,107,0xa92a861fc11b99b24296af880011b47f9cafb5ab,Ukrainian Hr...  (UAH),$0.00,2,https://narfex.com/
+107,108,0xcd9d4499dfDB7D02BF3A2a993d046089D79CA98F,Trustlines N...  (TLN),$0.00,647,https://trustlines.network/
+108,109,0x679131F591B4f369acB8cd8c51E68596806c3916,Gopher Token  (GOP),$0.00,187,https://gopherfoundation.io/
+109,110,0x7645ddfeeceda57e41f92679c4acd83c56a81d14,SaveTheMoon....  (MOONs),$0.00,61,https://savethemoon.io/
+110,111,0x3774e825d567125988fb293e926064b6faa71dab,Euro on Narf...  (EUR),$0.00,1,https://narfex.com/
+111,112,0x24e79e946dea5482212c38aab2d0782f04cdb0e0,Paladin stkA...  (palStk...),$0.00,74,http://paladin.vote
+112,113,0x635f15eb7aa2e62d122f6b1f9f519fdccf4abdda,GoldMint Sha...  (SGLDM),$0.00,142,https://goldmint.finance/
+113,114,0x31d4eb09a216e181ec8a43ce79226a487d6f0ba9,TENA  (TENA),$0.00,59,https://tenaprotocol.io/
+114,115,0x00A7EC2F2b451cb0233E8aDbf4C9a951027C2B02,hiENS4  (hiENS4),$0.00,35,https://www.fracton.cool/
+115,116,0xf951E335afb289353dc249e82926178EaC7DEd78,Canadian Dol...  (CAD),$0.00,4,https://narfex.com/
+116,117,0x5e11e947e69e8e6267e28c3db9425acd3aa4b489,PoolTogether...  (PcUNI),$0.00,506,https://pooltogether.com/
+117,118,0xa88842ae47dbe87116cf7001dddd1b246fcd8262,Ink Protocol  (XNK),$0.00,11928,https://paywithink.com/
+118,119,0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f,X7m105  (X7m105),$0.00,175,https://x7.finance/
+119,120,0xd714d91a169127e11d8fab3665d72e8b7ef9dbe2,StaFi  (rETH),$0.00,459,https://stafi.io/
+120,121,0xb1bbdedd6671fcadf6229e336445a4123056ebeb,PT Compound ...  (PCcCOM...),$0.00,220,https://pooltogether.com/
+121,122,0xd6236b5f79253bc7d409746d52bba01d288c252b,hiENS3  (hiENS3),$0.00,26,https://www.fracton.cool/
+122,123,0x06D5cA7C9accd15a87d4993A421B7e702BDBaB20,Mask  (MASK),$0.00,288,https://nftx.org/#/
+123,124,0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb,Luck Ball Co...  (LBC),$0.00,210,https://humbleluckball.com/
+124,125,0xE61776305003d700FBC8318da97806032a3b08ED,USDM  (USDM),$0.00,164,https://mochi.fi/
+125,126,0x4f272815fb641082b0291025016aebebbc6cf0d7,Asymetrix Go...  (ASX),$0.00,96,https://asymetrix.io/
+126,127,0xcE4934f9c75Ae6eF8D39179a50DAB716C484806d,WIZ  (WIZ),$0.00,473,https://wiz-protocol.com/
+127,128,0x7b69d465c0f9fb22affae56aa86149973e9b0966,TOPP  (TOPP),$0.00,1,https://toprotocol.com/
+128,129,0x67d85a291fcdc862a78812a3c26d55e28ffb2701,Centaur Dece...  (CXDT),$0.00,4,https://centaur.link/
+129,130,0x086b00cf35e8873636384cd2b424c39ae875a8a9,Shinarium  (SHINAR...),$0.00,236,https://shinarium.org
+130,131,0x7099f572f039e44acc2d8e4e024fb5507bcfe252,hiMAYC  (hiMAYC),$0.00,22,https://www.fracton.cool/
+131,132,0xe68fb107710c59154ea15d5e0221d37bcda5c1fc,Russian Rubl...  (RUB),$0.00,28,https://narfex.com/
+132,133,0xb70f8a3029cf10fd9e4a072a280484691ac4296a,Wrap Coin  (WRAP),$0.00,104,https://wrapprotocol.network/
+133,134,0xbc86727e770de68b1060c91f6bb6945c73e10388,Flux Protoco...  (FLUX),$0.00,90,https://flux.01.finance

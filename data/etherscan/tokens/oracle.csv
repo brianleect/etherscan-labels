@@ -1,28 +1,28 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xbb9fd9fa4863c03c574007ff3370787b9ce65ff6,ChainLink To...  (LINK),"$2,693,136,891.00",656997,https://chain.link/
-1,2,0xfaf9b1cbcaf4321ae834335c8ba50b170cf836e7,WINkLink  (WIN),"$68,410,334.00",1,https://winklink.org/
-2,3,0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54,Oraichain To...  (ORAI),"$14,350,165.00",9642,https://orai.io/
-3,4,0x892A6f9dF0147e5f079b0993F486F9acA3c87881,HAPI  (HAPI),"$5,779,901.00",5176,https://www.hapi.one/
-4,5,0x358AA737e033F34df7c54306960a38d09AaBd523,unification....  (xFUND),"$3,713,733.00",2067,https://www.unification.com/xfund
-5,6,0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5,Bridge  (BRG),"$3,487,665.00",25,https://bridge.link/
-6,7,0x188e817b02e635d482ae4d81e25dda98a97c4a42,Modefi  (MOD),"$2,910,389.00",6370,https://modefi.io/
-7,8,0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5,RAZOR  (RAZOR),"$1,599,256.00",6442,https://razor.network/
-8,9,0x9bde098be22658d057c3f1f185e3fd4653e2fbd1,Lithium  (LITH),"$1,484,275.00",3027,https://lith.finance/
-9,10,0x5ac99d6172247D5319c72B2c95E3B9D6fe9895d0,Ares Protoco...  (ARES),"$160,633.00",5753,http://aresprotocol.io/
-10,11,0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd,Zoracles  (ZORA),"$100,975.00",1425,https://zoracles.com/
-11,12,0x1b17dbb40fbed8735e7fe8c9eb02c20984fadfd6,CHARLI3  (C3),$0.00,12671,https://charli3.io
-12,13,0x000000000ca5171087c18fb271ca844a2370fc0a,Kylin Networ...  (KYL),$0.00,10,https://kylin.network/
-13,14,0xf1a91C7d44768070F711c68f33A7CA25c8D30268,Scry Protoco...  (SCRY),$0.00,2,https://dapp.scry.finance/
-14,15,0xea1ea0972fa092dd463f2968f9bb51cc4c981d71,Merkle Netwo...  (MERKLE),$0.00,1,https://merkle.network/
-15,16,0x63726dae7c57d25e90ec829ce9a5c745ffd984d3,Tellor Tribu...  (TRB),$0.00,8392,https://tellor.io/
-16,17,0x514910771af9ca656af840dff83e8264ecf986ca,KP2R.Network  (KP2R),$0.00,2690,https://kp2r.network/
-17,18,0x0000000000071821e8033345a7be174647be0706,Umbrella Rew...  (rUMB1),$0.00,1615,https://www.umb.network/
-18,19,0xcd1cb16a67937ff8af5d726e2681010ce1e9891a,Plenny  (PL2),$0.00,12,https://plenny.link/
-19,20,0x70861e862e1ac0c96f853c8231826e469ead37b1,DEOR  (DEOR),$0.00,1494,https://www.deor.io/
-20,21,0x56ee175fe37cd461486ce3c3166e0cafccd9843f,eWit  (EWIT),$0.00,124,https://witnet.io/
-21,22,0x4a5b3d0004454988c50e8de1bcfc921ee995ade3,HILO  (HILO),$0.00,1089,http://www.hilodapp.com/
-22,23,0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6,Wrapped Equi...  (wXEQ),$0.00,377,https://equilibria.network/
-23,24,0x1ecC405022bd8da169957B5DB4F1CE67b482E77a,DOS Network ...  (DOS),$0.00,3381,https://dos.network/
-24,25,0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3,EGEX  (EGEX),$0.00,97,https://egex.link/
-25,26,0xc9c4fd7579133701fa2769b6955e7e56bb386db1,ThemisToken  (MIS),$0.00,3330,https://themisoracle.com/
-26,27,0x4c11249814f11b9346808179cf06e71ac328c1b5,CyberTronCha...  (CTC),$0.00,10558,https://cybertronchain.com/
+0,1,0x358AA737e033F34df7c54306960a38d09AaBd523,ChainLink To...  (LINK),"$2,851,942,023.00",658331,https://chain.link/
+1,2,0x0000000000071821e8033345a7be174647be0706,WINkLink  (WIN),"$68,410,334.00",1,https://winklink.org/
+2,3,0x56ee175fe37cd461486ce3c3166e0cafccd9843f,Oraichain To...  (ORAI),"$16,481,862.00",9725,https://orai.io/
+3,4,0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd,HAPI  (HAPI),"$6,237,056.00",5187,https://www.hapi.one/
+4,5,0x892A6f9dF0147e5f079b0993F486F9acA3c87881,unification....  (xFUND),"$5,314,740.00",2080,https://www.unification.com/xfund
+5,6,0x188e817b02e635d482ae4d81e25dda98a97c4a42,Bridge  (BRG),"$3,683,588.00",25,https://bridge.link/
+6,7,0x1b17dbb40fbed8735e7fe8c9eb02c20984fadfd6,Modefi  (MOD),"$3,088,777.00",6365,https://modefi.io/
+7,8,0x4a5b3d0004454988c50e8de1bcfc921ee995ade3,RAZOR  (RAZOR),"$1,647,727.00",6444,https://razor.network/
+8,9,0x000000000ca5171087c18fb271ca844a2370fc0a,Lithium  (LITH),"$1,641,547.00",3036,https://lith.finance/
+9,10,0xfaf9b1cbcaf4321ae834335c8ba50b170cf836e7,Ares Protoco...  (ARES),"$185,663.00",5756,http://aresprotocol.io/
+10,11,0x1ecC405022bd8da169957B5DB4F1CE67b482E77a,Zoracles  (ZORA),"$114,482.00",1424,https://zoracles.com/
+11,12,0x9bde098be22658d057c3f1f185e3fd4653e2fbd1,Wrapped Equi...  (wXEQ),$0.00,377,https://equilibria.network/
+12,13,0x70861e862e1ac0c96f853c8231826e469ead37b1,eWit  (EWIT),$0.00,124,https://witnet.io/
+13,14,0x5ac99d6172247D5319c72B2c95E3B9D6fe9895d0,DOS Network ...  (DOS),$0.00,3381,https://dos.network/
+14,15,0x4c11249814f11b9346808179cf06e71ac328c1b5,EGEX  (EGEX),$0.00,97,https://egex.link/
+15,16,0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6,ThemisToken  (MIS),$0.00,3330,https://themisoracle.com/
+16,17,0xc9c4fd7579133701fa2769b6955e7e56bb386db1,HILO  (HILO),$0.00,1081,http://www.hilodapp.com/
+17,18,0x514910771af9ca656af840dff83e8264ecf986ca,Kylin Networ...  (KYL),$0.00,10,https://kylin.network/
+18,19,0xbb9fd9fa4863c03c574007ff3370787b9ce65ff6,Merkle Netwo...  (MERKLE),$0.00,1,https://merkle.network/
+19,20,0xf1a91C7d44768070F711c68f33A7CA25c8D30268,CyberTronCha...  (CTC),$0.00,10557,https://cybertronchain.com/
+20,21,0xea1ea0972fa092dd463f2968f9bb51cc4c981d71,Tellor Tribu...  (TRB),$0.00,8392,https://tellor.io/
+21,22,0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5,KP2R.Network  (KP2R),$0.00,2690,https://kp2r.network/
+22,23,0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54,CHARLI3  (C3),$0.00,12671,https://charli3.io
+23,24,0x63726dae7c57d25e90ec829ce9a5c745ffd984d3,Scry Protoco...  (SCRY),$0.00,2,https://dapp.scry.finance/
+24,25,0xcd1cb16a67937ff8af5d726e2681010ce1e9891a,Umbrella Rew...  (rUMB1),$0.00,1616,https://www.umb.network/
+25,26,0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3,DEOR  (DEOR),$0.00,1493,https://www.deor.io/
+26,27,0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5,Plenny  (PL2),$0.00,12,https://plenny.link/

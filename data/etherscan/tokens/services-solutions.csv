@@ -1,94 +1,94 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xbfc43a35b3ae8f7463c5ac88a0c46107cfce6f67,Aergo  (AERGO),"$38,616,837.00",5416,https://www.aergo.io/
-1,2,0x2e566Bb9E0d44dDCb1e33f1d237eC878D94fb18C,Onbuff Token  (ONIT),"$21,073,361.00",684,http://onbuff.com/
-2,3,0x2503ae96f7b433175b3b545dd97f8330b501daf6,Nuls  (NULS),"$19,224,866.00",77,https://www.nuls.io/
-3,4,0x44001A5656BaAFa5A3359cEd8fa38e150A71Eea2,Wrapped BUY ...  (WBUY),"$11,928,208.00",1340,https://buying.com/
-4,5,0xb8a58e3fd883b0230f4b47c4319e68cb7bb22339,Cellframe To...  (CELL),"$4,390,476.00",9318,https://cellframe.net/
-5,6,0x75de7792ce8225b9fb6ffce212e214f3b6886b3b,Morpheus Inf...  (MITx),"$2,836,211.00",112611,https://token.morpheuslabs.io/
-6,7,0x4267205223256b8a5339cdb65fddef3355e2c32e,Stobox Token...  (STBU),"$2,364,389.00",373,http://www.stobox.io/
-7,8,0xa5959e9412d27041194c3c3bcbe855face2864f7,Ziktalk  (ZIK),"$1,955,720.00",462,https://ziktalk.com/
-8,9,0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94,CheckDot  (CDT),"$1,343,629.00",340,https://checkdot.io
-9,10,0xa6422e3e219ee6d4c1b18895275fe43556fd50ed,CoinUs  (CNUS),"$1,217,180.00",4368,https://coinus.io/
-10,11,0x86642d169dB9F57A02C65052049CbbbfB3E3b08c,BitNautic To...  (BTNT),"$691,561.00",1608,https://bitnautic.com/
-11,12,0x58c2A89Ff9522cF7f44C3B7b3C3DE2165eea9b5E,Life Crypto  (LIFE),"$473,566.00",3491,https://www.lifecrypto.life/
-12,13,0x4234F27fcec64c182Eeea3F0421D837436Df8195,GBT  (GBT),"$346,362.00",8316,https://globatalent.com/
-13,14,0x3e98253d316856df99c17686af1a6a0107956f0b,Pinknode Tok...  (PNODE),"$283,951.00",2113,https://pinknode.io/
-14,15,0x370220F1fFB90A88b0f0bf363aAFb9F81d2A1E67,Polkadomain ...  (NAME),"$125,294.00",1639,https://polkadomain.org/
-15,16,0x652fd3102318cc562c05a33d8ca163a6f2781495,HedgePay  (HPAY),"$76,275.00",2,https://hedgepay.org/
-16,17,0x7ccb2b7d0e8455b6be9c39417e5fe855aa831fd8,Crowd Machin...  (CMCT),"$50,822.00",3790,https://www.crowdmachine.com/
+0,1,0xe138fda441fc31b36171122397a8a11d6cd2c479,Aergo  (AERGO),"$41,641,023.00",5422,https://www.aergo.io/
+1,2,0xc3dca8f61b275d1e88f3ea31b3e311c49f56b24b,Onbuff Token  (ONIT),"$22,891,629.00",691,http://onbuff.com/
+2,3,0x6c936d4ae98e6d2172db18c16c4b601c99918ee6,Nuls  (NULS),"$20,343,261.00",78,https://www.nuls.io/
+3,4,0xd89040ac9823b72f64d71f66fa2deae7c8520671,Wrapped BUY ...  (WBUY),"$11,136,289.00",1339,https://buying.com/
+4,5,0x87b87a7583d8d8f15b58bdd290318386ac8ee174,Cellframe To...  (CELL),"$4,733,165.00",9316,https://cellframe.net/
+5,6,0xbfc43a35b3ae8f7463c5ac88a0c46107cfce6f67,Morpheus Inf...  (MITx),"$3,186,867.00",112602,https://token.morpheuslabs.io/
+6,7,0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099,Stobox Token...  (STBU),"$2,602,515.00",375,http://www.stobox.io/
+7,8,0xe97f972a08a4c433660eab5b37b34f655667394b,Ziktalk  (ZIK),"$2,117,000.00",463,https://ziktalk.com/
+8,9,0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308,CheckDot  (CDT),"$1,326,157.00",342,https://checkdot.io
+9,10,0xf61bf4d1a948487d61b8fa63808aac06bda55f98,CoinUs  (CNUS),"$1,217,180.00",4368,https://coinus.io/
+10,11,0x1abdb309aa592f00a101c545168bfdf9a6ec61ce,BitNautic To...  (BTNT),"$690,260.00",1608,https://bitnautic.com/
+11,12,0x77f76483399dc6328456105b1db23e2aca455bf9,Life Crypto  (LIFE),"$481,733.00",3482,https://www.lifecrypto.life/
+12,13,0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94,GBT  (GBT),"$346,362.00",8316,https://globatalent.com/
+13,14,0x75de7792ce8225b9fb6ffce212e214f3b6886b3b,Pinknode Tok...  (PNODE),"$287,676.00",2113,https://pinknode.io/
+14,15,0x7a597fb40f54a5e5ad189991dedc8d7881e447ee,Polkadomain ...  (NAME),"$125,294.00",1639,https://polkadomain.org/
+15,16,0x4267205223256b8a5339cdb65fddef3355e2c32e,HedgePay  (HPAY),"$76,275.00",2,https://hedgepay.org/
+16,17,0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc,Crowd Machin...  (CMCT),"$50,822.00",3791,https://www.crowdmachine.com/
 17,18,0xcdb37a4fbc2da5b78aa4e41a432792f9533e85cc,BezantToken  (BZNT),"$13,105.00",3296,https://bezant.io
-18,19,0xf2c23a2a25ee6c9597b7b70b050871e34eee3385,OneRoot Netw...  (RNT),"$4,848.00",55085,https://www.oneroot.io/
-19,20,0x6d46c52805a4f94ef31082634ba75118df9f92e0,Boss Info AG  (BOSS),$0.00,166,https://www.bossinfo.ch/
-20,21,0xb7888f20642f6bcab295b48a8a20bede0f4a3c49,Pazzi  (PAZZI),$0.00,638,http://pazzi.world/
-21,22,0xc6E2573029e91Ea391Dee58B2cD348133b944137,Carl Henry G...  (CHGlob...),$0.00,1,https://www.carlhenryglobal.com/
-22,23,0xb3b11b0485f185f7e5a10e24415db8d8ca068cb6,ELIS  (XLS),$0.00,39,https://www.elis.tech/
-23,24,0x351c8c7d31bcb55569b256303041f50f39d7018a,BUTOK  (BTK),$0.00,10,https://butok.tech/
-24,25,0x2904b9b16652d7d0408eccfa23a19d4a3358230f,Biznio  (BZN),$0.00,3,https://biznio.club/
-25,26,0x07adc37c53cc791c502fff9314660999eedd3c20,GTIB  (GTC),$0.00,207,http://www.gtibcoin.com/
-26,27,0x438a6E42813118548C065336844239b63ad4Fcfd,Digiwill  (DGW),$0.00,1757,https://digiwills.io/
-27,28,0xd89040ac9823b72f64d71f66fa2deae7c8520671,UOL Coin  (UOL),$0.00,2,https://www.uol.cz/
-28,29,0xc8C197953F3d204C8f22abb3129f2da28D30eec7,ZamoLaws  (ZAMO),$0.00,250,https://zamolaws.com/
-29,30,0xe1aee98495365fc179699c1bb3e761fa716bee62,NewSolution  (NST),$0.00,152,https://newsolutioncoin.com
-30,31,0x99e15f8ba9fb5665a13ce814698f693ef9644f68,Toolbox  (DIY),$0.00,29,https://toolboxtoken.com/
-31,32,0x15E4132DcD932E8990E794d1300011A472819cBD,Lendal Pro T...  (LPTTSK),$0.00,-,https://lendalpro.trade/
-32,33,0x11d4d492b77b59bb35127a36ed6a1bac74d0509b,TTAP Protoco...  (TTAP),$0.00,48,https://ttap.io/
-33,34,0xa0A72FE83c891A59C6db18AC0b9A3555b82dA9DF,SOLOXCOIN  (SOLOX),$0.00,27,https://www.soloxcoin.com/
-34,35,0x9d561d63375672abd02119b9bc4fb90eb9e307ca,COINSBY  (CSBY),$0.00,7,https://www.coinsby.com/
-35,36,0x34752c974c3afb37a4eb7d8489c4d8e4117e92ff,NPICK BLOCK  (NPICK),$0.00,485,http://npickblock.io/
-36,37,0x396ec402b42066864c406d1ac3bc86b575003ed8,999  (999),$0.00,188,https://coin999.cash/
-37,38,0xee1cea7665ba7aa97e982edeaecb26b59a04d035,PURIEVER  (PURE),$0.00,338,https://puriever.com
-38,39,0x29d7f5a26a0048bdcef30fd8a092d88eca098a90,Token Factor...  (TOKENF...),$0.00,19,https://tokenfactory.global/
-39,40,0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099,SUCCESSION  (SCCN),$0.00,3861,https://sccn.io/
-40,41,0x9ce115f0341ae5dabc8b477b74e83db2018a6f42,DACSEE  (DACS),$0.00,2524,https://dacsee.io/
-41,42,0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD,Octus Tegro  (octTGR),$0.00,13,https://tegro.io/
-42,43,0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6,LedgerScore  (LED),$0.00,2931,https://www.ledgerscore.com/
-43,44,0x37f04d2c3ae075fad5483bb918491f656b12bdb6,Dyves Group ...  (DYVES),$0.00,1,https://www.dyves.com/
-44,45,0xe492e6f6741b8ab273856e153d31e075753b75c4,BCAChain Ini...  (BCAC),$0.00,75202,http://www.bcachain.org/
-45,46,0xB1F233835de2440620332267ba729bFE74FA2CfD,RiveX Token  (RVX),$0.00,646,https://www.rivex.io/
-46,47,0xa477674a01521b65f1f5394997288B5CD672897b,dRAY  (DRAY),$0.00,115,https://dray.eth.link/
-47,48,0x2e880962a9609aa3eab4def919fe9e917e99073b,Futurehead C...  (FHCT),$0.00,77,https://futureheadcointrust.com/
-48,49,0x32a7C02e79c4ea1008dD6564b35F131428673c41,DeFi Formati...  (DFFF),$0.00,43,https://defiformationfrance.fr/
-49,50,0x7a597fb40f54a5e5ad189991dedc8d7881e447ee,0xShield  (SHIELD),$0.00,681,http://www.0xshield.co/
-50,51,0x72de803b67b6ab05b61efab2efdcd414d16ebf6d,CRUST  (CRU),$0.00,6846,https://crust.network/
-51,52,0xe138fda441fc31b36171122397a8a11d6cd2c479,UYYU Money  (UYYU),$0.00,1,http://uyyuapp.com/
-52,53,0xaf691508ba57d416f895e32a1616da1024e882d2,TRIP COIN  (TRPCN),$0.00,35,https://www.tripcoin.it/
-53,54,0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842,UniDexGas.co...  (UNDG),$0.00,700,https://unidexgas.com/
-54,55,0xdfddf7a69716124bc346ba556d4b9f9e74c4a8bc,EXCHAINS  (EXA),$0.00,1,https://exchains.io/
-55,56,0x1abdb309aa592f00a101c545168bfdf9a6ec61ce,Crypto Lyst  (LYST),$0.00,223,https://www.cryptolyst.com/
-56,57,0xe97f972a08a4c433660eab5b37b34f655667394b,Tr3zor  (TR3),$0.00,1495,https://tr3zor.app/
-57,58,0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308,CoFinex  (CNX),$0.00,31,https://www.cofinex.io/
-58,59,0xd194E4F96d102D834B617226E90f89b83b17bA9D,Convenience ...  (CON),$0.00,13,https://conveniencenetwork.net/
-59,60,0xa2791bdf2d5055cda4d46ec17f9f429568275047,Blackrint Co...  (RIN),$0.00,2,http://www.blackrint.com/blockchain
-60,61,0xff603f43946a3a28df5e6a73172555d8c8b02386,SOLOXCOIN  (SL),$0.00,93,https://www.soloxcoin.com/
-61,62,0xbcd8756ea481608ea3dd5a555493305cf0a79640,SPYCE  (SPYCE),$0.00,3328,https://decenternet.com/
-62,63,0xa52383b665b91dce42dd4b6d1e0fb37d3effe489,ORAO Network  (ORAO),$0.00,1362,https://orao.network/
-63,64,0xaf79C4c4106b7C35c2FeC72D130783524f821D89,ArpaCorpX  (ARPAX),$0.00,8,https://arpa.ph/
-64,65,0x77f76483399dc6328456105b1db23e2aca455bf9,Osmos  (OS),$0.00,33,https://www.osmoscoin.com/
-65,66,0xD0570fFee3424eE9F095Da32aC949224B891e066,MASTER USD  (MUSD),$0.00,416,https://master-usd.org/
-66,67,0xd7e26244375607674f5cb6632917fb89168a73a6,Octus Social...  (octSMM),$0.00,2,https://smoservice.media/
-67,68,0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6,Multiple com...  (TIFS),$0.00,187,https://multiplecompatibility.io/
-68,69,0xbf05571988dAaB22D33C28bbB13566eae9DeE626,Vestchain  (VEST),$0.00,29215,https://vestchain.io/
-69,70,0xc3dca8f61b275d1e88f3ea31b3e311c49f56b24b,ALKI  (ALKI),$0.00,55,https://alki.online/
-70,71,0xD1C203081BB61731EEA76b97D762F729EF8efCF2,Bsit Token  (BSIT),$0.00,1,https://bsit.com/
-71,72,0x1a9767f35276b406805e6e63a8d82139d5875557,Alis  (ALIS),$0.00,2411,https://alismedia.jp/
-72,73,0x2B0eF43E0111c8aCaEAa26D93FA77048EF2A2CBf,GOToken  (GOT),$0.00,198,https://parkingo.io/en/
-73,74,0xe13ef257cf4d5df928ca11d230427c037666d466,Deliverypath  (PATH),$0.00,2,https://deliverypath.com/
-74,75,0x47bc01597798dcd7506dcca36ac4302fc93a8cfb,MOUSSA FINAN...  (MFC),$0.00,71,https://www.moussafinancecoin.com/
-75,76,0xB34A1eD99Cc0304f6caF322dE4dC197A5b7C2858,vn.finance  (VFI),$0.00,25,https://vn.finance/
-76,77,0x219e11d706ddd7180e63cad4d802f356fcffe8f0,Direct  (DRCT),$0.00,2686,https://direct.allynow.com/
-77,78,0x613fa2a6e6daa70c659060e86ba1443d2679c9d7,FINANCIAL IN...  (FIT),$0.00,340,https://fitoken.org/
-78,79,0xd8bd3958725f216eb236e9dc65b169de48101c6a,BEORUS CORPO...  (BCP),$0.00,5,https://beorus.com/
-79,80,0x0A638F07ACc6969abF392bB009f216D22aDEa36d,Brickken  (BKN),$0.00,647,https://www.brickken.com/
-80,81,0xea610b1153477720748dc13ed378003941d84fab,GRPL  (GRPL),$0.00,650,https://grpl.finance/
-81,82,0xf61bf4d1a948487d61b8fa63808aac06bda55f98,Innovation  (NNVTN),$0.00,1,https://www.innovationtheory.com/
-82,83,0xc45dbdf28844fdb1482c502897d433ac08d6ccd0,HYCO  (HYCO),$0.00,6813,https://www.hypercomic.io
-83,84,0x6c936d4ae98e6d2172db18c16c4b601c99918ee6,HairDAO Toke...  (HAIR),$0.00,108,https://www.hairdao.xyz/
-84,85,0xe0b7e882c194881c690924cb46154b8241f9145e,WIT  (WIT),$0.00,23429,http://witchain.org/
-85,86,0x87b87a7583d8d8f15b58bdd290318386ac8ee174,Cyber  (CYBR),$0.00,367,https://thecyberenterprise.com/
-86,87,0xa31108e5bab5494560db34c95492658af239357c,Prometheus  (PRO),$0.00,35,https://prometheus.business/
-87,88,0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3,RLDX  (RLDX),$0.00,175,https://www.myrolodex.io/
-88,89,0x210f4db51299cde6e83b6569f7c9ccf4067fe02a,HELEX  (HLX),$0.00,447,https://helex.world/
-89,90,0x3b9abadd72b3e90eb980d213bf1f697566358100,HeroHelpMe  (HHM),$0.00,3,https://herohelp.me/
-90,91,0x410e731c2970Dce3AdD351064AcF5cE9E33FDBf0,RISING BIRD  (RISING),$0.00,8,https://www.risingbird.co.uk/
-91,92,0xadFfd831285D0Ce26FbE98D2A26c0c9F65693c0a,Spook  (SKPL),$0.00,621,https://spooktechnologies.com/
-92,93,0x6c862f803fF42A97D4A483AB761256ad8c90f4F8,Port Network  (PORT),$0.00,1193,https://portnetwork.io/
+18,19,0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6,OneRoot Netw...  (RNT),"$4,848.00",55085,https://www.oneroot.io/
+19,20,0x15E4132DcD932E8990E794d1300011A472819cBD,Osmos  (OS),$0.00,33,https://www.osmoscoin.com/
+20,21,0x613fa2a6e6daa70c659060e86ba1443d2679c9d7,Digiwill  (DGW),$0.00,1757,https://digiwills.io/
+21,22,0xc45dbdf28844fdb1482c502897d433ac08d6ccd0,DeFi Formati...  (DFFF),$0.00,43,https://defiformationfrance.fr/
+22,23,0xadFfd831285D0Ce26FbE98D2A26c0c9F65693c0a,ALKI  (ALKI),$0.00,55,https://alki.online/
+23,24,0x2B0eF43E0111c8aCaEAa26D93FA77048EF2A2CBf,NewSolution  (NST),$0.00,152,https://newsolutioncoin.com
+24,25,0x351c8c7d31bcb55569b256303041f50f39d7018a,Vestchain  (VEST),$0.00,29215,https://vestchain.io/
+25,26,0x47bc01597798dcd7506dcca36ac4302fc93a8cfb,UYYU Money  (UYYU),$0.00,1,http://uyyuapp.com/
+26,27,0xc8C197953F3d204C8f22abb3129f2da28D30eec7,Cyber  (CYBR),$0.00,366,https://thecyberenterprise.com/
+27,28,0x7ccb2b7d0e8455b6be9c39417e5fe855aa831fd8,RLDX  (RLDX),$0.00,175,https://www.myrolodex.io/
+28,29,0xb7888f20642f6bcab295b48a8a20bede0f4a3c49,Bsit Token  (BSIT),$0.00,1,https://bsit.com/
+29,30,0xB1F233835de2440620332267ba729bFE74FA2CfD,Toolbox  (DIY),$0.00,29,https://toolboxtoken.com/
+30,31,0x32a7C02e79c4ea1008dD6564b35F131428673c41,MOUSSA FINAN...  (MFC),$0.00,71,https://www.moussafinancecoin.com/
+31,32,0x11d4d492b77b59bb35127a36ed6a1bac74d0509b,EXCHAINS  (EXA),$0.00,1,https://exchains.io/
+32,33,0xB34A1eD99Cc0304f6caF322dE4dC197A5b7C2858,RISING BIRD  (RISING),$0.00,8,https://www.risingbird.co.uk/
+33,34,0x37f04d2c3ae075fad5483bb918491f656b12bdb6,Direct  (DRCT),$0.00,2685,https://direct.allynow.com/
+34,35,0xbcd8756ea481608ea3dd5a555493305cf0a79640,Lendal Pro T...  (LPTTSK),$0.00,-,https://lendalpro.trade/
+35,36,0xa0A72FE83c891A59C6db18AC0b9A3555b82dA9DF,vn.finance  (VFI),$0.00,25,https://vn.finance/
+36,37,0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD,Tr3zor  (TR3),$0.00,1495,https://tr3zor.app/
+37,38,0x370220F1fFB90A88b0f0bf363aAFb9F81d2A1E67,ArpaCorpX  (ARPAX),$0.00,8,https://arpa.ph/
+38,39,0xea610b1153477720748dc13ed378003941d84fab,0xShield  (SHIELD),$0.00,669,http://www.0xshield.co/
+39,40,0xaf691508ba57d416f895e32a1616da1024e882d2,DACSEE  (DACS),$0.00,2524,https://dacsee.io/
+40,41,0x6d46c52805a4f94ef31082634ba75118df9f92e0,WIT  (WIT),$0.00,23429,http://witchain.org/
+41,42,0x72de803b67b6ab05b61efab2efdcd414d16ebf6d,Prometheus  (PRO),$0.00,35,https://prometheus.business/
+42,43,0x1a9767f35276b406805e6e63a8d82139d5875557,Multiple com...  (TIFS),$0.00,187,https://multiplecompatibility.io/
+43,44,0xc6E2573029e91Ea391Dee58B2cD348133b944137,HeroHelpMe  (HHM),$0.00,3,https://herohelp.me/
+44,45,0xe13ef257cf4d5df928ca11d230427c037666d466,HELEX  (HLX),$0.00,447,https://helex.world/
+45,46,0xe0b7e882c194881c690924cb46154b8241f9145e,Deliverypath  (PATH),$0.00,2,https://deliverypath.com/
+46,47,0xaf79C4c4106b7C35c2FeC72D130783524f821D89,TTAP Protoco...  (TTAP),$0.00,48,https://ttap.io/
+47,48,0x2e880962a9609aa3eab4def919fe9e917e99073b,Port Network  (PORT),$0.00,1193,https://portnetwork.io/
+48,49,0xd8bd3958725f216eb236e9dc65b169de48101c6a,UniDexGas.co...  (UNDG),$0.00,700,https://unidexgas.com/
+49,50,0xf2c23a2a25ee6c9597b7b70b050871e34eee3385,BEORUS CORPO...  (BCP),$0.00,5,https://beorus.com/
+50,51,0x34752c974c3afb37a4eb7d8489c4d8e4117e92ff,SOLOXCOIN  (SOLOX),$0.00,27,https://www.soloxcoin.com/
+51,52,0x58c2A89Ff9522cF7f44C3B7b3C3DE2165eea9b5E,Boss Info AG  (BOSS),$0.00,166,https://www.bossinfo.ch/
+52,53,0xbf05571988dAaB22D33C28bbB13566eae9DeE626,Pazzi  (PAZZI),$0.00,638,http://pazzi.world/
+53,54,0x3b9abadd72b3e90eb980d213bf1f697566358100,NPICK BLOCK  (NPICK),$0.00,481,http://npickblock.io/
+54,55,0x0A638F07ACc6969abF392bB009f216D22aDEa36d,PURIEVER  (PURE),$0.00,338,https://puriever.com
+55,56,0xa5959e9412d27041194c3c3bcbe855face2864f7,Carl Henry G...  (CHGlob...),$0.00,1,https://www.carlhenryglobal.com/
+56,57,0xb3b11b0485f185f7e5a10e24415db8d8ca068cb6,CoFinex  (CNX),$0.00,31,https://www.cofinex.io/
+57,58,0x2e566Bb9E0d44dDCb1e33f1d237eC878D94fb18C,BUTOK  (BTK),$0.00,10,https://butok.tech/
+58,59,0x29d7f5a26a0048bdcef30fd8a092d88eca098a90,Innovation  (NNVTN),$0.00,1,https://www.innovationtheory.com/
+59,60,0xb8a58e3fd883b0230f4b47c4319e68cb7bb22339,Octus Tegro  (octTGR),$0.00,13,https://tegro.io/
+60,61,0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6,BCAChain Ini...  (BCAC),$0.00,75202,http://www.bcachain.org/
+61,62,0xff603f43946a3a28df5e6a73172555d8c8b02386,ZamoLaws  (ZAMO),$0.00,250,https://zamolaws.com/
+62,63,0x410e731c2970Dce3AdD351064AcF5cE9E33FDBf0,Spook  (SKPL),$0.00,621,https://spooktechnologies.com/
+63,64,0x6c862f803fF42A97D4A483AB761256ad8c90f4F8,Brickken  (BKN),$0.00,648,https://www.brickken.com/
+64,65,0xa6422e3e219ee6d4c1b18895275fe43556fd50ed,MASTER USD  (MUSD),$0.00,416,https://master-usd.org/
+65,66,0x652fd3102318cc562c05a33d8ca163a6f2781495,COINSBY  (CSBY),$0.00,7,https://www.coinsby.com/
+66,67,0xe1aee98495365fc179699c1bb3e761fa716bee62,999  (999),$0.00,188,https://coin999.cash/
+67,68,0x9ce115f0341ae5dabc8b477b74e83db2018a6f42,Alis  (ALIS),$0.00,2411,https://alismedia.jp/
+68,69,0xD1C203081BB61731EEA76b97D762F729EF8efCF2,SUCCESSION  (SCCN),$0.00,3861,https://sccn.io/
+69,70,0x86642d169dB9F57A02C65052049CbbbfB3E3b08c,FINANCIAL IN...  (FIT),$0.00,340,https://fitoken.org/
+70,71,0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842,Token Factor...  (TOKENF...),$0.00,19,https://tokenfactory.global/
+71,72,0x438a6E42813118548C065336844239b63ad4Fcfd,ELIS  (XLS),$0.00,39,https://www.elis.tech/
+72,73,0xa31108e5bab5494560db34c95492658af239357c,LedgerScore  (LED),$0.00,2929,https://www.ledgerscore.com/
+73,74,0xee1cea7665ba7aa97e982edeaecb26b59a04d035,GRPL  (GRPL),$0.00,650,https://grpl.finance/
+74,75,0x9d561d63375672abd02119b9bc4fb90eb9e307ca,Biznio  (BZN),$0.00,3,https://biznio.club/
+75,76,0xD0570fFee3424eE9F095Da32aC949224B891e066,Convenience ...  (CON),$0.00,13,https://conveniencenetwork.net/
+76,77,0xa2791bdf2d5055cda4d46ec17f9f429568275047,Dyves Group ...  (DYVES),$0.00,1,https://www.dyves.com/
+77,78,0xa477674a01521b65f1f5394997288B5CD672897b,HYCO  (HYCO),$0.00,6807,https://www.hypercomic.io
+78,79,0xd194E4F96d102D834B617226E90f89b83b17bA9D,dRAY  (DRAY),$0.00,115,https://dray.eth.link/
+79,80,0x4234F27fcec64c182Eeea3F0421D837436Df8195,UOL Coin  (UOL),$0.00,2,https://www.uol.cz/
+80,81,0xe492e6f6741b8ab273856e153d31e075753b75c4,SOLOXCOIN  (SL),$0.00,93,https://www.soloxcoin.com/
+81,82,0x07adc37c53cc791c502fff9314660999eedd3c20,ORAO Network  (ORAO),$0.00,1363,https://orao.network/
+82,83,0xa52383b665b91dce42dd4b6d1e0fb37d3effe489,Futurehead C...  (FHCT),$0.00,77,https://futureheadcointrust.com/
+83,84,0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3,HairDAO Toke...  (HAIR),$0.00,107,https://www.hairdao.xyz/
+84,85,0x2503ae96f7b433175b3b545dd97f8330b501daf6,CRUST  (CRU),$0.00,6848,https://crust.network/
+85,86,0x396ec402b42066864c406d1ac3bc86b575003ed8,Octus Social...  (octSMM),$0.00,2,https://smoservice.media/
+86,87,0x3e98253d316856df99c17686af1a6a0107956f0b,TRIP COIN  (TRPCN),$0.00,35,https://www.tripcoin.it/
+87,88,0x219e11d706ddd7180e63cad4d802f356fcffe8f0,GOToken  (GOT),$0.00,198,https://parkingo.io/en/
+88,89,0x210f4db51299cde6e83b6569f7c9ccf4067fe02a,Crypto Lyst  (LYST),$0.00,223,https://www.cryptolyst.com/
+89,90,0x44001A5656BaAFa5A3359cEd8fa38e150A71Eea2,Blackrint Co...  (RIN),$0.00,2,http://www.blackrint.com/blockchain
+90,91,0x2904b9b16652d7d0408eccfa23a19d4a3358230f,GTIB  (GTC),$0.00,207,http://www.gtibcoin.com/
+91,92,0xd7e26244375607674f5cb6632917fb89168a73a6,SPYCE  (SPYCE),$0.00,3328,https://decenternet.com/
+92,93,0x99e15f8ba9fb5665a13ce814698f693ef9644f68,RiveX Token  (RVX),$0.00,646,https://www.rivex.io/

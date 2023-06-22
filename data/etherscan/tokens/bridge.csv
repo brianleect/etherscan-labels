@@ -1,34 +1,34 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xcc665390b03c5d324d8faf81c15ecee29a73bcb4,Synapse  (SYN),"$105,992,753.00",7571,https://synapseprotocol.com/
-1,2,0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b,Aurora  (AURORA),"$20,344,224.00",3171,https://aurora.dev/
-2,3,0xbd31ea8212119f94a611fa969881cba3ea06fa3d,Hop  (HOP),"$3,977,329.00",13972,https://hop.exchange/
-3,4,0x7c8161545717a334f3196e765d9713f8042EF338,SWINGBY toke...  (SWINGB...),"$1,877,630.00",598,https://swingby.network/
-4,5,0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24,GraphLinq  (GLQ),"$1,701,733.00",4826,https://graphlinq.io/
-5,6,0xb9f747162ab1e95d07361f9048bcdf6edda9eea7,ChainPort To...  (PORTX),"$551,582.00",138,https://chainport.io/
-6,7,0x566957ef80f9fd5526cd2bef8be67035c0b81130,HeartBridge  (HEART),$0.00,698,http://pulseheartbridge.com/
-7,8,0x0f2d719407fdbeff09d87557abb7232601fd9f29,Wrapped SOL ...  (SOL),$0.00,5022,https://wormholebridge.com/#/
-8,9,0xf4c4c94070a571be425d2a998b4bbf4a5a8ba5f3,USD Coin (Po...  (USDC),$0.00,83,https://wormholebridge.com/#/
-9,10,0x8287c7b963b405b7b8d467db9d79eec40625b13a,Wrapped WebD...  (WWEBD),$0.00,1,https://webdollar.exchange/
-10,11,0xde60adfddaabaaac3dafa57b26acc91cb63728c4,USD Coin (Wo...  (USDC),$0.00,766,https://wormholebridge.com/#/
-11,12,0x408e41876cccdc0f92210600ef50372656052a38,Hot Cross To...  (HOTCRO...),$0.00,186,https://hotcross.com/
-12,13,0x9ccf191169a613eca433a249d3f40131178caebc,UST (Wormhol...  (UST),$0.00,4558,https://wormholebridge.com/#/
-13,14,0xA12ca1B75AD1C73cA610D9788D4D7dcb5CAeE012,ChainSwap.co...  (ASAP),$0.00,2390,https://www.chainswap.com/
-14,15,0xb5badfa6E69728aDBA44D67c98b05F1d1d40182e,Wrapped BNB ...  (WBNB),$0.00,4786,https://wormholebridge.com/#/
-15,16,0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c,Republic  (REN),$0.00,60618,https://renproject.io/
-16,17,0x9C32185b81766a051E08dE671207b34466DD1021,LUNA (Wormho...  (LUNA),$0.00,13344,https://wormholebridge.com/
-17,18,0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee,(Wormhole)  (),$0.00,270,https://wormholebridge.com/#/
-18,19,0x418d75f65a02b3d53b2418fb8e1fe493759c7605,Tether USD (...  (USDT),$0.00,100,https://wormholebridge.com/#/
-19,20,0xd31a59c85ae9d8edefec411d448f90841571b89c,(Wormhole)  (),$0.00,1,https://wormholebridge.com/#/
-20,21,0x4297394c20800e8a38a619a243e9bbe7681ff24e,BTC Proxy  (BTCpx),$0.00,31,https://btcproxy.io/
-21,22,0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc,(Wormhole)  (),$0.00,4,https://wormholebridge.com/#/
-22,23,0xaaaaaa20d9e0e2461697782ef11675f668207961,Wrapped AVAX...  (WAVAX),$0.00,390,https://wormholebridge.com/#/
-23,24,0x104f3152d8ebfc3f679392977356962ff36566ac,MicroChains ...  (MCG),$0.00,484,https://microchains.network/
-24,25,0xa693b19d2931d498c5b318df961919bb4aee87a5,(Wormhole)  (),$0.00,15,https://wormholebridge.com/#/
-25,26,0x85f138bfee4ef8e540890cfb48f620571d67eda3,USD Coin (Wo...  (USDC),$0.00,63,https://wormholebridge.com/#/
-26,27,0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5,Bitcoin Cash...  (vBCH),$0.00,22,https://strudel.finance/
-27,28,0x7b4b0b9b024109d182dcf3831222fbda81369423,USDT (Wormho...  (USDT),$0.00,206,https://wormholebridge.com/#/
-28,29,0xe617dd80c621a5072bd8cba65e9d76c07327004d,Be Your Own ...  (BYOB),$0.00,5,https://datamynt.com/byob
-29,30,0xc561586862e3129f660f6dfc24fd5dfe8dab3983,PancakeSwap ...  (Cake),$0.00,-,https://wormholebridge.com/#/
-30,31,0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6,EKTA v2  (EKTA v...),$0.00,4,https://www.ekta.io/
-31,32,0x41f7b8b9b897276b7aae926a9016935280b44e97,Plenny  (PL2),$0.00,12,https://plenny.link/
-32,33,0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4,BUSD Token (...  (BUSD),$0.00,58,https://wormholebridge.com/#/
+0,1,0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc,Synapse  (SYN),"$126,464,166.00",7606,https://synapseprotocol.com/
+1,2,0x7c8161545717a334f3196e765d9713f8042EF338,Aurora  (AURORA),"$21,379,437.00",3190,https://aurora.dev/
+2,3,0x566957ef80f9fd5526cd2bef8be67035c0b81130,Hop  (HOP),"$4,852,342.00",13995,https://hop.exchange/
+3,4,0xa693b19d2931d498c5b318df961919bb4aee87a5,SWINGBY toke...  (SWINGB...),"$2,163,604.00",591,https://swingby.network/
+4,5,0xf4c4c94070a571be425d2a998b4bbf4a5a8ba5f3,GraphLinq  (GLQ),"$2,024,358.00",4802,https://graphlinq.io/
+5,6,0xde60adfddaabaaac3dafa57b26acc91cb63728c4,ChainPort To...  (PORTX),"$636,127.00",138,https://chainport.io/
+6,7,0x7b4b0b9b024109d182dcf3831222fbda81369423,Wrapped AVAX...  (WAVAX),$0.00,394,https://wormholebridge.com/#/
+7,8,0xe617dd80c621a5072bd8cba65e9d76c07327004d,EKTA v2  (EKTA v...),$0.00,4,https://www.ekta.io/
+8,9,0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6,(Wormhole)  (),$0.00,15,https://wormholebridge.com/#/
+9,10,0x408e41876cccdc0f92210600ef50372656052a38,Plenny  (PL2),$0.00,12,https://plenny.link/
+10,11,0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c,USD Coin (Wo...  (USDC),$0.00,63,https://wormholebridge.com/#/
+11,12,0xaaaaaa20d9e0e2461697782ef11675f668207961,HeartBridge  (HEART),$0.00,691,http://pulseheartbridge.com/
+12,13,0xc561586862e3129f660f6dfc24fd5dfe8dab3983,USD Coin (Wo...  (USDC),$0.00,766,https://wormholebridge.com/#/
+13,14,0x4297394c20800e8a38a619a243e9bbe7681ff24e,Bitcoin Cash...  (vBCH),$0.00,22,https://strudel.finance/
+14,15,0x9ccf191169a613eca433a249d3f40131178caebc,UST (Wormhol...  (UST),$0.00,4562,https://wormholebridge.com/#/
+15,16,0x41f7b8b9b897276b7aae926a9016935280b44e97,Be Your Own ...  (BYOB),$0.00,5,https://datamynt.com/byob
+16,17,0x104f3152d8ebfc3f679392977356962ff36566ac,Wrapped BNB ...  (WBNB),$0.00,4791,https://wormholebridge.com/#/
+17,18,0x2f75113b13D136F861d212Fa9b572F2C79Ac81C4,BUSD Token (...  (BUSD),$0.00,58,https://wormholebridge.com/#/
+18,19,0x85f138bfee4ef8e540890cfb48f620571d67eda3,Republic  (REN),$0.00,60676,https://renproject.io/
+19,20,0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24,Wrapped SOL ...  (SOL),$0.00,5051,https://wormholebridge.com/#/
+20,21,0xb9f747162ab1e95d07361f9048bcdf6edda9eea7,USD Coin (Po...  (USDC),$0.00,83,https://wormholebridge.com/#/
+21,22,0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee,Wrapped WebD...  (WWEBD),$0.00,1,https://webdollar.exchange/
+22,23,0x756bfb452cfe36a5bc82e4f5f4261a89a18c242b,Tether USD (...  (USDT),$0.00,100,https://wormholebridge.com/#/
+23,24,0x418d75f65a02b3d53b2418fb8e1fe493759c7605,Hot Cross To...  (HOTCRO...),$0.00,192,https://hotcross.com/
+24,25,0xb5badfa6E69728aDBA44D67c98b05F1d1d40182e,(Wormhole)  (),$0.00,1,https://wormholebridge.com/#/
+25,26,0x0f2d719407fdbeff09d87557abb7232601fd9f29,ChainSwap.co...  (ASAP),$0.00,2390,https://www.chainswap.com/
+26,27,0xA12ca1B75AD1C73cA610D9788D4D7dcb5CAeE012,(Wormhole)  (),$0.00,4,https://wormholebridge.com/#/
+27,28,0xbd31ea8212119f94a611fa969881cba3ea06fa3d,LUNA (Wormho...  (LUNA),$0.00,13359,https://wormholebridge.com/
+28,29,0xd31a59c85ae9d8edefec411d448f90841571b89c,(Wormhole)  (),$0.00,270,https://wormholebridge.com/#/
+29,30,0xcc665390b03c5d324d8faf81c15ecee29a73bcb4,MicroChains ...  (MCG),$0.00,486,https://microchains.network/
+30,31,0x9C32185b81766a051E08dE671207b34466DD1021,USDT (Wormho...  (USDT),$0.00,209,https://wormholebridge.com/#/
+31,32,0x8287c7b963b405b7b8d467db9d79eec40625b13a,PancakeSwap ...  (Cake),$0.00,-,https://wormholebridge.com/#/
+32,33,0x3642c0680329ae3e103e2b5ab29ddfed4d43cbe5,BTC Proxy  (BTCpx),$0.00,31,https://btcproxy.io/

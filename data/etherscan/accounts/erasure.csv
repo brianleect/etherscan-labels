@@ -1,5 +1,5 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0xa6cf4bf00fef8866e9f3f61c972ba7c687c6edbf,Erasure: Agreements,0 ETH,9
-1,0x409ea12e73a10ef166bc063f94aa9bc952835e93,Erasure: Escrows,0 ETH,3
-2,0x348fa9dcff507b81c7a1d7981244ea92e8c6af29,Erasure: Posts,0 ETH,9
+0,0x409ea12e73a10ef166bc063f94aa9bc952835e93,Erasure: Agreements,0 ETH,9
+1,0x348fa9dcff507b81c7a1d7981244ea92e8c6af29,Erasure: Escrows,0 ETH,3
+2,0xa6cf4bf00fef8866e9f3f61c972ba7c687c6edbf,Erasure: Posts,0 ETH,9
 3,0x13370c1947ba2d27a420bb8e27017952c80a6e6e,Erasure: Deployer,0.78298313 ETH,122

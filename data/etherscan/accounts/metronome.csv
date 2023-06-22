@@ -1,6 +1,6 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x9d9bcdd249e439aaab545f59a33812e39a8e3072,Metronome: Auctions,0 ETH,7931
-1,0x686e5ac50d9236a9b7406791256e47feddb26aba,Metronome: Autonomous Converter,811.08518728 ETH,24474
-2,0x2ebd53d035150f328bd754d6dc66b99b0edb89aa,Metronome: MET Token,0 ETH,629
-3,0x68c4b7d05fae45bcb6192bb93e246c77e98360e1,Metronome: Proceeds,"1,026.79432362 ETH",43
-4,0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e,Old Metronome Token,0 ETH,39305
+0,0x68c4b7d05fae45bcb6192bb93e246c77e98360e1,Metronome: Auctions,0 ETH,7931
+1,0x9d9bcdd249e439aaab545f59a33812e39a8e3072,Metronome: Autonomous Converter,824.65434369 ETH,24474
+2,0x686e5ac50d9236a9b7406791256e47feddb26aba,Metronome: MET Token,0 ETH,640
+3,0x2ebd53d035150f328bd754d6dc66b99b0edb89aa,Metronome: Proceeds,"1,011.48835046 ETH",43
+4,0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e,Old Metronome Token,0 ETH,39306

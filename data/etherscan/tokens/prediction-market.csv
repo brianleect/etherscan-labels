@@ -1,21 +1,21 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb,Reputation  (REPv2),"$54,365,440.00",11035,https://www.augur.net/
-1,2,0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222,Prosper  (PROS),"$8,391,490.00",2665,https://prosper.so/
-2,3,0x8a88f04e0c905054d2f33b26bb3a46d7091a039a,Polkamarkets  (POLK),"$3,190,156.00",8998,https://www.polkamarkets.com/
-3,4,0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c,Handy Token  (HANDY),"$644,038.00",4841,https://handypick.io/
-4,5,0x006bea43baa3f7a6f765f14f10a1a1b08334ef45,PLOT  (PLOT),"$415,291.00",3099,https://plotx.io/
-5,6,0x0168703872fa06741ecaa9dff7803168e83f7ae0,Delphy Token  (DPY),"$222,088.00",6255,https://delphy.org/
-6,7,0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec,Stox  (STX),"$216,289.00",18838,https://www.stox.com/
-7,8,0x6c2adc2073994fb2ccc5032cc2906fa221e9b391,Relevant  (REL),"$134,146.00",3340,https://relevant.community/
-8,9,0x221657776846890989a759ba2973e427dff5c9bb,Totem Token  (TOTM),"$44,637.00",2105,https://totemfi.com/
-9,10,0xd478161c952357f05f0292b56012cd8457f1cfbf,IG  (IG),$0.00,112446,http://igtoken.net/
-10,11,0x45080a6531d671DDFf20DB42f93792a489685e32,MIRO  (MIRO),$0.00,267,https://mirocana.com/
-11,12,0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619,Smile Coin  (SMILE),$0.00,53,https://smilecoin.us/
-12,13,0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267,Kineko  (KKO),$0.00,638,https://kineko.io/
-13,14,0xc528c28fec0a90c083328bc45f587ee215760a0f,Heart Number  (HTN),$0.00,645,http://www.heartnumber.com/
-14,15,0x14de81C71B3F73874659082b971433514E201B27,Entropy  (ERP),$0.00,165,https://www.entropyfi.com/
-15,16,0x8642a849d0dcb7a15a974794668adcfbe4794b56,Endor Protoc...  (EDR),$0.00,11364,https://www.endor.com/
-16,17,0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a,Finance.Vote...  (FVT),$0.00,2669,https://finance.vote
-17,18,0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9,YES KYC Toke...  (yKYC),$0.00,2,https://catnip.exchange/
-18,19,0x21a2755513e4dfd4e72ad46a3e699e5f08f4710f,BispexToken  (BPX),$0.00,12989,https://bispex.io/
-19,20,0x4b1d7644c538389a7a718092aa8e28be348eb917,NO KYC Token  (nKYC),$0.00,1,https://catnip.exchange/
+0,1,0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222,Reputation  (REPv2),"$39,600,859.00",11061,https://www.augur.net/
+1,2,0x45080a6531d671DDFf20DB42f93792a489685e32,Prosper  (PROS),"$9,231,644.00",2659,https://prosper.so/
+2,3,0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c,Polkamarkets  (POLK),"$3,449,955.00",8990,https://www.polkamarkets.com/
+3,4,0x14de81C71B3F73874659082b971433514E201B27,Handy Token  (HANDY),"$733,700.00",4831,https://handypick.io/
+4,5,0x8642a849d0dcb7a15a974794668adcfbe4794b56,PLOT  (PLOT),"$433,995.00",3099,https://plotx.io/
+5,6,0x8a88f04e0c905054d2f33b26bb3a46d7091a039a,Stox  (STX),"$216,876.00",18838,https://www.stox.com/
+6,7,0x21a2755513e4dfd4e72ad46a3e699e5f08f4710f,Relevant  (REL),"$128,009.00",3339,https://relevant.community/
+7,8,0x006bea43baa3f7a6f765f14f10a1a1b08334ef45,Delphy Token  (DPY),"$122,594.00",6256,https://delphy.org/
+8,9,0x0168703872fa06741ecaa9dff7803168e83f7ae0,Totem Token  (TOTM),"$56,005.00",2105,https://totemfi.com/
+9,10,0x6ff1bfa14a57594a5874b37ff6ac5efbd9f9599a,Finance.Vote...  (FVT),$0.00,2667,https://finance.vote
+10,11,0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267,Endor Protoc...  (EDR),$0.00,11370,https://www.endor.com/
+11,12,0x6c2adc2073994fb2ccc5032cc2906fa221e9b391,YES KYC Toke...  (yKYC),$0.00,2,https://catnip.exchange/
+12,13,0xc528c28fec0a90c083328bc45f587ee215760a0f,BispexToken  (BPX),$0.00,12989,https://bispex.io/
+13,14,0x221657776846890989a759ba2973e427dff5c9bb,NO KYC Token  (nKYC),$0.00,1,https://catnip.exchange/
+14,15,0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9,IG  (IG),$0.00,112446,http://igtoken.net/
+15,16,0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec,MIRO  (MIRO),$0.00,267,https://mirocana.com/
+16,17,0x4b4b1d389d4f4e082b30f75c6319c0ce5acbd619,Smile Coin  (SMILE),$0.00,53,https://smilecoin.us/
+17,18,0x4b1d7644c538389a7a718092aa8e28be348eb917,Kineko  (KKO),$0.00,638,https://kineko.io/
+18,19,0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb,Heart Number  (HTN),$0.00,645,http://www.heartnumber.com/
+19,20,0xd478161c952357f05f0292b56012cd8457f1cfbf,Entropy  (ERP),$0.00,165,https://www.entropyfi.com/

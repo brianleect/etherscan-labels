@@ -1,51 +1,51 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x9064c91e51d7021A85AD96817e1432aBf6624470,NXM  (NXM),"$319,752,320.00",4073,https://nexusmutual.io/
-1,2,0xd89A909648e28e8352b63b78007f7fF144f434E9,inSure  (SURE),"$95,471,847.00",1984,https://insuretoken.net/
-2,3,0xd13cfd3133239a3c73a9e535a5c4dadee36b395c,VAIOT Token  (VAI),"$26,093,634.00",7533,https://vaiot.ai/en
-3,4,0x0F959aE03679dd69975cCfa7bb6F286b273FB29E,UnoRe  (UNO),"$3,538,310.00",3773,https://unore.io/
-4,5,0x1337def16f9b486faed0293eb623dc8395dfe46a,InsurAce  (INSUR),"$3,515,740.00",6100,https://www.insurace.io/
-5,6,0xfca47962d45adfdfd1ab2d972315db4ce7ccf094,Armor  (ARMOR),"$1,246,381.00",15391,https://armor.fi/
-6,7,0x725c263e32c72ddc3a19bea12c5a0479a81ee688,Bright Union  (BRIGHT),"$947,538.00",1149,https://brightunion.io/
-7,8,0x3ab7b695573017eebd6377c433f9cf3ef5b4cd48,Cover Protoc...  (COVER),"$885,341.00",9914,https://www.coverprotocol.com/
-8,9,0x7104d1f179cc9cc7fb5c79be6da846e3fbc4c105,Tidal Token  (TIDAL),"$872,465.00",6494,https://tidal.finance/
-9,10,0xb31AB812aAD7E905A7B8f3263560D2f610d582d7,Bridge Mutua...  (BMI),"$420,386.00",11671,https://bridgemutual.io
-10,11,0xf14922001a2fb8541a433905437ae954419c2439,Inmediate  (DIT),"$159,212.00",579,https://inmediate.io/
-11,12,0x474021845c4643113458ea4414bdb7fb74a01a77,Nsure Networ...  (Nsure),"$148,453.00",2736,https://nsure.network/
-12,13,0x1337def18c680af1f9f45cbcab6309562975b1dd,ZeusShieldCo...  (ZSC),"$87,053.00",60082,https://zsc.io/
-13,14,0xb11e578e40ad1ee39132eb3717aabb3053c13eff,PolkaCover  (CVR),"$63,914.00",9355,http://www.covercompared.com/
-14,15,0x7102dc82ef61bfb0410b1b1bf8ea74575bf0a105,POLKAINSURE....  (PIS),"$15,852.00",658,https://polkainsure.finance/
-15,16,0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e,Ease Token  (EASE),$0.00,153,https://ease.org/
-16,17,0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215,INFI  (INFI),$0.00,4986,https://www.insured.finance/
-17,18,0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6,X7103  (X7103),$0.00,111,https://x7.finance/
-18,19,0x95382ac82e886a367bac9e1e23beabe569bcfed8,Armor NXM  (arNXM),$0.00,430,https://armor.fi/
-19,20,0xa0f0f4a1168d55eb85d33a057f224772e60132de,SAFE2  (SAFE2),$0.00,360,https://yieldfarming.insure/
-20,21,0x1e29aeb6c45840354fae1c143ff9b92543c37e8c,Day By Day T...  (DBD),$0.00,2633,https://daybyday.io/
-21,22,0x7105faa4a26ed1c67b8b2b41bec98f06ee21d105,X7104  (X7104),$0.00,114,https://x7.finance/
-22,23,0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b,BLOCKSURANCE  (4SURE),$0.00,4,https://blocksurance.io/
-23,24,0xfedae5642668f8636a11987ff386bfd215f942ee,Decentralize...  (DIP),$0.00,6192,https://www.etherisc.com/
-24,25,0x190fb342aa6a15eb82903323ae78066ff8616746,Entropy  (ERP),$0.00,165,https://www.entropyfi.com/
-25,26,0x52a7cb918c11a16958be40cba7e31e32a499a465,shinechain  (SHE),$0.00,32281,https://www.shinechain.org/
-26,27,0xbeab712832112bd7664226db7cd025b153d3af55,X7R  (X7R),$0.00,1025,https://x7.finance/
-27,28,0x7103ebdbf1f89be2d53eff9b3cf996c9e775c105,Foresight  (FORS),$0.00,425,https://foresightdefi.io/
-28,29,0xa5f1dbb0e55bc31f32c6d032bee330288490e722,X7105  (X7105),$0.00,127,https://x7.finance/
-29,30,0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136,DEFI Insuran...  (DFIP),$0.00,144,https://dfip.io/
-30,31,0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63,X7DAO  (X7DAO),$0.00,487,https://x7.finance/
-31,32,0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713,SARA AI  (SRA),$0.00,1,https://www.cryptosara.io/
-32,33,0x250a3500f48666561386832f1f1f1019b89a2699,iXledger  (IXT),$0.00,7711,https://www.ixt.global/
-33,34,0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267,SURETY Token  (SURE),$0.00,13564,https://hearti.io/suretyai/
-34,35,0xea5edef1287afdf9eb8a46f9773abfc10820c61c,Yield Trust ...  (YTRU),$0.00,63,https://ytru.finance/
-35,36,0x544c42fbb96b39b21df61cf322b5edc285ee7429,I-CHAIN.NET  (ICHN),$0.00,20,https://i-chain.net/
-36,37,0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4,XFA Token  (XFA),$0.00,405,https://xfatoken.com/
-37,38,0x88888883D7434785e02AC8475B9c9E7b1d3Dd293,Insureum Tok...  (ISR),$0.00,3371,https://insureum.co/
-38,39,0x0f8ffd962ca70e74e68bf0f5e51dda6192113f80,X7101  (X7101),$0.00,117,https://x7.finance/
-39,40,0xc719d010b63e5bbf2c0551872cd5316ed26acd83,SUBTOKEN  (SBX),$0.00,5,https://subtoken.io/
-40,41,0x7101a9392eac53b01e7c07ca3baca945a56ee105,X7102  (X7102),$0.00,95,https://x7.finance/
-41,42,0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7,Cuvrr  (CUVR),$0.00,1,https://cuvrr.com/
-42,43,0x70008f18fc58928dce982b0a69c2c21ff80dca54,Neptune Mutu...  (POT),$0.00,15,https://neptunemutual.com/
-43,44,0x159751323a9e0415dd3d6d42a1212fe9f4a0848c,InsuraSwap  (ISW),$0.00,10,https://www.insuraswap.co/
-44,45,0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0,Neptune Mutu...  (NPM),$0.00,66,https://neptunemutual.com/
-45,46,0xAD640689e6950b7453729A4686edB3FdfD754616,PolicyPal Ne...  (PAL),$0.00,24611,https://www.pal.network/
-46,47,0xbaA9631A98e6D7cB116A0462Bc5432122153D430,UmbrellaCoin  (UMC),$0.00,1090,https://www.unitymatrixcommons.com/
-47,48,0xc145fEf82674b20d022aD0e36b5F1B2645b9f9ee,fidentiaX  (fdX),$0.00,3661,https://www.fidentiax.com/
-48,49,0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c,ETHEREUM FIR...  (ETHFI),$0.00,33,https://www.ethereumfire.com/index.php
-49,50,0x20945cA1df56D237fD40036d47E866C7DcCD2114,CIChain  (CIC),$0.00,32337,https://cichain.io/
+0,1,0x7105faa4a26ed1c67b8b2b41bec98f06ee21d105,NXM  (NXM),"$354,178,881.00",4073,https://nexusmutual.io/
+1,2,0x20945cA1df56D237fD40036d47E866C7DcCD2114,inSure  (SURE),"$107,265,248.00",1985,https://insuretoken.net/
+2,3,0x474021845c4643113458ea4414bdb7fb74a01a77,VAIOT Token  (VAI),"$24,872,076.00",7551,https://vaiot.ai/en
+3,4,0x834ce7ad163ab3be0c5fd4e0a81e67ac8f51e00c,UnoRe  (UNO),"$4,099,610.00",3757,https://unore.io/
+4,5,0xbeab712832112bd7664226db7cd025b153d3af55,InsurAce  (INSUR),"$4,011,474.00",6079,https://www.insurace.io/
+5,6,0xd89A909648e28e8352b63b78007f7fF144f434E9,Armor  (ARMOR),"$1,274,752.00",15347,https://armor.fi/
+6,7,0x52a7cb918c11a16958be40cba7e31e32a499a465,Tidal Token  (TIDAL),"$1,064,619.00",6482,https://tidal.finance/
+7,8,0xAD640689e6950b7453729A4686edB3FdfD754616,Cover Protoc...  (COVER),"$1,017,923.00",9918,https://www.coverprotocol.com/
+8,9,0x725c263e32c72ddc3a19bea12c5a0479a81ee688,Bright Union  (BRIGHT),"$810,316.00",1153,https://brightunion.io/
+9,10,0xfca47962d45adfdfd1ab2d972315db4ce7ccf094,Bridge Mutua...  (BMI),"$420,271.00",11654,https://bridgemutual.io
+10,11,0xd4a293ae8bb9e0be12e99eb19d48239e8c83a136,Inmediate  (DIT),"$159,212.00",579,https://inmediate.io/
+11,12,0x0a0e3bfd5a8ce610e735d4469bc1b3b130402267,Nsure Networ...  (Nsure),"$142,547.00",2749,https://nsure.network/
+12,13,0xa5f1dbb0e55bc31f32c6d032bee330288490e722,ZeusShieldCo...  (ZSC),"$92,538.00",60082,https://zsc.io/
+13,14,0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0,PolkaCover  (CVR),"$61,534.00",9353,http://www.covercompared.com/
+14,15,0x544c42fbb96b39b21df61cf322b5edc285ee7429,POLKAINSURE....  (PIS),"$15,852.00",658,https://polkainsure.finance/
+15,16,0x190fb342aa6a15eb82903323ae78066ff8616746,shinechain  (SHE),$0.00,32281,https://www.shinechain.org/
+16,17,0xea5edef1287afdf9eb8a46f9773abfc10820c61c,Foresight  (FORS),$0.00,425,https://foresightdefi.io/
+17,18,0xd13cfd3133239a3c73a9e535a5c4dadee36b395c,DEFI Insuran...  (DFIP),$0.00,143,https://dfip.io/
+18,19,0x1e29aeb6c45840354fae1c143ff9b92543c37e8c,Ease Token  (EASE),$0.00,152,https://ease.org/
+19,20,0x70008f18fc58928dce982b0a69c2c21ff80dca54,SARA AI  (SRA),$0.00,1,https://www.cryptosara.io/
+20,21,0xc719d010b63e5bbf2c0551872cd5316ed26acd83,X7103  (X7103),$0.00,111,https://x7.finance/
+21,22,0xa0f0f4a1168d55eb85d33a057f224772e60132de,X7104  (X7104),$0.00,113,https://x7.finance/
+22,23,0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6,BLOCKSURANCE  (4SURE),$0.00,4,https://blocksurance.io/
+23,24,0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b,Yield Trust ...  (YTRU),$0.00,63,https://ytru.finance/
+24,25,0x7104d1f179cc9cc7fb5c79be6da846e3fbc4c105,iXledger  (IXT),$0.00,7711,https://www.ixt.global/
+25,26,0x95382ac82e886a367bac9e1e23beabe569bcfed8,SURETY Token  (SURE),$0.00,13564,https://hearti.io/suretyai/
+26,27,0xb31AB812aAD7E905A7B8f3263560D2f610d582d7,I-CHAIN.NET  (ICHN),$0.00,20,https://i-chain.net/
+27,28,0xf14922001a2fb8541a433905437ae954419c2439,Insureum Tok...  (ISR),$0.00,3371,https://insureum.co/
+28,29,0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63,Cuvrr  (CUVR),$0.00,1,https://cuvrr.com/
+29,30,0xfedae5642668f8636a11987ff386bfd215f942ee,SUBTOKEN  (SBX),$0.00,5,https://subtoken.io/
+30,31,0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4,Entropy  (ERP),$0.00,165,https://www.entropyfi.com/
+31,32,0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215,X7R  (X7R),$0.00,1029,https://x7.finance/
+32,33,0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713,InsuraSwap  (ISW),$0.00,10,https://www.insuraswap.co/
+33,34,0x1337def18c680af1f9f45cbcab6309562975b1dd,X7105  (X7105),$0.00,127,https://x7.finance/
+34,35,0x159751323a9e0415dd3d6d42a1212fe9f4a0848c,X7DAO  (X7DAO),$0.00,487,https://x7.finance/
+35,36,0x0f8ffd962ca70e74e68bf0f5e51dda6192113f80,PolicyPal Ne...  (PAL),$0.00,24611,https://www.pal.network/
+36,37,0x1337def16f9b486faed0293eb623dc8395dfe46a,ETHEREUM FIR...  (ETHFI),$0.00,33,https://www.ethereumfire.com/index.php
+37,38,0x88888883D7434785e02AC8475B9c9E7b1d3Dd293,UmbrellaCoin  (UMC),$0.00,1090,https://www.unitymatrixcommons.com/
+38,39,0xbaA9631A98e6D7cB116A0462Bc5432122153D430,INFI  (INFI),$0.00,4985,https://www.insured.finance/
+39,40,0x250a3500f48666561386832f1f1f1019b89a2699,fidentiaX  (fdX),$0.00,3661,https://www.fidentiax.com/
+40,41,0x7101a9392eac53b01e7c07ca3baca945a56ee105,CIChain  (CIC),$0.00,32337,https://cichain.io/
+41,42,0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7,Armor NXM  (arNXM),$0.00,430,https://armor.fi/
+42,43,0x9064c91e51d7021A85AD96817e1432aBf6624470,Day By Day T...  (DBD),$0.00,2633,https://daybyday.io/
+43,44,0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e,SAFE2  (SAFE2),$0.00,360,https://yieldfarming.insure/
+44,45,0xc145fEf82674b20d022aD0e36b5F1B2645b9f9ee,XFA Token  (XFA),$0.00,405,https://xfatoken.com/
+45,46,0x7103ebdbf1f89be2d53eff9b3cf996c9e775c105,X7101  (X7101),$0.00,117,https://x7.finance/
+46,47,0x3ab7b695573017eebd6377c433f9cf3ef5b4cd48,X7102  (X7102),$0.00,95,https://x7.finance/
+47,48,0x7102dc82ef61bfb0410b1b1bf8ea74575bf0a105,Neptune Mutu...  (POT),$0.00,15,https://neptunemutual.com/
+48,49,0xb11e578e40ad1ee39132eb3717aabb3053c13eff,Neptune Mutu...  (NPM),$0.00,67,https://neptunemutual.com/
+49,50,0x0F959aE03679dd69975cCfa7bb6F286b273FB29E,Decentralize...  (DIP),$0.00,6188,https://www.etherisc.com/

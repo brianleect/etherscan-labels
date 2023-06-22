@@ -1,179 +1,181 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D,Victoria VR  (VR),"$41,536,693.00",9930,https://victoriavr.com/
-1,2,0x4b520c812e8430659fc9f12f6d0c39026c83588d,Radio Caca V...  (RACA),"$35,900,589.00",5564,https://www.raca3.com/
-2,3,0x93b849973c61a0ee4e5f640a4afb2db2f57b185d,Gamium [via ...  (GMM),"$22,471,081.00",837,https://gamium.world/
-3,4,0x53821B9EF069CB6eb360B09480953bF737e2e013,OVR  (OVR),"$17,360,823.00",17715,https://www.ovr.ai/
-4,5,0x8c6Fa66c21aE3fC435790E451946a9Ea82E6e523,Somnium Spac...  (CUBE),"$14,142,959.00",4571,https://www.somniumspace.com
-5,6,0x284b19a5fa65f706422c0c86566e407b0e70e537,Decentral Ga...  (DG),"$11,483,998.00",3438,https://decentral.games
-6,7,0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2,Decentral Ga...  (xDG),"$7,685,848.00",3071,https://decentral.games
-7,8,0x32afe5c47f43830645a74eecee94a84300fd2ac8,BCP Coin  (BCP),"$5,004,547.00",8710,https://bcprotocol.io/
-8,9,0xcf4acb40449b162a97c320323a1e8271e4a9b659,Neos Credits  (NCR),"$3,209,274.00",4915,https://neos.com/
-9,10,0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c,Torum  (XTM),"$2,967,251.00",2033,https://intro.torum.com/
-10,11,0x6E6e269b18434d1D988d94b25cDa1cEe60DE4DcE,Skeb Coin  (SKEB),"$1,055,297.00",1476,https://skebcoin.com/
-11,12,0xc4ec016b2e0c4284bb45690759cd1e4db0e1563c,BlockchainSp...  (GUILD),"$917,363.00",3650,https://www.blockchainspace.asia/
-12,13,0xeff3f1b9400D6D0f1E8805BddE592F61535F5EcD,Trace Networ...  (TRACE),"$715,389.00",342,https://trace.network/
-13,14,0xd52aae39a2b5cc7812f7b9450ebb61dfef702b15,MetaFabric  (FABRIC),"$620,195.00",2383,https://metafabric.io
-14,15,0x8873BffF55C193834682A78b9412607A9021233B,PolysportsTo...  (PS1),"$519,287.00",4,https://www.polysports.org/
-15,16,0x01b6d39746cce500b70cfb242dcc5f7596b11e41,MetaBrands  (MAGE),"$407,928.00",1207,http://metabrands.io/
-16,17,0x7a1EB86c35136143DDA358D4A2d8AC25C4902388,ONSTON  (ONSTON),"$335,451.00",5187,https://onston.network/
-17,18,0xb7dfb51d27fb7634fd03470d94e5cca52b390184,Goons of Bal...  (GOB),"$289,613.00",1546,https://goonsofbalatroon.com/
-18,19,0x358CFdb3994CA3137caF3899cE111c9a03a3144E,Celestial  (Celt),"$177,667.00",694,https://celt.game/
-19,20,0xf6e06b54855eff198a2d9a8686113665499a6134,Lepasa  (LEPA),"$154,091.00",68,https://www.lepasa.com
-20,21,0xcacc19c5ca77e06d6578decac80408cc036e0499,Bezoge Earth  (BEZOGE),"$99,742.00",30331,https://www.bezoge.com/
-21,22,0x591127253e40d4f63bf29ccf3d81fd062a149c8c,Squawk  (SQUAWK),"$21,471.00",2008,https://squawk.finance/
-22,23,0x003625571edc6D3350c09d250BA0Cc7C6be84e74,ILONSI  (ILO),$0.00,143,http://www.meta-fluencer.com/
-23,24,0x4b19c70da4c6fa4baa0660825e889d2f7eabc279,WastedLands  (WAL),$0.00,17,https://thewastedlands.io/
-24,25,0x9b6b9d2468e165a02fef69e61b6d3d6cbc0ac409,DeltaFlare  (HONR),$0.00,315,https://deltaflare.gg/
-25,26,0xE007f5e9E1999BbdEcBc0c9775669df12b67AB42,Dragon Maste...  (DMT),$0.00,3,https://www.dragonmaster.co/
-26,27,0x349b15326b48b261a7f600fb2ff906e49feff8e9,Propel Token  (PEL),$0.00,12,https://propel.xyz
-27,28,0xe5ef42d0e5e4aa6b36c613d00db8dad303d505f3,Meta Monero  (MMR),$0.00,2,https://www.metamonero.com/
-28,29,0x913ae503153d9a335398d0785ba60a2d63ddb4e2,LVMH  (LVMH),$0.00,163,https://landversedefi.com/
-29,30,0x57aa9e7817e0755348176411ec50b09c60f52b64,SafeObol  (SOB),$0.00,10,https://safeobol.com/
-30,31,0x7d5121505149065b562c789a0145ed750e6e8cdd,Apex protoco...  (APXP),$0.00,31,https://apexprotocol.world:42925/en/
-31,32,0xd4bcb3cCc8f44aEe5f6a9d1D5f626e885F1D0902,MonfterToken  (MON),$0.00,1146,https://monfter.com
-32,33,0x601a0ee18e9dcdc70658d8b87a748e11344d3a45,MultiPlaneta...  (INUS),$0.00,515,https://www.multiplanetaryinus.com/
-33,34,0xa47143bc550a9bf004bcdd3ab74e3e520faa1070,VINU Network  (VNN),$0.00,320,http://vinunetwork.io/
-34,35,0x00e13ff16d54619024ab3b861f25b84bd53e8ac1,TTX METAVERS...  (XMETA),$0.00,1033,https://ttx-games.com/
-35,36,0x22c5543d1a35178cb03b33f929a959145e538532,MMS  (MMS),$0.00,30,https://mms-digital.online/
-36,37,0x138c2f1123cf3f82e4596d097c118eac6684940b,Chupacabra S...  (CS),$0.00,-,https://www.chupacabrasociety.com/
-37,38,0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8,Alpha  (ALPHA),$0.00,4164,https://alphacitymeta.com/
-38,39,0xfeC1408fa5eF2A57c4f46EDb3c105Ff3804AC5d6,MetaReset  (RESET),$0.00,454,https://www.metareset.org/
-39,40,0x2132f6f5a45ab821e99dc1275da764776ceb2530,SGT  (SGT),$0.00,55,https://suzuverse.com/
-40,41,0x5d43b66da68706d39f6c97f7f1415615672b446b,The SolaVers...  (SOLA),$0.00,228,https://thesolaverse.com/
-41,42,0x02fa88718f365313e65b406cb39a8fe9e82d1bee,MultiNFT Tok...  (MNFT),$0.00,200,https://www.multinft.io
-42,43,0x3cd41ec039c1f2dd1f76144bb3722e7b503f50ab,Omnicrypt  (ONIC),$0.00,54,https://omnicrypt.org/
-43,44,0xdf801468a808a32656d2ed2d2d80b72a129739f4,SHIBAFRIEND ...  (SFT),$0.00,46,https://shibafriendnft.io/
-44,45,0xd6929179d752d5d25c5efe2d9729eb77d7138a80,Puff Ticket  (PT),$0.00,-,https://puffverse.pro/
-45,46,0xfF3417DD60A87bcE3a6D7d4a62Dcd3e9D2eA59C4,Somnium Spac...  (PARCEL),$0.00,-,https://www.somniumspace.com
-46,47,0x4f81c790581b240a5c948afd173620ecc8c71c8d,Space Mine  (MINE),$0.00,187,http://space-mine.io/
-47,48,0xa962fc9d092c1e2de00bf600e261cf058b5685b1,LasMeta  (LASM),$0.00,11,https://lasmeta.io/
-48,49,0xf2b2456fbbf42728ae9b1c2588397f52a5a85394,Metaverse Do...  (MVDG),$0.00,4062,https://metaversedogcrypto.com/
-49,50,0x85892dd8186e31f0e43a1f2c547f950c39b46703,SlimeCoin  (SLIME),$0.00,901,https://www.squishiverse.com
-50,51,0x8765b1a0eb57ca49be7eacd35b24a574d0203656,BOHR  (BR),$0.00,10,https://bohrweb.org/
-51,52,0x5b649c07e7ba0a1c529deaabed0b47699919b4a2,Chirp  (CHIRP),$0.00,472,https://squawk.finance/
-52,53,0x8C0b5D2b6F128944695C03a53ED899e6035F6d75,OASISLIFE  (OFE),$0.00,65,http://www.meoasis.com/
-53,54,0x35bA8966aa3D81E007d2CBC167172583a07dFf8C,Alvey Chain  (wALV),$0.00,840,https://www.alveychain.com/
-54,55,0xc45b5887fe665968c1bf02309f117a578f412de9,dcl://hallow...  (DCLHLW...),$0.00,-,https://decentraland.org/
-55,56,0x964DA6849423CBDd36768DBd227A5674449378ac,Metroverse M...  (METROM...),$0.00,-,http://metroverse.com
-56,57,0x6F66f3012E0210baBD2384e31863C30f70356237,SANDO  (SANDO),$0.00,69,https://www.sandotoken.io/
-57,58,0xcf9b27399447f92462dad69491edba304a063591,UERII  (UERII),$0.00,348,https://www.uerii.com/
-58,59,0xfcaef566a8b69749a085ee9276eacaa9b559c113,MetaFashion  (MTFSN),$0.00,16,https://www.meta-fashion.finance/
-59,60,0x8515ba8EF2CF2F2BA44b26fF20337D7A2bc5e6D8,The Digital ...  (LABORA...),$0.00,-,https://digitaldogs.ai/
-60,61,0x677ad66762c009aab99509c2f903e68a57bc1f80,Faith Tribe  (FTRB),$0.00,238,https://faithtribe.io/
-61,62,0xd3c4163e18AaEBe43b4fc8B1A53Dc3241fB3d017,Pochi Inu  (POCHI),$0.00,2854,https://pochiinu.io/
-62,63,0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c,OrbCity  (ORB),$0.00,38,https://orbcity.io/
-63,64,0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697,JPEG.LAND  (JPEG),$0.00,-,https://www.taylor.wtf/portal
-64,65,0x7789eeaf7a1040377A77cfc2C35A6a7BF1011338,Sybilverse  (SYBIL),$0.00,-,https://www.smplverse.xyz/sybilverse
-65,66,0x2ee543b8866f46cc3dc93224c6742a8911a59750,Candao  (CDO),$0.00,1,http://candao.io/
-66,67,0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F,BitAstir Tok...  (BITA),$0.00,890,https://www.bitastir.io/
-67,68,0x2596825a84888E8f24b747DF29e11b5dd03C81D7,Kluest Metav...  (KLUEST),$0.00,37,https://www.kluest-token.com/
-68,69,0x3442FBF264b6D723e01775A710850DcEF6E6847c,Glitwise  (GLITWI...),$0.00,2,http://www.gliwise.com/
-69,70,0x9BDfdad02753190C367B425339C65566B4a0BD5B,Megaverse  (MEGA),$0.00,30,https://megaverse.game/
-70,71,0x3178176441ddf503d91a6513b0547c4253d27252,RipGabe  (BORK),$0.00,181,https://www.ripgabe.com/
-71,72,0x3c917054e03485808137eb306eafa8da0ab695cd,ROGIN.AI  (ROG),$0.00,3976,https://rogin.ai/
-72,73,0x4612021c75809160be60db21fbc9d6add0b32def,QuantumHeart  (QTH),$0.00,991,https://www.meta-quantum.io/
-73,74,0x198C654590F6f864a0054E2A213224fc9CC775De,Architects  (Archit...),$0.00,-,https://www.architectsnft.io/
-74,75,0xce0cd513a069e8ec9cb625fcdf6d5f29aa912dbc,Traveloggers  (LOGRS),$0.00,-,https://traveloggers.matters.news/
-75,76,0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea,Takemichi In...  (TAKE),$0.00,301,https://takemichinu.com/
-76,77,0x08d7338aa61b542a63c9149fea7dd628c9e96947,Sooncoin  (Soon),$0.00,459,https://soonmetaverse.com
-77,78,0xdc349913d53b446485e98b76800b6254f43df695,the metavers...  (MGH),$0.00,569,https://www.metagamehub.io/
-78,79,0xbb2dba1176d9f49d7bfdd4400c5e44427610f91f,Cannaland To...  (CNLT),$0.00,215,https://cannaversetech.io/
-79,80,0x9dD2188FF101Bd0085f8EfC2b55f9744Cd57Bc52,DCITY World  (DCITY),$0.00,26,https://www.dcityworld.com/
-80,81,0xE1ab57b82F4BA25F8b4421B466e7dd5051b8C79a,BTour Chain  (MSOT),$0.00,1499,https://www.fingerate.world/en
-81,82,0x30df7d7ee52c1b03cd009e656f00ab875adceed2,Shrapnel Ope...  (SOCM),$0.00,-,https://shrapnel.com
-82,83,0x83e9f223e1edb3486f876ee888d76bfba26c475a,FFORMS  (FFORM),$0.00,-,https://www.fforms.com/
-83,84,0x638f24096ff33e047e05e59fabc76325207090dc,1peco coin  (1PECO),$0.00,8,https://www.1eco.io/
-84,85,0x8eb1779a32678452eb273a22d413207299904d90,CyanBlueChip...  (CV01),$0.00,28,https://www.usecyan.com/
-85,86,0xac8e742a84f7619ecfd332e6721c5af65927716f,KeyToken  (KTK),$0.00,104,http://k-world.info/
-86,87,0xb7de92be975ccb27e7352a1d47512acbdb0bac32,Partyland  (PALA),$0.00,450,https://partyland.io/
-87,88,0xcd1faff6e578fa5cac469d2418c95671ba1a62fe,Origin Metav...  (ORIGIN...),$0.00,5,https://www.originmv.com/
-88,89,0xb5be7557fe8f69a2B5707D25fA0aeE80DfDA512E,ChainGuardia...  (CGT),$0.00,-,https://www.chainguardians.io
-89,90,0x256d1fce1b1221e8398f65f9b36033ce50b2d497,Block  (BLOCK),$0.00,2586,https://www.critterz.xyz/
-90,91,0x12bb890508c125661e03b09ec06e404bc9289040,The My Unive...  (My Uni...),$0.00,-,https://myuniverse.online/
-91,92,0x2ce03755df4d81cdaab8589b707a034e66c7ced5,AlliToken  (ALIT),$0.00,394,https://allimeta.world/
-92,93,0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810,Crypto Anima...  (CAFC),$0.00,-,https://cryptoanimalfarm.com/
-93,94,0xf06c096c8d5674c5c29a314d3c70f05d7ac2fea1,STYLE Protoc...  (STYLE),$0.00,117,http://www.protocol.style/
-94,95,0x7169ba45cf03e0377b464462aacbccdf1f721125,Cornerstone....  (CORNER...),$0.00,-,https://cornerstone.land/
-95,96,0xbba6c7c7d673c48d90069ad2e9d2fe587fcb6bc3,Doge Floki C...  (DOFI),$0.00,6,https://dogefloki.site
-96,97,0x9f7fc686cfd64aa5ae15b351d03071e91533094b,Puff Genesis  (PG),$0.00,-,https://puffverse.pro/
-97,98,0x47b9f01b16e9c9cb99191dca68c9cc5bf6403957,SpaceSHIB  (SpaceS...),$0.00,-,https://spaceshib.co/
-98,99,0x207a6669c1c2d14a72233c0cd5e7fe1db05f558e,MetaSpace RE...  (MREIT),$0.00,402,https://www.mreit.io/
-99,100,0xe15B045EBcE82692FFCBa6307A951bE1B1AB5215,Metroverse C...  (METROB...),$0.00,-,https://metroverse.com
-100,101,0x464fdb8affc9bac185a7393fd4298137866dcfb8,Metroverse C...  (METROB...),$0.00,-,https://metroverse.com
-101,102,0x3bf954e809620bf2f1fcb667f1c7d2d2e94350d1,The SolaVers...  (SOLA),$0.00,228,https://thesolaverse.com/
-102,103,0x8ca5ebd85436c8492767bd3f6789eaca6c8f2024,Xiro  (XIRO),$0.00,-,http://www.xiroverse.com/
-103,104,0xBEDE1F59Fa4412556fEF69f1B9969F2003E3f8c1,dcl://exclus...  (DCLEXC...),$0.00,-,https://decentraland.org/
-104,105,0xa848e9666c24d9e3a686fe1b61137126a59bdae3,Metroverse B...  (METROB...),$0.00,-,http://metroverse.com
-105,106,0xcd60d912655281908ee557ce1add61e983385a03,MetaMansions  (MM),$0.00,-,https://www.metamansionsbykeys.com/
-106,107,0xD3771E1Aad236a9fF04B4EceF91AB88f45EaBCC4,Omnicrypt  (ONIC),$0.00,54,https://omnicrypt.org/
-107,108,0xc4ec016b2e0c4284bb45690759cd1e4db0e1563c,Made In Real...  (MIRL),$0.00,335,https://mirl.club/
-108,109,0x8770b7dd89e5f759ee3b226e0c45e890f87ddc48,Kishimoto re...  (KISHIB...),$0.00,152,https://kishiburno.com/
-109,110,0x5aC525D33fFDA012eA2Fe246a0Ee698F861304D7,Blockchain L...  (BCL),$0.00,1,https://blockchain.land/
-110,111,0xb99E4E9b8Fd99c2C90aD5382dBC6ADfDfE3A33f3,MetaWeb3  (Web3),$0.00,360,https://metaweb3.finance/
-111,112,0xd9ca44cc7c0b9b9f622acaaa6ef1be1240de4e22,SupreSpace T...  (SAPCE),$0.00,8,https://suprespace.io/
-112,113,0xf91ac30e9b517f6d57e99446ee44894e6c22c032,BOHR  (BR),$0.00,10,https://bohrweb.org/
-113,114,0xb7dfb51d27fb7634fd03470d94e5cca52b390184,Pickle Point  (NYBPP),$0.00,581,https://notyourbro.co/
-114,115,0xff5C69e8edc6446a1898698adCf9B1149d5E0306,Candle  (CNDL),$0.00,1,https://candlelabs.org/
-115,116,0x39649f6c71389807b241e80c4bf6f5cae07afbbb,Meta DM  (META),$0.00,73,https://metadm.org/
-116,117,0x591127253e40d4f63bf29ccf3d81fd062a149c8c,OASISLIFE  (OFE),$0.00,65,http://www.meoasis.com/
-117,118,0x003625571edc6D3350c09d250BA0Cc7C6be84e74,Bitscoin  (BTCX),$0.00,349,http://bitscointoken.com/
-118,119,0x27ad8e47c48063b209fa5ca14c8c46ece49b82d2,META OCTAGON  (MOTG),$0.00,10328,https://metaoctagon.io/
-119,120,0x9b6b9d2468e165a02fef69e61b6d3d6cbc0ac409,WorldofDypia...  (WOD),$0.00,-,https://www.worldofdypians.com/
-120,121,0xe84d9e32dc8ce819b8d6c83e50edafd46c6354db,RWI Token  (RWI),$0.00,6,https://rwitoken.com/
-121,122,0x349b15326b48b261a7f600fb2ff906e49feff8e9,REALM  (REALM),$0.00,3251,https://realm.art/
-122,123,0xc04528c14c8ffd84c7c1fb6719b4a89853035cdd,Wrapped Fanb...  (WFNB),$0.00,34,https://www.fanbase.io/
-123,124,0x62b76896c44b96aE1186b994536E79a996f33E7F,Active World...  (AWRT),$0.00,268,https://www.awrttoken.com/
-124,125,0x171d76d931529384639bc9aad5b77b77041ed604,RipGabe  (BORK),$0.00,181,https://www.ripgabe.com/
-125,126,0x40baf1c997f9a1426e001c1d6bd075f1a2a6e249,Vision City  (VIZ),$0.00,201,https://ryoshiverse.io/
-126,127,0x9cF77be84214beb066F26a4ea1c38ddcc2AFbcf7,Arcade Land  (ARCLAN...),$0.00,-,https://arcade.inc/
-127,128,0x71ab77b7dbb4fa7e017bc15090b2163221420282,Metaverse Ca...  (MVC),$0.00,174,https://metaversecapital.cc/
-128,129,0xa47143bc550a9bf004bcdd3ab74e3e520faa1070,OrbCity  (ORB),$0.00,38,https://orbcity.io/
-129,130,0xcbc6922bb75e55d7ca5dabcf0ea2d7787fd023f6,DigiMetavers...  (DGMV),$0.00,1903,https://www.digicorplabs.com/
-130,131,0xe939f011a3d8fc0aa874c97e8156053a903d7176,Porn.ai  (PORN),$0.00,31,https://i-porncoin.com/
-131,132,0xb435a47ecea7f5366b2520e45b9bed7e01d2ffae,Takemichi In...  (TAKE),$0.00,301,https://takemichinu.com/
-132,133,0x22c5543d1a35178cb03b33f929a959145e538532,The Nemesis  (NEMS),$0.00,116,https://thenemesis.io/
-133,134,0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8,Sports Bet T...  (SBET),$0.00,27,https://sbettoken.org
-134,135,0x2ed2cc2c858a8a8219fd2f2d9e170285dbd02756,Banan  ($BANAN),$0.00,1001,https://monkeverse.io/
-135,136,0x2018a0f85690AdE2d1bDeD1d0875CC470cA4dEE0,Mafu Collect...  (MAFUS),$0.00,-,https://www.vasik.io/
-136,137,0x2dD3773401485fCfF077A99e2F6A40c22Ee6966e,Sooncoin  (Soon),$0.00,459,https://soonmetaverse.com
-137,138,0xc7c04f066f4eb89a40f9d259d0e1d2cd2536131a,Cornerstone ...  (NOZA),$0.00,-,https://cornerstone.land/
-138,139,0x9bf17e99b3ae8cfb39466cbfc3bbcfe511270e1c,1eco coin  (1ECO),$0.00,3030,http://www.1eco.io/
-139,140,0xB5c578947de0fd71303F71F2C3d41767438bD0de,Gossamer See...  (SEED),$0.00,-,https://gossamer.world/
-140,141,0xfF3417DD60A87bcE3a6D7d4a62Dcd3e9D2eA59C4,Metaverse  (MV),$0.00,483,https://genso.game/
-141,142,0xa962fc9d092c1e2de00bf600e261cf058b5685b1,Koi Token  (KOI),$0.00,1666,https://www.koi.io/
-142,143,0xc7c962e44316e0c052448a0fdd1da15ea24fa9a9,DeltaFlare  (HONR),$0.00,315,https://deltaflare.gg/
-143,144,0x5b649c07e7ba0a1c529deaabed0b47699919b4a2,DCITY World  (DCITY),$0.00,26,https://www.dcityworld.com/
-144,145,0x35bA8966aa3D81E007d2CBC167172583a07dFf8C,TOSA INU  (TOS),$0.00,1869,https://tosatoken.io/
-145,146,0xc45b5887fe665968c1bf02309f117a578f412de9,Yagiverse  (YAGIVE...),$0.00,-,https://yagiverse.io/
-146,147,0x964DA6849423CBDd36768DBd227A5674449378ac,LOL  (LOL),$0.00,1494,https://lol.one/
-147,148,0xdf7a6a1214b3cbd3f9812434437f61a0d4cbbe1f,InStarToken  (IST),$0.00,-,https://www.infinitystar.io/
-148,149,0x975ac0b2a9b863c5168dd92ed08a5b46ed239c4d,Alien Inu  (ALIEN),$0.00,3230,https://alieninu.monster/
-149,150,0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b,Gridcraft  (BITS),$0.00,645,https://gridcraft.net/
-150,151,0x34748fedad669c788aabe4fb325a4587941f7b48,SafeObol  (SOB),$0.00,10,https://safeobol.com/
-151,152,0x677ad66762c009aab99509c2f903e68a57bc1f80,Partyland  (PALA),$0.00,450,https://partyland.io/
-152,153,0x649124c425f452f02de83bebb7fbca959cefd4ea,ALFweb3Proje...  (ALFw3),$0.00,230,https://alfweb3project.com/
-153,154,0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c,Metroverse P...  (METROP...),$0.00,-,http://metroverse.com
-154,155,0xdf0162a6b3e9fdf0302c1e949739deeafafd8f89,DragonSB  (SB),$0.00,7,https://dragonsb.finance/
-155,156,0xcfc5f4cce369a70b599f036cb1c5abe4d2ba87d3,Sandbox's AS...  (ASSET),$0.00,-,https://www.sandbox.game/
-156,157,0x067a1eb5e383ed24b66d72aaf80d8d7db3d299a8,Meta MVRS  (MVRS),$0.00,7295,https://www.mvrstoken.org/
-157,158,0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F,WastedLands  (WAL),$0.00,17,https://thewastedlands.io/
-158,159,0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF,GridZone.io  (ZONE),$0.00,883,http://www.gridzone.io/
-159,160,0x471a5e862af35d2148bd8b505b361b1ddf5ffef1,STYLE Protoc...  (STYLE),$0.00,117,http://www.protocol.style/
-160,161,0x2596825a84888E8f24b747DF29e11b5dd03C81D7,CREA - Airdr...  (CREAAI...),$0.00,-,https://creawearables.com/
-161,162,0x7016c6f4dba9a9a48a47a2fe73a1b9271432d1d5,Soulside Met...  (SOULSI...),$0.00,34,https://soulsidemetaverse.com/
-162,163,0x3c917054e03485808137eb306eafa8da0ab695cd,XANA: Genesi...  (XGS),$0.00,-,https://genesis.xana.net/
-163,164,0xAE788F80F2756A86aa2F410C651F2aF83639B95b,LVMH  (LVMH),$0.00,163,https://landversedefi.com/
-164,165,0x543ecfb0d28fa40d639494957e7cba52460f490e,Highstreet t...  (HIGH),$0.00,3841,https://www.highstreet.market/
-165,166,0x25cD67e2DFec471aCd3cdd3B22cCf7147596DD8B,Doge Floki C...  (DOFI),$0.00,6,https://dogefloki.site
-166,167,0xbb2dba1176d9f49d7bfdd4400c5e44427610f91f,enter_the_ha...  (hashve...),$0.00,-,https://www.hashflow.com/hashverse/home
-167,168,0xE1ab57b82F4BA25F8b4421B466e7dd5051b8C79a,Hookiu  (HOOKIU),$0.00,4,http://www.hookiu.com/
-168,169,0x8eb1779a32678452eb273a22d413207299904d90,Chupacabra S...  (CS),$0.00,-,https://www.chupacabrasociety.com/
-169,170,0xf42965f82f9e3171d1205c5e3058caf324a09432,METAOASIS  (MOA),$0.00,1911,http://www.meoasis.com/
-170,171,0xc569c38373a66cead87d927bc6478f58f2de883d,Faith Tribe  (FTRB),$0.00,238,https://faithtribe.io/
-171,172,0x5b5cf41d9EC08D101ffEEeeBdA411677582c9448,TTX METAVERS...  (XMETA),$0.00,1033,https://ttx-games.com/
-172,173,0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c,SGT  (SGT),$0.00,55,https://suzuverse.com/
-173,174,0x60177e2985b04911dffe1387265ec33a0c11895f,MultiNFT Tok...  (MNFT),$0.00,200,https://www.multinft.io
-174,175,0x207a6669c1c2d14a72233c0cd5e7fe1db05f558e,Decentralize...  (DEVT),$0.00,2620,https://www.dehorizon.fun/
-175,176,0x9388f54fa978aa9e24395a8b69033304eccea4df,Meta Shiba  (MSHIBA),$0.00,1040,https://mshiba.finance/
-176,177,0xa7f75b22384ff06b1228ef82e075e30f047455c7,Dolz  (DOLZ),$0.00,806,https://www.dolz.io/
-177,178,0xec068b286d09e1650175cab9b93bfbb733eac335,Pochi Inu  (POCHI),$0.00,2854,https://pochiinu.io/
+0,1,0xc7c04f066f4eb89a40f9d259d0e1d2cd2536131a,Victoria VR  (VR),"$42,142,784.00",9951,https://victoriavr.com/
+1,2,0x60177e2985b04911dffe1387265ec33a0c11895f,Radio Caca V...  (RACA),"$39,176,033.00",5557,https://www.raca3.com/
+2,3,0x3178176441ddf503d91a6513b0547c4253d27252,Gamium [via ...  (GMM),"$20,025,944.00",838,https://gamium.world/
+3,4,0x198C654590F6f864a0054E2A213224fc9CC775De,OVR  (OVR),"$18,978,143.00",17715,https://www.ovr.ai/
+4,5,0x913ae503153d9a335398d0785ba60a2d63ddb4e2,Somnium Spac...  (CUBE),"$15,828,802.00",4582,https://www.somniumspace.com
+5,6,0x08d7338aa61b542a63c9149fea7dd628c9e96947,Decentral Ga...  (DG),"$14,068,596.00",3445,https://decentral.games
+6,7,0x34748fedad669c788aabe4fb325a4587941f7b48,Decentral Ga...  (xDG),"$9,110,016.00",3074,https://decentral.games
+7,8,0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8,BCP Coin  (BCP),"$5,004,547.00",8710,https://bcprotocol.io/
+8,9,0x5b649c07e7ba0a1c529deaabed0b47699919b4a2,Torum  (XTM),"$3,964,237.00",2026,https://intro.torum.com/
+9,10,0xbba6c7c7d673c48d90069ad2e9d2fe587fcb6bc3,Neos Credits  (NCR),"$1,871,093.00",4916,https://neos.com/
+10,11,0x6E6e269b18434d1D988d94b25cDa1cEe60DE4DcE,Skeb Coin  (SKEB),"$1,111,151.00",1476,https://skebcoin.com/
+11,12,0x9BDfdad02753190C367B425339C65566B4a0BD5B,BlockchainSp...  (GUILD),"$882,390.00",3650,https://www.blockchainspace.asia/
+12,13,0xcf9b27399447f92462dad69491edba304a063591,MetaFabric  (FABRIC),"$670,311.00",2384,https://metafabric.io
+13,14,0xeff3f1b9400D6D0f1E8805BddE592F61535F5EcD,PolysportsTo...  (PS1),"$589,194.00",4,https://www.polysports.org/
+14,15,0xdc349913d53b446485e98b76800b6254f43df695,Trace Networ...  (TRACE),"$535,357.00",344,https://trace.network/
+15,16,0xe5ef42d0e5e4aa6b36c613d00db8dad303d505f3,MetaBrands  (MAGE),"$468,988.00",1207,http://metabrands.io/
+16,17,0xdf801468a808a32656d2ed2d2d80b72a129739f4,Goons of Bal...  (GOB),"$448,429.00",1547,https://goonsofbalatroon.com/
+17,18,0xf6e06b54855eff198a2d9a8686113665499a6134,ONSTON  (ONSTON),"$354,985.00",5190,https://onston.network/
+18,19,0x93b849973c61a0ee4e5f640a4afb2db2f57b185d,Celestial  (Celt),"$198,464.00",695,https://celt.game/
+19,20,0x8ca5ebd85436c8492767bd3f6789eaca6c8f2024,Lepasa  (LEPA),"$154,091.00",68,https://www.lepasa.com
+20,21,0x7016c6f4dba9a9a48a47a2fe73a1b9271432d1d5,Bezoge Earth  (BEZOGE),"$109,764.00",30337,https://www.bezoge.com/
+21,22,0x7d5121505149065b562c789a0145ed750e6e8cdd,Squawk  (SQUAWK),"$21,471.00",2008,https://squawk.finance/
+22,23,0x8873BffF55C193834682A78b9412607A9021233B,Chupacabra S...  (CS),$0.00,-,https://www.chupacabrasociety.com/
+23,24,0x4612021c75809160be60db21fbc9d6add0b32def,Unicorn Meta...  (UNIVER...),$0.00,609,https://rarity.garden/
+24,25,0xAE788F80F2756A86aa2F410C651F2aF83639B95b,Porn.ai  (PORN),$0.00,31,https://i-porncoin.com/
+25,26,0xe15B045EBcE82692FFCBa6307A951bE1B1AB5215,BTour Chain  (MSOT),$0.00,1499,https://www.fingerate.world/en
+26,27,0x76815db68ada44ad4351bda6b3b669e6d35b4962,TOSA INU  (TOS),$0.00,1868,https://tosatoken.io/
+27,28,0x9f7fc686cfd64aa5ae15b351d03071e91533094b,The Digital ...  (LABORA...),$0.00,-,https://digitaldogs.ai/
+28,29,0x2132f6f5a45ab821e99dc1275da764776ceb2530,MultiNFT Tok...  (MNFT),$0.00,200,https://www.multinft.io
+29,30,0x73474D0A549e32845F541e030C3d529de6ab8738,Gamium LANDs  (LAND),$0.00,-,https://gamium.world/
+30,31,0xA75E7928d3de682e3F44dA60C26F33117c4E6C5c,Mafu Collect...  (MAFUS),$0.00,-,https://www.vasik.io/
+31,32,0xd3c4163e18AaEBe43b4fc8B1A53Dc3241fB3d017,1peco coin  (1PECO),$0.00,8,https://www.1eco.io/
+32,33,0x2ee543b8866f46cc3dc93224c6742a8911a59750,LOL  (LOL),$0.00,1495,https://lol.one/
+33,34,0x207a6669c1c2d14a72233c0cd5e7fe1db05f558e,Sybilverse  (SYBIL),$0.00,-,https://www.smplverse.xyz/sybilverse
+34,35,0xc1d9b5a0776d7c8b98b8a838e5a0dd1bc5fdd53c,SlimeCoin  (SLIME),$0.00,901,https://www.squishiverse.com
+35,36,0x807a0774236A0fBE9e7f8E7Df49EDFED0e6777Ea,PartyLand  (PLD),$0.00,-,https://partyland.io/
+36,37,0x3dffcee85e33b0d051bfdc35eb58fe23703e64da,DeltaFlare  (HONR),$0.00,314,https://deltaflare.gg/
+37,38,0xf2b2456fbbf42728ae9b1c2588397f52a5a85394,Banan  ($BANAN),$0.00,1001,https://monkeverse.io/
+38,39,0x25cD67e2DFec471aCd3cdd3B22cCf7147596DD8B,STYLE Protoc...  (STYLE),$0.00,119,http://www.protocol.style/
+39,40,0xEC996206D1A8Fc444870543a9D0b9a490aaDBF4c,Block  (BLOCK),$0.00,2586,https://www.critterz.xyz/
+40,41,0xE1ab57b82F4BA25F8b4421B466e7dd5051b8C79a,DragonSB  (SB),$0.00,7,https://dragonsb.finance/
+41,42,0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2,Chirp  (CHIRP),$0.00,473,https://squawk.finance/
+42,43,0x9cF77be84214beb066F26a4ea1c38ddcc2AFbcf7,Astral Pione...  (APIC),$0.00,1,https://www.astralpioneers.com/
+43,44,0x7a18dDFf158D695CA02A7A8C0268Eea1aFD05aAE,SafeObol  (SOB),$0.00,10,https://safeobol.com/
+44,45,0x8eb1779a32678452eb273a22d413207299904d90,Doge Floki C...  (DOFI),$0.00,6,https://dogefloki.site
+45,46,0x7789eeaf7a1040377A77cfc2C35A6a7BF1011338,MetaSpace RE...  (MREIT),$0.00,402,https://www.mreit.io/
+46,47,0xd52aae39a2b5cc7812f7b9450ebb61dfef702b15,METAOASIS  (MOA),$0.00,1911,http://www.meoasis.com/
+47,48,0x83e9f223e1edb3486f876ee888d76bfba26c475a,CREA - Airdr...  (CREAAI...),$0.00,-,https://creawearables.com/
+48,49,0x47b9f01b16e9c9cb99191dca68c9cc5bf6403957,TTX METAVERS...  (XMETA),$0.00,1033,https://ttx-games.com/
+49,50,0xf06c096c8d5674c5c29a314d3c70f05d7ac2fea1,Dolz  (DOLZ),$0.00,811,https://www.dolz.io/
+50,51,0x8765b1a0eb57ca49be7eacd35b24a574d0203656,enter_the_ha...  (hashve...),$0.00,-,https://www.hashflow.com/hashverse/home
+51,52,0xdf0162a6b3e9fdf0302c1e949739deeafafd8f89,SHIBAFRIEND ...  (SFT),$0.00,45,https://shibafriendnft.io/
+52,53,0x02fa88718f365313e65b406cb39a8fe9e82d1bee,SGT  (SGT),$0.00,57,https://suzuverse.com/
+53,54,0x358CFdb3994CA3137caF3899cE111c9a03a3144E,Metaverse Do...  (MVDG),$0.00,4063,https://metaversedogcrypto.com/
+54,55,0xf91ac30e9b517f6d57e99446ee44894e6c22c032,Shrapnel Ope...  (SOCM),$0.00,-,https://shrapnel.com
+55,56,0x638f24096ff33e047e05e59fabc76325207090dc,Somnium Spac...  (PARCEL),$0.00,-,https://www.somniumspace.com
+56,57,0xf6f31b8afbf8e3f7fc8246bef26093f02838da98,SANDO  (SANDO),$0.00,69,https://www.sandotoken.io/
+57,58,0x349b15326b48b261a7f600fb2ff906e49feff8e9,CyanBlueChip...  (CV01),$0.00,28,https://www.usecyan.com/
+58,59,0x9dD2188FF101Bd0085f8EfC2b55f9744Cd57Bc52,ForTheDog  (FTD),$0.00,14874,https://www.forthedog.life/
+59,60,0x5d43b66da68706d39f6c97f7f1415615672b446b,dcl://hallow...  (DCLHLW...),$0.00,-,https://decentraland.org/
+60,61,0x471a5e862af35d2148bd8b505b361b1ddf5ffef1,Wrapped Fanb...  (WFNB),$0.00,35,https://www.fanbase.io/
+61,62,0x12bb890508c125661e03b09ec06e404bc9289040,MetaFashion  (MTFSN),$0.00,16,https://www.meta-fashion.finance/
+62,63,0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F,The My Unive...  (My Uni...),$0.00,-,https://myuniverse.online/
+63,64,0x00e13ff16d54619024ab3b861f25b84bd53e8ac1,ROGIN.AI  (ROG),$0.00,3973,https://rogin.ai/
+64,65,0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c,Faith Tribe  (FTRB),$0.00,239,https://faithtribe.io/
+65,66,0x32afe5c47f43830645a74eecee94a84300fd2ac8,GridZone.io  (ZONE),$0.00,883,http://www.gridzone.io/
+66,67,0xd6929179d752d5d25c5efe2d9729eb77d7138a80,Highstreet t...  (HIGH),$0.00,3927,https://www.highstreet.market/
+67,68,0x8c6Fa66c21aE3fC435790E451946a9Ea82E6e523,Metaverse Ca...  (MVC),$0.00,174,https://metaversecapital.cc/
+68,69,0x71ab77b7dbb4fa7e017bc15090b2163221420282,JPEG.LAND  (JPEG),$0.00,-,https://www.taylor.wtf/portal
+69,70,0x58083B54013631BaCc0bbB6d4efa543Fee1D9cE0,FORCE  (FRC),$0.00,2,https://thesnkrz.com/
+70,71,0x2ed2cc2c858a8a8219fd2f2d9e170285dbd02756,Metroverse C...  (METROB...),$0.00,-,https://metroverse.com
+71,72,0xf42965f82f9e3171d1205c5e3058caf324a09432,LEGOx  (LEGOx),$0.00,1,https://www.legox.xyz/
+72,73,0x964DA6849423CBDd36768DBd227A5674449378ac,Pochi Inu  (POCHI),$0.00,2854,https://pochiinu.io/
+73,74,0xc1ABb8c93be6811aFfC70675b0432926c4BFBb5D,ILONSI  (ILO),$0.00,143,http://www.meta-fluencer.com/
+74,75,0x5aC525D33fFDA012eA2Fe246a0Ee698F861304D7,Candao  (CDO),$0.00,1,http://candao.io/
+75,76,0x40baf1c997f9a1426e001c1d6bd075f1a2a6e249,Sports Bet T...  (SBET),$0.00,27,https://sbettoken.org
+76,77,0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697,Glitwise  (GLITWI...),$0.00,2,http://www.gliwise.com/
+77,78,0xa47143bc550a9bf004bcdd3ab74e3e520faa1070,Metroverse B...  (METROB...),$0.00,-,http://metroverse.com
+78,79,0x591127253e40d4f63bf29ccf3d81fd062a149c8c,Origin Metav...  (ORIGIN...),$0.00,5,https://www.originmv.com/
+79,80,0xb5be7557fe8f69a2B5707D25fA0aeE80DfDA512E,Meta Monero  (MMR),$0.00,2,https://www.metamonero.com/
+80,81,0xa962fc9d092c1e2de00bf600e261cf058b5685b1,Megaverse  (MEGA),$0.00,30,https://megaverse.game/
+81,82,0xcd1faff6e578fa5cac469d2418c95671ba1a62fe,Meta Shiba  (MSHIBA),$0.00,1039,https://mshiba.finance/
+82,83,0x6D614686550B9E1c1DF4b2cD8f91C9D4df66C810,1eco coin  (1ECO),$0.00,3030,http://www.1eco.io/
+83,84,0x256d1fce1b1221e8398f65f9b36033ce50b2d497,Blockchain L...  (BCL),$0.00,1,https://blockchain.land/
+84,85,0xb99E4E9b8Fd99c2C90aD5382dBC6ADfDfE3A33f3,Crypto Anima...  (CAFC),$0.00,-,https://cryptoanimalfarm.com/
+85,86,0x4b19c70da4c6fa4baa0660825e889d2f7eabc279,MMS  (MMS),$0.00,30,https://mms-digital.online/
+86,87,0x7169ba45cf03e0377b464462aacbccdf1f721125,QuantumHeart  (QTH),$0.00,991,https://www.meta-quantum.io/
+87,88,0x2596825a84888E8f24b747DF29e11b5dd03C81D7,Propel Token  (PEL),$0.00,12,https://propel.xyz
+88,89,0x33384af34b03eaca63fd153f59589f504772b570,onLEXpa  (onLEXp...),$0.00,131,https://www.onlexpa.com/
+89,90,0x0cfa13a0773ce653971beeb5a8f176fd37ea25aa,Metaverse  (MV),$0.00,485,https://genso.game/
+90,91,0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b,Puff Ticket  (PT),$0.00,-,https://puffverse.pro/
+91,92,0x01b6d39746cce500b70cfb242dcc5f7596b11e41,METANOA  (NOA),$0.00,452,https://metanoa.io/
+92,93,0xcacc19c5ca77e06d6578decac80408cc036e0499,The SolaVers...  (SOLA),$0.00,228,https://thesolaverse.com/
+93,94,0x4f81c790581b240a5c948afd173620ecc8c71c8d,the metavers...  (MGH),$0.00,569,https://www.metagamehub.io/
+94,95,0xe939f011a3d8fc0aa874c97e8156053a903d7176,MonfterToken  (MON),$0.00,1146,https://monfter.com
+95,96,0x698ff9c45f261e963ce060d1eb42099eaed333ae,The Digital ...  (VIAL0),$0.00,-,https://digitaldogs.ai/
+96,97,0xce0cd513a069e8ec9cb625fcdf6d5f29aa912dbc,Alien Inu  (ALIEN),$0.00,3230,https://alieninu.monster/
+97,98,0x85892dd8186e31f0e43a1f2c547f950c39b46703,Alvey Chain  (wALV),$0.00,838,https://www.alveychain.com/
+98,99,0x4b520c812e8430659fc9f12f6d0c39026c83588d,UERII  (UERII),$0.00,348,https://www.uerii.com/
+99,100,0x649124c425f452f02de83bebb7fbca959cefd4ea,Cannaland To...  (CNLT),$0.00,212,https://cannaversetech.io/
+100,101,0xc7c04f066f4eb89a40f9d259d0e1d2cd2536131a,Origin Metav...  (ORIGIN...),$0.00,5,https://www.originmv.com/
+101,102,0x60177e2985b04911dffe1387265ec33a0c11895f,Yagiverse  (YAGIVE...),$0.00,-,https://yagiverse.io/
+102,103,0x601a0ee18e9dcdc70658d8b87a748e11344d3a45,Cornerstone....  (CORNER...),$0.00,-,https://cornerstone.land/
+103,104,0x3178176441ddf503d91a6513b0547c4253d27252,Metroverse B...  (METROB...),$0.00,-,http://metroverse.com
+104,105,0x198C654590F6f864a0054E2A213224fc9CC775De,DeltaFlare  (HONR),$0.00,314,https://deltaflare.gg/
+105,106,0x913ae503153d9a335398d0785ba60a2d63ddb4e2,Crypto Anima...  (CAFC),$0.00,-,https://cryptoanimalfarm.com/
+106,107,0x3bf954e809620bf2f1fcb667f1c7d2d2e94350d1,SafeObol  (SOB),$0.00,10,https://safeobol.com/
+107,108,0xB5c578947de0fd71303F71F2C3d41767438bD0de,METANOA  (NOA),$0.00,452,https://metanoa.io/
+108,109,0x34748fedad669c788aabe4fb325a4587941f7b48,InStarToken  (IST),$0.00,-,https://www.infinitystar.io/
+109,110,0x39Ea10E507720783C27eDd5F96Bf2D6e199579B8,Puff Genesis  (PG),$0.00,-,https://puffverse.pro/
+110,111,0x5b649c07e7ba0a1c529deaabed0b47699919b4a2,Blockchain L...  (BCL),$0.00,1,https://blockchain.land/
+111,112,0x975ac0b2a9b863c5168dd92ed08a5b46ed239c4d,Wrapped Fanb...  (WFNB),$0.00,35,https://www.fanbase.io/
+112,113,0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF,ALFweb3Proje...  (ALFw3),$0.00,230,https://alfweb3project.com/
+113,114,0x6E6e269b18434d1D988d94b25cDa1cEe60DE4DcE,Xiro  (XIRO),$0.00,-,http://www.xiroverse.com/
+114,115,0x2ce03755df4d81cdaab8589b707a034e66c7ced5,Sandbox's AS...  (ASSET),$0.00,-,https://www.sandbox.game/
+115,116,0x9BDfdad02753190C367B425339C65566B4a0BD5B,Made In Real...  (MIRL),$0.00,277,https://mirl.club/
+116,117,0xdf7a6a1214b3cbd3f9812434437f61a0d4cbbe1f,WorldofDypia...  (WOD),$0.00,-,https://www.worldofdypians.com/
+117,118,0xcf9b27399447f92462dad69491edba304a063591,Metaverse Ca...  (MVC),$0.00,174,https://metaversecapital.cc/
+118,119,0xe84d9e32dc8ce819b8d6c83e50edafd46c6354db,Sports Bet T...  (SBET),$0.00,27,https://sbettoken.org
+119,120,0x2018a0f85690AdE2d1bDeD1d0875CC470cA4dEE0,Soulside Met...  (SOULSI...),$0.00,34,https://soulsidemetaverse.com/
+120,121,0x284b19a5fa65f706422c0c86566e407b0e70e537,Pickle Point  (NYBPP),$0.00,581,https://notyourbro.co/
+121,122,0x8C0b5D2b6F128944695C03a53ED899e6035F6d75,onLEXpa  (onLEXp...),$0.00,131,https://www.onlexpa.com/
+122,123,0x543ecfb0d28fa40d639494957e7cba52460f490e,RWI Token  (RWI),$0.00,6,https://rwitoken.com/
+123,124,0x7016c6f4dba9a9a48a47a2fe73a1b9271432d1d5,BitAstir Tok...  (BITA),$0.00,890,https://www.bitastir.io/
+124,125,0x9388f54fa978aa9e24395a8b69033304eccea4df,1eco coin  (1ECO),$0.00,3030,http://www.1eco.io/
+125,126,0x62b76896c44b96aE1186b994536E79a996f33E7F,Hookiu  (HOOKIU),$0.00,4,http://www.hookiu.com/
+126,127,0xAE788F80F2756A86aa2F410C651F2aF83639B95b,Bitscoin  (BTCX),$0.00,349,http://bitscointoken.com/
+127,128,0x9B01637302B6Adfc2C82678e2A8D680CFF6337B7,LEGOx  (LEGOx),$0.00,1,https://www.legox.xyz/
+128,129,0xc569c38373a66cead87d927bc6478f58f2de883d,The Digital ...  (VIAL0),$0.00,-,https://digitaldogs.ai/
+129,130,0xb435a47ecea7f5366b2520e45b9bed7e01d2ffae,Vision City  (VIZ),$0.00,210,https://ryoshiverse.io/
+130,131,0xBEDE1F59Fa4412556fEF69f1B9969F2003E3f8c1,Traveloggers  (LOGRS),$0.00,-,https://traveloggers.matters.news/
+131,132,0x73474D0A549e32845F541e030C3d529de6ab8738,Faith Tribe  (FTRB),$0.00,239,https://faithtribe.io/
+132,133,0xa848e9666c24d9e3a686fe1b61137126a59bdae3,Metaverse  (MV),$0.00,485,https://genso.game/
+133,134,0xfcaef566a8b69749a085ee9276eacaa9b559c113,ILONSI  (ILO),$0.00,143,http://www.meta-fluencer.com/
+134,135,0x3dffcee85e33b0d051bfdc35eb58fe23703e64da,The Paradox ...  (PARA),$0.00,-,https://paradoxmeta.io/
+135,136,0xf2b2456fbbf42728ae9b1c2588397f52a5a85394,The Nemesis  (NEMS),$0.00,116,https://thenemesis.io/
+136,137,0x25cD67e2DFec471aCd3cdd3B22cCf7147596DD8B,Gossamer See...  (SEED),$0.00,-,https://gossamer.world/
+137,138,0xEC996206D1A8Fc444870543a9D0b9a490aaDBF4c,Pochi Inu  (POCHI),$0.00,2854,https://pochiinu.io/
+138,139,0xE1ab57b82F4BA25F8b4421B466e7dd5051b8C79a,MetaMansions  (MM),$0.00,-,https://www.metamansionsbykeys.com/
+139,140,0xd4bcb3cCc8f44aEe5f6a9d1D5f626e885F1D0902,Alien Inu  (ALIEN),$0.00,3230,https://alieninu.monster/
+140,141,0xc1f4b0eea2bd6690930e6c66efd3e197d620b9c2,Meta Monero  (MMR),$0.00,2,https://www.metamonero.com/
+141,142,0x8eb1779a32678452eb273a22d413207299904d90,Landindex Al...  (ALPHA),$0.00,-,https://landindex.io/
+142,143,0x5b5cf41d9EC08D101ffEEeeBdA411677582c9448,Cornerstone ...  (NOZA),$0.00,-,https://cornerstone.land/
+143,144,0x2dD3773401485fCfF077A99e2F6A40c22Ee6966e,MMS  (MMS),$0.00,30,https://mms-digital.online/
+144,145,0x8765b1a0eb57ca49be7eacd35b24a574d0203656,AMATERASU OM...  (OMIKAM...),$0.00,501,https://omikamitoken.com/
+145,146,0x8515ba8EF2CF2F2BA44b26fF20337D7A2bc5e6D8,FIT  (FIT),$0.00,3,https://www.thesnkrz.com/
+146,147,0x9e18d5BAB2FA94a6A95F509Ecb38F8F68322AbD3,Koi Token  (KOI),$0.00,1662,https://www.koi.io/
+147,148,0xc4ec016b2e0c4284bb45690759cd1e4db0e1563c,FFORMS  (FFORM),$0.00,-,https://www.fforms.com/
+148,149,0x358CFdb3994CA3137caF3899cE111c9a03a3144E,Candao  (CDO),$0.00,1,http://candao.io/
+149,150,0xcfc5f4cce369a70b599f036cb1c5abe4d2ba87d3,MetaWeb3  (Web3),$0.00,360,https://metaweb3.finance/
+150,151,0xc7c962e44316e0c052448a0fdd1da15ea24fa9a9,The SolaVers...  (SOLA),$0.00,228,https://thesolaverse.com/
+151,152,0xf91ac30e9b517f6d57e99446ee44894e6c22c032,zero2hero  (Z2H),$0.00,1,https://zero2hero.net/
+152,153,0x8770b7dd89e5f759ee3b226e0c45e890f87ddc48,Gridcraft  (BITS),$0.00,644,https://gridcraft.net/
+153,154,0x471a5e862af35d2148bd8b505b361b1ddf5ffef1,Megaverse  (MEGA),$0.00,30,https://megaverse.game/
+154,155,0x9bf17e99b3ae8cfb39466cbfc3bbcfe511270e1c,Meta DM  (META),$0.00,73,https://metadm.org/
+155,156,0x48c3d5ef2330a94390a80a6a3783c7c949ae7309,TOSA INU  (TOS),$0.00,1868,https://tosatoken.io/
+156,157,0x99b37475ebd7dce551e6a9248673040f1d8f712f,Metroverse P...  (METROP...),$0.00,-,http://metroverse.com
+157,158,0x39649f6c71389807b241e80c4bf6f5cae07afbbb,QuantumHeart  (QTH),$0.00,991,https://www.meta-quantum.io/
+158,159,0xec068b286d09e1650175cab9b93bfbb733eac335,REALM  (REALM),$0.00,3268,https://realm.art/
+159,160,0x32afe5c47f43830645a74eecee94a84300fd2ac8,the metavers...  (MGH),$0.00,569,https://www.metagamehub.io/
+160,161,0x2ed2cc2c858a8a8219fd2f2d9e170285dbd02756,Arcade Land  (ARCLAN...),$0.00,-,https://arcade.inc/
+161,162,0xf42965f82f9e3171d1205c5e3058caf324a09432,SHIBAFRIEND ...  (SFT),$0.00,45,https://shibafriendnft.io/
+162,163,0x964DA6849423CBDd36768DBd227A5674449378ac,LOL  (LOL),$0.00,1495,https://lol.one/
+163,164,0x067a1eb5e383ed24b66d72aaf80d8d7db3d299a8,Meta MVRS  (MVRS),$0.00,7302,https://www.mvrstoken.org/
+164,165,0x5aC525D33fFDA012eA2Fe246a0Ee698F861304D7,XANA: Genesi...  (XGS),$0.00,-,https://genesis.xana.net/
+165,166,0xEfcB0688c679D99ee1B78876E11EBE5BE2E4292B,Somnium Spac...  (PARCEL),$0.00,-,https://www.somniumspace.com
+166,167,0x591127253e40d4f63bf29ccf3d81fd062a149c8c,Decentralize...  (DEVT),$0.00,2634,https://www.dehorizon.fun/
+167,168,0x003625571edc6D3350c09d250BA0Cc7C6be84e74,dcl://hallow...  (DCLHLW...),$0.00,-,https://decentraland.org/
+168,169,0xb99E4E9b8Fd99c2C90aD5382dBC6ADfDfE3A33f3,DragonSB  (SB),$0.00,7,https://dragonsb.finance/
+169,170,0x2596825a84888E8f24b747DF29e11b5dd03C81D7,Dragon Maste...  (DMT),$0.00,3,https://www.dragonmaster.co/
+170,171,0x33384af34b03eaca63fd153f59589f504772b570,MetaFashion  (MTFSN),$0.00,16,https://www.meta-fashion.finance/
+171,172,0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b,CREA - Airdr...  (CREAAI...),$0.00,-,https://creawearables.com/
+172,173,0x01b6d39746cce500b70cfb242dcc5f7596b11e41,TTX METAVERS...  (XMETA),$0.00,1033,https://ttx-games.com/
+173,174,0xD3771E1Aad236a9fF04B4EceF91AB88f45EaBCC4,SupreSpace T...  (SAPCE),$0.00,8,https://suprespace.io/
+174,175,0xcd60d912655281908ee557ce1add61e983385a03,Apex protoco...  (APXP),$0.00,31,https://apexprotocol.world:42925/en/
+175,176,0xce0cd513a069e8ec9cb625fcdf6d5f29aa912dbc,JPEG.LAND  (JPEG),$0.00,-,https://www.taylor.wtf/portal
+176,177,0x85892dd8186e31f0e43a1f2c547f950c39b46703,enter_the_ha...  (hashve...),$0.00,-,https://www.hashflow.com/hashverse/home
+177,178,0xcbc6922bb75e55d7ca5dabcf0ea2d7787fd023f6,RipGabe  (BORK),$0.00,181,https://www.ripgabe.com/
+178,179,0xd9ca44cc7c0b9b9f622acaaa6ef1be1240de4e22,Omnicrypt  (ONIC),$0.00,54,https://omnicrypt.org/
+179,180,0x464fdb8affc9bac185a7393fd4298137866dcfb8,SGT  (SGT),$0.00,57,https://suzuverse.com/

@@ -1,5 +1,5 @@
 ,Address,Name Tag,Balance,Txn Count
 0,0x1e5a2861c3b4568168867a02d758f1832b277969,Onyx: Deployer,0 ETH,176
-1,0x3a1343a3ca3c32a69b79ae82e8a9a71c1293c566,Onyx: Old OSPV Token,0 ETH,28
-2,0xffa52dce6eb5695436be96ca9b7df63382e4c34d,Onyx: Old OSPVS Token,0 ETH,11
-3,0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e,Onyx: Old OUSD Stablecoin,772 wei,29
+1,0xffa52dce6eb5695436be96ca9b7df63382e4c34d,Onyx: Old OSPV Token,0 ETH,28
+2,0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e,Onyx: Old OSPVS Token,0 ETH,11
+3,0x3a1343a3ca3c32a69b79ae82e8a9a71c1293c566,Onyx: Old OUSD Stablecoin,772 wei,29

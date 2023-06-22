@@ -1,11 +1,11 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xc00e94cb662c3520282e6f5717214004a7f26888,Compound Eth...  (cETH),"$511,625,372.00",72723,https://compound.finance/
-1,2,0x39aa39c021dfbae8fac545936693ac917d5e7563,Compound USD...  (cUSDC),"$421,091,448.00",216687,https://compound.finance/
-2,3,0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5,Compound Dai  (cDAI),"$257,437,899.00",18488,https://compound.finance/
-3,4,0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4,Compound  (COMP),"$185,491,121.00",210658,https://compound.finance/
-4,5,0xC11b1268C1A384e55C48c2391d8d480264A3A7F4,Compound USD...  (cUSDT),"$177,094,752.00",5956,https://compound.finance/
-5,6,0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e,Compound Bas...  (cBAT),"$24,786,851.00",5412,https://compound.finance/
-6,7,0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643,Compound 0x  (cZRX),"$1,309,067.00",3265,https://compound.finance/
-7,8,0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407,Compound Uni...  (cUNI),$0.00,2814,https://compound.finance/
-8,9,0x35A18000230DA775CAc24873d00Ff85BccdeD550,Compound Col...  (cCOMP),$0.00,5298,https://compound.finance/
-9,10,0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9,Compound Wra...  (cWBTC),$0.00,1952,https://compound.finance/
+0,1,0xC11b1268C1A384e55C48c2391d8d480264A3A7F4,Compound Eth...  (cETH),"$495,539,447.00",72699,https://compound.finance/
+1,2,0x39aa39c021dfbae8fac545936693ac917d5e7563,Compound USD...  (cUSDC),"$385,642,878.00",216674,https://compound.finance/
+2,3,0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5,Compound Dai  (cDAI),"$254,925,589.00",18451,https://compound.finance/
+3,4,0x35A18000230DA775CAc24873d00Ff85BccdeD550,Compound  (COMP),"$200,042,272.00",210884,https://compound.finance/
+4,5,0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407,Compound USD...  (cUSDT),"$142,177,750.00",5953,https://compound.finance/
+5,6,0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643,Compound Bas...  (cBAT),"$26,481,927.00",5411,https://compound.finance/
+6,7,0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9,Compound 0x  (cZRX),"$1,403,411.00",3264,https://compound.finance/
+7,8,0xc00e94cb662c3520282e6f5717214004a7f26888,Compound Uni...  (cUNI),$0.00,2821,https://compound.finance/
+8,9,0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e,Compound Col...  (cCOMP),$0.00,5298,https://compound.finance/
+9,10,0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4,Compound Wra...  (cWBTC),$0.00,1952,https://compound.finance/

@@ -1,70 +1,70 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b,StormX  (STMX),"$37,124,959.00",2850,https://stormx.io/
-1,2,0xbc5591aa1f68061c05f97a9870a49704ebd649c2,Boson Token  (BOSON),"$17,684,002.00",7325,https://www.bosonprotocol.io/
-2,3,0xae90a1085eb6658f2b80b34a9c3664f988337702,Shping Coin  (SHPING),"$6,383,508.00",7467,https://www.shping.com/
-3,4,0x24aae7ec11f5a097e9b12827115a5110d3974d3b,NETVRK  (NTVRK),"$5,851,019.00",9014,https://www.netvrk.co/
-4,5,0xE9289f81D9c8AB27949Fcb0DFc40DA7897131695,SHOP  (SHOP),"$1,515,098.00",17311,https://shopping.io/
-5,6,0x4b001670cce0ff430e0e44a585b0b65730a24934,SHOPX  (SHOPX),"$1,282,178.00",9101,http://www.shopx.co/
-6,7,0xcafdc517691fcf4d1186953f02f19ced50efc9e2,YoloCash  (YLC),"$55,285.00",2390,https://www.yolocash.co/
-7,8,0x59321ace77c8087ff8cb9f94c8384807e4fd8a3c,NFTmall GEM ...  (GEM),"$21,378.00",10,https://nftmall.io/
-8,9,0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f,Sonder  (SNR),"$19,734.00",915,https://sonder.vision/
-9,10,0x9cda8a60dd5afa156c95bd974428d91a0812e054,Omnicrypt  (ONIC),$0.00,54,https://omnicrypt.org/
-10,11,0x532843f66375d5257ea34f723c6c2723ccf7b7a2,BuyPay  (WBPC),$0.00,271,https://www.wbpc.io/
-11,12,0x18f97ef6b2cbac5ca85b375b7093c4a207340d06,Multicoin  (MTCN),$0.00,843,https://www.boom.market/
-12,13,0xdc4605fc4fbb24fd9fbb1e7b92e97f07897e7f05,Token Networ...  (TNX),$0.00,1281,http://www.tokennetwork.global/
-13,14,0x37a15c92e67686aa268df03d4c881a76340907e8,VTPay Token  (VTP),$0.00,752,https://vtpay.ai/
-14,15,0x0b259c2da43b33d9d81d540a8ade80409b19df5f,HUBburger  (HBB),$0.00,-,https://nft.hubburger.com/
-15,16,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,Atoshi  (ATOS),$0.00,3066,http://atoshi.org/
-16,17,0x21d5678a62dfe63a47062469ebb2fac2817d8832,CLIQ Token  (CT),$0.00,12,https://thespottrapp.com/
-17,18,0x301c755ba0fca00b1923768fffb3df7f4e63af31,WUAOCOIN  (WUAO),$0.00,1,https://www.wuaocoin.com/
-18,19,0x85F9a507ef1d8e1bf666243A3B6215CE7Ee5c47C,CraftR  (CRAFTR),$0.00,956,https://craftr.io/
-19,20,0x09d1bd945df4c72f59e76347f81da9eefbf4540f,ORYX  (ORYX),$0.00,59,https://oryx.network/
-20,21,0xd2bfec3f80b7d966d7657a2ecc5982ee2f49336a,VYNK CHAIN  (VYNC),$0.00,5,https://vynkchain.org/
-21,22,0x2784dcd08f4b1bb25af84fd0b702e2aa5d5d1d64,Storex  (STRX),$0.00,3986,https://storex.io/
-22,23,0x2e6da3122bef86593400d63fbe81b539f33e52f3,Pistoletoken  (ILE),$0.00,19,https://www.pistole.io/
-23,24,0x72e646b78a2b58cbd9b0282c2e9c812bc8033293,CryptoCart  (CC),$0.00,2208,https://cryptocart.cc/
-24,25,0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec,Cashback  (CBK),$0.00,1,https://cashback.io/
-25,26,0xee0f286776639cd363da810daf3e0623f82576b0,MuayThaiToke...  (MUTT),$0.00,3,https://www.globalmuaythai.family/
-26,27,0x8a34b30a463f0f69d54d7bbccac5fd30f97c1999,Continental  (CTL),$0.00,12,https://metacontinental.com/
-27,28,0x7bef710a5759d197ec0bf621c3df802c2d60d848,Monkey King ...  (MKT),$0.00,4367,http://monkeylegend.io/
-28,29,0x515669d308f887fd83a471c7764f5d084886d34d,Keyrpto Toke...  (KYT),$0.00,3918,https://www.keyrpto.com/
-29,30,0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18,Adora  (ARA),$0.00,39,https://www.adora.finance/
-30,31,0x6a073ddabcaec5362b3d2a3290be80b35397e48b,EGORAS  (EGR),$0.00,4691,https://egoras.com
-31,32,0x73Cee8348b9bDd48c64E13452b8a6fbc81630573,Decentralize...  (DAT),$0.00,2,https://www.dattoken.com/
-32,33,0xa36f971eba855c913adc67c8abae216755d009ef,APXT  (APXT),$0.00,-,https://apollox.network/
-33,34,0x60016aa1cbcfc4223e30ad09dcfc382f2b7336b4,Lung Protoco...  (L2P),$0.00,151,https://lungprotocol.info/
-34,35,0x2364aDD8A842332bFec006188C6C03b507252A34,ETA COIN  (ETA),$0.00,6,https://www.etathai.com/
-35,36,0x015df42d36Bc851c7F15f80bd1D4e8dBF02aed0c,Ingenox Toke...  (IGX),$0.00,43,https://ingenoxtoken.com/
-36,37,0xf0ccca32cd300356629216eb301ec6649c7c6adb,Chimpion  (BNANA),$0.00,228,https://www.chimpion.io/
-37,38,0x5C0Bc243Fb13632c4D247F4f0bC27f2f58982C39,Bistroo Toke...  (BIST),$0.00,1851,https://bistroo.io/
-38,39,0x47d1a59cbdd19aee060c859c0009277e245328ae,Gosama  (GOS),$0.00,448,https://gosama.io/
-39,40,0x6d220395E741d1C068e9349eEe3ffAc780Fc88C8,SPIN Protoco...  (SPIN),$0.00,14304,https://www.spinprotocol.io/
-40,41,0xc477d038d5420c6a9e0b031712f61c5120090de9,Want Marketp...  (WNTU),$0.00,13,https://benipal.com/
-41,42,0x16558553E4647ca500c3718C56C356eDB6F9b11C,Crypto Centu...  (RCC),$0.00,11,https://rcryptocentury.com/
-42,43,0xb0e2d67489F5aD5A87F3d29d5a97a7Ed7E83D206,Mondo Commun...  (MNDCC),$0.00,1652,https://www.mondo-coin.com/en/home/
-43,44,0x12c8b0914e6dee22c7557a0a8b928ae6cacfbcf7,Spacelens  (SPACE),$0.00,3340,https://spacetoken.spacelens.com/
-44,45,0x8f55abb908245f508c5ce804182197d6e9e5cc0d,MUXE Token  (MUXE),$0.00,31379,https://www.muxe.io/
-45,46,0x9e547061a345015869d26c7b6ee4ab5b63424441,AD:VANTAGE T...  (ADTT),$0.00,44,https://advn.app/
-46,47,0xc466a0889f755ca1408f6393dc81d01f93c5377f,Global Digit...  (GDC),$0.00,3510,http://gdctoken.io/
-47,48,0x7e249c4b57e3acb34b61f6c1df23d6b7d67b6b42,EXENO  (EXN),$0.00,54,https://exeno.com/
-48,49,0x6b8425cbebaad330dfaa7a8400a38dffc4aaddaf,7coin  (7SP),$0.00,11,https://7coin.net/
-49,50,0x4f22310c27ef39feaa4a756027896dc382f0b5e2,ExhibitToken  (EXBT),$0.00,880,https://exitoken.co/
-50,51,0x1500205f50bf3fd976466d0662905c9ff254fc9c,connect coin  (XCON),$0.00,20,https://connectingcoin.io/
-51,52,0xc4ec016b2e0c4284bb45690759cd1e4db0e1563c,Xeniumx  (XEMX),$0.00,256,https://xeniumx.com/
-52,53,0xe489248b132ea8e29788ced5fb5e68a609cd8c79,FID Token  (FID),$0.00,1,https://www.fidaapp.io/
-53,54,0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f,ELEVENCOIN  (ELEVEN),$0.00,2,https://11coin.io
-54,55,0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c,BitBoost  (BBT),$0.00,1280,https://www.bitboost.net/
-55,56,0x91e64f39c1fe14492e8fdf5a8b0f305bd218c8a1,Pcash  (PCH),$0.00,1039,https://pcash.world/
-56,57,0x07ef9e82721ac16809d24dafbe1792ce01654db4,Xorrai  (XRAI),$0.00,1,https://rynpay.com/
-57,58,0xf612773e8e1daf16c65c5ab5e1268ae0ceca0c0e,Vodi X  (VDX),$0.00,917,https://vodix.io/
-58,59,0xa3abac46f5c4f8ee2e7e61b7dea5f0bdf2254163,PIXIU FINANC...  (PIXIU),$0.00,277,https://www.koinvendors.com/
-59,60,0xee1ae38be4ce0074c4a4a8dc821cc784778f378c,Lunox  (LNX),$0.00,2091,https://lunoxtoken.com/
-60,61,0xf6117cc92d7247f605f11d4c942f0feda3399cb5,Greencoin  (GNC),$0.00,6909,https://www.greencointoken.com/
-61,62,0x6357b33ffa5c555881d62ab8aa7897714e9eae9c,Naira X Toke...  (NIRX),$0.00,6209,https://www.nirxblock.com/
-62,63,0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb,Essential Sh...  (ESS),$0.00,42,https://essentialshelf.com/
-63,64,0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1,ZOOME  (ZOE),$0.00,17,https://www.zoome.io/
-64,65,0xc6b771a5998da05e60fc6d42c5248947235ee0fb,MAR  (MAR),$0.00,10007,https://www.keyrpto.com/
-65,66,0xa9080bf7c8e55f2af5c6603243d5865f4f328715,Yoseo Casino...  (YCPS),$0.00,-,https://yoseopawnshop.com/
-66,67,0xB58a6ab4972d6584cb6AFBA679eDb5acD8BfD1ec,BudBlockz  (BLUNT),$0.00,2,https://budblockz.io/
-67,68,0x9b17baadf0f21f03e35249e0e59723f34994f806,ESHOP Token  (ESHOP),$0.00,6,https://www.eshop.finance/
-68,69,0x9ac5c63ddcb93612e316ab31dfc8192bc8961988,TaTaTu  (TTU),$0.00,2674,http://tatatutoken.io/
+0,1,0x59321ace77c8087ff8cb9f94c8384807e4fd8a3c,StormX  (STMX),"$40,827,188.00",2925,https://stormx.io/
+1,2,0x21d5678a62dfe63a47062469ebb2fac2817d8832,Boson Token  (BOSON),"$18,477,840.00",7323,https://www.bosonprotocol.io/
+2,3,0xd2bfec3f80b7d966d7657a2ecc5982ee2f49336a,NETVRK  (NTVRK),"$7,408,629.00",9043,https://www.netvrk.co/
+3,4,0xbc5591aa1f68061c05f97a9870a49704ebd649c2,Shping Coin  (SHPING),"$6,372,912.00",7476,https://www.shping.com/
+4,5,0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c,SHOP  (SHOP),"$1,775,231.00",17308,https://shopping.io/
+5,6,0x2e6da3122bef86593400d63fbe81b539f33e52f3,SHOPX  (SHOPX),"$1,257,864.00",9104,http://www.shopx.co/
+6,7,0x07ef9e82721ac16809d24dafbe1792ce01654db4,YoloCash  (YLC),"$65,856.00",2390,https://www.yolocash.co/
+7,8,0x37a15c92e67686aa268df03d4c881a76340907e8,NFTmall GEM ...  (GEM),"$25,021.00",10,https://nftmall.io/
+8,9,0xa3abac46f5c4f8ee2e7e61b7dea5f0bdf2254163,Sonder  (SNR),"$19,734.00",915,https://sonder.vision/
+9,10,0x16558553E4647ca500c3718C56C356eDB6F9b11C,BuyPay  (WBPC),$0.00,271,https://www.wbpc.io/
+10,11,0x91e64f39c1fe14492e8fdf5a8b0f305bd218c8a1,Omnicrypt  (ONIC),$0.00,54,https://omnicrypt.org/
+11,12,0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f,MAR  (MAR),$0.00,10007,https://www.keyrpto.com/
+12,13,0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f,Atoshi  (ATOS),$0.00,3122,http://atoshi.org/
+13,14,0xc4ec016b2e0c4284bb45690759cd1e4db0e1563c,HUBburger  (HBB),$0.00,-,https://nft.hubburger.com/
+14,15,0x09d1bd945df4c72f59e76347f81da9eefbf4540f,APXT  (APXT),$0.00,-,https://apollox.network/
+15,16,0x18f97ef6b2cbac5ca85b375b7093c4a207340d06,TaTaTu  (TTU),$0.00,2674,http://tatatutoken.io/
+16,17,0x6d220395E741d1C068e9349eEe3ffAc780Fc88C8,Token Networ...  (TNX),$0.00,1281,http://www.tokennetwork.global/
+17,18,0x015df42d36Bc851c7F15f80bd1D4e8dBF02aed0c,WUAOCOIN  (WUAO),$0.00,1,https://www.wuaocoin.com/
+18,19,0x85F9a507ef1d8e1bf666243A3B6215CE7Ee5c47C,Chimpion  (BNANA),$0.00,228,https://www.chimpion.io/
+19,20,0x301c755ba0fca00b1923768fffb3df7f4e63af31,VTPay Token  (VTP),$0.00,752,https://vtpay.ai/
+20,21,0x47d1a59cbdd19aee060c859c0009277e245328ae,Gosama  (GOS),$0.00,448,https://gosama.io/
+21,22,0x9cda8a60dd5afa156c95bd974428d91a0812e054,SPIN Protoco...  (SPIN),$0.00,14304,https://www.spinprotocol.io/
+22,23,0x64b78325d7495D6d4be92f234fa3f3B8d8964B8b,CLIQ Token  (CT),$0.00,12,https://thespottrapp.com/
+23,24,0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18,Want Marketp...  (WNTU),$0.00,13,https://benipal.com/
+24,25,0x9e547061a345015869d26c7b6ee4ab5b63424441,VYNK CHAIN  (VYNC),$0.00,5,https://vynkchain.org/
+25,26,0x9ac5c63ddcb93612e316ab31dfc8192bc8961988,CryptoCart  (CC),$0.00,2208,https://cryptocart.cc/
+26,27,0x72e646b78a2b58cbd9b0282c2e9c812bc8033293,Cashback  (CBK),$0.00,1,https://cashback.io/
+27,28,0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1,Continental  (CTL),$0.00,12,https://metacontinental.com/
+28,29,0xa36f971eba855c913adc67c8abae216755d009ef,Monkey King ...  (MKT),$0.00,4367,http://monkeylegend.io/
+29,30,0x6b8425cbebaad330dfaa7a8400a38dffc4aaddaf,Adora  (ARA),$0.00,39,https://www.adora.finance/
+30,31,0xdc4605fc4fbb24fd9fbb1e7b92e97f07897e7f05,MuayThaiToke...  (MUTT),$0.00,3,https://www.globalmuaythai.family/
+31,32,0x7e249c4b57e3acb34b61f6c1df23d6b7d67b6b42,Decentralize...  (DAT),$0.00,2,https://www.dattoken.com/
+32,33,0xc477d038d5420c6a9e0b031712f61c5120090de9,ExhibitToken  (EXBT),$0.00,880,https://exitoken.co/
+33,34,0xa9080bf7c8e55f2af5c6603243d5865f4f328715,Keyrpto Toke...  (KYT),$0.00,3918,https://www.keyrpto.com/
+34,35,0x6a073ddabcaec5362b3d2a3290be80b35397e48b,Ingenox Toke...  (IGX),$0.00,43,https://ingenoxtoken.com/
+35,36,0xe489248b132ea8e29788ced5fb5e68a609cd8c79,BitBoost  (BBT),$0.00,1280,https://www.bitboost.net/
+36,37,0x12c8b0914e6dee22c7557a0a8b928ae6cacfbcf7,EGORAS  (EGR),$0.00,4691,https://egoras.com
+37,38,0xee1ae38be4ce0074c4a4a8dc821cc784778f378c,Lung Protoco...  (L2P),$0.00,151,https://lungprotocol.info/
+38,39,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,Vodi X  (VDX),$0.00,917,https://vodix.io/
+39,40,0xee0f286776639cd363da810daf3e0623f82576b0,Lunox  (LNX),$0.00,2091,https://lunoxtoken.com/
+40,41,0x60016aa1cbcfc4223e30ad09dcfc382f2b7336b4,ETA COIN  (ETA),$0.00,6,https://www.etathai.com/
+41,42,0x6357b33ffa5c555881d62ab8aa7897714e9eae9c,Greencoin  (GNC),$0.00,6909,https://www.greencointoken.com/
+42,43,0x8f55abb908245f508c5ce804182197d6e9e5cc0d,Bistroo Toke...  (BIST),$0.00,1848,https://bistroo.io/
+43,44,0x8a34b30a463f0f69d54d7bbccac5fd30f97c1999,Naira X Toke...  (NIRX),$0.00,6209,https://www.nirxblock.com/
+44,45,0x2364aDD8A842332bFec006188C6C03b507252A34,Crypto Centu...  (RCC),$0.00,11,https://rcryptocentury.com/
+45,46,0xB58a6ab4972d6584cb6AFBA679eDb5acD8BfD1ec,Mondo Commun...  (MNDCC),$0.00,1656,https://www.mondo-coin.com/en/home/
+46,47,0x532843f66375d5257ea34f723c6c2723ccf7b7a2,Spacelens  (SPACE),$0.00,3340,https://spacetoken.spacelens.com/
+47,48,0xae90a1085eb6658f2b80b34a9c3664f988337702,AD:VANTAGE T...  (ADTT),$0.00,44,https://advn.app/
+48,49,0x7bef710a5759d197ec0bf621c3df802c2d60d848,EXENO  (EXN),$0.00,54,https://exeno.com/
+49,50,0xf6117cc92d7247f605f11d4c942f0feda3399cb5,7coin  (7SP),$0.00,11,https://7coin.net/
+50,51,0x0b259c2da43b33d9d81d540a8ade80409b19df5f,MUXE Token  (MUXE),$0.00,31379,https://www.muxe.io/
+51,52,0x2784dcd08f4b1bb25af84fd0b702e2aa5d5d1d64,ELEVENCOIN  (ELEVEN),$0.00,2,https://11coin.io
+52,53,0x9b17baadf0f21f03e35249e0e59723f34994f806,FID Token  (FID),$0.00,1,https://www.fidaapp.io/
+53,54,0xc466a0889f755ca1408f6393dc81d01f93c5377f,Multicoin  (MTCN),$0.00,844,https://www.boom.market/
+54,55,0x4f22310c27ef39feaa4a756027896dc382f0b5e2,Global Digit...  (GDC),$0.00,3511,http://gdctoken.io/
+55,56,0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec,Xorrai  (XRAI),$0.00,1,https://rynpay.com/
+56,57,0x1500205f50bf3fd976466d0662905c9ff254fc9c,connect coin  (XCON),$0.00,20,https://connectingcoin.io/
+57,58,0x5C0Bc243Fb13632c4D247F4f0bC27f2f58982C39,Xeniumx  (XEMX),$0.00,256,https://xeniumx.com/
+58,59,0xE9289f81D9c8AB27949Fcb0DFc40DA7897131695,CraftR  (CRAFTR),$0.00,956,https://craftr.io/
+59,60,0xb0e2d67489F5aD5A87F3d29d5a97a7Ed7E83D206,ORYX  (ORYX),$0.00,59,https://oryx.network/
+60,61,0x515669d308f887fd83a471c7764f5d084886d34d,Pcash  (PCH),$0.00,1039,https://pcash.world/
+61,62,0x4b001670cce0ff430e0e44a585b0b65730a24934,Storex  (STRX),$0.00,3986,https://storex.io/
+62,63,0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb,PIXIU FINANC...  (PIXIU),$0.00,277,https://www.koinvendors.com/
+63,64,0xc6b771a5998da05e60fc6d42c5248947235ee0fb,Pistoletoken  (ILE),$0.00,19,https://www.pistole.io/
+64,65,0xcafdc517691fcf4d1186953f02f19ced50efc9e2,Essential Sh...  (ESS),$0.00,42,https://essentialshelf.com/
+65,66,0xf0ccca32cd300356629216eb301ec6649c7c6adb,ZOOME  (ZOE),$0.00,17,https://www.zoome.io/
+66,67,0x73Cee8348b9bDd48c64E13452b8a6fbc81630573,Yoseo Casino...  (YCPS),$0.00,-,https://yoseopawnshop.com/
+67,68,0xf612773e8e1daf16c65c5ab5e1268ae0ceca0c0e,BudBlockz  (BLUNT),$0.00,2,https://budblockz.io/
+68,69,0x24aae7ec11f5a097e9b12827115a5110d3974d3b,ESHOP Token  (ESHOP),$0.00,6,https://www.eshop.finance/

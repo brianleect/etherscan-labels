@@ -1,19 +1,19 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x4457dc5a9e71b975a8e0f855bbe795f5cbdcc10f,Mass Vehicle...  (MVL),"$65,459,899.00",11579,https://mvlchain.io/
-1,2,0x13a0599c493cc502ed8c4dd26f22f5cedc248fc4,AMO Coin  (AMO),"$10,525,937.00",10985,https://amo.foundation/
+0,1,0xf3e014fe81267870624132ef3a646b8e83853a96,Mass Vehicle...  (MVL),"$68,467,701.00",11582,https://mvlchain.io/
+1,2,0xc4a86561cb0b7ea1214904f26e6d50fd357c7986,AMO Coin  (AMO),"$10,730,636.00",10985,https://amo.foundation/
 2,3,0x749f35ff65932e68267dd82f6cd85eea735d700e,Charg Coin  (CHG),"$2,190,718.00",258,https://chgcoin.org/
-3,4,0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68,VIN  (VIN),"$983,635.00",478879,https://vinchain.io/
-4,5,0xf3e014fe81267870624132ef3a646b8e83853a96,CarLive Chai...  (IOV),"$955,637.00",1847740,http://www.carlive.io/pc/en/index.html
-5,6,0x884ddbb5dc6c2cef77d3e74c6ccca315797d655b,cVToken  (cV),"$194,382.00",13670,https://www.carvertical.com/
-6,7,0x08b4c866ae9d1be56a06e0c302054b4ffe067b43,DRIFE  (DRF),$0.00,134,http://www.drife.one/
-7,8,0xa849eaae994fb86afa73382e9bd88c2b6b18dc71,Export Motor...  (EMP),$0.00,2225,http://emptrade.io/
-8,9,0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47,VAIP COIN  (VAIP),$0.00,84,http://www.vaip.foundation/
-9,10,0x1fB6bccc7Da51aa32e96118B8A33226d2Ae16517,CyClean Toke...  (CCL),$0.00,22060,https://cyclean.io/
-10,11,0x5311cf987ad2b8087d7d83efc379d6f916cb9999,Vehicle Owne...  (VOB),$0.00,11,https://glvo.io/
-11,12,0xbc6669e7914a2b327ae428184086d8ac88d74efc,Mobilio  (MOB),$0.00,3,http://www.mobilio.cc/
-12,13,0xc4a86561cb0b7ea1214904f26e6d50fd357c7986,BitCar  (BITCAR),$0.00,2301,https://bitcar.io/
-13,14,0x8e1439bbeab0df0f29c27e360b2a36b259b7e286,Global Renta...  (GRT),$0.00,200,https://globalrentaltoken.com/
-14,15,0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683,EVZ  (EVZ),$0.00,641,http://www.evzlife.com/
-15,16,0x02bC86b1F8Fedf25E2B98cC8278ca8Cde58cbAd7,Wrapped MOBI...  (wMOBX),$0.00,1,https://mobix.ai/
-16,17,0xbe59434473c50021b30686b6d34cdd0b1b4f6198,Carnomaly  (CARR),$0.00,1060,https://carnomaly.io/
-17,18,0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169,Car Coin  (CCM),$0.00,407,https://carcoinmarket.io/
+3,4,0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47,VIN  (VIN),"$1,436,529.00",478879,https://vinchain.io/
+4,5,0x8e1439bbeab0df0f29c27e360b2a36b259b7e286,CarLive Chai...  (IOV),"$955,637.00",1847741,http://www.carlive.io/pc/en/index.html
+5,6,0xbe59434473c50021b30686b6d34cdd0b1b4f6198,cVToken  (cV),"$220,809.00",13674,https://www.carvertical.com/
+6,7,0x5311cf987ad2b8087d7d83efc379d6f916cb9999,Wrapped MOBI...  (wMOBX),$0.00,1,https://mobix.ai/
+7,8,0xa849eaae994fb86afa73382e9bd88c2b6b18dc71,Carnomaly  (CARR),$0.00,1060,https://carnomaly.io/
+8,9,0x884ddbb5dc6c2cef77d3e74c6ccca315797d655b,Car Coin  (CCM),$0.00,407,https://carcoinmarket.io/
+9,10,0x02bC86b1F8Fedf25E2B98cC8278ca8Cde58cbAd7,DRIFE  (DRF),$0.00,134,http://www.drife.one/
+10,11,0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169,Export Motor...  (EMP),$0.00,2225,http://emptrade.io/
+11,12,0x4457dc5a9e71b975a8e0f855bbe795f5cbdcc10f,VAIP COIN  (VAIP),$0.00,84,http://www.vaip.foundation/
+12,13,0xbc6669e7914a2b327ae428184086d8ac88d74efc,CyClean Toke...  (CCL),$0.00,22060,https://cyclean.io/
+13,14,0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68,Vehicle Owne...  (VOB),$0.00,11,https://glvo.io/
+14,15,0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683,Mobilio  (MOB),$0.00,3,http://www.mobilio.cc/
+15,16,0x1fB6bccc7Da51aa32e96118B8A33226d2Ae16517,BitCar  (BITCAR),$0.00,2301,https://bitcar.io/
+16,17,0x08b4c866ae9d1be56a06e0c302054b4ffe067b43,Global Renta...  (GRT),$0.00,200,https://globalrentaltoken.com/
+17,18,0x13a0599c493cc502ed8c4dd26f22f5cedc248fc4,EVZ  (EVZ),$0.00,643,http://www.evzlife.com/

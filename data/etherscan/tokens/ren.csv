@@ -1,10 +1,10 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x88c64a7d2ecc882d558dd16abc1537515a78bb7d,renBTC  (renBTC),"$8,071,644.00",4517,https://renproject.io/
-1,2,0x52d87F22192131636F93c5AB18d0127Ea52CB641,renBCH  (renBCH),"$166,542.00",129,https://renproject.io/
-2,3,0x459086f2376525bdceba5bdda135e4e9d3fef5bf,renDOGE  (renDOG...),"$89,829.00",1439,https://renproject.io/
-3,4,0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5,renDGB  (renDGB),$0.00,130,https://renproject.io/
-4,5,0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2,renZEC  (renZEC),$0.00,281,https://renproject.io/
-5,6,0x3832d2F059E55934220881F831bE501D180671A7,renLUNA  (renLUN...),$0.00,46,https://renproject.io/
-6,7,0x408e41876cccdc0f92210600ef50372656052a38,Shifted BTC  (zBTC),$0.00,23,https://renproject.io/
-7,8,0xe3cb486f3f5c639e98ccbaf57d95369375687f80,Republic  (REN),$0.00,60630,https://renproject.io/
-8,9,0xeb4c2781e4eba804ce9a9803c67d0893436bb27d,renFIL  (renFIL),$0.00,358,https://renproject.io/
+0,1,0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5,renBTC  (renBTC),"$9,516,967.00",4512,https://renproject.io/
+1,2,0x408e41876cccdc0f92210600ef50372656052a38,renBCH  (renBCH),"$166,542.00",129,https://renproject.io/
+2,3,0xeb4c2781e4eba804ce9a9803c67d0893436bb27d,renDOGE  (renDOG...),"$96,805.00",1439,https://renproject.io/
+3,4,0x459086f2376525bdceba5bdda135e4e9d3fef5bf,renZEC  (renZEC),$0.00,281,https://renproject.io/
+4,5,0x52d87F22192131636F93c5AB18d0127Ea52CB641,renLUNA  (renLUN...),$0.00,46,https://renproject.io/
+5,6,0x3832d2F059E55934220881F831bE501D180671A7,Shifted BTC  (zBTC),$0.00,23,https://renproject.io/
+6,7,0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2,Republic  (REN),$0.00,60677,https://renproject.io/
+7,8,0x88c64a7d2ecc882d558dd16abc1537515a78bb7d,renFIL  (renFIL),$0.00,362,https://renproject.io/
+8,9,0xe3cb486f3f5c639e98ccbaf57d95369375687f80,renDGB  (renDGB),$0.00,130,https://renproject.io/

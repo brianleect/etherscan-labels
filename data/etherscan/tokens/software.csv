@@ -1,21 +1,21 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x2B0eF43E0111c8aCaEAa26D93FA77048EF2A2CBf,Rally  (RLY),"$41,089,297.00",17775,https://rly.network/
-1,2,0x7a597fb40f54a5e5ad189991dedc8d7881e447ee,bloXmove Tok...  (BLXM),"$2,123,317.00",1056,https://bloxmove.com/
-2,3,0x43b72464a93687dc2f14d5e49086e641d011b890,PirateCash  (PIRATE),"$554,101.00",-,https://p.cash/
-3,4,0x34ABce75D2f8f33940c721dCA0f562617787bfF3,Cryptokek.co...  (KEK),"$341,453.00",440,https://cryptokek.com/
-4,5,0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08,UCROWDME  (UCM),"$77,839.00",170,https://ucrowdme.com/
-5,6,0x722f97A435278B7383a1e3c47F41773bebF3232C,aXpire  (AXPR),"$74,068.00",509,https://www.trymoola.com/
-6,7,0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A,ULOX  (LOX),$0.00,4,https://ulox.io/
-7,8,0xe0d95530820aafc51b1d98023aa1ff000b78d8b2,Direct  (DRCT),$0.00,2686,https://direct.allynow.com/
-8,9,0xb990d93c308a31c737aa91839e8ba8eaf4017d7a,Novo  (NVO),$0.00,7,https://novocoin.org/
-9,10,0x9d561d63375672abd02119b9bc4fb90eb9e307ca,tSILVER  (TXAG),$0.00,83,https://aurus.io/
-10,11,0x4E942E1B0957f69F2A491D0Ce46B609df93067ce,4Bulls  (4B),$0.00,54,https://www.4bulls.com/
-11,12,0x2CA72c9699b92b47272c9716c664cAD6167c80B0,Platinum Sof...  (T34),$0.00,1,https://platinum.fund/
-12,13,0x59d11d8823e4512c6adbfae80cd9d635f015a6c9,DEVIUM  (DEVI),$0.00,1,https://devium.network/
-13,14,0x79f868dcbaa9358f1d1d9e059ea3cf6fbeb5533a,Mixin  (XIN),$0.00,22094,https://mixin.one/
-14,15,0x640bb7b0716a3c58b29f83a10e0b4b51580693d3,SPYCE  (SPYCE),$0.00,3328,https://decenternet.com/
-15,16,0xa974c709cfb4566686553a20790685a47aceaa33,MMRL Loyalty...  (MMRL),$0.00,70,http://www.eipinvestment.com/
-16,17,0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b,ARYZE  (RYZE),$0.00,1,https://aryze.io/
-17,18,0x471bc0199e1b866b16827b9c4512daf1f6d53ca1,Osmos  (OS),$0.00,33,https://www.osmoscoin.com/
-18,19,0x26674914655DbCBA7b24FC9579E6fE2838b4BF69,PressOne Tok...  (PRS),$0.00,694,https://press.one/
-19,20,0x3fa400483487A489EC9b1dB29C4129063EEC4654,GeoUnits  (GUNS),$0.00,49,http://www.geofounders.com/
+0,1,0xb990d93c308a31c737aa91839e8ba8eaf4017d7a,Rally  (RLY),"$40,419,900.00",17805,https://rly.network/
+1,2,0x34ABce75D2f8f33940c721dCA0f562617787bfF3,bloXmove Tok...  (BLXM),"$2,551,022.00",1062,https://bloxmove.com/
+2,3,0x79f868dcbaa9358f1d1d9e059ea3cf6fbeb5533a,PirateCash  (PIRATE),"$647,101.00",-,https://p.cash/
+3,4,0x9d561d63375672abd02119b9bc4fb90eb9e307ca,Cryptokek.co...  (KEK),"$341,453.00",440,https://cryptokek.com/
+4,5,0x640bb7b0716a3c58b29f83a10e0b4b51580693d3,UCROWDME  (UCM),"$80,697.00",170,https://ucrowdme.com/
+5,6,0x722f97A435278B7383a1e3c47F41773bebF3232C,aXpire  (AXPR),"$56,346.00",512,https://www.trymoola.com/
+6,7,0x43b72464a93687dc2f14d5e49086e641d011b890,ULOX  (LOX),$0.00,4,https://ulox.io/
+7,8,0x4E942E1B0957f69F2A491D0Ce46B609df93067ce,Direct  (DRCT),$0.00,2685,https://direct.allynow.com/
+8,9,0x7a597fb40f54a5e5ad189991dedc8d7881e447ee,PressOne Tok...  (PRS),$0.00,694,https://press.one/
+9,10,0xa974c709cfb4566686553a20790685a47aceaa33,Novo  (NVO),$0.00,7,https://novocoin.org/
+10,11,0x26674914655DbCBA7b24FC9579E6fE2838b4BF69,tSILVER  (TXAG),$0.00,83,https://aurus.io/
+11,12,0xe0d95530820aafc51b1d98023aa1ff000b78d8b2,4Bulls  (4B),$0.00,54,https://www.4bulls.com/
+12,13,0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b,Platinum Sof...  (T34),$0.00,1,https://platinum.fund/
+13,14,0x3fa400483487A489EC9b1dB29C4129063EEC4654,DEVIUM  (DEVI),$0.00,1,https://devium.network/
+14,15,0x2B0eF43E0111c8aCaEAa26D93FA77048EF2A2CBf,Mixin  (XIN),$0.00,22095,https://mixin.one/
+15,16,0x471bc0199e1b866b16827b9c4512daf1f6d53ca1,SPYCE  (SPYCE),$0.00,3328,https://decenternet.com/
+16,17,0x59d11d8823e4512c6adbfae80cd9d635f015a6c9,MMRL Loyalty...  (MMRL),$0.00,70,http://www.eipinvestment.com/
+17,18,0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A,ARYZE  (RYZE),$0.00,1,https://aryze.io/
+18,19,0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08,Osmos  (OS),$0.00,33,https://www.osmoscoin.com/
+19,20,0x2CA72c9699b92b47272c9716c664cAD6167c80B0,GeoUnits  (GUNS),$0.00,49,http://www.geofounders.com/

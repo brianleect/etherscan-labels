@@ -1,8 +1,8 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x1822126feedb4c7d61eecdbe3682fe61e91383d6,HuobiToken  (HT),"$424,083,703.00",52551,https://www.huobipro.com/
-1,2,0x4c1c4957d22d8f373aed54d0853b090666f6f9de,ZBToken  (ZB),"$15,342,070.00",20326,https://www.zb.com/
-2,3,0x91bb6965bace45bae7e78ae638152af467f9b004,DIGIFINEXTOK...  (DFT),$0.00,290,https://www.digifinex.com/
-3,4,0xbd0793332e9fb844a52a205a233ef27a5b34b927,CGCX Exchang...  (CGCX),$0.00,66249,https://cgcx.io/
-4,5,0x4ac363455468c22f7f656e994b67f2275fb3badd,Silverway  (SLV),$0.00,40268,https://silverway.io/
-5,6,0x6f259637dcd74c767781e37bc6133cd6a68aa161,PIEXGO  (PXG),$0.00,2,https://www.piexgo.com/
-6,7,0x8b35368ccbadbfbf2d19e8d3d8e58e3ddb63853a,XtockToken  (XTX),$0.00,2796,https://xtock.io/
+0,1,0xbd0793332e9fb844a52a205a233ef27a5b34b927,HuobiToken  (HT),"$437,378,161.00",52542,https://www.huobipro.com/
+1,2,0x91bb6965bace45bae7e78ae638152af467f9b004,ZBToken  (ZB),"$15,342,070.00",20326,https://www.zb.com/
+2,3,0x8b35368ccbadbfbf2d19e8d3d8e58e3ddb63853a,XtockToken  (XTX),$0.00,2796,https://xtock.io/
+3,4,0x4c1c4957d22d8f373aed54d0853b090666f6f9de,DIGIFINEXTOK...  (DFT),$0.00,290,https://www.digifinex.com/
+4,5,0x1822126feedb4c7d61eecdbe3682fe61e91383d6,CGCX Exchang...  (CGCX),$0.00,66249,https://cgcx.io/
+5,6,0x4ac363455468c22f7f656e994b67f2275fb3badd,Silverway  (SLV),$0.00,40268,https://silverway.io/
+6,7,0x6f259637dcd74c767781e37bc6133cd6a68aa161,PIEXGO  (PXG),$0.00,2,https://www.piexgo.com/

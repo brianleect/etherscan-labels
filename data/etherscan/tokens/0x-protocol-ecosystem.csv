@@ -1,12 +1,12 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xe41d2489571d322189246dafa5ebde1f4699f498,Maker  (MKR),"$582,992,532.00",94753,https://makerdao.com/
-1,2,0x221657776846890989a759ba2973e427dff5c9bb,ZRX  (ZRX),"$146,703,361.00",193181,https://0x.org/
-2,3,0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53,Request  (REQ),"$54,925,074.00",42538,https://request.network/
-3,4,0x8f8221afbb33998d8584a2b05749ba73c37a938a,Reputation  (REPv2),"$54,482,296.00",11031,https://www.augur.net/
-4,5,0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51,Melon Token  (MLN),"$23,733,237.00",7226,https://enzyme.finance/
-5,6,0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407,OpenANX  (OAX),"$8,759,040.00",6481,https://www.openanx.org
-6,7,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,Compound 0x  (cZRX),"$1,300,981.00",3265,https://compound.finance/
-7,8,0x701c244b988a513c945973defa05de933b23fe1d,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
-8,9,0xec67005c4e498ec7f55e092bd1d35cbc47c91892,TIME  (TIME),$0.00,4024,https://chrono.tech/
-9,10,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,The Ocean To...  (OCEAN),$0.00,11917,https://theocean.trade/
-10,11,0x4de2573e27E648607B50e1Cfff921A33E4A34405,Lendroid Sup...  (LST),$0.00,18656,https://lendroid.com/
+0,1,0xe41d2489571d322189246dafa5ebde1f4699f498,Maker  (MKR),"$664,550,927.00",94792,https://makerdao.com/
+1,2,0x8f8221afbb33998d8584a2b05749ba73c37a938a,ZRX  (ZRX),"$157,448,347.00",193290,https://0x.org/
+2,3,0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53,Request  (REQ),"$57,432,134.00",41923,https://request.network/
+3,4,0x4de2573e27E648607B50e1Cfff921A33E4A34405,Reputation  (REPv2),"$38,892,893.00",11058,https://www.augur.net/
+4,5,0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2,Melon Token  (MLN),"$23,764,374.00",7222,https://enzyme.finance/
+5,6,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,OpenANX  (OAX),"$9,146,027.00",6487,https://www.openanx.org
+6,7,0x221657776846890989a759ba2973e427dff5c9bb,Compound 0x  (cZRX),"$1,394,803.00",3264,https://compound.finance/
+7,8,0xec67005c4e498ec7f55e092bd1d35cbc47c91892,The Ocean To...  (OCEAN),$0.00,11917,https://theocean.trade/
+8,9,0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51,Lendroid Sup...  (LST),$0.00,18656,https://lendroid.com/
+9,10,0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
+10,11,0x701c244b988a513c945973defa05de933b23fe1d,TIME  (TIME),$0.00,4024,https://chrono.tech/

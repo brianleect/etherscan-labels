@@ -1,20 +1,20 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x7d9564dab2c58f163d0125892d25cf58d4494de5,IoTeX Networ...  (IOTX),"$163,453,028.00",21049,https://iotex.io/
-1,2,0x765f0c16d1ddc279295c1a7c24b0883f62d33f75,Walton  (WTC),"$4,295,973.00",25445,http://www.waltonchain.org/
-2,3,0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74,Geeq  (GEEQ),"$2,433,470.00",2244,https://geeq.io/
-3,4,0x574f84108a98c575794f75483d801d1d5dc861a5,DaTa eXchang...  (DTX),"$1,759,244.00",1409,https://databrokerdao.com/
-4,5,0x6B9f031D718dDed0d681c20cB754F97b3BB81b78,UCOT  (UCT),"$1,351,171.00",15086,https://www.ucot.world/
-5,6,0x6fb3e0a217407efff7ca062d46c26e5d60a14d69,Internet Nod...  (INT),"$1,299,395.00",295,https://intchain.io/
-6,7,0x72430a612adc007c50e3b6946dbb1bb0fd3101d1,IONChain Tok...  (IONC),"$179,383.00",123505,https://ionchain.org/
-7,8,0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd,MyBit  (MYB),"$37,813.00",1811,https://mybit.io/
-8,9,0x95c9bd1f81cee7391da3eac81693e60f3292c1e0,Robotina tok...  (ROX),"$26,594.00",5653,https://robotinarox.io/
-9,10,0xbc647aad10114b89564c0a7aabe542bd0cf2c5af,Thingschain  (TIC),"$9,396.00",4936,https://thingschain.network/
-10,11,0x016396044709eb3edc69c44f4d5fa6996917e4e8,Conventment  (CNVT),$0.00,527,https://www.conventment.com/
-11,12,0x4fe327c5a809fa721d47b80c5038a0b393e61305,Wrapped Nodl...  (wNODL),$0.00,-,http://www.nodle.com/
-12,13,0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518,LinfinityCoi...  (LFC),$0.00,9942,https://www.linfinity.io/
-13,14,0x32C4ADB9cF57f972bc375129de91C897b4F364F1,COOS  (COOS),$0.00,4255,http://www.coos.ai/
-14,15,0xbe038a2fdfec62cf1bed852f141a43005035edcc,IOTW  (IOTW),$0.00,2682,https://iotw.io/
-15,16,0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088,MTC Mesh Net...  (MTC),$0.00,15690,https://www.mtc.io/
-16,17,0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc,SuperSkyNet  (SSN),$0.00,28362,http://www.superskynet.io/
-17,18,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb,KingXChain  (KXC),$0.00,1068,https://kingxchain.com/
-18,19,0x24c09effa90405ee1be349e6a4febcae25800532,Flowchain  (FLC),$0.00,129,https://flowchaincoin.org/
+0,1,0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518,IoTeX Networ...  (IOTX),"$180,594,503.00",21071,https://iotex.io/
+1,2,0x6B9f031D718dDed0d681c20cB754F97b3BB81b78,Walton  (WTC),"$4,763,116.00",25445,http://www.waltonchain.org/
+2,3,0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74,Geeq  (GEEQ),"$2,544,553.00",2247,https://geeq.io/
+3,4,0x765f0c16d1ddc279295c1a7c24b0883f62d33f75,DaTa eXchang...  (DTX),"$1,451,480.00",1409,https://databrokerdao.com/
+4,5,0x574f84108a98c575794f75483d801d1d5dc861a5,UCOT  (UCT),"$1,351,171.00",15086,https://www.ucot.world/
+5,6,0x4fe327c5a809fa721d47b80c5038a0b393e61305,Internet Nod...  (INT),"$1,348,324.00",297,https://intchain.io/
+6,7,0x7d9564dab2c58f163d0125892d25cf58d4494de5,IONChain Tok...  (IONC),"$179,383.00",123505,https://ionchain.org/
+7,8,0x24c09effa90405ee1be349e6a4febcae25800532,MyBit  (MYB),"$47,329.00",1811,https://mybit.io/
+8,9,0xa5b46ff9a887180c8fb2d97146398ddfc5fef1cd,Robotina tok...  (ROX),"$26,594.00",5653,https://robotinarox.io/
+9,10,0x24ebfc20bb2e1daadd98d28341ab37d0c154f4cb,Thingschain  (TIC),"$9,396.00",4936,https://thingschain.network/
+10,11,0x72430a612adc007c50e3b6946dbb1bb0fd3101d1,LinfinityCoi...  (LFC),$0.00,9942,https://www.linfinity.io/
+11,12,0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc,MTC Mesh Net...  (MTC),$0.00,15690,https://www.mtc.io/
+12,13,0x016396044709eb3edc69c44f4d5fa6996917e4e8,COOS  (COOS),$0.00,4255,http://www.coos.ai/
+13,14,0xbc647aad10114b89564c0a7aabe542bd0cf2c5af,IOTW  (IOTW),$0.00,2682,https://iotw.io/
+14,15,0x32C4ADB9cF57f972bc375129de91C897b4F364F1,SuperSkyNet  (SSN),$0.00,28362,http://www.superskynet.io/
+15,16,0x95c9bd1f81cee7391da3eac81693e60f3292c1e0,KingXChain  (KXC),$0.00,1068,https://kingxchain.com/
+16,17,0xbe038a2fdfec62cf1bed852f141a43005035edcc,Flowchain  (FLC),$0.00,129,https://flowchaincoin.org/
+17,18,0xdfdc0d82d96f8fd40ca0cfb4a288955becec2088,Conventment  (CNVT),$0.00,527,https://www.conventment.com/
+18,19,0x6fb3e0a217407efff7ca062d46c26e5d60a14d69,Wrapped Nodl...  (wNODL),$0.00,-,http://www.nodle.com/

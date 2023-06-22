@@ -1,13 +1,13 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x49f4592e641820e928f9919ef4abd92a719b4b49,bZx Protocol...  (BZRX),"$13,935,591.00",5192,https://bzx.network/
-1,2,0x1d496da96caf6b518b133736beca85d5c4f9cbc5,Fulcrum SAI ...  (iSAI),$0.00,1272,https://bzx.network/
-2,3,0x493c57c4763932315a328269e1adad09653b9081,Fulcrum REP ...  (iREP),$0.00,2,https://bzx.network/
-3,4,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,Fulcrum WBTC...  (iWBTC),$0.00,5,https://bzx.network/
-4,5,0x1cc9567ea2eb740824a45f8026ccf8e46973234d,Fulcrum DAI ...  (iDAI),$0.00,434,https://bzx.network/
-5,6,0xa7eb2bc82df18013ecc2a6c533fc29446442edee,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
-6,7,0x14094949152eddbfcd073717200da82fed8dc960,Fulcrum ZRX ...  (iZRX),$0.00,12,https://bzx.network/
-7,8,0x56d811088235F11C8920698a204A5010a788f4b3,Fulcrum USDC...  (iUSDC),$0.00,36,https://bzx.network/
-8,9,0xf013406a0b1d544238083df0b93ad0d2cbe0f65f,Fulcrum sUSD...  (iSUSD),$0.00,14,https://bzx.network/
-9,10,0xbd56e9477fc6997609cf45f84795efbdac642ff1,Fulcrum KNC ...  (iKNC),$0.00,3,https://bzx.network/
-10,11,0xba9262578efef8b3aff7f60cd629d6cc8859c8b5,Fulcrum LINK...  (iLINK),$0.00,6,https://bzx.network/
-11,12,0x77f973fcaf871459aa58cd81881ce453759281bc,Fulcrum ETH ...  (iETH),$0.00,287,https://bzx.network/
+0,1,0x77f973fcaf871459aa58cd81881ce453759281bc,bZx Protocol...  (BZRX),"$15,466,840.00",5191,https://bzx.network/
+1,2,0x49f4592e641820e928f9919ef4abd92a719b4b49,Fulcrum sUSD...  (iSUSD),$0.00,14,https://bzx.network/
+2,3,0x1cc9567ea2eb740824a45f8026ccf8e46973234d,Fulcrum KNC ...  (iKNC),$0.00,3,https://bzx.network/
+3,4,0x1d496da96caf6b518b133736beca85d5c4f9cbc5,Fulcrum LINK...  (iLINK),$0.00,6,https://bzx.network/
+4,5,0xf013406a0b1d544238083df0b93ad0d2cbe0f65f,Fulcrum ETH ...  (iETH),$0.00,287,https://bzx.network/
+5,6,0x56d811088235F11C8920698a204A5010a788f4b3,Fulcrum SAI ...  (iSAI),$0.00,1272,https://bzx.network/
+6,7,0x14094949152eddbfcd073717200da82fed8dc960,Fulcrum REP ...  (iREP),$0.00,2,https://bzx.network/
+7,8,0xbd56e9477fc6997609cf45f84795efbdac642ff1,Fulcrum WBTC...  (iWBTC),$0.00,5,https://bzx.network/
+8,9,0xba9262578efef8b3aff7f60cd629d6cc8859c8b5,Fulcrum DAI ...  (iDAI),$0.00,434,https://bzx.network/
+9,10,0x1c74cff0376fb4031cd7492cd6db2d66c3f2c6b9,bZx Protocol...  (BZRX),$0.00,606,https://bzx.network/
+10,11,0xa7eb2bc82df18013ecc2a6c533fc29446442edee,Fulcrum ZRX ...  (iZRX),$0.00,12,https://bzx.network/
+11,12,0x493c57c4763932315a328269e1adad09653b9081,Fulcrum USDC...  (iUSDC),$0.00,36,https://bzx.network/

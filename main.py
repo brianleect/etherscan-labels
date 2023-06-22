@@ -1,5 +1,6 @@
 import traceback
 from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
 import undetected_chromedriver as uc
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
@@ -77,7 +78,6 @@ def get_label(label, label_type="account", input_type="single"):
         "Address" if label_type == "account" else "Contract Address"
     )  # when "token"
     # use td to limit the column, avoiding that the address_list being longer than the table
-    td_index = 1 if label_type == "account" else 2  # when "token"
 
     for table_index, subcat_id in enumerate(subcat_id_list):
         index = 0  # Initialize start index at 0
@@ -85,20 +85,26 @@ def get_label(label, label_type="account", input_type="single"):
         driver.get(base_url_label.format(label_type, label, subcat_id, index))
         time.sleep(20)  # TODO: allow customization by args
 
+        last_address_list = set()
         while True:
             print("Index:", index, "Subcat:", subcat_id)
+
+            td_index = 1 if label_type == "account" else 2  # when "token"
 
             try:
                 # Select relevant table from multiple tables in the page, based on current table index
                 cur_table = pd.read_html(driver.page_source)[table_index]
                 print(cur_table)
-                if (
-                    pd.isnull(cur_table[addr_col_name].iloc[-1])
-                    or cur_table[addr_col_name].iloc[-1]
-                    == "No Token Contracts found for the address."
-                ):
-                    print("remove last row")
-                    cur_table = cur_table[:-1]
+                while True:
+                    if (
+                        pd.isnull(cur_table[addr_col_name].iloc[-1])
+                        or cur_table[addr_col_name].iloc[-1]
+                        == "No Token Contracts found for the address."
+                    ):
+                        print("remove last row")
+                        cur_table = cur_table[:-1]
+                    else:
+                        break  # fix for rocket-pool
 
                 # Retrieve all addresses from table
                 elems = driver.find_elements(
@@ -118,6 +124,7 @@ def get_label(label, label_type="account", input_type="single"):
                     print(
                         f"failed to load addresses from href ({len(address_list)}/{len(cur_table.index)}), retry parsing..."
                     )
+                    td_index += 1
                     continue
 
                 # Quickfix: Optimism uses etherscan subcat style but differing address format
@@ -133,19 +140,43 @@ def get_label(label, label_type="account", input_type="single"):
                 print(label, "Skipping label due to error")
                 return
 
-            table_list.append(cur_table)
+            if address_list != last_address_list:
+                table_list.append(cur_table)
+                last_address_list = address_list
 
             # If table is less than 100, then we have reached the end
             if len(cur_table.index) == 100:
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+
+                disabled_next_icon_elems = driver.find_elements(
+                    "xpath",
+                    '//li[contains(@class, "next") and contains(@class, "disabled")]',
+                )
+                if len(disabled_next_icon_elems) > 0:
+                    print("found disabled next icon, goto next subid")
+                    break
+
                 while True:
-                    next_icon_elems = driver.find_elements("class name", "fa-chevron-right")
-                    try:
-                        next_icon_elems[0].click()
-                        time.sleep(20) # beacon-depositor require longer # TODO: allow customization by args
+                    next_icon_elems = driver.find_elements(
+                        "xpath",
+                        '//li[contains(@class, "next") and not(contains(@class, "disabled"))]',
+                    )
+                    print(f"found {len(next_icon_elems)} next icon elems...")
+                    should_break = False
+                    for elem in next_icon_elems:
+                        try:
+                            driver.execute_script(
+                                "window.scrollTo(0, document.body.scrollHeight);"
+                            )
+                            elem.click()
+                            time.sleep(2)  # TODO: allow customization by args
+                            should_break = True
+                        except Exception as e:
+                            print("failed on clicking next page button", e)
+                            # traceback.print_exc()
+
+                    if should_break:
                         break
-                    except Exception as e:
-                        print("failed on clicking next page button", e)
-                        traceback.print_exc()
             else:
                 break
 
@@ -384,7 +415,6 @@ if __name__ == "__main__":
     #         ChromeDriverManager().install()))
 
     driver = uc.Chrome(service=ChromeService(ChromeDriverManager().install()))
-
     login(config)
 
     while True:

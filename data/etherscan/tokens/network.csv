@@ -1,50 +1,50 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xd7e26244375607674f5cb6632917fb89168a73a6,NKN  (NKN),"$56,101,652.00",17159,https://nkn.org/
-1,2,0x2b89bf8ba858cd2fcee1fada378d5cd6936968be,Constellatio...  (DAG),"$37,381,168.00",3237,http://constellationlabs.io/
-2,3,0xe0531715e7c37CB8f7076cD09A4965Bf032fDf94,CudosToken  (CUDOS),"$11,573,313.00",5422,https://www.cudos.org/
-3,4,0x8967e420c1523b11386ec134a52f819f3ee41278,Wrapped LOKI  (wLOKI),"$6,401,275.00",182,https://loki.network/
-4,5,0x7abbc18ef3e01b8b93cf236a6d68dfc35c5e48aa,MASQ  (MASQ),"$5,972,383.00",3344,https://masq.ai/
-5,6,0xf3ae5d769e153ef72b4e3591ac004e89f48107a1,ARIVA  (ARV),"$2,684,955.00",423,https://ariva.digital/
-6,7,0x252b9f56359901a0bde52d0675b1f1130d86f471,Bezop  (Bez),"$437,476.00",6450,https://bezop.io/
-7,8,0x79c7ef95ad32dcd5ecadb231568bb03df7824815,Echain Token  (ECT),"$381,446.00",1452,https://www.echain.network/
-8,9,0x58959e0c71080434f237bd42d07cd84b74cef438,RightMesh To...  (RMESH),"$212,709.00",2085,https://www.rightmesh.io/
-9,10,0x5cf04716ba20127f1e2297addcf4b5035000c9eb,ThingsOpreat...  (TOS),"$17,758.00",108136,http://www.toschain.org/
-10,11,0xde1df189259dd9ea1686ed939bdfc03a97621423,DUO Network ...  (DUO),"$7,355.00",408,https://duo.network/
-11,12,0xC1215988f2e555AC324D1E2d2A6164f1010Ff29f,Playground G...  (PGG),$0.00,-,https://theplaygroundmeta.com/
-12,13,0xEDD8DA5C20EB014E550008DF3304213ddE5e29F0,FiduciaNetwo...  (FDN),$0.00,5,https://eng.fiducia.network/
-13,14,0x0c3ef32f802967db75b9d49fe1e76620151ccb81,Anons Networ...  (ANONS),$0.00,389,https://www.anonsnetwork.com/
-14,15,0xda4dd9586d27202a338843dd6b9824d267006783,Deeper Netwo...  (DPR),$0.00,10149,https://deeper.network/
-15,16,0xa82e4aa4c8d0859b1dd333145b6dd488f23e9782,Nyantereum  (NYANTE),$0.00,33,https://nyantereum.com/
-16,17,0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe,ETHTaipei - ...  (ETPE),$0.00,-,https://protico.io/
-17,18,0x3DD66732113Af9981A861Cf489431533aebA33B8,VNTChain  (VNT),$0.00,10673,http://vntchain.io/
-18,19,0x4099ead28e22b9cd6b1b6f5cb354a99631c64404,Treelion  (TRN),$0.00,3038,http://treelion.com/
-19,20,0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead,Hyper Speed ...  (HSN),$0.00,1258,https://www.hsn.link/
-20,21,0xCc503242b574BC01145Da7E2A743b43fB395eC91,CoinMarketFe...  (CMF),$0.00,45,https://www.coinmarketfeed.com/
-21,22,0xa8258abc8f2811dd48eccd209db68f25e3e34667,TeamPizza  (TPC),$0.00,19,http://teampizzacoin.com/
-22,23,0xe0e9ede8a01aa6f7f0e23945738a6c6173adc3a0,Bancor BNT P...  (bnBNT),$0.00,1003,https://bancor.network/
-23,24,0x8d5682941ce456900b12d47ac06a88b47c764ce1,ALOHA  (ALOHA),$0.00,689,https://alohadefi.io/
-24,25,0x5625F11a919F7f0232327ADda58D011E907a9b43,ROVI Token  (ROVI),$0.00,56,https://www.rovi.network
-25,26,0xc91f1effddc4a727f4de78e400137390779ec062,MARS Context...  (MARS),$0.00,2161,http://www.marsnetwork.io
-26,27,0x69d2779533a4d2c780639713558b2cc98c46a9b7,PANDO  (PANDO),$0.00,16536,https://pandobrowser.com/
-27,28,0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26,HeartBout HP  (HP),$0.00,70,https://heartbout.com/index-en.html
-28,29,0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4,Tweebaa  (TWEE),$0.00,164,https://tweebaa.com/
-29,30,0x06F3C323f0238c72BF35011071f2b5B7F43A054c,Whole Networ...  (NODE),$0.00,456,https://www.wn.work/
-30,31,0x70968feaf13299d0dbf78f66860bab9dbe3856bc,Richbit coin  (RBX),$0.00,3,https://richbit.life/
-31,32,0xe202873079913858f9ba8795ba957a4ad561ca24,ZERO404 O41  (ZRO4),$0.00,11,https://zero404.com/
-32,33,0xc74cb1bbc2a1bc6e0c9e35ee176f832ad7cdb3ab,CyberTronCha...  (CTC),$0.00,10558,https://cybertronchain.com/
-33,34,0xd0A5238d72a92eF09c5Dfae990Bb8D85746Fc0Bd,WeSingCoin  (WSC),$0.00,318,http://www.wesingcoin.com/
-34,35,0xCD25A9C4A1de5FBF3Ed0Acac8bE96eb1E26dD743,Convenience ...  (CON),$0.00,13,https://conveniencenetwork.net/
-35,36,0x56e0b2c7694e6e10391e870774daa45cf6583486,Wifi Coin  (WIFI),$0.00,1310,https://wifi-coins.com/
-36,37,0xfb5a551374b656c6e39787b1d3a03feab7f3a98e,UniversalEne...  (UENC),$0.00,6616,http://www.enchain.cc/
-37,38,0x7e514c5ffd80a5a009741ece50ba9bc73556b015,LooBrNFT  (LooBrN...),$0.00,-,https://www.loobr.com/
-38,39,0xe818704540b7ee03027e364096947fe703e6fa35,PRIVA  (PRIVA),$0.00,5,https://privapp.network/
-39,40,0xAB05Cf7C6c3a288cd36326e4f7b8600e7268E344,Wrapped SCRT  (WSCRT),$0.00,1071,https://scrt.network
-40,41,0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd,Zentachain  (CHAIN),$0.00,2,https://zentachain.io/
-41,42,0x51dc7a99d479ec511e2fbf142eeee3fca0fb76a8,Yearn Financ...  (YFN),$0.00,189,http://www.yfnetworkdefi.com/
-42,43,0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6,SMART TRADE ...  (STN5),$0.00,127,https://stn5.smarttradenetworks.com/
-43,44,0x817bbdbc3e8a1204f3691d14bb44992841e3db35,SardineChain...  (SDE),$0.00,196,https://www.sardinechain.org/
-44,45,0x2b6ff53fc2493ccd5202d80a6c439741414c5ff2,Tesra AI Sup...  (TSR),$0.00,49545,http://www.tesra.link/
-45,46,0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3,bloxRoute To...  (BLXR),$0.00,-,https://bloxroute.com/
-46,47,0xb3dd5dce850dca7519e74a943568b69f958df52c,CREDIT  (CREDIT),$0.00,916,https://proxidefi.com/
-47,48,0x55150e8378b81f930f310d4b62ab7e1252c30b9b,Decentral Li...  (WDLF),$0.00,271,https://token.wdlf.ai/
-48,49,0x8a1e3930fde1f151471c368fdbb39f3f63a65b55,PrivateNess ...  (WNESS),$0.00,7,https://privateness.network/
+0,1,0xd0A5238d72a92eF09c5Dfae990Bb8D85746Fc0Bd,NKN  (NKN),"$61,059,159.00",17202,https://nkn.org/
+1,2,0xa82e4aa4c8d0859b1dd333145b6dd488f23e9782,Constellatio...  (DAG),"$45,027,874.00",3236,http://constellationlabs.io/
+2,3,0xe0e9ede8a01aa6f7f0e23945738a6c6173adc3a0,CudosToken  (CUDOS),"$14,230,475.00",5432,https://www.cudos.org/
+3,4,0xc91f1effddc4a727f4de78e400137390779ec062,MASQ  (MASQ),"$6,928,268.00",3350,https://masq.ai/
+4,5,0xEDD8DA5C20EB014E550008DF3304213ddE5e29F0,Wrapped LOKI  (wLOKI),"$6,352,688.00",182,https://loki.network/
+5,6,0xda4dd9586d27202a338843dd6b9824d267006783,ARIVA  (ARV),"$2,839,199.00",422,https://ariva.digital/
+6,7,0xe818704540b7ee03027e364096947fe703e6fa35,Bezop  (Bez),"$437,476.00",6450,https://bezop.io/
+7,8,0x8967e420c1523b11386ec134a52f819f3ee41278,Echain Token  (ECT),"$375,586.00",1442,https://www.echain.network/
+8,9,0x252b9f56359901a0bde52d0675b1f1130d86f471,RightMesh To...  (RMESH),"$212,709.00",2085,https://www.rightmesh.io/
+9,10,0xCc503242b574BC01145Da7E2A743b43fB395eC91,ThingsOpreat...  (TOS),"$17,758.00",108136,http://www.toschain.org/
+10,11,0x70968feaf13299d0dbf78f66860bab9dbe3856bc,DUO Network ...  (DUO),"$7,355.00",408,https://duo.network/
+11,12,0x3DD66732113Af9981A861Cf489431533aebA33B8,CyberTronCha...  (CTC),$0.00,10557,https://cybertronchain.com/
+12,13,0x0c3ef32f802967db75b9d49fe1e76620151ccb81,MARS Context...  (MARS),$0.00,2161,http://www.marsnetwork.io
+13,14,0x7abbc18ef3e01b8b93cf236a6d68dfc35c5e48aa,Wifi Coin  (WIFI),$0.00,1310,https://wifi-coins.com/
+14,15,0x8d5682941ce456900b12d47ac06a88b47c764ce1,PRIVA  (PRIVA),$0.00,5,https://privapp.network/
+15,16,0xCD25A9C4A1de5FBF3Ed0Acac8bE96eb1E26dD743,WeSingCoin  (WSC),$0.00,318,http://www.wesingcoin.com/
+16,17,0x2b89bf8ba858cd2fcee1fada378d5cd6936968be,HeartBout HP  (HP),$0.00,71,https://heartbout.com/index-en.html
+17,18,0x79c7ef95ad32dcd5ecadb231568bb03df7824815,Wrapped SCRT  (WSCRT),$0.00,1070,https://scrt.network
+18,19,0xfb5a551374b656c6e39787b1d3a03feab7f3a98e,Tweebaa  (TWEE),$0.00,164,https://tweebaa.com/
+19,20,0xb3dd5dce850dca7519e74a943568b69f958df52c,UniversalEne...  (UENC),$0.00,6616,http://www.enchain.cc/
+20,21,0xde1df189259dd9ea1686ed939bdfc03a97621423,Zentachain  (CHAIN),$0.00,2,https://zentachain.io/
+21,22,0x2b6ff53fc2493ccd5202d80a6c439741414c5ff2,ZERO404 O41  (ZRO4),$0.00,11,https://zero404.com/
+22,23,0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe,SardineChain...  (SDE),$0.00,196,https://www.sardinechain.org/
+23,24,0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26,Tesra AI Sup...  (TSR),$0.00,49545,http://www.tesra.link/
+24,25,0x58959e0c71080434f237bd42d07cd84b74cef438,Convenience ...  (CON),$0.00,13,https://conveniencenetwork.net/
+25,26,0xAB05Cf7C6c3a288cd36326e4f7b8600e7268E344,bloxRoute To...  (BLXR),$0.00,-,https://bloxroute.com/
+26,27,0xa8258abc8f2811dd48eccd209db68f25e3e34667,LooBrNFT  (LooBrN...),$0.00,-,https://www.loobr.com/
+27,28,0xe0531715e7c37CB8f7076cD09A4965Bf032fDf94,PrivateNess ...  (WNESS),$0.00,7,https://privateness.network/
+28,29,0x55150e8378b81f930f310d4b62ab7e1252c30b9b,Yearn Financ...  (YFN),$0.00,189,http://www.yfnetworkdefi.com/
+29,30,0xC1215988f2e555AC324D1E2d2A6164f1010Ff29f,FiduciaNetwo...  (FDN),$0.00,5,https://eng.fiducia.network/
+30,31,0x5625F11a919F7f0232327ADda58D011E907a9b43,CREDIT  (CREDIT),$0.00,916,https://proxidefi.com/
+31,32,0xe202873079913858f9ba8795ba957a4ad561ca24,Deeper Netwo...  (DPR),$0.00,10139,https://deeper.network/
+32,33,0x51dc7a99d479ec511e2fbf142eeee3fca0fb76a8,SMART TRADE ...  (STN5),$0.00,127,https://stn5.smarttradenetworks.com/
+33,34,0x2dcd9b1a7ed408ff48bd4918a1f9c0535dc54ead,Anons Networ...  (ANONS),$0.00,388,https://www.anonsnetwork.com/
+34,35,0x5a4b14aea23a605abc463f04a6b8aaf52dd3e7c6,ETHTaipei - ...  (ETPE),$0.00,-,https://protico.io/
+35,36,0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4,Decentral Li...  (WDLF),$0.00,271,https://token.wdlf.ai/
+36,37,0x56e0b2c7694e6e10391e870774daa45cf6583486,Hyper Speed ...  (HSN),$0.00,1258,https://www.hsn.link/
+37,38,0x8a1e3930fde1f151471c368fdbb39f3f63a65b55,CoinMarketFe...  (CMF),$0.00,45,https://www.coinmarketfeed.com/
+38,39,0x4099ead28e22b9cd6b1b6f5cb354a99631c64404,Playground G...  (PGG),$0.00,-,https://theplaygroundmeta.com/
+39,40,0x817bbdbc3e8a1204f3691d14bb44992841e3db35,Nyantereum  (NYANTE),$0.00,33,https://nyantereum.com/
+40,41,0x69d2779533a4d2c780639713558b2cc98c46a9b7,ALOHA  (ALOHA),$0.00,689,https://alohadefi.io/
+41,42,0xd7e26244375607674f5cb6632917fb89168a73a6,VNTChain  (VNT),$0.00,10673,http://vntchain.io/
+42,43,0xf3ae5d769e153ef72b4e3591ac004e89f48107a1,PANDO  (PANDO),$0.00,16561,https://pandobrowser.com/
+43,44,0xc74cb1bbc2a1bc6e0c9e35ee176f832ad7cdb3ab,Treelion  (TRN),$0.00,3038,http://treelion.com/
+44,45,0x06F3C323f0238c72BF35011071f2b5B7F43A054c,ROVI Token  (ROVI),$0.00,56,https://www.rovi.network
+45,46,0x5cf04716ba20127f1e2297addcf4b5035000c9eb,Whole Networ...  (NODE),$0.00,456,https://www.wn.work/
+46,47,0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd,TeamPizza  (TPC),$0.00,19,http://teampizzacoin.com/
+47,48,0x7e514c5ffd80a5a009741ece50ba9bc73556b015,Richbit coin  (RBX),$0.00,3,https://richbit.life/
+48,49,0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3,Bancor BNT P...  (bnBNT),$0.00,1002,https://bancor.network/

@@ -1,8 +1,8 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0xC581b735A1688071A1746c968e0798D642EDE491,Tether USD  (USDT),"$83,489,495,479.00",4363465,https://tether.to/
-1,2,0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3,Bitfinex LEO...  (LEO),"$3,264,584,563.00",2678,http://www.bitfinex.com
-2,3,0xdac17f958d2ee523a2206206994597c13d831ec7,Tether Gold  (XAUt),"$483,900,496.00",979,https://tether.to/
-3,4,0x68749665ff8d2d112fa859aa293f07a622782f38,Euro Tether  (EURT),"$225,279,989.00",820,https://tether.to/
-4,5,0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef,Tether CNH  (CNHT),"$2,865,554.00",42,https://tether.to/
-5,6,0xabdf147870235fcfc34153828c769a70b3fae01f,Tether EUR  (EURT),$0.00,15,https://tether.to/
-6,7,0xed03Ed872159e199065401b6d0D487d78d9464AA,TetherToken  (MXNt),$0.00,5,https://tether.to/
+0,1,0xC581b735A1688071A1746c968e0798D642EDE491,Tether USD  (USDT),"$83,135,125,154.00",4366626,https://tether.to/
+1,2,0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3,Bitfinex LEO...  (LEO),"$3,316,827,598.00",2680,http://www.bitfinex.com
+2,3,0xed03Ed872159e199065401b6d0D487d78d9464AA,Tether Gold  (XAUt),"$475,106,551.00",984,https://tether.to/
+3,4,0xdac17f958d2ee523a2206206994597c13d831ec7,Euro Tether  (EURT),"$225,649,489.00",814,https://tether.to/
+4,5,0x68749665ff8d2d112fa859aa293f07a622782f38,Tether CNH  (CNHT),"$2,871,543.00",42,https://tether.to/
+5,6,0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef,Tether EUR  (EURT),$0.00,15,https://tether.to/
+6,7,0xabdf147870235fcfc34153828c769a70b3fae01f,TetherToken  (MXNt),$0.00,5,https://tether.to/

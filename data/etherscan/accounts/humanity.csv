@@ -1,8 +1,8 @@
 ,Address,Name Tag,Balance,Txn Count
-0,0x9cad5bd771717146b2309f7a5dd0224ddff359f0,Humanity: Deployer,0 ETH,27
-1,0x2fe5e394a312acf9d18e8836f04ba92af29ad6d4,Humanity: Faucet,0 ETH,38
-2,0xdd806c4fdad2949a97fda79036cfbb8750181b37,Humanity: Governance,0 ETH,3414
-3,0x4ee46dc4962c2c2f6bcd4c098a0e2b28f66a5e90,Humanity: Registry,0 ETH,5
-4,0x9d661f7773be14439b4223f5b516bc7ef67b0369,Humanity: Twitter Humanity Applicant,0 ETH,1541
-5,0x762d141b8d9600bde64138762e6fb38efc56dcba,Humanity: Universal Basic Income,0 ETH,1331
-6,0x43fcede3571c10aca1d3c12339bf01423b118e81,Humanity: Voting Contract,0 ETH,35
+0,0x9d661f7773be14439b4223f5b516bc7ef67b0369,Humanity: Deployer,0 ETH,27
+1,0xdd806c4fdad2949a97fda79036cfbb8750181b37,Humanity: Faucet,0 ETH,38
+2,0x762d141b8d9600bde64138762e6fb38efc56dcba,Humanity: Governance,0 ETH,3414
+3,0x43fcede3571c10aca1d3c12339bf01423b118e81,Humanity: Registry,0 ETH,5
+4,0x4ee46dc4962c2c2f6bcd4c098a0e2b28f66a5e90,Humanity: Twitter Humanity Applicant,0 ETH,1541
+5,0x2fe5e394a312acf9d18e8836f04ba92af29ad6d4,Humanity: Universal Basic Income,0 ETH,1331
+6,0x9cad5bd771717146b2309f7a5dd0224ddff359f0,Humanity: Voting Contract,0 ETH,35

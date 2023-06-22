@@ -1,70 +1,71 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x16134400A009E31E4D2002e6017c9aE7C643b646,Student Coin  (STC),"$13,650,634.00",12341,https://www.studentcoin.org/
-1,2,0x0a425122852ed351946a828b348bfdcda51effd8,NETVRK  (NTVRK),"$5,869,041.00",9014,https://www.netvrk.co/
-2,3,0x705eff974c9c5e479f13d890df4f72efb26aedb2,Winkies  (WNK),"$2,715,274.00",1749,https://www.winkyverse.io/
-3,4,0x8f48e457b4b0708c999a1e088c005e977cfdd707,IBStoken  (IBS),"$1,274,869.00",212,https://www.ibstoken.org
-4,5,0xe29797910d413281d2821d5d9a989262c8121cc2,Education  (LEDU),"$832,832.00",4716,https://ledu.education-ecosystem.com/
-5,6,0xF25B304Faf5C928936969d6f368BF6Ba21270258,Lean Managem...  (LEAN),"$527,702.00",390,https://leantoken.io
-6,7,0xc0974be844845e994010092eb2d90550f2e7fdcb,BitBall  (BTB),"$107,494.00",6662,https://www.bitball-btb.com/
-7,8,0xfb83869f7ee52aebaddea254f647953afb1f99f8,ODEM Token  (ODEM),"$12,938.00",14795,https://odem.io/
-8,9,0xdece0f6864c1511369ae2c30b90db9f5fe92832c,INCH TOKEN  (INCH),$0.00,102,https://www.inchcoin.org/
-9,10,0x9f3bb52e7c0dffb22a1c7de57eba474b55ccb220,Shapella by ...  (SHP),$0.00,-,https://ibeed.xyz/
-10,11,0x5b868562d013707455AAC408Ef9afA3A3B64c913,FUTURE1COIN  (F1C),$0.00,448,https://future1coin.com/
-11,12,0xa1f18ba7a1fa1f2c15eae5c42e722278f1235b7a,EARN ANTS  (EARN),$0.00,1,https://www.antscoin.org/
-12,13,0x3dbc4e75ffceeb080691b889523fb458d77318c2,ArabeumToken  (ARBT),$0.00,3,https://arabeum.net/
-13,14,0xd6fa35e9cc07131e60bc1bbe0541ae1d373b4026,Exp  (EXP),$0.00,286,https://dashboard.scholarz.io/
-14,15,0xbb0bb4c55dc54f0762fbea768fdf02a0b0ee6d1a,EduCoin  (EDU),$0.00,56373,http://www.edu.one/
-15,16,0xe34b55511e05f245395df052cf740a69d35c6fb9,PRTN Project  (PRTN),$0.00,4,https://athens-clinic.com/
-16,17,0xda8a1f5eccabc80c26ec9ab493715d5b9ce8fef9,mrblock  (MRB),$0.00,8,https://www.mrblock.tw/
-17,18,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,Skillchain  (SKI),$0.00,685,https://www.skillchain.io/
-18,19,0x96A093025637C0376E322A0ea91f823DDe52b0aC,CBM  (CBM),$0.00,10,http://wbcia.io/
-19,20,0x1ad71F4f5Eba8886B81717C4af15863b2Aaf5c75,Project Vivy  (VIVY),$0.00,90,http://vivy.finance/
-20,21,0xa0f08c15ef53f5714423432f8ebf5a5f2fda52ed,DoDreamChain  (DRM),$0.00,8349,http://ir.dodream.io/
-21,22,0x7a07e1a0c2514d51132183ecfea2a880ec3b7648,Crypto Revol...  (CRVT),$0.00,138,https://crypto-revolution.io/
-22,23,0xA9598333B99d14D90Bc81CAd8Af82C4C70625e75,MissBossie  (MBOSS),$0.00,5,https://missbossie.com
-23,24,0xa72b89a24b98377ba2026bf7fc8cafba10476c1e,BOOM  (BOOM),$0.00,22,https://boomco.org/
-24,25,0x58a3520d738b268c2353ecee518a1ad8e28e4ae5,Pangea Arbit...  (PAT),$0.00,4767,https://bitnation.co/
-25,26,0x89551b940e2a8ed8eccf509935bac9213fe30584,ResearchCoin  (RSC),$0.00,499,https://www.researchhub.com/
-26,27,0xf3a98f4fe889bac677ba45f76e0efd3439b9e35d,DISCIPLINA  (DSCPL),$0.00,401,https://www.disciplina.io/
-27,28,0x6339bd92eaa3cb8e629b06449e08b90581a33cea,Boring Secur...  (Boring...),$0.00,-,https://boringsecurity.com/
-28,29,0xf97b5d65da6b0468b90d531ddae2a69843e6797d,SLP Coin  (SLP),$0.00,7,https://syntheticlearning.online/
-29,30,0x15b543e986b8c34074dfc9901136d9355a537e7e,Talha Token  (TALHA),$0.00,5,https://www.talhacoin.com/
-30,31,0x9557A956202DfEa21b910afb96ac4D2FF7783cfa,elimu.ai  (ELIMU),$0.00,207,http://eng.elimu.ai/
-31,32,0xb0340baa5422b13e9edb4a97d4439aaa046f3fb5,EDUM  (EDUM),$0.00,214,https://edum.io/
-32,33,0xf263292e14d9d8ecd55b58dad1f1df825a874b7c,XULToken  (XUL),$0.00,27,https://exsulcoin.com/
-33,34,0x03e3f0c25965f13dbbc58246738c183e27b26a56,DecentFinanc...  (DeFi),$0.00,89,https://decentfi.org/
-34,35,0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82,nomad Coin  (nomad),$0.00,134,https://www.thenomadcoin.com/
-35,36,0xb0a0a070640b450eb136dc377208469ee4f49fbc,IXE Token  (IXE),$0.00,53720,http://www.ixtus.io/
-36,37,0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38,Famous Coin  (FAMOUS),$0.00,433,https://www.famouscoin.net/#
-37,38,0x43c7bf973dd82e536d8f6ea9562d8fdf876ca707,BRING  (BRING),$0.00,9,https://www.coinbring.com/
-38,39,0xaaf70959b619a5f9827feec657d7f57f32304423,Dohrnii  (DHN),$0.00,2,https://dohrnii.io/en
-39,40,0xe1bda0c3bfa2be7f740f0119b6a34f057bd58eba,ESCX Token  (ESCX),$0.00,196,https://token.escx.co.id/
-40,41,0x6d10e0194400a04600881057787eb9e9c063dca0,BlocEdu  (EDU),$0.00,13,https://www.blocedu.com/
-41,42,0x8580610f907e808aaf77b555cb9970894c57c53e,Kidzuki  (KIDZUK...),$0.00,-,https://kidzuki.io/
-42,43,0xbf52f2ab39e26e0951d2a02b49b7702abe30406a,EduMetrix  (EMC),$0.00,100,http://www.edumetrix.io/
-43,44,0x32462ba310e447ef34ff0d15bce8613aa8c4a244,Uni Token  (UNT),$0.00,2,https://unitokens.io/
-44,45,0xab8fefd4cbb4884491053a1d84e7af17317da40c,Edbit  (EDBIT),$0.00,6,https://edbit.io/
-45,46,0xf0e6019c0f16d31294937b3334229909349e00f4,Decanect  (DCNT),$0.00,169,https://decanectcoin.com/
-46,47,0xc741f06082aa47f93729070ad0dd95e223bda091,What The Fun...  (WTF),$0.00,-,https://www.what-the-func.com/
-47,48,0x0Eb6E56aAcae6A21BdE99c826ac798D225488C3D,EmeraldRocke...  (EROC),$0.00,630,https://emeraldrockets.com/
-48,49,0x4838903d6319e483ab82ae3f09a1ec36489a4193,Build the Be...  (BTB),$0.00,43,https://www.buildthebear.market/
-49,50,0x9b9f0dad27516c237c6ea3024d4cdaea0c6b2ce9,Metis  (MTS),$0.00,1406,https://wemetis.com/
-50,51,0x2B04DaDD412f7281d3CCabfb8425FD9c9E841588,Utopia Educa...  (UtEd),$0.00,13,https://utopiaeducators.com/
-51,52,0xcC092164c53715Ae6a0Bd8033EEf2b62C6BC1102,Studyum Toke...  (STUD),$0.00,2,https://www.studyum.io/
-52,53,0xd137561C20BE8e870D62e2aE92269f0950702f77,iBEED | Worl...  (iBEEDW...),$0.00,-,https://ibeed.xyz/
-53,54,0xD101dCC414F310268c37eEb4cD376CcFA507F571,Disciplina T...  (DSCP),$0.00,3316,https://disciplina.io/
-54,55,0x2C15b2B5336DDa8B44f245772e10C2BCbC0A8aE2,BITTUP  (BTU),$0.00,1497,https://www.lc4foundation.org/
-55,56,0xc92a74d47dbeca76870270df404ad397353305cf,Student Inu  (STUDEN...),$0.00,293,https://www.studentinu.com/
-56,57,0x4e6b22c849950d7bd30930a451d9402635aab4ce,Ralie Token  (RIE),$0.00,4,https://ralie.io/
-57,58,0x86788ffc3d8f5d0f4a86142e419083f838e0b7d0,Smartass  (ASS),$0.00,28,https://smartasstoken.com/
-58,59,0x5978708d6ccE1CC9640Eed47422D64c91BbD5171,LOLTOKEN  (LOL),$0.00,154,http://www.loleiu.io/
-59,60,0x45d09e50a9fb2e9a54cf34923610fffc26733d25,Cryptoholic ...  (CADT),$0.00,21,https://cryptoholicacademy.com/
-60,61,0x06e0feb0d74106c7ada8497754074d222ec6bcdf,HEIDI  (HDI),$0.00,1104,https://heidicoin.ch
-61,62,0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d,Moneyhero To...  (MYH),$0.00,609,https://moneyhero.io/
-62,63,0x56860dbf9437c7109e1b3f66c00c68d33ee12a50,Tatcoin  (TAT),$0.00,1529,https://www.abitnetwork.com/
-63,64,0x4e9bBd716E045D2bA93a0cdf0e7aF7F34B9a4745,LEOcoin  (LEO),$0.00,4747,https://www.leocoin.org/
-64,65,0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701,CAPTAIN  (CAPT),$0.00,1002,https://www.captainbitcoin.io/
-65,66,0x03A5D1d4c764deCf50aE12DEcbeD8A51A421FAa0,Simple  (Simple),$0.00,1,https://simplelearning.com/
-66,67,0xada756a0c650eadb38f0e06fb49c8062a7b402a4,Arcadia  (ARC),$0.00,1,https://arcadiatoken.com/
-67,68,0x505d0ffa350b2687eb8393aebd14632f2990991a,SWIM SPREADW...  (SWIM),$0.00,38,https://www.swimspreadwisdom.io/
-68,69,0x0164fB48891b891e748244B8Ae931F2318b0c25B,AMATACRYPTO  (ASTO),$0.00,3,https://www.astokentrade.com/
+0,1,0x86788ffc3d8f5d0f4a86142e419083f838e0b7d0,Student Coin  (STC),"$14,943,665.00",12355,https://www.studentcoin.org/
+1,2,0xada756a0c650eadb38f0e06fb49c8062a7b402a4,NETVRK  (NTVRK),"$7,452,379.00",9043,https://www.netvrk.co/
+2,3,0x2B04DaDD412f7281d3CCabfb8425FD9c9E841588,Winkies  (WNK),"$2,755,777.00",1748,https://www.winkyverse.io/
+3,4,0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701,IBStoken  (IBS),"$1,398,167.00",212,https://www.ibstoken.org
+4,5,0x15b543e986b8c34074dfc9901136d9355a537e7e,Education  (LEDU),"$969,466.00",4716,https://ledu.education-ecosystem.com/
+5,6,0xc92a74d47dbeca76870270df404ad397353305cf,Lean Managem...  (LEAN),"$527,702.00",383,https://leantoken.io
+6,7,0xaaf70959b619a5f9827feec657d7f57f32304423,BitBall  (BTB),"$105,261.00",6663,https://www.bitball-btb.com/
+7,8,0xb0340baa5422b13e9edb4a97d4439aaa046f3fb5,ODEM Token  (ODEM),"$54,154.00",14798,https://odem.io/
+8,9,0x4e6b22c849950d7bd30930a451d9402635aab4ce,Cryptoholic ...  (CADT),$0.00,21,https://cryptoholicacademy.com/
+9,10,0x9b9f0dad27516c237c6ea3024d4cdaea0c6b2ce9,EARN ANTS  (EARN),$0.00,1,https://www.antscoin.org/
+10,11,0xc0974be844845e994010092eb2d90550f2e7fdcb,Decanect  (DCNT),$0.00,169,https://decanectcoin.com/
+11,12,0x9f3bb52e7c0dffb22a1c7de57eba474b55ccb220,HEIDI  (HDI),$0.00,1104,https://heidicoin.ch
+12,13,0x43c7bf973dd82e536d8f6ea9562d8fdf876ca707,ArabeumToken  (ARBT),$0.00,3,https://arabeum.net/
+13,14,0xa1f18ba7a1fa1f2c15eae5c42e722278f1235b7a,Build the Be...  (BTB),$0.00,43,https://www.buildthebear.market/
+14,15,0x45d09e50a9fb2e9a54cf34923610fffc26733d25,Simple  (Simple),$0.00,1,https://simplelearning.com/
+15,16,0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d,PRTN Project  (PRTN),$0.00,4,https://athens-clinic.com/
+16,17,0x5b868562d013707455AAC408Ef9afA3A3B64c913,iBEED | Worl...  (iBEEDW...),$0.00,-,https://ibeed.xyz/
+17,18,0x4e9bBd716E045D2bA93a0cdf0e7aF7F34B9a4745,Arcadia  (ARC),$0.00,1,https://arcadiatoken.com/
+18,19,0xe29797910d413281d2821d5d9a989262c8121cc2,CBM  (CBM),$0.00,10,http://wbcia.io/
+19,20,0xf3a98f4fe889bac677ba45f76e0efd3439b9e35d,INCH TOKEN  (INCH),$0.00,102,https://www.inchcoin.org/
+20,21,0xA9598333B99d14D90Bc81CAd8Af82C4C70625e75,Exp  (EXP),$0.00,286,https://dashboard.scholarz.io/
+21,22,0x0164fB48891b891e748244B8Ae931F2318b0c25B,Project Vivy  (VIVY),$0.00,90,http://vivy.finance/
+22,23,0x6339bd92eaa3cb8e629b06449e08b90581a33cea,ResearchCoin  (RSC),$0.00,500,https://www.researchhub.com/
+23,24,0xbf52f2ab39e26e0951d2a02b49b7702abe30406a,FUTURE1COIN  (F1C),$0.00,448,https://future1coin.com/
+24,25,0x5978708d6ccE1CC9640Eed47422D64c91BbD5171,SLP Coin  (SLP),$0.00,7,https://syntheticlearning.online/
+25,26,0x7a07e1a0c2514d51132183ecfea2a880ec3b7648,EduCoin  (EDU),$0.00,56373,http://www.edu.one/
+26,27,0xcC092164c53715Ae6a0Bd8033EEf2b62C6BC1102,mrblock  (MRB),$0.00,8,https://www.mrblock.tw/
+27,28,0xd137561C20BE8e870D62e2aE92269f0950702f77,DecentFinanc...  (DeFi),$0.00,89,https://decentfi.org/
+28,29,0x56860dbf9437c7109e1b3f66c00c68d33ee12a50,Moneyhero To...  (MYH),$0.00,609,https://moneyhero.io/
+29,30,0xD101dCC414F310268c37eEb4cD376CcFA507F571,Skillchain  (SKI),$0.00,685,https://www.skillchain.io/
+30,31,0x0a425122852ed351946a828b348bfdcda51effd8,Famous Coin  (FAMOUS),$0.00,433,https://www.famouscoin.net/#
+31,32,0xe34b55511e05f245395df052cf740a69d35c6fb9,Tatcoin  (TAT),$0.00,1529,https://www.abitnetwork.com/
+32,33,0x4838903d6319e483ab82ae3f09a1ec36489a4193,DoDreamChain  (DRM),$0.00,8349,http://ir.dodream.io/
+33,34,0x06e0feb0d74106c7ada8497754074d222ec6bcdf,DISCIPLINA  (DSCPL),$0.00,401,https://www.disciplina.io/
+34,35,0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a,BRING  (BRING),$0.00,9,https://www.coinbring.com/
+35,36,0xb0a0a070640b450eb136dc377208469ee4f49fbc,LEOcoin  (LEO),$0.00,4747,https://www.leocoin.org/
+36,37,0x9557A956202DfEa21b910afb96ac4D2FF7783cfa,SWIM SPREADW...  (SWIM),$0.00,38,https://www.swimspreadwisdom.io/
+37,38,0x32462ba310e447ef34ff0d15bce8613aa8c4a244,Crypto Revol...  (CRVT),$0.00,138,https://crypto-revolution.io/
+38,39,0x0Eb6E56aAcae6A21BdE99c826ac798D225488C3D,Talha Token  (TALHA),$0.00,5,https://www.talhacoin.com/
+39,40,0xbb0bb4c55dc54f0762fbea768fdf02a0b0ee6d1a,BlocEdu  (EDU),$0.00,13,https://www.blocedu.com/
+40,41,0x96A093025637C0376E322A0ea91f823DDe52b0aC,Shapella by ...  (SHP),$0.00,-,https://ibeed.xyz/
+41,42,0x58a3520d738b268c2353ecee518a1ad8e28e4ae5,elimu.ai  (ELIMU),$0.00,208,http://eng.elimu.ai/
+42,43,0xfb83869f7ee52aebaddea254f647953afb1f99f8,nomad Coin  (nomad),$0.00,134,https://www.thenomadcoin.com/
+43,44,0x2C15b2B5336DDa8B44f245772e10C2BCbC0A8aE2,Dohrnii  (DHN),$0.00,2,https://dohrnii.io/en
+44,45,0xf263292e14d9d8ecd55b58dad1f1df825a874b7c,Kidzuki  (KIDZUK...),$0.00,-,https://kidzuki.io/
+45,46,0xab8fefd4cbb4884491053a1d84e7af17317da40c,XULToken  (XUL),$0.00,27,https://exsulcoin.com/
+46,47,0xd6fa35e9cc07131e60bc1bbe0541ae1d373b4026,What The Fun...  (WTF),$0.00,-,https://www.what-the-func.com/
+47,48,0xa72b89a24b98377ba2026bf7fc8cafba10476c1e,IXE Token  (IXE),$0.00,53720,http://www.ixtus.io/
+48,49,0xc741f06082aa47f93729070ad0dd95e223bda091,Metis  (MTS),$0.00,1410,https://wemetis.com/
+49,50,0xdece0f6864c1511369ae2c30b90db9f5fe92832c,MissBossie  (MBOSS),$0.00,5,https://missbossie.com
+50,51,0xda8a1f5eccabc80c26ec9ab493715d5b9ce8fef9,ESCX Token  (ESCX),$0.00,196,https://token.escx.co.id/
+51,52,0x8f48e457b4b0708c999a1e088c005e977cfdd707,EduMetrix  (EMC),$0.00,100,http://www.edumetrix.io/
+52,53,0x8580610f907e808aaf77b555cb9970894c57c53e,Disciplina T...  (DSCP),$0.00,3316,https://disciplina.io/
+53,54,0xf0e6019c0f16d31294937b3334229909349e00f4,BOOM  (BOOM),$0.00,22,https://boomco.org/
+54,55,0x03A5D1d4c764deCf50aE12DEcbeD8A51A421FAa0,BITTUP  (BTU),$0.00,1497,https://www.lc4foundation.org/
+55,56,0x1ad71F4f5Eba8886B81717C4af15863b2Aaf5c75,Pangea Arbit...  (PAT),$0.00,4767,https://bitnation.co/
+56,57,0x505d0ffa350b2687eb8393aebd14632f2990991a,Uni Token  (UNT),$0.00,2,https://unitokens.io/
+57,58,0x16134400A009E31E4D2002e6017c9aE7C643b646,EmeraldRocke...  (EROC),$0.00,658,https://emeraldrockets.com/
+58,59,0xF25B304Faf5C928936969d6f368BF6Ba21270258,Ralie Token  (RIE),$0.00,4,https://ralie.io/
+59,60,0xf97b5d65da6b0468b90d531ddae2a69843e6797d,Boring Secur...  (Boring...),$0.00,-,https://boringsecurity.com/
+60,61,0x89551b940e2a8ed8eccf509935bac9213fe30584,EDUM  (EDUM),$0.00,214,https://edum.io/
+61,62,0xa0f08c15ef53f5714423432f8ebf5a5f2fda52ed,Utopia Educa...  (UtEd),$0.00,13,https://utopiaeducators.com/
+62,63,0x6d10e0194400a04600881057787eb9e9c063dca0,Thoth  ($TOT),$0.00,5,https://edubits.io/franchise-nfts
+63,64,0xe1bda0c3bfa2be7f740f0119b6a34f057bd58eba,Studyum Toke...  (STUD),$0.00,2,https://www.studyum.io/
+64,65,0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82,Student Inu  (STUDEN...),$0.00,293,https://www.studentinu.com/
+65,66,0x705eff974c9c5e479f13d890df4f72efb26aedb2,Smartass  (ASS),$0.00,28,https://smartasstoken.com/
+66,67,0xa232c1125602d44e2d51d6352b9a6b5e010f52c2,CAPTAIN  (CAPT),$0.00,1002,https://www.captainbitcoin.io/
+67,68,0x03e3f0c25965f13dbbc58246738c183e27b26a56,AMATACRYPTO  (ASTO),$0.00,3,https://www.astokentrade.com/
+68,69,0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38,Edbit  (EDBIT),$0.00,6,https://edbit.io/
+69,70,0x3dbc4e75ffceeb080691b889523fb458d77318c2,LOLTOKEN  (LOL),$0.00,154,http://www.loleiu.io/

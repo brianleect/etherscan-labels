@@ -1,23 +1,23 @@
 ,#,Contract Address,Token Name,Market Cap,Holders,Website
-0,1,0x6aef0e5a3ddd864f7fbbf5ca7ce38852d39bf4d2,Tap  (XTP),"$11,587,732.00",15030,https://www.tap.global/
-1,2,0x24283732C3DF91EE1e4354a3934C14B88B2d9a51,BABB BAX  (BAX),"$9,246,168.00",2279,https://getbabb.com/
-2,3,0x5555f75e3d5278082200fb451d1b6ba946d8e13b,UnFederalRes...  (eRSDL),"$713,993.00",12127,https://www.unfederalreserve.com/
-3,4,0xef30ff603ed91c53ef5f88897618b55744032c57,Crypto Daily...  (CRDT),"$5,720.00",1247,https://crdt.io/
-4,5,0x60bb16c4a931b1a0b8a7d945c651dd90f41d42cf,BANKEX  (BKX),"$2,684.00",15178,https://bankex.com/
-5,6,0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135,Bank Token  (BANK),$0.00,59,https://abeletrust.io/
-6,7,0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6,Iron Bank JP...  (ibJPY),$0.00,82,https://fixedforex.fi/
-7,8,0x55986C1dcbf2fA1f3402C5Df256272621624821f,ORCA Token  (ORCA),$0.00,1564,http://www.orcaalliance.eu/
-8,9,0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd,Keypay  (KPY),$0.00,16,https://keypay.io/
-9,10,0x984f198c196d1936c99cbfe6f4da596072aa954a,Renegade  (RNG),$0.00,13,http://www.myrenegade.net/
-10,11,0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc,Ternio  (TERN),$0.00,59,https://ternio.io/
-11,12,0x691c25C461DaFC47792b6E4d674FBB637bca1C6F,Bank BTC | h...  (BANKBT...),$0.00,268,https://bankbtc.app/
-12,13,0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52,iBBT Utility...  (iBBT),$0.00,5772,https://ibbt.io/
-13,14,0x2adba23cf1252de095aced801e758b369ec10426,Bytus  (BYTS),$0.00,273,https://bytus.io/
-14,15,0x6f59e0461ae5e2799f1fb3847f05a63b16d0dbf8,Azbit  (AZ),$0.00,5834,https://azbit.com/
-15,16,0xb933f9220459bba16cd911a95b2dab41db598e97,PHIRE  (PHIRE),$0.00,1,https://phireon.com/
-16,17,0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99,UCBI Banking  (UCBI),$0.00,57,https://ucbibanking.com/
-17,18,0xb8a5dBa52FE8A0Dd737Bf15ea5043CEA30c7e30B,FinanceBlock...  (FBX),$0.00,278,https://financeblocks.io/
-18,19,0x45245bc59219eeaaf6cd3f382e078a461ff9de7b,EGW Capital  (EGWCAP),$0.00,45,https://www.egwcap.io/
-19,20,0x96c645d3d3706f793ef52c19bbace441900ed47d,MtPelerin Sh...  (MPS),$0.00,944,https://www.mtpelerin.com/
-20,21,0x3fe210919cd8dee241aefc0fedc65628ffe9495a,AFRICUNIA BA...  (AFCASH),$0.00,74,https://www.africunia.com/
-21,22,0xf644d4477cd8db7791cea3013cb053b3fec4beb3,Cryptoenter ...  (LION),$0.00,75,https://cryptoenter.com/
+0,1,0xb933f9220459bba16cd911a95b2dab41db598e97,Tap  (XTP),"$17,754,139.00",15097,https://www.tap.global/
+1,2,0x24283732C3DF91EE1e4354a3934C14B88B2d9a51,BABB BAX  (BAX),"$9,888,832.00",2284,https://getbabb.com/
+2,3,0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52,UnFederalRes...  (eRSDL),"$762,881.00",12129,https://www.unfederalreserve.com/
+3,4,0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99,Crypto Daily...  (CRDT),"$6,242.00",1247,https://crdt.io/
+4,5,0x55986C1dcbf2fA1f3402C5Df256272621624821f,BANKEX  (BKX),"$2,684.00",15178,https://bankex.com/
+5,6,0xf920e4F3FBEF5B3aD0A25017514B769bDc4Ac135,EGW Capital  (EGWCAP),$0.00,45,https://www.egwcap.io/
+6,7,0xf644d4477cd8db7791cea3013cb053b3fec4beb3,MtPelerin Sh...  (MPS),$0.00,945,https://www.mtpelerin.com/
+7,8,0x87f14e9460cecb789f1b125b2e3e353ff8ed6fcd,AFRICUNIA BA...  (AFCASH),$0.00,74,https://www.africunia.com/
+8,9,0x691c25C461DaFC47792b6E4d674FBB637bca1C6F,Bank Token  (BANK),$0.00,59,https://abeletrust.io/
+9,10,0xb8a5dBa52FE8A0Dd737Bf15ea5043CEA30c7e30B,Iron Bank JP...  (ibJPY),$0.00,82,https://fixedforex.fi/
+10,11,0x60bb16c4a931b1a0b8a7d945c651dd90f41d42cf,ORCA Token  (ORCA),$0.00,1564,http://www.orcaalliance.eu/
+11,12,0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc,Keypay  (KPY),$0.00,16,https://keypay.io/
+12,13,0x45245bc59219eeaaf6cd3f382e078a461ff9de7b,Renegade  (RNG),$0.00,13,http://www.myrenegade.net/
+13,14,0x96c645d3d3706f793ef52c19bbace441900ed47d,Ternio  (TERN),$0.00,59,https://ternio.io/
+14,15,0x3fe210919cd8dee241aefc0fedc65628ffe9495a,PHIRE  (PHIRE),$0.00,1,https://phireon.com/
+15,16,0x6f59e0461ae5e2799f1fb3847f05a63b16d0dbf8,Bank BTC | h...  (BANKBT...),$0.00,268,https://bankbtc.app/
+16,17,0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6,iBBT Utility...  (iBBT),$0.00,5772,https://ibbt.io/
+17,18,0xef30ff603ed91c53ef5f88897618b55744032c57,Bytus  (BYTS),$0.00,273,https://bytus.io/
+18,19,0x5555f75e3d5278082200fb451d1b6ba946d8e13b,Azbit  (AZ),$0.00,5834,https://azbit.com/
+19,20,0x6aef0e5a3ddd864f7fbbf5ca7ce38852d39bf4d2,UCBI Banking  (UCBI),$0.00,57,https://ucbibanking.com/
+20,21,0x2adba23cf1252de095aced801e758b369ec10426,Cryptoenter ...  (LION),$0.00,75,https://cryptoenter.com/
+21,22,0x984f198c196d1936c99cbfe6f4da596072aa954a,FinanceBlock...  (FBX),$0.00,282,https://financeblocks.io/
