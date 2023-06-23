@@ -23,6 +23,7 @@ def login():
 # Retrieve label information and saves as JSON/CSV
 def getLabel(label, label_type="account", input_type='single'):
 
+    # Only eth and opt uses new label scraping method
     if ('eth' not in baseUrl):
         getLabelOldFormat(label, label_type=label_type, input_type=input_type)
         return
